@@ -1,630 +1,417 @@
-Teknologiateollisuuden työnantajat ry:n
-ja
-Teollisuusliitto ry:n
-välinen
+Teknologiateollisuuden työnantajat ry:n ja Teollisuusliitto ry:n välinen
 TYÖEHTOSOPIMUS
 TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÄT
 10.1.2022-30.11.2023
 
 978-952-238-270-2 978-952-238-276-4 (pdf)
 
-ASIAHAKEMISTO ...............................................................15
-TYÖEHTOSOPIMUKSEN ALLEKIRJOITUSPÖYTÄKIRJA ......................................35
-TEKNOLOGIATEOLLISUUDEN
-TYÖNTEKIJÖIDEN TYÖEHTOSOPIMUS......................42
-I YLEISIÄ SOPIMUSMÄÄRÄYKSIÄ.......................42
-1 SOPIMUKSEN SOVELTAMISALA ..........................42
-2 SOPIMUKSEN SITOVUUS JA NOUDATTAMISVELVOLLISUUS ............................43
-3 TYÖRAUHAVELVOITE .............................................43
-3.1 Työrauhaa vaarantavat kiistat ja toimenpiteet niiden lopettamiseksi ...............................................................44
-4 ENNAKKOILMOITUS TYÖTAISTELUISTA ...........46
-5 PERUSOIKEUDET ......................................................47
-6 TYÖNJOHTO-OIKEUS...............................................47
-7 SOPIMUKSEN VOIMASSAOLO ...............................47
-Sisällysluettelo
- 3
+# SISÄLLYSLUETTELO
+# TYÖEHTOSOPIMUKSEN ALLEKIRJOITUSPÖYTÄKIRJA 
+# TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÖIDEN TYÖEHTOSOPIMUS
+## I YLEISIÄ SOPIMUSMÄÄRÄYKSIÄ
+### 1 SOPIMUKSEN SOVELTAMISALA
+### 2 SOPIMUKSEN SITOVUUS JA NOUDATTAMISVELVOLLISUUS 
+### 3 TYÖRAUHAVELVOITE 
+#### 3.1 Työrauhaa vaarantavat kiistat ja toimenpiteet niiden lopettamiseksi 
+### 4 ENNAKKOILMOITUS TYÖTAISTELUISTA
+### 5 PERUSOIKEUDET 
+### 6 TYÖNJOHTO-OIKEUS
+### 7 SOPIMUKSEN VOIMASSAOLO
+## II PALKKAUS 
+### 8 TYÖNVAATIVUUS JA TYÖKOHTAINEN PALKANOSUUS 
+#### 8.1 Työnvaativuus
+#### 8.2 Työkohtainen palkanosuus
+### 9 PÄTEVYYS JA HENKILÖKOHTAINEN PALKANOSUUS
+#### 9.1 Pätevyys 
+#### 9.2 Henkilökohtainen palkanosuus
+### 10 ALLE 18-VUOTIAAT TYÖNTEKIJÄT, OPISKELIJAT, HARJOITTELIJAT JA TYÖRAJOITTEISET
+#### 10.1 Alle 18-vuotiaat työntekijät, opiskelijat ja harjoittelijat
+#### 10.2 Työrajoitteiset 
+### 11 TYÖNTEKIJÄN PALKKA
+#### 11.1 Työntekijän peruspalkka 
+#### 11.2 Käytettävät palkkaustavat
+#### 11.3 Aika- ja suorituspalkkojen kehityksen vertailu
+#### 11.4 Paikallisesti sovittu palkkausjärjestelmä
+### 12 TYÖNTUTKIMUKSET
+### 13 AIKA- JA SUORITUSPALKKOJA TÄYDENTÄVÄT TULOSPALKKIOT
+#### 13.1 Tulospalkkiojärjestelmän laatiminen ja käyttöönotto
+#### 13.2 Tulospalkkion käsittely palkkahallinnossa
+### 14 ERILLISET LISÄT JA PALKKIOT
+#### 14.1 Tilapäinen poikkeama taikka poikkeuksellinen haitta tai hankaluus työolosuhteissa
+#### 14.2 Vuorotyölisät
+#### 14.3 Ilta- ja yötyölisät 
+#### 14.4 Palvelusvuosilisä
+#### 14.5 Ammattitutkintopalkkiot
+### 15 TUNTIPALKKAISEN TYÖNTEKIJÄN KESKITUNTIANSIO
+#### 15.1 Keskituntiansion käyttö ja laskeminen
+#### 15.2 Keskituntiansion käyttöajankohdat
+#### 15.3 Uusi työntekijä ja eräät muut erityistilanteet
+### 16 PALKANMÄÄRITYSJAKSO JA SEN MUUTTAMINEN
+### 17 KUUKAUSIPALKKAA KOSKEVAT ERITYISMÄÄRÄYKSET
+#### 17.1 Ansionmenetyksen korvaaminen
+#### 17.2 Eräiden korvausten kuukausipalkkajakaja
+#### 17.3 Osa-ajan palkka
+#### 17.4 Osa-aikatyö
+### 18 PALKAN MAKSAMINEN
+## III TYÖAIKA JA VUOSILOMA
+### 19 SÄÄNNÖLLINEN TYÖAIKA
+#### 19.1 Säännöllisen työajan pituus
+#### 19.2 Työajan tasaaminen päivä- ja kaksivuorotyössä
+#### 19.3 Työajan tasaamislisät ja niiden maksaminen
+#### 19.4 Työtuntijärjestelmä
+#### 19.5 Työaikamuodon muutokset
+#### 19.6 Yleisiä määräyksiä työajan järjestämisestä
+#### 19.7 Työajan järjestäminen paikallisesti sopien, säännöllisen työajan lisääminen sekä vähentäminen
+#### 19.8 Työaikapankki
+### 20 SÄÄNNÖLLISEN TYÖAJAN YLITTYMINEN JA SUNNUNTAITYÖ
+#### 20.1 Vuorokautinen ylityö
+#### 20.2 Viikoittainen ylityö
+#### 20.3 Työajan enimmäismäärä
+#### 20.4 Lisätyö
+#### 20.5 Vapaapäivänä tehdyn työn korvaaminen (TES-ylityö)
+#### 20.6 Paikallisesti sovittava ylityölisä (yksi ylityökäsite) 
+#### 20.7 Vuorotyölisä ylityöajalta
+#### 20.8 Sunnuntaityö
+#### 20.9 Pääsiäislauantaina, juhannus- ja jouluaattona tehty työ 
+#### 20.10 Viikoittaisesta vapaa-ajasta poikkeaminen ja sen korvaaminen
+#### 20.11 Hälytysluontoinen työ
+#### 20.12 Varallaolo
+### 21 VUOSILOMA 
+#### 21.1 Vuosiloman pituus ja antaminen
+#### 21.2 Tuntipalkkaisen työntekijän vuosilomapalkka ja lomakorvaus (koskee 14 työpäivän ansaintasäännön piirissä olevia)
+#### 21.3 Kuukausipalkkaisen vuosilomapalkka ja lomakorvaus
+#### 21.4 Vuosilomapalkan maksaminen
+#### 21.5 Lomaraha
+## IV TYÖKOMENNUKSET JA KORVAUKSET
+### 22 TYÖSKENTELY VARSINAISEN TYÖPAIKAN ULKOPUOLELLA
+#### 22.1 Varsinaisen työpaikan määritelmä
+#### 22.2 Matkustamisvelvollisuus ja työkomennuksesta ilmoittaminen
+#### 22.3 Työmatkan ja matkavuorokauden alkaminen ja päättyminen
+#### 22.4 Työkomennuksesta aiheutuvien kustannusten korvaaminen
+#### 22.5 Asunnon hankkiminen
+#### 22.6 Erikoismääräyksiä
+#### 22.7 Työ ulkomailla
+#### 22.8 Eräät poikkeusmääräykset
+#### 22.9 Paikallinen sopiminen
+### 23 ARKIPYHÄKORVAUS SEKÄ MUITA KORVAUKSIA JA ETUJA
+#### 23.1 Korvattavat arkipyhät
+#### 23.2 Arkipyhäkorvauksen maksamisen edellytykset
+#### 23.3 Muita korvauksia ja etuja
+## V TYÖTURVALLISUUS JA TYÖSUOJELU
+### 24 YLEISET TYÖTURVALLISUUSMÄÄRÄYKSET
+### 25 HENKILÖNSUOJAIMET JA SUOJAVAATETUS
+### 26 TYÖTERVEYSHUOLTO
+#### 26.1 Tyky-toiminta
+### 27 TYÖSUOJELUA KOSKEVAT MÄÄRÄYKSET
+#### 27.1 Työsuojeluyhteistoiminnan järjestäminen
+#### 27.2 Toimikunta ja muut yhteistoimintaelimet
+#### 27.3 Työsuojeluhenkilöstön tehtävät
+#### 27.4 Koulutustarve ja säädösten hankkiminen
+### 28 TYÖSUOJELUVALTUUTETUN JA TYÖSUOJELU- ASIAMIEHEN TOIMINTAEDELLYTYKSET
+#### 28.1 Vapautus työstä
+#### 28.2 Ansionmenetyksen korvaaminen ja kuukausikorvaus
+#### 28.3. Toimitilat
+### 29 HENKILÖSTÖN EDUSTUSTEHTÄVÄN HOITAMISEN VAIKUTUKSET TYÖSUHTEESEEN, TYÖTEHTÄVIIN JA PALKKAAN
+### 30 TYÖSUOJELUVALTUUTETUN TYÖSUHDETURVA
+#### 30.1 Työsopimuksen irtisanominen ja työsuojeluvaltuutetun lomauttaminen taloudellisista ja tuotannollisista syistä
+#### 30.2 Työsopimuksen irtisanominen työsuojeluvaltuutetun henkilöstä johtuvasta syystä
+#### 30.3 Työsopimuksen purkaminen ja purkautuneena käsitteleminen
+#### 30.4 Työsuojeluvaltuutetun ehdokas- ja jälkisuoja
+#### 30.5 Korvaukset
+#### 30.6 Varamiehet
+## VI SOSIAALISET MÄÄRÄYKSET
+### 31 TYÖKYVYTTÖMYYS, ÄITIYS- JA ISYYSVAPAA SEKÄ TILAPÄINEN HOITOVAPAA
+#### 31.1 Työkyvyttömyys
+#### 31.2 Äitiys- ja isyysvapaa
+#### 31.3 Lapsen sairastuminen 
+#### 31.4 Sairausajan tai adoptio-, äitiys- ja isyysvapaan palkasta tehtävät vähennykset 
+### 32 LÄÄKÄRINTARKASTUKSET
+#### 32.1 Ansionmenetyksen korvaaminen lakisääteisen lääkärintarkastuksen ajalta
+#### 32.2 Ansionmenetyksen korvaaminen muiden lääkärintarkastusten ajalta
+#### 32.3 Työhöntulotarkastus
+#### 32.4 Korvausperuste ja vähennykset
+## VII TYÖSOPIMUKSEN PÄÄTTÄMINEN JA TYÖNTEKIJÄN LOMAUTTAMINEN
+### 33 SOVELTAMISALA
+### 34 TYÖSOPIMUKSEN PÄÄTTÄMINEN JA TYÖNTEKIJÄN LOMAUTTAMINEN TYÖNTEKIJÄSTÄ JOHTUVASTA TAI HÄNEN HENKILÖÖNSÄ LIITTYVÄSTÄ SYYSTÄ
+#### 34.1 Lomauttaminen työntekijästä johtuvasta tai hänen henkilöönsä liittyvästä syystä
+#### 34.2 Työntekijän henkilöön liittyvät irtisanomisperusteet
+#### 34.3 Purkamisen ja purkautuneena käsittelemisen perusteet
+### 35 TYÖSOPIMUKSEN IRTISANOMINEN TALOUDELLISISTA, TUOTANNOLLISISTA TAI TYÖNANTAJAN TOIMINNAN UUDELLEENJÄRJESTELYISTÄ JOHTUVISTA SYISTÄ
+#### 35.1 Irtisanomisen perusteet
+#### 35.2 Työvoiman vähentämisjärjestys
+#### 35.3 Irtisanomisajan kuluminen ja määräaikainen työsopimus
+#### 35.4 Työntekijän takaisin ottaminen
+### 36 TYÖLLISTYMISVAPAA
+#### 36.1 Työllistymisvapaan tarkoitus
+#### 36.2 Työllistymisvapaan pituus
+#### 36.3. Työllistymisvapaan käyttäminen
+### 37 TYÖNTEKIJÄN LOMAUTTAMINEN TALOUDELLISISTA, TUOTANNOLLISISTA TAI TYÖNANTAJAN TOIMINNAN UUDELLEENJÄRJESTELYISTÄ JOHTUVISTA SYISTÄ
+#### 37.1 Lomauttamisen perusteet
+#### 37.2 Työvoiman vähentämisjärjestys
+#### 37.3 Lomautusilmoitusaika
+#### 37.4 Lyhennetty työaika
+#### 37.5 Paikallinen sopiminen
+#### 37.6 Lomautuksen siirtäminen
+#### 37.7 Lomautuksen keskeyttäminen
+#### 37.8 Muu työ lomautusaikana
+#### 37.9 Työsuhteen päättyminen lomautuksen aikana
+### 38 TYÖSOPIMUKSEN IRTISANOMISAJAT JA TYÖ- SUHTEEN KESTOAJAN MÄÄRÄYTYMINEN
+#### 38.1 Irtisanomisajat
+#### 38.2 Irtisanomisajan noudattamatta jättäminen
+#### 38.3 Työsuhteen kestoajan määräytyminen
+#### 38.4 Määräajan laskeminen
+### 39 TYÖSOPIMUKSEN PÄÄTTÄMISMENETTELY
+#### 39.1 Irtisanomisperusteeseen vetoaminen
+#### 39.2 Työntekijän kuuleminen
+#### 39.3 Ilmoitus työsopimuksen päättämisestä
+#### 39.4 Työsopimuksen päättämisen perusteiden ilmoittaminen
+### 40 NEUVOTTELUMENETTELY TYÖVOIMAN KÄYTTÖÄ VÄHENNETTÄESSÄ
+### 41 KORVAUKSET TYÖSOPIMUKSEN PERUSTEETTOMASTA PÄÄTTÄMISESTÄ JA TYÖNTEKIJÄN PERUSTEETTOMASTA LOMAUTTAMISESTA
+#### 41.1 Korvausten määräytyminen
+#### 41.2 Yhden korvauksen periaate ja korvauksen suhde hyvityssakkoon
+#### 41.3 Menettelytapamääräysten rikkominen...............160
+### 42 TOIMIVALTAINEN TUOMIOISTUIN JA KANNEAIKA
+## VIII LUOTTAMUSMIEHET, PAIKALLINEN SOPIMINEN JA ERIMIELISYYKSIEN RATKAISEMINEN
+### 43 LUOTTAMUSMIEHET
+#### 43.1 Luottamusmiesjärjestelmän tarkoitus
+#### 43.2 Luottamusmiehen asema
+#### 43.3 Luottamusmieskelpoisuus ja luottamusmiehen valitseminen
+#### 43.4 Luottamusmiehen toimintaedellytykset
+#### 43.5 Luottamusmiestehtävän hoitamisen vaikutukset työsuhteeseen, työtehtäviin ja palkkaan
+#### 43.6 Luottamusmiehen työsuhdeturva
+### 44 PAIKALLINEN SOPIMINEN
+#### 44.1 Mahdollisuus paikalliseen sopimiseen
+#### 44.2 Paikallisen sopimisen osapuolet
+#### 44.3 Paikallisen sopimuksen sitovuus
+#### 44.4 Paikallisen sopimuksen muoto ja kestoaika
+#### 44.5. Paikallisen sopimisen valmiudet ja sopimusten seuranta
+#### 44.6 Paikallisen sopimuksen jälkivaikutus
+#### 44.7 Yhteistoiminta suomalaisessa yritysryhmässä
+### 45 ERIMIELISYYDET JA NIIDEN RATKAISEMINEN
+#### 45.1 Neuvotteluvelvollisuus ja painostuskielto
+#### 45.2 Paikallinen neuvottelujärjestys
+#### 45.3 Liittojen myötävaikutus
+#### 45.4 Erimielisyysmuistio ja työtuomioistuin
+## IX ULKOPUOLISEN TYÖVOIMAN KÄYTTÖ JA MUITA ERINÄISIÄ MÄÄRÄYKSIÄ
+### 46 ULKOPUOLISEN TYÖVOIMAN KÄYTTÖ
+#### 46.1 Alihankinta
+#### 46.2 Vuokratyövoima
+#### 46.3 Ulkopuolisesta työvoimasta tiedottaminen
+#### 46.4 Tilaajan vastuu ja selvitysten hankkiminen
+#### 46.5 Kokoontuminen työpaikalla
+#### 46.6 Tiedotustoiminta
+#### 46.7 Ammattiyhdistysjäsenmaksujen pidättäminen
+### 47 KOULUTUS
+#### 47.1 Ammatillinen koulutus
+#### 47.2 Yhteinen koulutus
+#### 47.3 Ay-koulutus, työsuhteen säilyminen ja ilmoitusajat
+#### 47.4 Tutkintotavoitteiseen koulutukseen liittyvä työharjoittelu ja koulutussopimukseen perustuva koulutus
+# OHJEITA PAIKALLISEN SOPIMISEN TUEKSI
 
-Sisällysluettelo
-II PALKKAUS ................................................................48
-8 TYÖNVAATIVUUS JA TYÖKOHTAINEN PALKANOSUUS .........................................................48
-8.1 Työnvaativuus.........................................................48 8.2 Työkohtainen palkanosuus......................................54
-9 PÄTEVYYS JA HENKILÖKOHTAINEN PALKANOSUUS .........................................................54
-9.1 Pätevyys..................................................................54 9.2 Henkilökohtainen palkanosuus...............................54
-10 ALLE 18-VUOTIAAT TYÖNTEKIJÄT, OPISKELIJAT, HARJOITTELIJAT JA TYÖRAJOITTEISET ............55
-10.1 Alle 18-vuotiaat työntekijät, opiskelijat ja harjoittelijat ...................................................................55
-10.2 Työrajoitteiset .......................................................57
-11 TYÖNTEKIJÄN PALKKA..........................................57
-11.1 Työntekijän peruspalkka .......................................57 11.2 Käytettävät palkkaustavat.....................................57 11.3 Aika- ja suorituspalkkojen kehityksen vertailu.....60 11.4 Paikallisesti sovittu palkkausjärjestelmä...............61
-12 TYÖNTUTKIMUKSET ..............................................61
-13 AIKA- JA SUORITUSPALKKOJA TÄYDENTÄVÄT TULOSPALKKIOT .....................................................62
-13.1 Tulospalkkiojärjestelmän laatiminen ja käyttöönotto ..................................................................62
-13.2 Tulospalkkion käsittely palkkahallinnossa ...........63
-4
- 
-Sisällysluettelo
-14 ERILLISET LISÄT JA PALKKIOT.............................63
-14.1 Tilapäinen poikkeama taikka poikkeuksellinen haitta tai hankaluus työolosuhteissa .............................63
-14.2 Vuorotyölisät.........................................................64 14.3 Ilta- ja yötyölisät ...................................................64 14.4 Palvelusvuosilisä...................................................65 14.5 Ammattitutkintopalkkiot.......................................67
-15 TUNTIPALKKAISEN TYÖNTEKIJÄN KESKITUNTIANSIO ..................................................67
-15.1 Keskituntiansion käyttö ja laskeminen .................67 15.2 Keskituntiansion käyttöajankohdat.......................68 15.3 Uusi työntekijä ja eräät muut erityistilanteet ........69
-16 PALKANMÄÄRITYSJAKSO JA SEN MUUTTAMINEN ........................................................69
-17 KUUKAUSIPALKKAA KOSKEVAT ERITYISMÄÄRÄYKSET ...........................................70
-17.1 Ansionmenetyksen korvaaminen ..........................70 17.2 Eräiden korvausten kuukausipalkkajakaja............70 17.3 Osa-ajan palkka ....................................................70 17.4 Osa-aikatyö ...........................................................71
-18 PALKAN MAKSAMINEN ........................................71
- 5
+# TYÖEHTOSOPIMUKSEN ALLEKIRJOITUSPÖYTÄKIRJA
+Aika: 10.1.2022 
+Paikka: Teknologiateollisuus ry
+Läsnä: Teknologiateollisuuden työnantajat ry (Jarkko Ruohoniemi, Aapo Heikurainen, Maria Äimälä, Petteri Rautaporras) ja Teollisuusliitto ry (Riku Aalto, Turja Lehtonen, Arto Liikanen, Juha Pöllänen, Jyrki Levonen, Timo Mällinen, Mia Soininen, Jyrki Virtanen, Mirjami Suikki, Susanna Holmberg, Vesa Kotaviita, Jukka Saviluoto)
 
-Sisällysluettelo
-III TYÖAIKA JA VUOSILOMA..........................................72
-19 SÄÄNNÖLLINEN TYÖAIKA ...................................72
-19.1 Säännöllisen työajan pituus ................................72
-19.2 Työajan tasaaminen päivä- ja kaksivuorotyössä .74
-19.3 Työajan tasaamislisät ja niiden maksaminen ......76
-19.4 Työtuntijärjestelmä .............................................76
-19.5 Työaikamuodon muutokset .................................78
-19.6 Yleisiä määräyksiä työajan järjestämisestä .........78
-19.7 Työajan järjestäminen paikallisesti sopien, säännöllisen työajan lisääminen sekä vähentäminen....80 19.8 Työaikapankki ....................................................82
-20 SÄÄNNÖLLISEN TYÖAJAN YLITTYMINEN JA SUNNUNTAITYÖ .......................................................84
-20.1 Vuorokautinen ylityö ..........................................84
-20.2 Viikoittainen ylityö..............................................85
-20.3 Työajan enimmäismäärä .....................................86
-20.4 Lisätyö ................................................................86
-20.5 Vapaapäivänä tehdyn työn korvaaminen
-(TES-ylityö) ..................................................................87 20.6 Paikallisesti sovittava ylityölisä
-(yksi ylityökäsite) .........................................................88
-20.7 Vuorotyölisä ylityöajalta .....................................89 20.8 Sunnuntaityö........................................................90 20.9 Pääsiäislauantaina, juhannus- ja jouluaattona
-tehty työ .......................................................................90 20.10 Viikoittaisesta vapaa-ajasta poikkeaminen
-ja sen korvaaminen .......................................................91
- 6
-
-Sisällysluettelo
-20.11 Hälytysluontoinen työ ........................................92 20.12 Varallaolo ............................................................93
-21 VUOSILOMA ..............................................................94
-21.1 Vuosiloman pituus ja antaminen .........................94
-21.2 Tuntipalkkaisen työntekijän vuosilomapalkka ja
-lomakorvaus (koskee 14 työpäivän ansaintasäännön piirissä olevia)...............................................................95 21.3 Kuukausipalkkaisen vuosilomapalkka ja lomakorvaus..................................................................97 21.4 Vuosilomapalkan maksaminen............................98 21.5 Lomaraha.............................................................98
-IV TYÖKOMENNUKSET JA KORVAUKSET ..............101
-22 TYÖSKENTELY VARSINAISEN TYÖPAIKAN UL- KOPUOLELLA ..........................................................101
-22.1 Varsinaisen työpaikan määritelmä ....................101
-22.2 Matkustamisvelvollisuus ja työkomennuksesta ilmoittaminen ..............................................................101
-22.3 Työmatkan ja matkavuorokauden alkaminen
-ja päättyminen.............................................................102
-22.4 Työkomennuksesta aiheutuvien kustannusten korvaaminen ...............................................................102
-22.5 Asunnon hankkiminen.......................................105
-22.6 Erikoismääräyksiä.............................................106
-22.7 Työ ulkomailla...................................................108
-22.8 Eräät poikkeusmääräykset .................................108
-22.9 Paikallinen sopiminen .......................................109
- 7
-
-Sisällysluettelo
-23 ARKIPYHÄKORVAUS SEKÄ MUITA KORVAUKSIA JA ETUJA ...................................................................109
-23.1 Korvattavat arkipyhät ........................................109
-23.2 Arkipyhäkorvauksen maksamisen edellytykset 110
-23.3 Muita korvauksia ja etuja ..................................111
-V TYÖTURVALLISUUS JA TYÖSUOJELU...................113
-24 YLEISET TYÖTURVALLISUUSMÄÄRÄYKSET ..113
-25 HENKILÖNSUOJAIMET JA SUOJAVAATETUS ...114
-26 TYÖTERVEYSHUOLTO ..........................................114 26.1 Tyky-toiminta ...................................................115
-27 TYÖSUOJELUA KOSKEVAT MÄÄRÄYKSET ......115
-27.1 Työsuojeluyhteistoiminnan järjestäminen ........115
-27.2 Toimikunta ja muut yhteistoimintaelimet..........116
-27.3 Työsuojeluhenkilöstön tehtävät .........................116
-27.4 Koulutustarve ja säädösten hankkiminen ..........117
-28 TYÖSUOJELUVALTUUTETUN JA TYÖSUOJELU- ASIAMIEHEN TOIMINTAEDELLYTYKSET ........117
-28.1 Vapautus työstä .................................................117
-28.2 Ansionmenetyksen korvaaminen ja kuukausikorvaus .........................................................120
-28.3. Toimitilat ...........................................................121
- 8
-
-Sisällysluettelo
-29 HENKILÖSTÖN EDUSTUSTEHTÄVÄN HOITAMI- SEN VAIKUTUKSET TYÖSUHTEESEEN, TYÖTEHTÄVIIN JA PALKKAAN...........................122
-30 TYÖSUOJELUVALTUUTETUN
-TYÖSUHDETURVA ..................................................123
-30.1 Työsopimuksen irtisanominen ja työsuojelu- valtuutetun lomauttaminen taloudellisista ja tuotannolli- sista syistä ...................................................................123 30.2 Työsopimuksen irtisanominen työsuojeluvaltuute- tun henkilöstä johtuvasta syystä .................................124 30.3 Työsopimuksen purkaminen ja purkautuneena käsitteleminen ............................................................125 30.4 Työsuojeluvaltuutetun ehdokas- ja jälkisuoja....125 30.5 Korvaukset.........................................................126 30.6 Varamiehet ..........................................................126
-VI SOSIAALISET MÄÄRÄYKSET..................................127
-31 TYÖKYVYTTÖMYYS, ÄITIYS- JA ISYYSVAPAA SEKÄ TILAPÄINEN HOITOVAPAA.......................127
-31.1 Työkyvyttömyys................................................127
-31.2 Äitiys- ja isyysvapaa..........................................135
-31.3 Lapsen sairastuminen ........................................136
-31.4 Sairausajan tai adoptio-, äitiys- ja isyysvapaan palkasta tehtävät vähennykset ....................................139
-32 LÄÄKÄRINTARKASTUKSET.................................140
-32.1 Ansionmenetyksen korvaaminen lakisääteisen lääkärintarkastuksen ajalta..........................................140
- 9
-
-Sisällysluettelo
-32.2 Ansionmenetyksen korvaaminen muiden lääkärintarkastusten ajalta...........................................141
-32.3 Työhöntulotarkastus...........................................144 32.4 Korvausperuste ja vähennykset .........................144
-VII TYÖSOPIMUKSEN PÄÄTTÄMINEN JA TYÖNTEKIJÄN LOMAUTTAMINEN.................145
-33 SOVELTAMISALA....................................................145
-34 TYÖSOPIMUKSEN PÄÄTTÄMINEN JA TYÖNTEKIJÄN LOMAUTTAMINEN TYÖNTEKIJÄSTÄ JOHTUVASTA TAI HÄNEN HENKILÖÖNSÄ LIITTYVÄSTÄ SYYSTÄ............146
-34.1 Lomauttaminen työntekijästä johtuvasta tai hänen henkilöönsä liittyvästä syystä .....................................146
-34.2 Työntekijän henkilöön liittyvät irtisanomisperusteet ....................................................146
-34.3 Purkamisen ja purkautuneena käsittelemisen perusteet ......................................................................146
-35 TYÖSOPIMUKSEN IRTISANOMINEN TALOUDELLISISTA, TUOTANNOLLISISTA TAI TYÖNANTAJAN TOIMINNAN UUDELLEENJÄR- JESTELYISTÄ JOHTUVISTA SYISTÄ....................147
-35.1 Irtisanomisen perusteet......................................147 35.2 Työvoiman vähentämisjärjestys .......................147
-35.3 Irtisanomisajan kuluminen ja määräaikainen työsopimus ..................................................................147
-35.4 Työntekijän takaisin ottaminen..........................148 10
- 
-Sisällysluettelo
-36 TYÖLLISTYMISVAPAA...........................................148
-36.1 Työllistymisvapaan tarkoitus ............................148 36.2 Työllistymisvapaan pituus ................................149 36.3. Työllistymisvapaan käyttäminen ......................149
-37 TYÖNTEKIJÄN LOMAUTTAMINEN TALOUDELLI- SISTA, TUOTANNOLLISISTA TAI TYÖNANTAJAN TOIMINNAN UUDELLEENJÄRJESTELYISTÄ JOHTUVISTA SYISTÄ .............................................150
-37.1 Lomauttamisen perusteet ..................................150
-37.2 Työvoiman vähentämisjärjestys ........................150
-37.3 Lomautusilmoitusaika.......................................151
-37.4 Lyhennetty työaika ............................................151
-37.5 Paikallinen sopiminen .......................................151
-37.6 Lomautuksen siirtäminen ..................................151
-37.7 Lomautuksen keskeyttäminen ...........................151
-37.8 Muu työ lomautusaikana ..................................152
-37.9 Työsuhteen päättyminen lomautuksen aikana ...152
-38 TYÖSOPIMUKSEN IRTISANOMISAJAT JA TYÖ- SUHTEEN KESTOAJAN MÄÄRÄYTYMINEN.....153
-38.1 Irtisanomisajat...................................................153
-38.2 Irtisanomisajan noudattamatta jättäminen.........154
-38.3 Työsuhteen kestoajan määräytyminen ..............154
-38.4 Määräajan laskeminen ......................................155
- 11
-
-Sisällysluettelo
-39 TYÖSOPIMUKSEN PÄÄTTÄMISMENETTELY ...156
-39.1 Irtisanomisperusteeseen vetoaminen .................156
-39.2 Työntekijän kuuleminen ....................................156
-39.3 Ilmoitus työsopimuksen päättämisestä ..............156
-39.4 Työsopimuksen päättämisen perusteiden ilmoitta-
-minen ..........................................................................157
-40 NEUVOTTELUMENETTELY TYÖVOIMAN KÄYTTÖÄ VÄHENNETTÄESSÄ ...........................157
-41 KORVAUKSET TYÖSOPIMUKSEN PERUSTEET- TOMASTA PÄÄTTÄMISESTÄ JA TYÖNTEKIJÄN PERUSTEETTOMASTA LOMAUTTAMISESTA....159
-41.1 Korvausten määräytyminen...............................159
-41.2 Yhden korvauksen periaate ja korvauksen suhde
-hyvityssakkoon ...........................................................160
-41.3 Menettelytapamääräysten rikkominen...............160
-42 TOIMIVALTAINEN TUOMIOISTUIN JA KANNEAIKA.............................................................160
-VIII LUOTTAMUSMIEHET, PAIKALLINEN SOPIMINEN JA ERIMIELISYYKSIEN RATKAISEMINEN ..................................................161
-43 LUOTTAMUSMIEHET .............................................161
-43.1 Luottamusmiesjärjestelmän tarkoitus................161
-43.2 Luottamusmiehen asema ...................................162
-43.3 Luottamusmieskelpoisuus ja luottamusmiehen
-valitseminen ................................................................162
- 12
-
-Sisällysluettelo
-43.4 Luottamusmiehen toimintaedellytykset.............166
-43.5 Luottamusmiestehtävän hoitamisen vaikutukset
-työsuhteeseen, työtehtäviin ja palkkaan .....................175
-43.6 Luottamusmiehen työsuhdeturva ......................176
-44 PAIKALLINEN SOPIMINEN ...................................180
-44.1 Mahdollisuus paikalliseen sopimiseen ..............180
-44.2 Paikallisen sopimisen osapuolet ........................180
-44.3 Paikallisen sopimuksen sitovuus .......................181
-44.4 Paikallisen sopimuksen muoto ja kestoaika ......181
-44.5. Paikallisen sopimisen valmiudet ja sopimusten seuranta .......................................................................181
-44.6 Paikallisen sopimuksen jälkivaikutus................182
-44.7 Yhteistoiminta suomalaisessa yritysryhmässä ..182
-45 ERIMIELISYYDET JA NIIDEN
-RATKAISEMINEN ....................................................183
-45.1 Neuvotteluvelvollisuus ja painostuskielto.........183
-45.2 Paikallinen neuvottelujärjestys..........................183
-45.3 Liittojen myötävaikutus.....................................184
-45.4 Erimielisyysmuistio ja työtuomioistuin.............184
-IX ULKOPUOLISEN TYÖVOIMAN KÄYTTÖ JA MUITA ERINÄISIÄ MÄÄRÄYKSIÄ ....................186
-46 ULKOPUOLISEN TYÖVOIMAN KÄYTTÖ...........186
-46.1 Alihankinta........................................................186 46.2 Vuokratyövoima................................................186
- 13
-
-Sisällysluettelo
-46.3 Ulkopuolisesta työvoimasta tiedottaminen........189
-46.4 Tilaajan vastuu ja selvitysten hankkiminen.......189
-46.5 Kokoontuminen työpaikalla .............................190
-46.6 Tiedotustoiminta................................................190
-46.7 Ammattiyhdistysjäsenmaksujen pidättäminen ..191
-47 KOULUTUS ..............................................................191
-47.1 Ammatillinen koulutus .....................................191
-47.2 Yhteinen koulutus..............................................192
-47.3 Ay-koulutus, työsuhteen säilyminen ja
-ilmoitusajat .................................................................193
-47.4 Tutkintotavoitteiseen koulutukseen liittyvä työharjoittelu ja koulutussopimukseen perustuva koulu- tus................................................................................195
-OHJEITA PAIKALLISEN SOPIMISEN TUEKSI .........198
- 14
-
-ASIAHAKEMISTO
-Aattopäivä.............................................................73, 77, 85, 90 Adoptio .........................................................................136, 139 Aikapalkka............................................................ 38, 57-59, 60 — aikapalkkaosuus.................................................................59 — aikapalkkojen kehitys ........................................................60 — henkilökohtainen aikapalkka ................... 59-61, 66, 69,70,
-................................. 90, 98, 104, 130-131, 149, 191, 201 — kuukausipalkka ............................. 50-53, 56, 66, 70, 70-71, .............. 76, 81-82, 85-86, 90, 97, 98, 130, 149, 191, 194 Alihankinta ................................................................... 186-189 Allekirjoituspöytäkirja (TES) ........................................... 35-41 —aikapalkat............................................................................38 —henkilökohtainen palkanosuus............................................38 —keskituntiansion korotus.....................................................38 —palkkaperusteiden korotus ..................................................38 —palkkojen korottaminen ................................................ 36-39 —suorituspalkat......................................................................38 —työehtosopimuksen allekirjoittaminen................................35 —työryhmät............................................................................40 Ammattiosasto ......... 44, 161, 162-163, 165-166, 179, 190, 194 Ammattitutkintopalkkiot.........................................................67 Ammattiyhdistysjäsenmaksu ................................................191 Ansionmenetyksen korvaaminen kuukausipalkkatyössä........70 Arkipyhäkorvaus............................................................109-110 Arkipyhäviikot..................................................................77, 87 Asevelvollisuus............................................... 69, 100, 154-155 Asunnon hankkiminen .................................................. 105-106 Ateriakorvaus........................................................104, 192, 194
-Asiahakemisto
- 15
-
-Asiahakemisto
-Eläkkeelle siirtyminen ..........................................................100 Erikoisammattitutkintopalkkio ...............................................67 Erilliset lisät ................................................................ 39, 63-64 —palvelusvuosilisä..................65-67, 80, 82, 94, 110, 199, 203 —poikkeuksellinen haitta tai hankaluus.................................63 —tilapäinen poikkeama työskentelyolosuhteissa...................63 —tulospalkkiolisä......................................... 62-63, 68, 95, 199 —vuorotyö, ilta- ja yötyö .......................................................64 Erimielisyydet ja niiden ratkaiseminen ...................... 44-46 62,
-..................................................... 161, 166, 179, 183-185 —neuvotteluvelvollisuus.............................................. 183-185 —paikallinen neuvottelujärjestys
-erimielisyysasioissa................................................... 183-184 —työtuomioistuin......................................................... 184-185 Erimielisyysmuistio ...................................................... 184-185
-Hammassairaus ..................................................................... 143 Harmaan talouden torjunta ...................................................189 Harjoittelijat/työharjoittelijat ............................ 55-57, 170, 195 Hautauspäivä......................................................................... 111 Helatorstai.................................................................77, 90, 109 Henkilökohtainen palkan osuus...................... 38, 54-55, 57, 59 —ammatinhallinta ..................................................................54 —huolellisuus.........................................................................54 —mittausjärjestelmä...............................................................54 —monitaitoisuus.....................................................................54 —määrä ..................................................................................55 —porrastusryhmät ..................................................................55 —työtulos ...............................................................................54 Henkilönsuojaimet ................................................................ 114 Henkilöstöryhmän edustaja (yt-lain mukainen)....................194
- 16
-
-Asiahakemisto
-Hinnoitteluperuste............................................... 38, 59-60, 170 Hyvityssakko ..................................................................46, 160 Hälytysluontoinen työ....................................................... 92-93 Hälytysraha.......................................................................70, 92 Hätätyö........................................................................64, 78, 95 Hääpäivä ............................................................................... 111
-Ikääntyneet työntekijät......................................................... 135 Iltatyö......................................................................................64 Isyysvapaa...................................... 110, 127, 135-136, 139-140 Isyysvapaan palkka.......................................................136, 139 Itsenäisyyspäivä......................................................77, 110, 155
-Joulu ...........................................................73, 77, 90, 109, 155 Juhannus .............................................73, 77, 90, 107, 109, 155
-Karenssipäivä................................ 131-132, 134, 136, 138, 141 Karkearyhmittely ................................................ 49, 51-52, 199 Keskituntiansio .............................................. 38, 60, 67-68, 69,
-..............................76, 85-86, 90, 92-93, 95-97, 104, 109, .....................112, 121, 130, 132, 135-136, 138, 149, 153, .............................................................154, 172, 191, 194
-—keskituntiansion korotus.....................................................38 —keskituntiansion laskeminen......................................... 67-68 —käyttöajanjaksot..................................................................68 Kokoontuminen työpaikoilla ........................................186, 190 Kolmivuorotyö.................... 64, 73-74, 76-77, 79, 90-91, 94-95 —keskeytymätön ................................. 64, 73-74, 76, 91, 94-95 —keskeytyvä ........................................................ 73-74, 76, 90 Komennuspaikka ............................................ 93, 102, 105-107
- 17
-
-Asiahakemisto
-Konserniyhteistyöhön valittu edustaja.......................... 182-183 Korvaava työ.........................................................................134 Korvauksia ja etuja ........................................................109-112 —hautauspäivä ..................................................................... 111 —hääpäivä ............................................................................ 111 —kutsunta................................................................70, 111-112 —merkkipäivät ..................................................................... 111 —reservin harjoitukset ..................................................111-112 —väestönsuojelu ..................................................................112 Kotimatkat .................................................................... 106-107 Koulutus...................................................50, 62, 70, 76, 87, 91,
-............. 117, 123, 124, 134, 138, 145, 147-150, 154-155,
-...................... 163, 167, 174, 176-177, 182, 186, 191-196 — ammatillinen koulutus ..................56, 70, 87, 123, 138, 145, .....................................................................176, 191, 195 — ay-koulutus ................................................87, 186, 193, 194 — koulutusaineisto .................................................................50 — koulutustyöryhmä ................................................40, 87, 193 — suunnitelma......................................................................196 — yhteinen koulutus.......................................87, 186, 192, 202 Kuormitus ...............................................................................49 Kutsunta...................................................................70, 111-112 Kuukausipalkka .......................50-53, 56, 66, 70-71, 76, 81-82, ............................... 85-86, 90, 97, 98, 130, 149, 191, 194 Laboratoriotutkimukset................................................. 143-144 Lapsen sairastuminen...................76, 87, 91, 110, 129, 136-139 — vaikeasti sairaan tai vammaisen lapsen hoito........... 138-139 Lauantai ...................................64, 68, 77, 85, 90, 109-110, 155 Lepoaika ................................................................... 79-80, 200 Lomanmääräytymisvuosi............................... 65, 95-97, 99-100
- 18
-
-Asiahakemisto
-Lomaraha .......................................72, 82, 94, 98-100, 110, 201 Lomautus ................................................................. 75, 87, 110, .............. 123-124, 126, 133-134, 145-146, 150-152, 155, ...... 157-160, 168, 174, 176-177, 179, 187, 196, 202, 204
-— erimielisyystapaukset...................................................160
-— kanneaika .....................................................................160
-— keskeyttäminen ............................................................151
-— korvaukset (perusteen rikkominen)...................... 159-160
-— lomautusilmoitus/-aika................ 133-, 146, 151-152, 155
-— lyhennetty työaika........................................................151
-— muu työ ........................................................................152
-— neuvottelumenettely (yt) ...................................... 157-159
-— paikallinen sopiminen ..................................................151
-— perusteet .......................................................................150
-— siirtäminen....................................................................151
-— työsuhteen päättyminen ja työnantajan korvausvelvollisuus.............................................. 152-153
-— työvoiman vähentämisjärjestys....................................150 Loppiainen ................................................................77, 90, 109 Luottamusmies.........................36-40, 44-45, 58, 60, 61-62, 66,
-...............69, 75, 76, 80-83, 89-90, 98, 109, 121,124-125, .............................. 129, 156, 161-180, 180-185,188-189, .............................................................. 193-194, 198-204
-—ammatillinen kehittyminen ja eteneminen........................175 —ammattiosasto ........................................................... 162-166 —ansiokehitys .............................................................. 175-176 — ansionmenetyksen korvaaminen.............................. 172-173 — asema ....................................................... 162, 164, 177-179 — asemaan liittyvät ongelmatilanteet .......................... 178-179 — ehdokassuoja ....................................................................179 —ilmoitusvelvollisuus..........................................................165
- 19
-
-Asiahakemisto
-—jälkisuoja ..........................................................................179 —kelpoisuus ................................................................. 162-163 —korvaus työsopimuksen laittomasta
-lakkauttamisesta ....................................................... 179-180 —koulutus ............................................................ 174, 191-192 —kuukausikorvaus................................................. 39, 172-174 —liikkeen luovutus ..............................................................164 —lomautus ................................................................... 176-177 —luottamusmiesjärjestelmän tarkoitus ........................ 161-162 —luottamusmies- ja työsuojelutehtävien yhdistäminen164,172 —paikallinen neuvottelujärjestys .........................................183 —pääluottamusmies ............................36-40, 44-45, 60-61, 66,
-................................... 69, 75, 80-83, 89-90, 98, 109, 121, ..................................................... 129, 161-183, 183-185, ...............................................188-189, 193-194, 198-204
-— pääluottamusmiehelle
-annettavat tiedot......................................... 168-171, 188-189
-— pääluottamusmiehen palkka
-(kokonaan työstä vapautettu) ....................................122, 171
-— siirto ......................................................................... 175-176 —tehtävät ..................................................................... 165-166 — perustehtävät........................................................ 165-166 — työpaikalla sovittavat tehtävät.....................................166 — tietojen luottamuksellisuus ......................................167, 171 — tiettyä tehtävää varten asettaminen..................164, 165, 202 — toimialue ja lukumäärä ...........................163, 165, 170, 172, .............................................. 175-176, 180, 183-184, 202 — toimitila ............................................................................174 — työsopimuksen irtisanominen .................................. 176-178 —työsopimuksen purku .......................................................178 —työsuhde............................................................................175 —vaali ..................................................................163, 172, 179
-20
- 
-Asiahakemisto
-—vapautus työstä ......................................................... 171-172 —vastuualue.........................................................................163 —varaluottamusmies............................................165, 178, 192 —varapääluottamusmies ...................... 165, 174, 177, 193-194 —yhtiöittäminen,
-toimintojen yhdistäminen..................................................164 —ylityökorvaus ....................................................................173 Lyhennetty työaika/-viikko.............................................87, 151 Lääkärintarkastus...........................................111, 127, 140-144 —aikaisemmin todettu sairaus .............................................142 —ansionmenetyksen korvaaminen............................... 140-144 —hammassairaus..................................................................143 —hoidon määritteleminen ....................................................142 —ilmoitusvelvollisuus..........................................................141 —korvausvelvollisuuden ulkopuolelle
-jäävät tapaukset.................................................................142 —laboratorio- ja röntgentutkimukset ...................................143 —lakisääteiset tarkastukset ..................................................140 —matkakustannukset ja päiväraha ...............................140, 144 —raskauden aikaiset tarkastukset ja tutkimukset.................143 —syöpäsairaus......................................................................142 —työajan tarpeettoman menetyksen välttäminen ................141 —työhöntulotarkastus...........................................................144 —uusi sairaus .......................................................................142 Lääkärintodistus............................................ 128-129, 134, 143 —epäselvyydet .....................................................................129 —taannehtiva........................................................................128 —työterveyslääkäri.......................................................128, 134
- 21
-
-Asiahakemisto
-Maanantai ...............................................................................78 Majoittumiskustannukset ...................................................... 105 Makuupaikka .................................................................102,105 Makuutila..............................................................................106 Malmikaivokset ......................................................................43 Matkatyö ....................................................... 101-109, 199, 202 —aiheeton poissaolo ............................................................107 —asunnon hankkiminen............................................... 105-106 —ateriakorvaus.....................................................................104 —ilmoitusvelvollisuus..........................................................101 —kiireellinen työkomennus .................................................101 —komennuspaikka ......................................... 93, 102, 105-107 —kotimatkat juhlapyhien yhteydessä...................................107 —lepoaika.............................................................................102 —matka-ajan korvaus................................................... 103-104
-— komennuspaikkakunnalla............................................106 —matkakustannukset .................................... 102-103, 106-107 — ammatillisessa koulutuksessa............................... 191-192 — komennuspaikkakunnalla.............................................106 —matkan alkaminen ja päättyminen ....................................102 —matkavuorokausi...............................................................102 —matkustamisvelvollisuus...................................................101 —oman auton käyttö ............................................102, 106, 204 —paikallinen sopiminen...............................................109, 201 —päiväraha............................ 103-105, 107-108, 131, 140, 144 —rajanpintatyöt....................................................................108 —Ruotsia koskevat poikkeussäännökset..............................108 —ulkomailla suoritettava matkatyö .............................108, 204 —varsinainen työpaikka.......................................................101 —yöpymiskustannukset .......................................................105
- 22
-
-Asiahakemisto
-Monitaitoisuus ........................................................................54 MTHL ry.................................................................................43 Määräajan laskeminen ..........................................................155 Määräaikainen työsopimus ...................................................147
-Neuvottelujärjestys ..........................................45, 78, 161, 163, ..................................................... 165, 167, 183-185, 198 — paikallisen sopimisen neuvottelujärjestys................ 183-184 — paikallinen neuvottelujärjestys erimielisyysasioissa 184-185 Neuvotteluvelvollisuus .........................................................183 Noudattamisvelvollisuus (TES:n)...........................................43 Nuoret työntekijät ....................................................... 39, 55-56
-Oman auton käyttö................................................102, 106, 204 Opintovapaa..........................................................................154 Opiskelijat................................................. 55-57, 195, 199, 203 Oppisopimus ..................................................... 56-57, 145, 199 Osa-aikatyö ................................. 66, 71, 97, 109, 157-158, 170 Osa-ajan palkka ......................................................................70
-Paikallinen sopiminen (käsite).............................. 161, 180-183 — paikallisen sopimisen neuvottelujärjestys........ 180-181, 198 — paikallisen sopimisen valmiudet ja sopimusten
-seuranta .................................................................... 181-182 — paikallisen sopimisen työryhmä .............................. 181-182 — sopimuksen jälkivaikutus ................................................182 — tavoitteet ..........................................................................161 — työehtosopimuksen oikeusvaikutukset saavat
-paikalliset sopimukset ............................................. 198-202 — työsopimustasoinen paikallinen sopiminen............. 203-204 Palkanmaksu/-kausi (tilikausi)...... 36-37, 65, 67, 70-71, 76, 86,
-................................. 98-99, 108, 133, 135, 152, 191, 200 23
- 
-Asiahakemisto
-Palkanmääritysjakso ................................................. 69-71, 200 Palkkaperusteet
-—harjoittelijat .................................................................. 55-56 —henkilökohtainen palkan
-osuus ....................................................................... 38, 54-55 — hinnoitteluperuste ................................................. 59-60, 170 —karkearyhmittely............................................. 49, 51-52, 199 —muu paikallisesti sovittu työnvaativuuden
-määrittämistapa..................................................... 53-54, 199 —nuoret työntekijät.......................................................... 55-56 —palkkaryhmät.....................................50-52, 54-55, 168, 169 —paikallisesti sovittu palkkausjärjestelmä ....................61, 197 —peruspalkka................................................. 48, 55, 57-59, 69 — työkohtainen kuukausipalkka ...................................... 50-52 — työkohtainen tuntipalkka ....................................... 50-52, 54 — töiden vaativuusryhmittely .......................................... 49-53 Palkkaryhmät ................................................. 50-52, 54-55, 168 Palkkaustavat .................................................................... 57-58 Palvelusvuosilisä......................65-68, 80, 82, 94, 110, 199, 203 — vaihtaminen vapaaseen..............................................66, 201 Perusoikeudet..........................................................................47 Peruspalkka..................................................... 48, 55, 57-59, 69 Pitkäperjantai ........................................................................109 Poikkeuksellinen haitta tai hankaluus.....................................63 Poissaolo..............................70, 87, 94, 97, 101, 107, 110, 127,
-............................................. 129, 130, 131, 135-139, 146 Päiväraha................................ 103-108, 131-132, 140, 144, 192 Pääluottamusmies ................................36-40, 44-45, 60-61, 66,
-........................................ 69, 75, 80-83, 89, 98, 109, 121, ..................................................... 129, 161-180, 181-184, ...............................................188-189, 193-194, 198-204
- 24
-
-Asiahakemisto
-Pääluottamusmiehen varamies.............................163, 165, 174, ..................................................................... 177-178, 194 Pääsiäinen .........................................................77, 90, 107, 109
-Rajanpintatyöt.......................................................................108 Raskaus.................................................................................143 Rationalisointi................................................................... 61-62 Reservin harjoitukset ............................................... 87, 111-112 Rinnakkaissopimuskielto ........................................................ 42 Ryhmähenkivakuutus............................................................ 112 Röntgentutkimukset...................................................... 143-144
-Sairaus.............................. 76, 107, 110, 127-134, 136, 138-144 Sairauspoissaolojen hallinta..................................................129 Sairausajan palkka .......... 76, 107, 110, 127-128, 130-134, 136,
-..................................................................... 139-142, 144 —epidemiat ..........................................................................128 —epääminen.........................................................................133 —ilmoitusvelvollisuus..........................................................127 —karenssipäivä ............................. 131-132, 134, 136-137, 141 —korvausajanjaksot ............................................. 130-133, 138 —korvausperuste..................................................................130 —lapsen sairaus.................................................... 129, 136-139 —maksuajankohta ................................................................133 —oma ilmoitus ..................................................... 129-130, 202 —palkkaetujen väärinkäyttö.................................................130 —sairastuminen kesken työpäivän .......................................132 —saman sairauden uusiutuminen.........................................132 —työtapaturma ..................................................... 114, 118, 131 —työterveyslääkäri.......................................................128, 134 —vähennykset .............................................................. 139-140
- 25
-
-Asiahakemisto
-Sairausvakuutuslaki .............. 131, 132, 136, 138-139, 140, 143 Siviilipalvelus ........................................100, 112, 138, 154-155 Sopimuksen sitovuus (TES:n) ................................................43 Sotilaalliseen kriisinhallintaan osallistuminen .....................154 Soveltamisala (TES:n) ...................................................... 42-43 Sunnuntaityö.....................................................................78, 90 — sunnuntaityölisä ......... 68, 88, 90, 92, 95, 168-169, 172, 201 Suojavaatetus ........................................................................ 114 Suorituspalkka(työ).......................38, 56-57, 59-62, 67-68, 203 —hinnoitteluperuste ......................................................... 59-60 —keskeytyminen....................................................................60 —palkkatakuu.........................................................................59 —suoran urakan keskeyttäminen ...........................................60 —tietojen saantioikeus ..................................................... 59-60 —yksikköhinnan pysyvyys ....................................................60 —yksikköhinnasta sopiminen ................................................60
-Takaisinottovelvollisuus .......................................148, 196, 204 Tavanomainen työvaatetus....................................................114 Teollisuusliitto ry:n hallintoelimien kokoukset .................... 112 TES-ylityö................................................................... 72, 86-87 Tiedotustoiminta
-—henkilöstön keskinäinen ........................................... 190-191 —kokoontuminen työpaikoilla.....................................186, 190 Tilapäinen poikkeama työskentelyolosuhteissa................ 63-64 Tulospalkkio/-lisä ......................................... 62-63, 68, 95, 199 Tuntipalkka (kuukausipalkkainen) ...................................66, 70 Tutkintopalkkio.......................................................................67 Tyky-toiminta .......................................................................115
- 26
-
-Asiahakemisto
-Työaika ............................................................................. 72-93 —järjestäminen................................................................. 78-82 —keskimääräinen viikkotyöaika ................................ 72-75, 83 —lepoaika................................................................. 79-80, 200 —lisääminen ja vähentäminen.......................................... 80-82 —lyhentäminen ................................................................ 74-76 —ruokailu.................................................................79, 80, 200 —sunnuntaityö ...........................................................78, 84, 90 —säännöllinen............................... 64, 66, 69-93, 97, 102, 104,
-............................................ 109, 111, 121, 130, 132, 138,
-............................................. 140, 144, 173, 191-192, 200 —tasaaminen ........................... 73-76, 84, 94-95, 111, 200, 201 —tasaamislisä............................................... 68, 75-76, 95, 200 —tasoittumisjakso ........................................ 76-77, 80, 83, 200 —työaikakokeilu ....................................................................39 —työaikalaki .......................... 39, 72, 77, 79, 80, 83-86, 88, 90 —työaikapankki .................................... 80, 82-84, 94, 200-201 —työtuntijärjestelmä ................ 71, 73-78, 80-81, 84-87, 89-91
-...............................................................98, 104, 110-111,
-.............................................. 130-131, 135-136, 149, 200 —työtuntijärjestelmän muutokset ...................... 77-78, 80, 200 —työviikko................. 66, 72, 78, 80, 85-87, 91, 139, 153, 200 —työvuorokausi ...........................64, 72, 78, 80, 84, 86, 91, 93
-.....................................................................102, 104, 200 —vapaapäivät ......................... 73, 77, 87, 91-92, 104, 107, 137 —virvokkeiden nauttiminen...................................................79 —ylityö....................................... 68, 72, 84-90, 92-93, 95, 121,
-............................................................. 168-170, 173, 201
- 27
-
-Asiahakemisto
-Työehtosopimus —allekirjoituspöytäkirja................................................... 35-41 —noudattamisvelvollisuus .....................................................43 —sitovuus...............................................................................43 —soveltamisala ................................................................ 42-43 —voimassaolo ........................................................................47 Työelämässä oppiminen........................................................195 Työhöntulotarkastus..............................................................144 Työkohtainen kuukausipalkka .......................................... 50-52 Työkohtainen palkan osuus............................................... 48-54 Työkohtainen tuntipalkka ................................................. 50-52 Työkomennus........................................................ 101-109, 201 —ilmoitusvelvollisuus..........................................................101 —kiireellinen työkomennus .................................................101 Työkyvyn johtaminen ...........................................................135 Työllistymisvapaa ................................................. 148-149, 204 Työmatka ...................................................... 101-109, 138, 204 Työnjohto-oikeus ..............................................................47, 72 Työntutkimukset ............................................................... 61-62 Työn vaativuuden määritys .............................................. 48-54 —karkearyhmittely ............................................. 49, 51-53, 199 —töiden vaativuusryhmittely ........................................... 48-54 Työnvaativuustyöryhmä .........................................................50 Työpaikkakäynnit .................................................................190 Työpaikkaohjaaja .................................................................. 195 Työpalkat .......................................................................... 48-61 Työrajoitteiset .........................................................................57 Työrauhavelvoite ............................... 43-46, 161-162, 166, 178
- 28
-
-Asiahakemisto
-Työsopimuksen irtisanominen ........123-126, 145-148, 153-160 — erimielisyystapaukset...................................................160 — ilmoitus ................................................................ 156-157 — irtisanomisajat ...................................................... 153-155 — irtisanomisajan noudattamatta jättäminen....................154 — irtisanoutuminen .......................................... 145, 152-153 — kanneaika .....................................................................160 — korvaukset (perusteen rikkominen)...................... 159-160 — neuvottelumenettely (yt) ...................................... 157-158 — perusteet ...............................................................147, 156 — perusteiden ilmoittaminen.................................... 156-157 — toimittamisaika.............................................................156 — työntekijän kuuleminen................................................156 — työvoiman vähentämisjärjestys............................147, 150
-—luottamusmiehen....................................................... 176-178 —työsuojeluvaltuutetun ............................................... 124-125 —varoitus .............................................................................167 Työsopimuksen purkaminen........................................125, 145,
-............................................. 146, 152, 156-157, 159, 178 Työsopimuksen purkautuminen............ 125, 145-146, 159, 178 Työssäoppiminen ........................................... 148-149, 193-194 Työsuhteen kestojan määräytyminen....................................154 Työsuojelu......................................................................113-117 Työsuojeluasiamies............................... 115-117, 121-123, 164,
-..................................................................... 191-192, 201 Työsuojelupäällikkö.......................................................115-116 Työsuojelutoimikunta ....................114, 116, 121, 125, 192-193
- 29
-
-Asiahakemisto
-Työsuojeluvaltuutettu ...............39, 76, 113, 115-126, 164, 170, ............................................................. 178, 192, 201-202 —ammattitaidon ylläpitäminen ............................................123 —ansiokehitys ......................................................................121 —ansionmenetyksen korvaaminen............................... 120-121 —kuukausikorvaus ...............................................................120 —liikkeen luovutus ..............................................................122
-—luottamusmies- ja työsuojelutehtävien yhdistäminen.....................................................164, 172, 174
-—palkka- ja siirtosuoja................................................. 122-123 —tehtävät .............................................................................116 —toimitilat ...........................................................................121 —työsuhde............................................................................122 —työsuhdeturva ........................................................... 123-125 —vapautus työstä ..........................................................117-119 —varavaltuutettu ...................................115-117, 124, 178, 192 —varavaltuutetun työsuhdeturva..........................................124 —ylityökorvaus ....................................................................121 Työtaistelutoimenpide............................................... 43-46, 166 Työtapaturma ........................................................ 114, 118, 131 Työterveyshoitaja..................................................................128 Työterveyshuolto ...................................114-115, 129, 135, 140 Työterveyslääkäri..........................................................128, 134 Työtuntijärjestelmä .................. 71, 73-78, 80-81, 84-87, 89-91,
-...............................................................98, 104, 110-111,
-.............................................. 130-131, 135-136, 149, 200 — muutokset....................................................... 77-78, 80, 200 Työtuomioistuin.............................................. 46, 160, 184-185
- 30
-
-Asiahakemisto
-Työturvallisuus ..............................................................113-114 —henkilönsuojaimet............................................................. 114 —ilmoitusvelvollisuus..........................................................113 —pidättäytyminen työstä......................................................113 —suojavaatetus..................................................................... 114 —yleiset velvollisuudet........................................................113 Työuran pidentäminen ..........................................................135 Työviikko.................... 66, 72, 78, 80, 85-87, 91, 139, 153, 200 Työvoiman vuokraus ..................... 118, 171-173, 184-187, 202 Työvuorokausi ......64, 72, 78, 80, 84, 86, 91, 93, 102, 104, 200 Töiden vaativuusryhmittely .............................................. 49-51 —koulutus ..............................................................................49 —oppimisaika.........................................................................49 —työkohtaiset tuntipalkat ................................................ 50-53 —työnvaativuusryhmä ........................ 50-54, 56, 168-170, 197 —työolosuhteet.................................................................50, 63 —työryhmä.............................................................................50 —vastuu..................................................................................49
-Ulkomaan päiväraha .............................................................108 Ulkomailla suoritettava matkatyö.................................108, 201 —matkustamisvelvollisuus...................................................108 —poikkeukset Ruotsin osalta ...............................................108 —rajanpintatyöt....................................................................108 —sovittavat asiat ..................................................................108 Ulkopuolisen työvoiman käyttö.................................... 186-189 —alihankinta ........................................................................186 —harmaan talouden torjunta ................................................189 —tiedottaminen henkilöstön edustajille ...............................189
- 31
-
-Asiahakemisto
-—tilaajan vastuu ja selvitysten hankkiminen .......................189 —vuokratyövoiman käyttö................................... 186-189, 202 Uudenvuodenpäivä ...................................................77, 90, 109
-Vajaavuorokausi....................................................................103 Vapaapäivät............................. 73, 77, 87, 90-92, 104, 107, 137 — vapaapäivänä tehty työ ......................................................87 Vapunpäivä .............................................................77, 109, 155 Varallaolo..................................................................70, 93, 204 Varoitus.................................................................125, 167, 178 Varsinainen työpaikka...........................................................101 —varsinaisen työpaikan ulkopuolella
-työskentely ................................................................ 102-109 Viikkolepo..................................................... 77-78, 91, 92, 204 — viikkolepokorvaus........................ 70, 78, 88, 91-92, 95, 204 Viikoittainen ylityö ........................................................... 85-87 Virvokkeiden nauttiminen ......................................................79 Voimassaoloaika (TES:n) .......................................................47 Vuorokautinen ylityö ........................................................ 84-86 Vuorotyö ............................................. 39, 64, 72-78, 79, 89-91,
-.................................... 94-95, 98, 115, 138, 168-170, 201 —iltavuorolisä ........................................................................64 —keskeytymättömän sekä jatkuvan
-vuorotyön lisä......................................................................64 —keskeytymätön kolmivuorotyö ........ 64, 73-74, 76, 90-91, 94 —keskeytyvä kolmivuorotyö ............................... 73-74, 76, 90 —päivä- ja kaksivuorotyötä koskeva
-työajan tasaaminen........................................................ 74-76 —työvuoro.................................................................. 74, 79-80 —vuorotyölisä ylityön ajalta ..................................................89 —yövuorolisä .........................................................................64
- 32
-
-Asiahakemisto
-Vuokratyövoiman käyttö ...................................... 186-189, 202 Vuosiloma................................................63, 65, 67, 72, 74, 87, ............................................... 94-100, 110, 139, 152-154, .............................................................156, 174, 194, 200 —lisävapaapäivät ...................................................................97 —lomakorvaus .................................... 63, 95-97, 100, 152-154 —lomanmääräytymisvuosi............................ 65, 95-97, 99-100 —lomaraha ....................................72, 82, 94, 98-100, 110, 201 —työssäolopäivien veroiset päivät.................................94, 139 —vuosilomalaki ...................................65, 72, 94, 97, 139, 152 —vuosilomapalkka..................................... 63, 72, 95-100, 201
-— vuorotyölisien maksaminen loma-ajalta kuukausipalkkatyössä.........................................................98
-Väestönsuojelu...................................................................... 112
-Yhdistymisvapaus...................................................................47 Yhteinen työpaikka...............................................................118 Yhteistoiminta
-—kehittämistoiminta ............................................................ 115 —suomalaisessa yritysryhmässä ..........................................182 —toteuttaminen ....................................................................161 —tyky-toiminta ....................................................................115 —työn- ja aikatutkimukset .....................................................62 —työsuojeluyhteistoiminta....................113, 115-117, 120, 124 —yhteistoimintaelin ..................................... 116, 121, 125, 192 —yt-menettely .............................................................. 157-158 Yhteystiedot..........................................................................170 Yleiskorotus...................................................................... 36-38
- 33
-
-Asiahakemisto
-Ylityö ..................................................... 68, 72, 84-93, 95, 121, 168-170, 173, 199
-— enimmäismäärän tarkastelujakso...............................86, 201 — korvaus/lisä ............................ 68, 84-85, 87-90, 92, 95, 121, ............................................................. 168-170, 173, 201 — TES-ylityö.............................................................. 72, 86-87 — viikoittainen ................................................................. 85-86 — vuorokautinen .............................................................. 84-85 — yksi ylityökäsite ........................................................... 88-89 Yömatkaraha.........................................................................105 Yöpymiskustannukset...........................................................105 Yötyö ............................................................ 64, 79-80, 95, 200 — teettämisen edellytykset.....................................................79
-Äitiysvapaa .................................... 110, 127, 135-136, 139-140 — äitiysvapaan palkka................................... 135-136, 139-140
- 34
-
-Allekirjoituspöytäkirja
-TEKNOLOGIATEOLLISUUDEN TYÖNANTAJAT RY TEOLLISUUSLIITTO RY
-TYÖEHTOSOPIMUKSEN ALLEKIRJOITUSPÖYTÄKIRJA
- Aika Paikka Läsnä
-10.1.2022 Teknologiateollisuus ry
-Teknologiateollisuuden työnantajat ry
-Jarkko Ruohoniemi Aapo Heikurainen Maria Äimälä Petteri Rautaporras
-Teollisuusliitto ry
-Riku Aalto
-Turja Lehtonen Arto Liikanen Juha Pöllänen Jyrki Levonen Timo Mällinen Mia Soininen Jyrki Virtanen Mirjami Suikki Susanna Holmberg Vesa Kotaviita Jukka Saviluoto
-1Työehtosopimuksen allekirjoittaminen
+## 1 Työehtosopimuksen allekirjoittaminen
 Todettiin, että liittojen välillä on tänään allekirjoitettu 4.1.2022 saavutetun neuvottelutuloksen mukainen työehtosopimus. Nyt allekirjoitettu työehtosopimus tulee voimaan 10.1.2022.
-35
 
-Allekirjoituspöytäkirja
-2Palkkojen tarkistaminen
+## 2 Palkkojen tarkistaminen
 Palkat
 A. Palkkojen tarkistaminen
-Palkantarkistusten toteutustapa, ajankohta ja suuruus Vuosi 2022
-Neuvottelut palkkaratkaisusta ja sen perusteista
-Palkkaratkaisusta neuvotellaan paikallisesti ottaen huomioon yri- tyksen tai työpaikan talous-, tilauskanta- ja työllisyystilanne sekä kustannuskilpailukyky markkinoilla. Paikallisten neuvottelujen tarkoituksena on löytää kunkin yrityksen tai työpaikan tilannetta ja tarpeita vastaava palkkaratkaisu. Tavoitteena on myös tukea palkanmuodostuksen kannustavuutta, oikeudenmukaista palkka- rakennetta ja palkkaporrastusta, tuottavuuden kehittymistä työ- paikalla sekä oikaista mahdollisia vinoumia.
-Paikallinen palkkaratkaisu
-Paikallisessa palkkaratkaisussa sovittavia asioita ovat palkantar- kistusten toteutustapa, ajankohta ja suuruus. Sopimus tehdään pääluottamusmiehen kanssa 18.2.2022 mennessä, ellei käsittely- ajan jatkamisesta sovita.
-Palkantarkistuksen toteutustapa, ellei paikallista palkkaratkai- sua
-Mikäli paikallista palkkaratkaisua ei saavuteta, palkkoja korote- taan 1,5 % suuruisella yleiskorotuksella viimeistään 1.3.2022 tai lähinnä sen jälkeen alkavan palkanmaksukauden alusta.
-Lisäksi työnantaja käyttää sopimuksen voimaantulon jälkeen, 36
- 
-Allekirjoituspöytäkirja
-kuitenkin viimeistään 1.3.2022 tai lähinnä sen jälkeen alkavan palkanmaksukauden alusta, työntekijöiden palkkojen korotta- miseen yritys- tai työpaikkakohtaisesti 0,5 %. Työnantaja jakaa korotukset liittojen ohjeistuksen mukaisesti. Palkantarkistusten käytöstä ja jakoperusteista tiedotetaan pääluottamusmiestä vii- meistään 25.3.2022 mennessä. Mikäli pääluottamusmiestä ei ole valittu, tiedotetaan koko henkilöstöä.
-Yritys- tai työpaikkakohtaisten korotusten tarkoituksena on tukea palkanmuodostuksen kannustavuutta, oikeudenmukaista palkka- rakennetta ja palkkaporrastusta, tuottavuuden kehittymistä työ- paikalla, työnantajan palkkapolitiikan toteuttamista sekä oikaista mahdollisia vinoumia. Työntekijöiden ammattitaidon ja työssä suoriutumisen tulee olla ohjaavana tekijänä henkilökohtaisten korotusten jakamisessa.
-Vuosi 2023
-Vuoden 2023 palkantarkistukset toteutetaan samalla tavalla kuin vuoden 2022 palkantarkistukset. Ensisijaisena vaihtoehtona on paikallinen palkkaratkaisu. Toissijaisen palkkaratkaisun kustan- nusvaikutus ja sen jakautuminen sovitaan osapuolten neuvotte- luissa syyskuun 2022 loppuun mennessä.
-Osapuolet tarkastelevat elo-syyskuun aikana sopimuksen tavoit- teiden toteutumista sekä arvioitavissa olevia talouden ja työlli- syyden näkymiä teknologiateollisuudessa. Arvioinnin perusteella osapuolet neuvottelevat 30.9.2022 mennessä 1.3.2023 tai lähin- nä sen jälkeen alkavan palkanmaksukauden alusta toteutettavien palkantarkistusten kustannusvaikutuksesta ja sen jakautumisesta. Samassa yhteydessä voidaan tarkastella edellytyksiä sopimus- kauden jatkamiseen 30.11.2023 jälkeiselle ajalle.
- 37
-
-Allekirjoituspöytäkirja
-Mikäli 1.3.2023 toteutettavan toissijaisen vaihtoehdon mukai- sen palkantarkistuksen suuruudesta ei päästä yksimielisyyteen syyskuun 2022 aikana, voi kumpikin sopimusosapuoli irtisanoa tämän sopimuksen päättymään 30.11.2022. Irtisanomista koske- va ilmoitus on kirjallisesti toimitettava viimeistään 14.10.2022 toiselle sopijaosapuolelle sekä tiedoksi valtakunnansovittelijalle.
-B. Aikapalkat
+Palkantarkistusten toteutustapa, ajankohta ja suuruus 
+### Vuosi 2022
+#### Neuvottelut palkkaratkaisusta ja sen perusteista
+Palkkaratkaisusta neuvotellaan paikallisesti ottaen huomioon yrityksen tai työpaikan talous-, tilauskanta- ja työllisyystilanne sekä kustannuskilpailukyky markkinoilla. Paikallisten neuvottelujen tarkoituksena on löytää kunkin yrityksen tai työpaikan tilannetta ja tarpeita vastaava palkkaratkaisu. Tavoitteena on myös tukea palkanmuodostuksen kannustavuutta, oikeudenmukaista palkkarakennetta ja palkkaporrastusta, tuottavuuden kehittymistä työpaikalla sekä oikaista mahdollisia vinoumia.
+#### Paikallinen palkkaratkaisu
+Paikallisessa palkkaratkaisussa sovittavia asioita ovat palkantarkistusten toteutustapa, ajankohta ja suuruus. Sopimus tehdään pääluottamusmiehen kanssa 18.2.2022 mennessä, ellei käsittelyajan jatkamisesta sovita.
+#### Palkantarkistuksen toteutustapa, ellei paikallista palkkaratkaisua
+Mikäli paikallista palkkaratkaisua ei saavuteta, palkkoja korotetaan 1,5 % suuruisella yleiskorotuksella viimeistään 1.3.2022 tai lähinnä sen jälkeen alkavan palkanmaksukauden alusta.
+Lisäksi työnantaja käyttää sopimuksen voimaantulon jälkeen, kuitenkin viimeistään 1.3.2022 tai lähinnä sen jälkeen alkavan palkanmaksukauden alusta, työntekijöiden palkkojen korottamiseen yritys- tai työpaikkakohtaisesti 0,5 %. Työnantaja jakaa korotukset liittojen ohjeistuksen mukaisesti. Palkantarkistusten käytöstä ja jakoperusteista tiedotetaan pääluottamusmiestä viimeistään 25.3.2022 mennessä. Mikäli pääluottamusmiestä ei ole valittu, tiedotetaan koko henkilöstöä.
+Yritys- tai työpaikkakohtaisten korotusten tarkoituksena on tukea palkanmuodostuksen kannustavuutta, oikeudenmukaista palkkarakennetta ja palkkaporrastusta, tuottavuuden kehittymistä työpaikalla, työnantajan palkkapolitiikan toteuttamista sekä oikaista mahdollisia vinoumia. Työntekijöiden ammattitaidon ja työssä suoriutumisen tulee olla ohjaavana tekijänä henkilökohtaisten korotusten jakamisessa.
+### Vuosi 2023
+Vuoden 2023 palkantarkistukset toteutetaan samalla tavalla kuin vuoden 2022 palkantarkistukset. Ensisijaisena vaihtoehtona on paikallinen palkkaratkaisu. Toissijaisen palkkaratkaisun kustan- nusvaikutus ja sen jakautuminen sovitaan osapuolten neuvotteluissa syyskuun 2022 loppuun mennessä.
+Osapuolet tarkastelevat elo-syyskuun aikana sopimuksen tavoitteiden toteutumista sekä arvioitavissa olevia talouden ja työllisyyden näkymiä teknologiateollisuudessa. Arvioinnin perusteella osapuolet neuvottelevat 30.9.2022 mennessä 1.3.2023 tai lähinnä sen jälkeen alkavan palkanmaksukauden alusta toteutettavien palkantarkistusten kustannusvaikutuksesta ja sen jakautumisesta. Samassa yhteydessä voidaan tarkastella edellytyksiä sopimuskauden jatkamiseen 30.11.2023 jälkeiselle ajalle.
+Mikäli 1.3.2023 toteutettavan toissijaisen vaihtoehdon mukaisen palkantarkistuksen suuruudesta ei päästä yksimielisyyteen syyskuun 2022 aikana, voi kumpikin sopimusosapuoli irtisanoa tämän sopimuksen päättymään 30.11.2022. Irtisanomista koske- va ilmoitus on kirjallisesti toimitettava viimeistään 14.10.2022 toiselle sopijaosapuolelle sekä tiedoksi valtakunnansovittelijalle.
+#### B. Aikapalkat
 Voimassa olevia aikapalkkoja on korotettava siten kuin kohdassa A on sanottu.
-C. Suorituspalkat
-Voimassa olevia urakkahintoja ja muita suorituspalkkoja korote- taan siten, että ansio nousee A-kohdassa mainituin tavoin.
-D. Palkkaperusteiden korotus
-Työehtosopimuksen työkohtaiset palkat otetaan käyttöön työ- paikkakohtaisesti palkankorotuksen ajankohdasta lukien. Nämä korotukset eivät aiheuta aika- ja suorituspalkkatyössä palkkojen korottamista yli yleiskorotuksen, mikäli työpalkat näillä yleisko- rotuksilla korotettuina täyttävät uuden työehtosopimuksen mää- räykset.
-E. Henkilökohtainen palkanosuus
+#### C. Suorituspalkat
+Voimassa olevia urakkahintoja ja muita suorituspalkkoja korotetaan siten, että ansio nousee A-kohdassa mainituin tavoin.
+#### D. Palkkaperusteiden korotus
+Työehtosopimuksen työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti palkankorotuksen ajankohdasta lukien. Nämä korotukset eivät aiheuta aika- ja suorituspalkkatyössä palkkojen korottamista yli yleiskorotuksen, mikäli työpalkat näillä yleisko- rotuksilla korotettuina täyttävät uuden työehtosopimuksen mää- räykset.
+#### E. Henkilökohtainen palkanosuus
 Sovittiin, että henkilökohtaiset palkanosuudet (hko) säilyvät yleiskorotuksen yhteydessä suhteellisesti entisen suuruisina.
-F. Keskituntiansion korotus
-Keskituntiansiota korotetaan työntekijän palkankorotuksen ver- ran palkantarkistusta seuraavan keskituntiansion käyttöajanjak- son alusta lukien.
- 38
+#### F. Keskituntiansion korotus
+Keskituntiansiota korotetaan työntekijän palkankorotuksen ver- ran palkantarkistusta seuraavan keskituntiansion käyttöajanjakson alusta lukien.
 
-Allekirjoituspöytäkirja
-3Palkkaluvut, erilliset lisät sekä pääluottamusmiehen ja työsuojeluvaltuutetun kuukausikorvaukset ennen nii- den korottamista
-Työehtosopimuksen mukaiset uudet työkohtaiset palkat, alle 18-vuotiaiden työntekijöiden ja opiskelijoiden palkat, erilliset li- sät sekä pääluottamusmiehen ja työsuojeluvaltuutetun kuukausi- korvaukset tulevat voimaan vasta työehtosopimuksessa erikseen sovitun ajankohdan jälkeen.
-4Työaikakysymykset
-Liitot käynnistävät kokeilun työaikamääräyksiin sekä työaikajär- jestelyihin liittyen. Kokeilu toteutetaan työehtosopimuskauden aikana, kuitenkin enintään vuoden 2024 loppuun saakka.
-Paikallisesti sopien voidaan työpaikalla poiketa työehtosopimuk- sen 19 luvun määräyksistä päivä- ja kaksivuorotyötä koskien. Osapuolten on kuitenkin kaikissa tapauksissa noudatettava eh- dottomia työaikalain säännöksiä.
+## 3 Palkkaluvut, erilliset lisät sekä pääluottamusmiehen ja työsuojeluvaltuutetun kuukausikorvaukset ennen niiden korottamista
+Työehtosopimuksen mukaiset uudet työkohtaiset palkat, alle 18-vuotiaiden työntekijöiden ja opiskelijoiden palkat, erilliset lisät sekä pääluottamusmiehen ja työsuojeluvaltuutetun kuukausikorvaukset tulevat voimaan vasta työehtosopimuksessa erikseen sovitun ajankohdan jälkeen.
+
+## 4 Työaikakysymykset
+Liitot käynnistävät kokeilun työaikamääräyksiin sekä työaikajärjestelyihin liittyen. Kokeilu toteutetaan työehtosopimuskauden aikana, kuitenkin enintään vuoden 2024 loppuun saakka.
+Paikallisesti sopien voidaan työpaikalla poiketa työehtosopimuksen 19 luvun määräyksistä päivä- ja kaksivuorotyötä koskien. Osapuolten on kuitenkin kaikissa tapauksissa noudatettava ehdottomia työaikalain säännöksiä.
 Jos paikallisessa sopimuksessa on poikettu työehtosopimuksen työaikamääräyksistä, sopimuksen keskeinen sisältö on saatettava liitoille tiedoksi ennen paikallisen sopimuksen käyttöönottoa.
-Kokeilun tarkoituksena on edistää työaikaratkaisuja, joilla tue- taan yrityksen tuottavuutta ja kilpailukykyä sekä työntekijöiden yksilöllisten työaikatarpeiden huomioon ottamista.
- 39
+Kokeilun tarkoituksena on edistää työaikaratkaisuja, joilla tuetaan yrityksen tuottavuutta ja kilpailukykyä sekä työntekijöiden yksilöllisten työaikatarpeiden huomioon ottamista.
+Sovittaessa paikallisesti työehtosopimuksen 19 luvun määräyksistä toisin, menetellään seuraavasti:
+• pääluottamusmies ja työnantajan edustaja sopivat kirjallisesti poikkeamisen yleisistä edellytyksistä (kehyssopimus) ja
+• työntekijä voi puolestaan sopia esimiehensä kanssa kirjallisesti kehyssopimuksen yksityiskohtaisesta toteuttamisesta.
+Liitot tarvittaessa avustavat uusien työaikajärjestelyjen käyttöönotossa ja tarkastelevat syksyllä 2023, onko kokeilun aikana olevien kokemusten tai muun valmistelun perusteella mahdollista sopia tarvittavista muutoksista voimassa olevaan työehtosopimukseen.
 
-Allekirjoituspöytäkirja
-Sovittaessa paikallisesti työehtosopimuksen 19 luvun määräyk- sistä toisin, menetellään seuraavasti:
-• pääluottamusmies ja työnantajan edustaja sopivat kirjalli- sesti poikkeamisen yleisistä edellytyksistä (kehyssopimus) ja
-• työntekijä voi puolestaan sopia esimiehensä kanssa kirjalli- sesti kehyssopimuksen yksityiskohtaisesta toteuttamisesta.
-Liitot tarvittaessa avustavat uusien työaikajärjestelyjen käyttöön- otossa ja tarkastelevat syksyllä 2023, onko kokeilun aikana ole- vien kokemusten tai muun valmistelun perusteella mahdollista sopia tarvittavista muutoksista voimassa olevaan työehtosopi- mukseen.
-5Työryhmät
+## 5 Työryhmät
 Liitot asettavat seuraavat työryhmät:
 • työaikakysymykset ja palkkamääräyksien kehittäminen
 • koulutustyöryhmä
 • kehittämistyöryhmä
 • yhteistoiminta ja paikallinen sopiminen
-6Pöytäkirjan tarkastaminen
+
+## 6 Pöytäkirjan tarkastaminen
 Sovittiin, että Jarkko Ruohoniemi, Riku Aalto ja Turja Lehtonen tarkastavat tämän pöytäkirjan.
- 40
-
-Tarkastettu
-Aapo Heikurainen
-Jarkko Ruohoniemi
-Riku Aalto
-Allekirjoituspöytäkirja
- Vakuudeksi
-Turja Lehtonen
-41
+Vakuuden on antanut Aapo Heikurainen.
+Tarkastettu Jarkko Ruohoniemen, Riku Aallon ja Turja Lehtosen toimesta. 
 
 Työehtosopimus
-TEKNOLOGIATEOLLISUUDEN TYÖNANTAJAT RY TEOLLISUUSLIITTO RY
-TYÖEHTOSOPIMUS
-TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÄT
-I YLEISIÄ SOPIMUSMÄÄRÄYKSIÄ
-1 SOPIMUKSEN SOVELTAMISALA
-Tämän työehtosopimuksen määräyksiä sovelletaan jäljempänä mainituin poikkeuksin Teknologiateollisuuden työnantajat ry:n jäsenyritysten ja niiden kaikkien työntekijöiden välisiin työsuh- teisiin.
-Teknologiayritykset voivat harjoittaa muun muassa metalli- en jalostusta, valmistavaa toimintaa tai toiminta voi olla niihin liittyvää tai pääasiallisesti palveluliiketoimintana harjoitettavaa koneiden, laitteiden, laitteistojen, järjestelmien tai vastaavien korjaus-, huolto- ja asennustoimintaa. Työehtosopimuksen so- veltaminen ei riipu työntekijän ammatista, vaan se kattaa muun muassa mekaaniset ja sähköalan työt.
-Mikäli joku teknologiateollisuutta harjoittava työnantaja har- joittaa muutakin teollisuutta, mutta kuuluu vain teknologiate- ollisuutta harjoittavien toimipaikkojen tai osastojen osalta Tek- nologiateollisuus ry:hyn, tätä sopimusta sovelletaan vain näiden toimipaikkojen tai osastojen työntekijöiden työsuhteisiin.
-Sopijaosapuolet sitoutuvat siihen, ettei tämän työehtosopimuk- sen soveltamispiiriin tehdä rinnakkaissopimuksia. Rinnakkaisso- pimuskielto ei estä tekemästä yrityskohtaisia työehtosopimuksia työnantajayhdistykseen järjestäytymättömien yritysten kanssa.
-42
- 
-Tätä sopimusta ei kuitenkaan sovelleta:
-• Teknologiateollisuus ry:n jäsenyhdistyksen Metalliteollisuu- denharjoittajain Liitto - MTHL:n Työnantajat ry:n rakennus- pelti- ja teollisuuseristysalan jäsenyritysten ja niiden työnte- kijöiden välisiin työsuhteisiin eikä
-• allekirjoittajaliittojen välisen malmikaivosten työehtosopi- muksen soveltamisalalla eikä
-• niissä yrityksissä, joissa sovelletaan Teollisuusliitto ry:n Teknisen huollon ja kunnossapidon työehtosopimusta.
-2 SOPIMUKSEN SITOVUUS JA NOUDATTAMISVELVOLLISUUS
+TEKNOLOGIATEOLLISUUDEN TYÖNANTAJAT RY 
+TEOLLISUUSLIITTO RY
+
+# TYÖEHTOSOPIMUS: TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÄT
+
+## I YLEISIÄ SOPIMUSMÄÄRÄYKSIÄ
+
+### 1 SOPIMUKSEN SOVELTAMISALA
+Tämän työehtosopimuksen määräyksiä sovelletaan jäljempänä mainituin poikkeuksin Teknologiateollisuuden työnantajat ry:n jäsenyritysten ja niiden kaikkien työntekijöiden välisiin työsuhteisiin.
+Teknologiayritykset voivat harjoittaa muun muassa metallien jalostusta, valmistavaa toimintaa tai toiminta voi olla niihin liittyvää tai pääasiallisesti palveluliiketoimintana harjoitettavaa koneiden, laitteiden, laitteistojen, järjestelmien tai vastaavien korjaus-, huolto- ja asennustoimintaa. Työehtosopimuksen soveltaminen ei riipu työntekijän ammatista, vaan se kattaa muun muassa mekaaniset ja sähköalan työt.
+Mikäli joku teknologiateollisuutta harjoittava työnantaja harjoittaa muutakin teollisuutta, mutta kuuluu vain teknologiateollisuutta harjoittavien toimipaikkojen tai osastojen osalta Teknologiateollisuus ry:hyn, tätä sopimusta sovelletaan vain näiden toimipaikkojen tai osastojen työntekijöiden työsuhteisiin.
+Sopijaosapuolet sitoutuvat siihen, ettei tämän työehtosopimuksen soveltamispiiriin tehdä rinnakkaissopimuksia. Rinnakkaissopimuskielto ei estä tekemästä yrityskohtaisia työehtosopimuksia työnantajayhdistykseen järjestäytymättömien yritysten kanssa.
+Tätä sopimusta ei kuitenkaan sovelleta Teknologiateollisuus ry:n jäsenyhdistyksen Metalliteollisuudenharjoittajain Liitto - MTHL:n Työnantajat ry:n rakennus- pelti- ja teollisuuseristysalan jäsenyritysten ja niiden työntekijöiden välisiin työsuhteisiin eikä allekirjoittajaliittojen välisen malmikaivosten työehtosopimuksen soveltamisalalla eikä niissä yrityksissä, joissa sovelletaan Teollisuusliitto ry:n Teknisen huollon ja kunnossapidon työehtosopimusta.
+
+### 2 SOPIMUKSEN SITOVUUS JA NOUDATTAMISVELVOLLISUUS
 Tämä työehtosopimus sitoo allekirjoittaneita liittoja ja niiden alayhdistyksiä sekä työnantajia ja työntekijöitä, jotka ovat tai sopimuksen voimassaoloaikana ovat olleet näiden yhdistysten jäseniä.
-Sopimukseen sidotut ovat velvolliset noudattamaan tätä sopi- musta ja huolehtimaan siitä, että niiden alaiset yhdistykset ja nii- hin kuuluvat työnantajat ja työntekijät eivät riko sen määräyksiä.
-3 TYÖRAUHAVELVOITE
-Liitot ja niiden alayhdistykset ovat velvolliset huolehtimaan sii- tä, etteivät niiden jäseninä olevat alayhdistykset, työnantajat tai työntekijät, joita sopimus koskee, ryhdy työtaistelutoimenpitei- siin eivätkä muutoinkaan riko työehtosopimuksen määräyksiä.
-Työehtosopimus
- 43
+Sopimukseen sidotut ovat velvolliset noudattamaan tätä sopi- musta ja huolehtimaan siitä, että niiden alaiset yhdistykset ja niihin kuuluvat työnantajat ja työntekijät eivät riko sen määräyksiä.
 
-Työehtosopimus
-3.1 Työrauhaa vaarantavat kiistat ja toimenpiteet niiden lopettamiseksi
+### 3 TYÖRAUHAVELVOITE
+Liitot ja niiden alayhdistykset ovat velvolliset huolehtimaan siitä, etteivät niiden jäseninä olevat alayhdistykset, työnantajat tai työntekijät, joita sopimus koskee, ryhdy työtaistelutoimenpiteisiin eivätkä muutoinkaan riko työehtosopimuksen määräyksiä.
+
+#### 3.1 Työrauhaa vaarantavat kiistat ja toimenpiteet niiden lopettamiseksi
 Liitot pyrkivät lisäksi yhdessä paikallisten osapuolten kanssa seuraavin menettelytavoin joko estämään työpaikoilla työrauhan rikkoutumisen tai palauttamaan työrauhan.
-3.1.1 Aloite liittojen toimenpiteiden käynnistämiseksi
-Työrauhan vaarantumiseen mahdollisesti johtava tai jo johtanut erimielisyys työpaikalla käynnistää liittojen välisen menettelyn joko
-• jommankumman liiton aloitteesta,
-• ammattiosastoa työpaikalla edustavan pääluottamusmiehen aloitteesta, jos pääluottamusmies arvioi, etteivät hän ja am- mattiosasto kykene estämään työtaistelutoimia taikka jos ammattiosasto on aikeissa itse niitä toteuttaa tai
-• työnantajan aloitteesta, jos tämän näkemyksen mukaan pai- kalliset keinot työrauhan takaamiseksi eivät ole riittävät.
-Paikallisen osapuolen aloite on saatettava työpaikalla toiselle tie- doksi. Tämän lisäksi aloite on toimitettava sekä Teknologiateol- lisuus ry:lle että Teollisuusliitto ry:lle.
-3.1.2 Toimenpiteet työrauhan rikkoutumisen estämiseksi
-A. Välittömät toimenpiteet
-Tilanteen edellyttämällä joutuisuudella, viimeistään 3 arkipäivän kuluessa aloitteen tekemisestä, liitot sekä työnantaja ja pääluot- tamusmies selvittävät tapauskohtaisesti tarpeellisiksi katsottavin yhteisin toimin
-• mihin työrauhaa vaarantava kiista kohdistuu ja
-• mitkä ovat muut työrauhan rikkoutumista uhkaavat syyt.
- 44
 
-Työehtosopimus
-Tilannearvion tarkoituksena on poistaa mahdolliset väärinkäsi- tykset toisen osapuolen vaikuttimista ja tavoitteista sekä väärät tulkinnat ja sovellukset työehdoista. Samalla ennakoidaan mah- dollisen työtaistelutoimen vaikutuksia työnantajalle ja työyhtei- sölle sekä työpaikan ulkopuolisiin tahoihin.
-Liitot antavat myös ennakkoarvionsa siitä, onko uhkaava työ- taistelutoimi työehtosopimuksen vastainen, ja saattavat kantansa paikallisille osapuolille tiedoksi.
-B. Erimielisyyden ratkaiseminen
-Paikalliset osapuolet voivat pyytää yhdessä liitoilta sovintoesi- tyksen tai sitovan ratkaisun työrauhaa vaarantavaan riitakysy- mykseen - tästä tarkemmin kohdassa 45.3.
-C. Toimintasuunnitelma neuvottelujärjestelmän toimivuuden pa- rantamiseksi
-Liittojen myötävaikutuksella laaditaan tarvittaessa paikallinen toimintasuunnitelma työrauhaa vaarantavien vastaisten kiistojen ja ristiriitatilanteiden estämiseksi sekä paikallisen neuvottelujär- jestelmän toimivuuden parantamiseksi.
-D. Työnantajan ja pääluottamusmiehen myötävaikutusvelvolli- suus
-Liittojen edustajilla on työrauhan rikkoutumisen estämiseksi oi- keus paikallisten osapuolten kuulemiseen parhaimmaksi katso- mallaan tavoin.
-3.1.3 Toimenpiteet jo alkaneen työtaistelutoimen lopettami- seksi
-Liitot voivat tapauskohtaisesti päättää ryhtyä työpaikalla jo alka- neen työtaistelutoimen rajoittamiseksi ja lopettamiseksi yhdessä työnantajan ja pääluottamusmiehen kesken pikaisiin toimiin.
- 45
+##### 3.1.1 Aloite liittojen toimenpiteiden käynnistämiseksi
+Työrauhan vaarantumiseen mahdollisesti johtava tai jo johtanut erimielisyys työpaikalla käynnistää liittojen välisen menettelyn joko jommankumman liiton aloitteesta, ammattiosastoa työpaikalla edustavan pääluottamusmiehen aloitteesta, jos pääluottamusmies arvioi, etteivät hän ja ammattiosasto kykene estämään työtaistelutoimia taikka jos ammattiosasto on aikeissa itse niitä toteuttaa tai työnantajan aloitteesta, jos tämän näkemyksen mukaan paikalliset keinot työrauhan takaamiseksi eivät ole riittävät.
+Paikallisen osapuolen aloite on saatettava työpaikalla toiselle tiedoksi. Tämän lisäksi aloite on toimitettava sekä Teknologiateollisuus ry:lle että Teollisuusliitto ry:lle.
 
-Työehtosopimus
-Liittojen edustajilla on työrauhan palauttamiseksi oikeus pai- kallisten osapuolten kuulemiseen parhaimmaksi katsomallaan tavoin.
-Työrauhan palauduttua voidaan soveltuvin osin noudattaa ala- kohdan 3.1.2 mukaista menettelyä.
-3.1.4 Työrauhavelvoitteen rikkomisesta tuomittavan hyvi- tyssakon määrä eräissä tapauksissa ja pidättäytymi- nen kanteesta työtuomioistuimessa
-Kiellettyyn työtaistelutoimeen ryhtymisestä ja valvontavelvol- lisuuden laiminlyömisestä voidaan työehtosopimuslain mukaan määrätä hyvityssakko.
-Liittojen näkemyksen mukaan hyvityssakon määrään vaikutta- vana, joko sitä korottavana tai alentavana, seikkana tulisi ottaa huomioon tässä kohdassa sovittujen seuraavien menettelysään- töjen rikkominen;
-• kieltäytyminen yhteistoiminnasta liittojen kanssa,
-• sitovan ratkaisun noudattamatta jättäminen taikka
-• laaditun toimintasuunnitelman rikkominen.
-Teknologiateollisuuden työnantajat ry sitoutuu olemaan ajamatta työtuomioistuimessa työrauhakannetta työtaistelutoimella uh- kaamisesta, jos alakohdan 3.1.2 mukaisessa menettelyssä liitot toteavat työnantajan työehtosopimusrikkeellään antaneen aiheen työtaistelulla uhkaamiseen tai alakohdan 3.1.2 mukainen menet- tely on kesken.
-4 ENNAKKOILMOITUS TYÖTAISTELUISTA
-Ennen poliittiseen tai myötätuntotyötaisteluun ryhtymistä siitä ilmoitetaan valtakunnansovittelijalle sekä työnantaja- tai työnte- kijäliitolle mahdollisuuksien mukaan vähintään neljä päivää ai- kaisemmin. Ilmoituksessa on mainittava aiotun työtaistelun syyt, alkamishetki ja laajuus.
-46
- 
-5 PERUSOIKEUDET
-Työnantajien ja työntekijöiden perusoikeuksiin kuuluva yhdisty- misvapaus on loukkaamaton. Työntekijöillä on oikeus perustaa ja toimia ammattiyhdistysorganisaatioissa, eikä heitä saa tämän johdosta irtisanoa tai syrjiä työssään.
-6 TYÖNJOHTO-OIKEUS
+##### 3.1.2 Toimenpiteet työrauhan rikkoutumisen estämiseksi
+
+###### A. Välittömät toimenpiteet
+Tilanteen edellyttämällä joutuisuudella, viimeistään 3 arkipäivän kuluessa aloitteen tekemisestä, liitot sekä työnantaja ja pääluottamusmies selvittävät tapauskohtaisesti tarpeellisiksi katsottavin yhteisin toimin mihin työrauhaa vaarantava kiista kohdistuu ja mitkä ovat muut työrauhan rikkoutumista uhkaavat syyt.
+Tilannearvion tarkoituksena on poistaa mahdolliset väärinkäsitykset toisen osapuolen vaikuttimista ja tavoitteista sekä väärät tulkinnat ja sovellukset työehdoista. Samalla ennakoidaan mahdollisen työtaistelutoimen vaikutuksia työnantajalle ja työyhteisölle sekä työpaikan ulkopuolisiin tahoihin.
+Liitot antavat myös ennakkoarvionsa siitä, onko uhkaava työtaistelutoimi työehtosopimuksen vastainen, ja saattavat kantansa paikallisille osapuolille tiedoksi.
+
+###### B. Erimielisyyden ratkaiseminen
+Paikalliset osapuolet voivat pyytää yhdessä liitoilta sovintoesityksen tai sitovan ratkaisun työrauhaa vaarantavaan riitakysymykseen. Tästä kerrotaan tarkemmin kohdassa 45.3.
+
+###### C. Toimintasuunnitelma neuvottelujärjestelmän toimivuuden parantamiseksi
+Liittojen myötävaikutuksella laaditaan tarvittaessa paikallinen toimintasuunnitelma työrauhaa vaarantavien vastaisten kiistojen ja ristiriitatilanteiden estämiseksi sekä paikallisen neuvottelujärjestelmän toimivuuden parantamiseksi.
+
+###### D. Työnantajan ja pääluottamusmiehen myötävaikutusvelvollisuus
+Liittojen edustajilla on työrauhan rikkoutumisen estämiseksi oikeus paikallisten osapuolten kuulemiseen parhaimmaksi katsomallaan tavoin.
+
+##### 3.1.3 Toimenpiteet jo alkaneen työtaistelutoimen lopettamiseksi
+Liitot voivat tapauskohtaisesti päättää ryhtyä työpaikalla jo alkaneen työtaistelutoimen rajoittamiseksi ja lopettamiseksi yhdessä työnantajan ja pääluottamusmiehen kesken pikaisiin toimiin.
+Liittojen edustajilla on työrauhan palauttamiseksi oikeus paikallisten osapuolten kuulemiseen parhaimmaksi katsomallaan tavoin.
+Työrauhan palauduttua voidaan soveltuvin osin noudattaa alakohdan 3.1.2 mukaista menettelyä.
+
+##### 3.1.4 Työrauhavelvoitteen rikkomisesta tuomittavan hyvityssakon määrä eräissä tapauksissa ja pidättäytyminen kanteesta työtuomioistuimessa
+Kiellettyyn työtaistelutoimeen ryhtymisestä ja valvontavelvollisuuden laiminlyömisestä voidaan työehtosopimuslain mukaan määrätä hyvityssakko.
+Liittojen näkemyksen mukaan hyvityssakon määrään vaikuttavana, joko sitä korottavana tai alentavana, seikkana tulisi ottaa huomioon tässä kohdassa sovittujen seuraavien menettelysääntöjen rikkominen: kieltäytyminen yhteistoiminnasta liittojen kanssa,
+sitovan ratkaisun noudattamatta jättäminen taikka laaditun toimintasuunnitelman rikkominen.
+Teknologiateollisuuden työnantajat ry sitoutuu olemaan ajamatta työtuomioistuimessa työrauhakannetta työtaistelutoimella uhkaamisesta, jos alakohdan 3.1.2 mukaisessa menettelyssä liitot toteavat työnantajan työehtosopimusrikkeellään antaneen aiheen työtaistelulla uhkaamiseen tai alakohdan 3.1.2 mukainen menettely on kesken.
+
+### 4 ENNAKKOILMOITUS TYÖTAISTELUISTA
+Ennen poliittiseen tai myötätuntotyötaisteluun ryhtymistä siitä ilmoitetaan valtakunnansovittelijalle sekä työnantaja- tai työntekijäliitolle mahdollisuuksien mukaan vähintään neljä päivää aikaisemmin. Ilmoituksessa on mainittava aiotun työtaistelun syyt, alkamishetki ja laajuus.
+
+### 5 PERUSOIKEUDET
+Työnantajien ja työntekijöiden perusoikeuksiin kuuluva yhdistymisvapaus on loukkaamaton. Työntekijöillä on oikeus perustaa ja toimia ammattiyhdistysorganisaatioissa, eikä heitä saa tämän johdosta irtisanoa tai syrjiä työssään.
+
+### 6 TYÖNJOHTO-OIKEUS
 Työnantajalla on oikeus ottaa toimeen ja erottaa työntekijä sekä määrätä työn johtamisesta.
-7 SOPIMUKSEN VOIMASSAOLO
-Tämä sopimus on voimassa 10.1.2022 lukien 30.11.2023 saakka ja jatkuu senkin jälkeen vuoden kerrallaan, ellei sitä viimeistään kahta kuukautta ennen sen päättymistä ole kummaltakaan puolel- ta kirjallisesti irtisanottu.
-Työehtosopimus on irtisanottavissa päättymään 30.11.2022, jos osapuolet eivät pääse sopimukseen vuoden 2023 palkkaratkaisun perälaudan kustannusvaikutuksesta ja toteutustavasta.
-Työehtosopimus
- 47
 
-Työehtosopimus
-II PALKKAUS
-Tarkista voimassa olevat palkkataulukot liittojen kotisivuilta www.teknologiatyonantajat.fi ja www.teollisuusliitto.fi. Pal- kankorotusajankohdista ja -määräyksistä katso Allekirjoi- tuspöytäkirja.
-Palkkausta koskevat määräykset perustuvat samapalkkaisuuspe- riaatteen toteuttamiseen. Tässä periaatteessa on kaksi osaa:
-- työnvaativuuden periaate eli vaativammasta työstä enem- män palkkaa kuin vähemmän vaativasta työstä ja
-- pätevyyden periaate eli paremmasta pätevyydestä enem- män palkkaa kuin vähäisemmästä pätevyydestä.
-Samapalkkaisuusperiaatteen toteuttamiseksi työntekijän perus- palkassa (pp) on kaksi osuutta, joista työkohtaisen palkanosuu- den (tko) määrää hänen tekemiensä töiden vaativuus ja henkilö- kohtaisen palkanosuuden (hko) hänen pätevyytensä.
-8 TYÖNVAATIVUUS JA TYÖKOHTAINEN PALKANOSUUS
-8.1 Työnvaativuus
-Työnvaativuuden määrityksen tarkoituksena on selvittää työpai- kalla tehtävien töiden ja työtehtävien keskinäiset vaativuudet. Määritetyn työnvaativuuden tulee vastata työn todellista vaati- vuutta. Työn ja työolosuhteiden muuttuessa määritetään työnvaa- tivuus uudelleen.
-Työntekijöiden edustajilla on oikeus osallistua työnvaativuuden määritykseen. Työnantajan tulee antaa työntekijöille riittävä sel- vitys työnvaativuuden määritystavasta ja määrityksessä nouda- tettavista periaatteista.
-48
- 
-8.1.1 Työnvaativuuden määritystavat
+### 7 SOPIMUKSEN VOIMASSAOLO
+Tämä sopimus on voimassa 10.1.2022 alkaen 30.11.2023 saakka ja jatkuu senkin jälkeen vuoden kerrallaan, ellei sitä viimeistään kahta kuukautta ennen sen päättymistä ole kummaltakaan puolelta kirjallisesti irtisanottu.
+Työehtosopimus on irtisanottavissa päättymään 30.11.2022, jos osapuolet eivät pääse sopimukseen vuoden 2023 palkkaratkaisun perälaudan kustannusvaikutuksesta ja toteutustavasta.
+
+## II PALKKAUS
+Tarkista voimassa olevat palkkataulukot liittojen kotisivuilta www.teknologiatyonantajat.fi ja www.teollisuusliitto.fi. Palkankorotusajankohdista ja -määräyksistä katso Allekirjoituspöytäkirja.
+Palkkausta koskevat määräykset perustuvat samapalkkaisuusperiaatteen toteuttamiseen. Tässä periaatteessa on kaksi osaa: Ensimmäinen samanpalkkaisuusperiaatteen osa on työnvaativuuden periaate eli vaativammasta työstä maksetaan enemmän palkkaa kuin vähemmän vaativasta työstä. Toinen samanpalkkaisuusperiaatteen osa on pätevyyden periaate eli paremmasta pätevyydestä maksetaan enemmän palkkaa kuin vähäisemmästä pätevyydestä.
+Samapalkkaisuusperiaatteen toteuttamiseksi työntekijän peruspalkassa (pp) on kaksi osuutta, joista työkohtaisen palkanosuuden (tko) määrää hänen tekemiensä töiden vaativuus ja henkilökohtaisen palkanosuuden (hko) hänen pätevyytensä.
+
+### 8 TYÖNVAATIVUUS JA TYÖKOHTAINEN PALKANOSUUS
+
+#### 8.1 Työnvaativuus
+Työnvaativuuden määrityksen tarkoituksena on selvittää työpaikalla tehtävien töiden ja työtehtävien keskinäiset vaativuudet. Määritetyn työnvaativuuden tulee vastata työn todellista vaativuutta. Työn ja työolosuhteiden muuttuessa määritetään työnvaativuus uudelleen.
+Työntekijöiden edustajilla on oikeus osallistua työnvaativuuden määritykseen. Työnantajan tulee antaa työntekijöille riittävä selvitys työnvaativuuden määritystavasta ja määrityksessä noudatettavista periaatteista.
+
+##### 8.1.1 Työnvaativuuden määritystavat
 Työpaikalla käytetään vain yhtä määritystapaa. Työnvaativuuden määritystavat ovat:
 1. Töiden vaativuusryhmittely (TVR)
 2. Karkearyhmittely (KR)
 3. Muu työnvaativuuden määritystapa
-Karkearyhmittelyn tai muun työnvaativuuden määritystavan käyttämisestä sovitaan paikallisesti. Paikallinen sopimus voidaan perustellusta syystä irtisanoa kuuden kuukauden irtisanomisajal- la.
-8.1.2 Töiden vaativuusryhmittely (TVR)
-Töiden vaativuusryhmittelyssä työnvaativuus määritetään seu- raavien vaativuustekijöiden perusteella:
-Työn vaatima oppimisaika
-Oppimisajalla tarkoitetaan sitä aikaa, jonka kuluessa työn vaatima suoritusvarmuus, normaali suoritustaso ja työnku- lun edellyttämä harkinta keskimäärin saavutetaan. Oppi- misaika määritetään työkohtaisesti selvittämällä, mikä on tarpeellisen koulutuksen ja käytännön kokemuksen vaati- ma aika.
-Työn edellyttämä vastuu
-Työn edellyttämällä vastuulla tarkoitetaan sitä vastuuta, joka työntekijälle aiheutuu työn itsenäisyydestä, turvalli- suudesta, tuotteesta tai suoritteesta ja työvälineistä.
-Työolosuhteet
+Karkearyhmittelyn tai muun työnvaativuuden määritystavan käyttämisestä sovitaan paikallisesti. Paikallinen sopimus voidaan perustellusta syystä irtisanoa kuuden kuukauden irtisanomisajalla.
+
+##### 8.1.2 Töiden vaativuusryhmittely (TVR)
+Töiden vaativuusryhmittelyssä työnvaativuus määritetään seuraavien vaativuustekijöiden perusteella, joita ovat työn vaatima oppimisaika, työn edellyttämä vastuu ja työolosuhteet.
+
+###### Työn vaatima oppimisaika
+Oppimisajalla tarkoitetaan sitä aikaa, jonka kuluessa työn vaatima suoritusvarmuus, normaali suoritustaso ja työnkulun edellyttämä harkinta keskimäärin saavutetaan. Oppimisaika määritetään työkohtaisesti selvittämällä, mikä on tarpeellisen koulutuksen ja käytännön kokemuksen vaatima aika.
+
+###### Työn edellyttämä vastuu
+Työn edellyttämällä vastuulla tarkoitetaan sitä vastuuta, joka työntekijälle aiheutuu työn itsenäisyydestä, turvallisuudesta, tuotteesta tai suoritteesta ja työvälineistä.
+
+###### Työolosuhteet
 Työolosuhteilla tarkoitetaan niitä työssä esiintyviä haittate- kijöitä, jotka aiheutuvat kuormituksesta; työn raskaudesta, yksitoikkoisuudesta, sidonnaisuudesta ja olosuhteista; me- lusta, lämpötilasta, likaisuudesta ja ilman epäpuhtauksista.
-Työehtosopimus
- 49
 
-Työehtosopimus
-Vaativuustekijöiden porrastus ja pisteytys tehdään palkkaraken- teen koulutusaineistossa esitetyllä tavalla.
-Työnvaativuustyöryhmä
-Ohjetöiden vaativuudet määrittelee työpaikan olosuhteet ja työt tunteva työryhmä. Työryhmän jäsenet saavat tehtäväänsä liittojen sopiman koulutuksen. Työryhmä toimii työnvaativuuteen liitty- vien ylläpito- ja seurantakysymyksien asiantuntijaryhmänä. Ryh- mä kokoontuu tarvittaessa, kuitenkin vähintään kerran vuodessa.
+Vaativuustekijöiden porrastus ja pisteytys tehdään palkkarakenteen koulutusaineistossa esitetyllä tavalla.
+
+###### Työnvaativuustyöryhmä
+Ohjetöiden vaativuudet määrittelee työpaikan olosuhteet ja työt tunteva työryhmä. Työryhmän jäsenet saavat tehtäväänsä liittojen sopiman koulutuksen. Työryhmä toimii työnvaativuuteen liittyvien ylläpito- ja seurantakysymyksien asiantuntijaryhmänä. Ryhmä kokoontuu tarvittaessa, kuitenkin vähintään kerran vuodessa.
+
 Muiden töiden vaativuuden määrittelee työnantaja vertailemalla niitä ohjetöihin.
-Työkohtaiset tunti- ja kuukausipalkat
-Käytettäessä yhdeksää työnvaativuusryhmää työkohtaiset palkat ovat työehtosopimuksen voimaan tullessa seuraavat:
-  Työnvaativuus- ryhmä
- Työkohtainen tuntipalkka senttiä/tunti
- Työkohtainen kuukausipalkka euroa/kuukausi
-  Palkka- ryhmä
- 1     930
-2 977
-3 1025
-4 1077
-5 1130
-6 1187
-7 1246
-8 1309
-9 1374
-1621 C 1702 C 1787 C 1877 B 1970 B 2069 B 2172 A 2281 A 2395 A
-         50
 
-Työehtosopimus
+###### Työkohtaiset tunti- ja kuukausipalkat
+Käytettäessä yhdeksää työnvaativuusryhmää työkohtaiset palkat ovat työehtosopimuksen voimaan tullessa eli 10.1.2022 alkaen seuraavat:
+Työnvaativuusryhmä 1: työkohtainen tuntipalkka 930 senttiä/tunti, työkohtainen kuukausipalkka 1621 euroa/kuukausi, palkkaryhmä C.
+Työnvaativuusryhmä 2: työkohtainen tuntipalkka 977 senttiä/tunti, työkohtainen kuukausipalkka 1702 euroa/kuukausi, palkkaryhmä C.
+Työnvaativuusryhmä 3: työkohtainen tuntipalkka 1025 senttiä/tunti, työkohtainen kuukausipalkka 1787 euroa/kuukausi, palkkaryhmä C.
+Työnvaativuusryhmä 4: työkohtainen tuntipalkka 1077 senttiä/tunti, työkohtainen kuukausipalkka 1877 euroa/kuukausi, palkkaryhmä B.
+Työnvaativuusryhmä 5: työkohtainen tuntipalkka 1130 senttiä/tunti, työkohtainen kuukausipalkka 1970 euroa/kuukausi, palkkaryhmä B.
+Työnvaativuusryhmä 6: työkohtainen tuntipalkka 1187 senttiä/tunti, työkohtainen kuukausipalkka 2069 euroa/kuukausi, palkkaryhmä B.
+Työnvaativuusryhmä 7: työkohtainen tuntipalkka 1246 senttiä/tunti, työkohtainen kuukausipalkka 2172 euroa/kuukausi, palkkaryhmä A.
+Työnvaativuusryhmä 8: työkohtainen tuntipalkka 1309 senttiä/tunti, työkohtainen kuukausipalkka 2281 euroa/kuukausi, palkkaryhmä A.
+Työnvaativuusryhmä 9: työkohtainen tuntipalkka 1309 senttiä/tunti, työkohtainen kuukausipalkka 2395 euroa/kuukausi, palkkaryhmä A.
+
 Käytettäessä yhdeksää työnvaativuusryhmää työkohtaiset palkat ovat 1.3.2022 alkaen seuraavat:
-  Työnvaativuus- ryhmä
- Työkohtainen tuntipalkka senttiä/tunti
- Työkohtainen kuukausipalkka euroa/kuukausi
-  Palkka- ryhmä
- 1     949
-2 996
-3 1046
-4 1099
-5 1154
-6 1211
-7 1272
-8 1335
-9 1402
-1654 C 1737 C 1824 C 1915 B 2010 B 2111 B 2217 A 2327 A 2444 A
-         Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti pal- kankorotuksen ajankohdasta lukien.
-Työnvaativuusryhmien lukumäärä on yhdeksän, ellei paikallises- ti sovita toisin. Tällöin työkohtaisten palkkojen alarajana käy- tetään työnvaativuusryhmä 1 työkohtaista palkkaa ja ylärajana työnvaativuusryhmä 9 työkohtaista palkkaa.
-8.1.3 Karkearyhmittely (KR)
-Karkearyhmittelyn käyttämisestä sovitaan paikallisesti.
-Vaativuusryhmät
-Töille määritetään vaativuusryhmät seuraavien määritelmien pe- rusteella:
-I Työt, jotka edellyttävät lyhyehköä käytännön kokemusta, normaalia vastuuta ja jotka tehdään tavanmukaisissa työti- loissa.
-51
+Työnvaativuusryhmä 1: työkohtainen tuntipalkka 949 senttiä/tunti, työkohtainen kuukausipalkka 1654 euroa/kuukausi, palkkaryhmä C.
+Työnvaativuusryhmä 2: työkohtainen tuntipalkka 996 senttiä/tunti, työkohtainen kuukausipalkka 1737 euroa/kuukausi, palkkaryhmä C.
+Työnvaativuusryhmä 3: työkohtainen tuntipalkka 1046 senttiä/tunti, työkohtainen kuukausipalkka 1824 euroa/kuukausi, palkkaryhmä C.
+Työnvaativuusryhmä 4: työkohtainen tuntipalkka 1099 senttiä/tunti, työkohtainen kuukausipalkka 1915 euroa/kuukausi, palkkaryhmä B.
+Työnvaativuusryhmä 5: työkohtainen tuntipalkka 1154 senttiä/tunti, työkohtainen kuukausipalkka 2010 euroa/kuukausi, palkkaryhmä B.
+Työnvaativuusryhmä 6: työkohtainen tuntipalkka 1211 senttiä/tunti, työkohtainen kuukausipalkka 2111 euroa/kuukausi, palkkaryhmä B.
+Työnvaativuusryhmä 7: työkohtainen tuntipalkka 1272 senttiä/tunti, työkohtainen kuukausipalkka 2217 euroa/kuukausi, palkkaryhmä A.
+Työnvaativuusryhmä 8: työkohtainen tuntipalkka 1335 senttiä/tunti, työkohtainen kuukausipalkka 2327 euroa/kuukausi, palkkaryhmä A.
+Työnvaativuusryhmä 9: työkohtainen tuntipalkka 1402 senttiä/tunti, työkohtainen kuukausipalkka 2444 euroa/kuukausi, palkkaryhmä A.
 
-Työehtosopimus
-II Työt, jotka edellyttävät normaalia ammattitaitoa ja melkoista vastuuta työn sujumisesta, sekä vaikeissa olosuhteissa tehtä- vät lyhyehköä kokemusta edellyttävät työt.
-III Työt, jotka edellyttävät monipuolista ja hyvää ammattitaitoa ja suurta vastuuta työn sujumisesta. Hyvää ammattitaitoa ja melkoista vastuuta edellyttävät työt vaikeahkoissa työolo- suhteissa. Tähän ryhmään kuuluvat myös vaikeissa olosuh- teissa tehtävät normaalia ammattitaitoa ja melkoista vastuuta edellyttävät työt.
-Työkohtaiset tunti- ja kuukausipalkat
+Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti palkankorotuksen ajankohdasta lukien.
+
+Työnvaativuusryhmien lukumäärä on yhdeksän, ellei paikallises- ti sovita toisin. Tällöin työkohtaisten palkkojen alarajana käy- tetään työnvaativuusryhmä 1 työkohtaista palkkaa ja ylärajana työnvaativuusryhmä 9 työkohtaista palkkaa.
+
+##### 8.1.3 Karkearyhmittely (KR)
+Karkearyhmittelyn käyttämisestä sovitaan paikallisesti.
+
+###### Vaativuusryhmät
+Töille määritetään vaativuusryhmät seuraavien määritelmien perusteella:
+I Työt, jotka edellyttävät lyhyehköä käytännön kokemusta, normaalia vastuuta ja jotka tehdään tavanmukaisissa työtiloissa.
+II Työt, jotka edellyttävät normaalia ammattitaitoa ja melkoista vastuuta työn sujumisesta, sekä vaikeissa olosuhteissa tehtävät lyhyehköä kokemusta edellyttävät työt.
+III Työt, jotka edellyttävät monipuolista ja hyvää ammattitaitoa ja suurta vastuuta työn sujumisesta. Hyvää ammattitaitoa ja melkoista vastuuta edellyttävät työt vaikeahkoissa työolosuhteissa. Tähän ryhmään kuuluvat myös vaikeissa olosuhteissa tehtävät normaalia ammattitaitoa ja melkoista vastuuta edellyttävät työt.
+
+###### Työkohtaiset tunti- ja kuukausipalkat
 Työkohtaiset palkat ovat työnvaativuusryhmittäin työehtosopi- muksen voimaan tullessa seuraavat:
   Työn- vaativuus- ryhmä
    Työkohtainen tuntipalkka senttiä/tunti
