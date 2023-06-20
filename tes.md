@@ -206,7 +206,8 @@ TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÄT
 #### 47.2 Yhteinen koulutus
 #### 47.3 Ay-koulutus, työsuhteen säilyminen ja ilmoitusajat
 #### 47.4 Tutkintotavoitteiseen koulutukseen liittyvä työharjoittelu ja koulutussopimukseen perustuva koulutus
-# OHJEITA PAIKALLISEN SOPIMISEN TUEKSI
+# Paikallinen sopiminen 
+## OHJEITA PAIKALLISEN SOPIMISEN TUEKSI
 
 # TYÖEHTOSOPIMUKSEN ALLEKIRJOITUSPÖYTÄKIRJA
 Aika: 10.1.2022 
@@ -2171,533 +2172,330 @@ Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumää
 
 Yllä oleva pääluottamusmiehen työstä vapauttamisen määrää osoittava taulukko perustuu normaalipituiseen viikkotyöaikaan.
 
-B. Luottamusmiehen säännöllinen vapautus työstä
-Mikäli luottamusmiehen toimialueella työskentelee säännönmu- kaisesti vähintään 75 työntekijää, järjestetään hänelle vapautusta työstä. Vapautuksen määrä on sataa työntekijää kohti kahdeksan tuntia neljän viikon jaksossa.
+###### B. Luottamusmiehen säännöllinen vapautus työstä
+Mikäli luottamusmiehen toimialueella työskentelee säännönmukaisesti vähintään 75 työntekijää, järjestetään hänelle vapautusta työstä. Vapautuksen määrä on sataa työntekijää kohti kahdeksan tuntia neljän viikon jaksossa:
+
 työntekijämäärä x 8 t = vapautus tunteina/4 viikon jakso 100
-C. Vapautuksen pituuden vahvistaminen
-Luottamusmiehelle myönnettävän työstä vapautuksen pituutta vahvistettaessa todetaan työpaikan työntekijöiden lukumäärä sekä työpaikalla toteamisvuoden aikana työskennelleiden vuok- ratyöntekijöiden keskimääräinen lukumäärä, jos se on tarkastelu- jakson aikana keskimäärin ollut vähintään 20 henkilöä, välittö- mästi ennen luottamusmiesvaaleja sekä vastaavana ajankohtana vuoden kuluttua vaalien jälkeen. Näin todetun vapautuksen pi- tuutta noudatetaan seuraavaan tarkistukseen saakka.
-D. Luottamusmies- ja työsuojelutehtävien yhdistäminen
-Jos luottamusmies- ja työsuojelutehtävät on yhdistetty samalle henkilölle, tämä otetaan lisäävänä tekijänä huomioon työstä va- pautuksen pituudesta sovittaessa.
-43.4.4 Ansionmenetyksen korvaaminen ja kuukausikorvaus
-A. Ansionmenetyksen korvaaminen
-Työnantaja korvaa ansion, jonka luottamusmies menettää työ- aikana paikallisissa neuvotteluissa työnantajan edustajan kanssa tai toimiessaan muuten työnantajan kanssa sovituissa tehtävissä. Ansiolla tarkoitetaan luottamusmiehen keskituntiansiota ilman yli- ja sunnuntaityökorvauksia.
-  172
 
-Työehtosopimus
-B. Työstä kokonaan vapautetun pääluottamusmiehen palkka
-Työstä kokonaan vapautetun pääluottamusmiehen palkka mää- räytyy työpaikan työntekijöille maksettavien 20 korkeimman aika- tai suorituspalkan keskiarvon perusteella. Kahtakymmen- tä korkeinta palkkaa määriteltäessä ei kuitenkaan oteta huomi- oon työpaikan yleisen ansiotason olennaisesti ylittäviä palkkoja. Pääluottamusmiehen palkan tarkistaminen tehdään alakohdassa 43.4.3 mainittuina ajankohtina, jolloin hänelle myönnettävän va- pautuksen pituus vahvistetaan.
-C. Työajan ulkopuoliset tehtävät
-Jos pääluottamusmies suorittaa työnantajan kanssa sovittuja tehtäviä säännöllisen työaikansa ulkopuolella, maksetaan tästä ajasta ylityökorvaus siltä osin kuin siitä työnantajan ja pääluotta- musmiehen välillä sovitaan.
-D. Kuukausikorvaus
+###### C. Vapautuksen pituuden vahvistaminen
+Luottamusmiehelle myönnettävän työstä vapautuksen pituutta vahvistettaessa todetaan työpaikan työntekijöiden lukumäärä sekä työpaikalla toteamisvuoden aikana työskennelleiden vuokratyöntekijöiden keskimääräinen lukumäärä, jos se on tarkastelujakson aikana keskimäärin ollut vähintään 20 henkilöä, välittömästi ennen luottamusmiesvaaleja sekä vastaavana ajankohtana vuoden kuluttua vaalien jälkeen. Näin todetun vapautuksen pituutta noudatetaan seuraavaan tarkistukseen saakka.
+
+###### D. Luottamusmies- ja työsuojelutehtävien yhdistäminen
+Jos luottamusmies- ja työsuojelutehtävät on yhdistetty samalle henkilölle, tämä otetaan lisäävänä tekijänä huomioon työstä vapautuksen pituudesta sovittaessa.
+
+##### 43.4.4 Ansionmenetyksen korvaaminen ja kuukausikorvaus
+
+###### A. Ansionmenetyksen korvaaminen
+Työnantaja korvaa ansion, jonka luottamusmies menettää työaikana paikallisissa neuvotteluissa työnantajan edustajan kanssa tai toimiessaan muuten työnantajan kanssa sovituissa tehtävissä. Ansiolla tarkoitetaan luottamusmiehen keskituntiansiota ilman yli- ja sunnuntaityökorvauksia.
+
+###### B. Työstä kokonaan vapautetun pääluottamusmiehen palkka
+Työstä kokonaan vapautetun pääluottamusmiehen palkka määräytyy työpaikan työntekijöille maksettavien 20 korkeimman aika- tai suorituspalkan keskiarvon perusteella. Kahtakymmentä korkeinta palkkaa määriteltäessä ei kuitenkaan oteta huomioon työpaikan yleisen ansiotason olennaisesti ylittäviä palkkoja. Pääluottamusmiehen palkan tarkistaminen tehdään alakohdassa 43.4.3 mainittuina ajankohtina, jolloin hänelle myönnettävän vapautuksen pituus vahvistetaan.
+
+###### C. Työajan ulkopuoliset tehtävät
+Jos pääluottamusmies suorittaa työnantajan kanssa sovittuja tehtäviä säännöllisen työaikansa ulkopuolella, maksetaan tästä ajasta ylityökorvaus siltä osin kuin siitä työnantajan ja pääluottamusmiehen välillä sovitaan.
+
+###### D. Kuukausikorvaus
 Pääluottamusmiehelle maksetaan ansionmenetyksen korvauksen lisäksi korvausta kuukausittain seuraavasti:
-10 - 19     79 81
- Työpaikan työntekijöiden sekä vuokratyöntekijöi- den (ks. 43.4.3 kohta C) lukumäärä
- Korvaus TES:n voimaan tulles- sa euroa/kk
- Korvaus 1.3.2022 alkaen euroa/kk
-   20 - 49
-50 - 99
-100 - 149
-150 - 199
-200 - 249
-250 - 399
-400- 221 225
-87 89
- 94 96 112 114 135 138 158 161 185 189
-       173
+Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. 43.4.3 kohta C) lukumäärä 10-19, korvaus työehtosopimuksen voimaan tullessa 79 euroa/kk ja 1.3.2022 alkaen 81 euroa/kk.
+Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. 43.4.3 kohta C) lukumäärä 20-49, korvaus työehtosopimuksen voimaan tullessa 87 euroa/kk ja 1.3.2022 alkaen 89 euroa/kk.
+Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. 43.4.3 kohta C) lukumäärä 50-99, korvaus työehtosopimuksen voimaan tullessa 112 euroa/kk ja 1.3.2022 alkaen 114 euroa/kk.
+Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. 43.4.3 kohta C) lukumäärä 150-199, korvaus työehtosopimuksen voimaan tullessa 135 euroa/kk ja 1.3.2022 alkaen 138 euroa/kk.
+Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. 43.4.3 kohta C) lukumäärä 200-249, korvaus työehtosopimuksen voimaan tullessa 158 euroa/kk ja 1.3.2022 alkaen 161 euroa/kk.
+Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. 43.4.3 kohta C) lukumäärä 250-399, korvaus työehtosopimuksen voimaan tullessa 185 euroa/kk ja 1.3.2022 alkaen 189 euroa/kk.
+Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. 43.4.3 kohta C) lukumäärä yli 400, korvaus työehtosopimuksen voimaan tullessa 221 euroa/kk ja 1.3.2022 alkaen 225 euroa/kk.
 
-Työehtosopimus
-Työnantaja ja pääluottamusmies voivat sopia toisin pääluotta- musmiehelle maksettavasta kuukausikorvauksesta.
-Jos pääluottamusmiehen varamies hoitaa pääluottamusmiesteh- täviä vähintään kahden viikon ajan, maksetaan kuukausikorvaus tältä ajalta hänelle.
+Työnantaja ja pääluottamusmies voivat sopia toisin pääluottamusmiehelle maksettavasta kuukausikorvauksesta.
+
+Jos pääluottamusmiehen varamies hoitaa pääluottamusmiestehtäviä vähintään kahden viikon ajan, maksetaan kuukausikorvaus tältä ajalta hänelle.
+
 Mikäli yrityksessä ei ole toimintaa lomautuksen, vuosiloman tai näihin verrattavien muiden syiden vuoksi, ei kuukausikorvausta makseta.
-E. Luottamusmies- ja työsuojelutehtävien yhdistäminen
-Mikäli luottamusmies- ja työsuojelutehtävät on yhdistetty samal- le henkilölle, tämä otetaan lisäävänä tekijänä huomioon hänelle maksettavan kuukausikorvauksen määrästä sovittaessa.
-43.4.5 Luottamusmiehen koulutus
+
+###### E. Luottamusmies- ja työsuojelutehtävien yhdistäminen
+Mikäli luottamusmies- ja työsuojelutehtävät on yhdistetty samalle henkilölle, tämä otetaan lisäävänä tekijänä huomioon hänelle maksettavan kuukausikorvauksen määrästä sovittaessa.
+
+##### 43.4.5 Luottamusmiehen koulutus
 Koulutukseen osallistumisesta on sovittu luvussa 47.
-43.4.6 Tarvikkeiden säilyttäminen, toimitila ja toimisto- välineiden käyttö
-Työnantaja järjestää pääluottamusmiehelle tarkoituksenmukai- sen paikan luottamustehtävien edellyttämien tarvikkeiden säilyt- tämiseen. Mikäli pääluottamusmiehellä on säännöllistä vapau- tusta työstä vähintään 56 tuntia 4 viikon jaksoa kohti, työnantaja järjestää tarkoituksenmukaisen tilan, jossa voidaan käydä luotta- musmiestehtävien hoitamista varten välttämättömät keskustelut.
-Pääluottamusmies voi tarvittaessa käyttää yrityksen puhelinta ja muita tavanomaisia toimistovälineitä. Toimistovälineiden, tieto- teknisten laitteiden ja ohjelmistojen käyttö ja käytännön järjeste- lyt toteutetaan yhteisesti sovittavalla tavalla.
- 174
 
-43.4.7 Työntekijöiden töihin perehdytys
-Uuden työntekijän perehdyttämiseen sisällytetään myös työpai- kan pääluottamusmiehen ja työsuojeluvaltuutetun esittely. Jos työpaikalla on käytössä erillinen perehdytysohjelma, annetaan pääluottamusmiehelle ja työsuojeluvaltuutetulle mahdollisuus esitellä työpaikan yhteistoimintajärjestelmiä ja muita heille kuu- luvia tehtäviä vastuidensa mukaisesti.
-43.5 Luottamusmiestehtävän hoitamisen vaikutukset työsuhteeseen, työtehtäviin ja palkkaan
-A. Työsuhde
-Luottamusmies on työsuhteessaan työnantajaan samassa ase- massa riippumatta siitä, hoitaako hän luottamustehtäviään oman työnsä ohella vai onko hänelle annettu osittain tai kokonaan va- pautusta työnteosta. Hän on velvollinen noudattamaan yleisiä työehtoja, työaikoja ja työnjohdon määräyksiä sekä muita järjes- tysmääräyksiä.
-B. Ammatillinen kehittyminen
-Luottamusmiehen mahdollisuuksia kehittyä ja edetä ammatis- saan ei saa heikentää luottamusmiestehtävän takia.
-C. Ansio- ja siirtosuoja
-Jos pääluottamusmieheksi valitun henkilön varsinainen työ vai- keuttaa pääluottamusmiehen tehtävien hoitamista, on hänelle jär- jestettävä muuta työtä. Tällainen järjestely ei saa aiheuttaa hänen ansionsa alentumista. Muuta työtä järjestettäessä otetaan huomi- oon työpaikan olosuhteet ja pääluottamusmiehen ammattitaito.
-Työehtosopimus
- 175
+##### 43.4.6 Tarvikkeiden säilyttäminen, toimitila ja toimistovälineiden käyttö
+Työnantaja järjestää pääluottamusmiehelle tarkoituksenmukaisen paikan luottamustehtävien edellyttämien tarvikkeiden säilyttämiseen. Mikäli pääluottamusmiehellä on säännöllistä vapautusta työstä vähintään 56 tuntia 4 viikon jaksoa kohti, työnantaja järjestää tarkoituksenmukaisen tilan, jossa voidaan käydä luottamusmiestehtävien hoitamista varten välttämättömät keskustelut.
 
-Työehtosopimus
-Luottamusmiehenä toimivaa työntekijää ei saa siirtää alempi- palkkaiseen työhön kuin missä hän oli luottamusmieheksi vali- tuksi tullessaan.
-D. Pääluottamusmiehen ansiokehitys
-Osittain työstä vapautetun pääluottamusmiehen ansiokehityksen tulee vastata hänen toimialueensa muiden, vaativuudeltaan vas- taavissa töissä työskentelevien työntekijöiden ansionkehitystä. Ansiokehitys tarkistetaan vuosittain.
-E. Ammattitaidon ylläpitäminen
-Pääluottamusmiehen luottamusmiestehtävän päättymisen jälkeen tulee hänen ja työnantajan yhteisesti selvittää, edellyttääkö työn- tekijän ammattitaidon ylläpitäminen entiseen tai sitä vastaavaan työhön ammatillista koulutusta. Koulutuksen sisältöä ratkaista- essa kiinnitetään huomiota työstä vapautukseen, luottamusmies- kauden kestoon ja sinä aikana tapahtuneisiin työmenetelmien muutoksiin. Työnantaja järjestää koulutuksen.
-Pääluottamusmiestehtävän päätyttyä työntekijän palkka määräy- tyy sen työn mukaan, jota hän tekee.
-43.6 Luottamusmiehen työsuhdeturva
+Pääluottamusmies voi tarvittaessa käyttää yrityksen puhelinta ja muita tavanomaisia toimistovälineitä. Toimistovälineiden, tietoteknisten laitteiden ja ohjelmistojen käyttö ja käytännön järjestelyt toteutetaan yhteisesti sovittavalla tavalla.
+
+##### 43.4.7 Työntekijöiden töihin perehdytys
+Uuden työntekijän perehdyttämiseen sisällytetään myös työpaikan pääluottamusmiehen ja työsuojeluvaltuutetun esittely. Jos työpaikalla on käytössä erillinen perehdytysohjelma, annetaan pääluottamusmiehelle ja työsuojeluvaltuutetulle mahdollisuus esitellä työpaikan yhteistoimintajärjestelmiä ja muita heille kuuluvia tehtäviä vastuidensa mukaisesti.
+
+#### 43.5 Luottamusmiestehtävän hoitamisen vaikutukset työsuhteeseen, työtehtäviin ja palkkaan
+
+###### A. Työsuhde
+Luottamusmies on työsuhteessaan työnantajaan samassa asemassa riippumatta siitä, hoitaako hän luottamustehtäviään oman työnsä ohella vai onko hänelle annettu osittain tai kokonaan vapautusta työnteosta. Hän on velvollinen noudattamaan yleisiä työehtoja, työaikoja ja työnjohdon määräyksiä sekä muita järjestysmääräyksiä.
+
+###### B. Ammatillinen kehittyminen
+Luottamusmiehen mahdollisuuksia kehittyä ja edetä ammatissaan ei saa heikentää luottamusmiestehtävän takia.
+
+###### C. Ansio- ja siirtosuoja
+Jos pääluottamusmieheksi valitun henkilön varsinainen työ vaikeuttaa pääluottamusmiehen tehtävien hoitamista, on hänelle järjestettävä muuta työtä. Tällainen järjestely ei saa aiheuttaa hänen ansionsa alentumista. Muuta työtä järjestettäessä otetaan huomioon työpaikan olosuhteet ja pääluottamusmiehen ammattitaito.
+
+Luottamusmiehenä toimivaa työntekijää ei saa siirtää alempipalkkaiseen työhön kuin missä hän oli luottamusmieheksi valituksi tullessaan.
+
+###### D. Pääluottamusmiehen ansiokehitys
+Osittain työstä vapautetun pääluottamusmiehen ansiokehityksen tulee vastata hänen toimialueensa muiden, vaativuudeltaan vastaavissa töissä työskentelevien työntekijöiden ansionkehitystä. Ansiokehitys tarkistetaan vuosittain.
+
+###### E. Ammattitaidon ylläpitäminen
+Pääluottamusmiehen luottamusmiestehtävän päättymisen jälkeen tulee hänen ja työnantajan yhteisesti selvittää, edellyttääkö työntekijän ammattitaidon ylläpitäminen entiseen tai sitä vastaavaan työhön ammatillista koulutusta. Koulutuksen sisältöä ratkaistaessa kiinnitetään huomiota työstä vapautukseen, luottamusmieskauden kestoon ja sinä aikana tapahtuneisiin työmenetelmien muutoksiin. Työnantaja järjestää koulutuksen.
+
+Pääluottamusmiestehtävän päätyttyä työntekijän palkka määräytyy sen työn mukaan, jota hän tekee.
+
+#### 43.6 Luottamusmiehen työsuhdeturva
 Luottamusmiestehtävän takia luottamusmiestä ei saa erottaa työstä.
-43.6.1 Työsopimuksen irtisanominen ja luottamusmiehen lo- mauttaminen taloudellisista, tuotannollisista tai työn- antajan toiminnan uudelleenjärjestelyistä johtuvista syistä
-Jos yrityksen työvoimaa irtisanotaan tai lomautetaan taloudelli- sista, tuotannollisista tai työnantajan toiminnan uudelleenjärjes- telyistä johtuvista syistä, ei pääluottamusmiehen työsopimusta
- 176
 
-Työehtosopimus
-saa irtisanoa tai häntä lomauttaa, ellei tuotantolaitoksen toimintaa keskeytetä kokonaan. Mikäli yhteisesti todetaan, ettei pääluotta- musmiehelle voida tarjota hänen ammattiaan vastaavaa tai hä- nelle muutoin sopivaa työtä, voidaan tästä säännöstä kuitenkin poiketa.
-Luottamusmiehen työsopimus voidaan irtisanoa tai luottamus- mies lomauttaa työsopimuslain 7 luvun 10 §:n 2 momentin mu- kaisesti vain, kun työ kokonaan päättyy eikä työnantaja voi järjes- tää hänelle hänen ammattitaitoaan vastaavaa tai hänelle muutoin sopivaa työtä tai kouluttaa häntä muuhun työhön työsopimuslain 7 luvun 4 §:ssä tarkoitetulla tavalla.
-Pääluottamusmiehen varamiehen työsopimuksen irtisanominen tai hänen lomauttamisensa silloin, kun hän ei toimi pääluotta- musmiehen sijaisena taikka hänellä ei ole muutoinkaan luotta- musmiehen asemaa, ei saa perustua työntekijän luottamusmies- tehtävään. Työnantajan tulee ilman erityistä vaatimusta osoittaa toimenpiteen johtuneen muusta seikasta.
-Työpaikoilla, joilla työskentelee vähintään 30 työntekijää, pää- luottamusmiehen varamiehen työsopimuksen irtisanominen tai hänen lomauttamisensa silloin, kun hän ei toimi pääluottamus- miehen sijaisena taikka hänellä ei ole luottamusmiehen asemaa, on mahdollista vain, jos hänen tekemänsä työn teettäminen työpaikalla kokonaan päättyy tai tilapäisesti keskeytyy. Työn- antajan velvollisuus järjestää hänelle muuta työtä tai kouluttaa häntä muuhun työhön määräytyy työsopimuslain 7 luvun 4 §:ssä tarkoitetulla tavalla tai tilapäisen lomauttamisen osalta 5 luvun 2 §:n 1 momentin 2 kohdassa säännellyllä tavalla. Muun työn ja koulutuksen järjestämisessä otetaan huomioon myös kohdan 35.2 mukaisen työvoiman vähentämisjärjestyksen periaatteet.
- 177
+##### 43.6.1 Työsopimuksen irtisanominen ja luottamusmiehen lomauttaminen taloudellisista, tuotannollisista tai työnantajan toiminnan uudelleenjärjestelyistä johtuvista syistä
+Jos yrityksen työvoimaa irtisanotaan tai lomautetaan taloudellisista, tuotannollisista tai työnantajan toiminnan uudelleenjärjestelyistä johtuvista syistä, ei pääluottamusmiehen työsopimusta saa irtisanoa tai häntä lomauttaa, ellei tuotantolaitoksen toimintaa keskeytetä kokonaan. Mikäli yhteisesti todetaan, ettei pääluottamusmiehelle voida tarjota hänen ammattiaan vastaavaa tai hänelle muutoin sopivaa työtä, voidaan tästä säännöstä kuitenkin poiketa.
 
-Työehtosopimus
-43.6.2 Työsopimuksen irtisanominen luottamusmiehen hen- kilöstä johtuvasta syystä
-Luottamusmiehestä johtuvasta syystä ei hänen työsopimustaan saa irtisanoa ilman työsopimuslain 7 luvun 10 §:n 1 momentin edellyttämää niiden työntekijöiden enemmistön suostumusta, joi- ta hän edustaa.
-43.6.3 Työsopimuksen purkaminen ja purkautuneena käsit- teleminen
-Luottamusmiehen työsopimusta ei saa purkaa tai käsitellä pur- kautuneena vastoin työsopimuslain 8 luvun 1-3 §:ien säännöksiä. Työsopimuksen purkaminen sillä perusteella, että luottamusmies on rikkonut järjestysmääräyksiä, ei ole mahdollista, ellei hän ole samalla toistuvasti tai olennaisesti sekä varoituksesta huolimatta jättänyt työvelvoitteensa täyttämättä.
+Luottamusmiehen työsopimus voidaan irtisanoa tai luottamusmies lomauttaa työsopimuslain 7 luvun 10 §:n 2 momentin mukaisesti vain, kun työ kokonaan päättyy eikä työnantaja voi järjestää hänelle hänen ammattitaitoaan vastaavaa tai hänelle muutoin sopivaa työtä tai kouluttaa häntä muuhun työhön työsopimuslain 7 luvun 4 §:ssä tarkoitetulla tavalla.
+
+Pääluottamusmiehen varamiehen työsopimuksen irtisanominen tai hänen lomauttamisensa silloin, kun hän ei toimi pääluottamusmiehen sijaisena taikka hänellä ei ole muutoinkaan luottamusmiehen asemaa, ei saa perustua työntekijän luottamusmies- tehtävään. Työnantajan tulee ilman erityistä vaatimusta osoittaa toimenpiteen johtuneen muusta seikasta.
+
+Työpaikoilla, joilla työskentelee vähintään 30 työntekijää, pääluottamusmiehen varamiehen työsopimuksen irtisanominen tai hänen lomauttamisensa silloin, kun hän ei toimi pääluottamusmiehen sijaisena taikka hänellä ei ole luottamusmiehen asemaa, on mahdollista vain, jos hänen tekemänsä työn teettäminen työpaikalla kokonaan päättyy tai tilapäisesti keskeytyy. Työnantajan velvollisuus järjestää hänelle muuta työtä tai kouluttaa häntä muuhun työhön määräytyy työsopimuslain 7 luvun 4 §:ssä tarkoitetulla tavalla tai tilapäisen lomauttamisen osalta 5 luvun 2 §:n 1 momentin 2 kohdassa säännellyllä tavalla. Muun työn ja koulutuksen järjestämisessä otetaan huomioon myös kohdan 35.2 mukaisen työvoiman vähentämisjärjestyksen periaatteet.
+
+##### 43.6.2 Työsopimuksen irtisanominen luottamusmiehen henkilöstä johtuvasta syystä
+Luottamusmiehestä johtuvasta syystä ei hänen työsopimustaan saa irtisanoa ilman työsopimuslain 7 luvun 10 §:n 1 momentin edellyttämää niiden työntekijöiden enemmistön suostumusta, joita hän edustaa.
+
+##### 43.6.3 Työsopimuksen purkaminen ja purkautuneena käsitteleminen
+Luottamusmiehen työsopimusta ei saa purkaa tai käsitellä purkautuneena vastoin työsopimuslain 8 luvun 1-3 §:ien säännöksiä. Työsopimuksen purkaminen sillä perusteella, että luottamusmies on rikkonut järjestysmääräyksiä, ei ole mahdollista, ellei hän ole samalla toistuvasti tai olennaisesti sekä varoituksesta huolimatta jättänyt työvelvoitteensa täyttämättä.
+
 Luottamusmiehen työsopimuksen purkuperusteita arvioitaessa luottamusmiestä ei saa asettaa huonompaan asemaan muihin työntekijöihin nähden.
-43.6.4 Luottamusmiehen asemaan liittyvät ongelmatilanteet
-Kun liittojen tietoon tulee luottamusmiehen tai hänen varamie- hensä ja työnantajan välinen ongelmatilanne, ja on olemassa uhka että tämä johtaa luottamusmiehen työsuhteen päättämiseen, liitot ryhtyvät viipymättä selvittämään tilannetta. Tavoitteena on estää henkilöstön edustajan työsuhdeturvaa koskevien työehto- sopimusmääräysten rikkominen sekä työrauhavelvoitteen rikko- minen. Liittojen pyrkimyksenä on lisäksi yhteisellä kannanotolla auttaa palauttamaan edellytykset luottamusmiehen työsuhteen perustana olevalle luottamukselle.
- 178
 
-Työehtosopimus
-Tässä alakohdassa sovittua menettelyä noudatetaan myös työsuo- jeluvaltuutettuun ja -varavaltuutettuihin.
-43.6.5 Pääluottamusmiehen ehdokas- ja jälkisuoja
-Tämän kohdan määräyksiä on sovellettava myös pääluottamus- miesehdokkaaseen, jonka ammattiosaston kokous on asettanut ja jonka asettamisesta ammattiosasto on kirjallisesti työnantajalle ilmoittanut. Ehdokassuoja alkaa kuitenkin aikaisintaan kolme kuukautta ennen valittavana olevan pääluottamusmiehen toimi- kauden alkua ja päättyy muun kuin vaalissa pääluottamusmie- heksi valituksi tulleen osalta ammattiosaston todettua vaalitulok- sen.
-Tämän kohdan määräyksiä on sovellettava myös pääluottamus- miehenä toimineeseen työntekijään kuusi kuukautta hänen pää- luottamusmiestehtävänsä päättymisen jälkeen.
-43.6.6 Erimielisyysneuvottelut työsopimuksen päättämisestä
-Jos erimielisyys koskee työehtosopimuksen tarkoittaman luot- tamusmiehen työsuhteen päättämistä, on paikalliset ja liittojen väliset neuvottelut käynnistettävä ja käytävä viipymättä sen jäl- keen, kun päättämisen peruste on riitautettu.
-43.6.7 Korvaukset
-Jos luottamusmiehen työsopimus on päätetty työehtosopimuk- sen mukaisten perusteiden vastaisesti, työnantajan on maksetta- va korvauksena luottamusmiehelle vähintään 10 ja enintään 30 kuukauden palkka.
-Korvaus on määrättävä työsopimuslain 12 luvun 2 §:n 2 momen- tin perusteiden mukaan. Korvausta lisäävänä tekijänä on otettava huomioon se, että henkilöstön edustajan oikeuksia on loukattu.
- 179
+##### 43.6.4 Luottamusmiehen asemaan liittyvät ongelmatilanteet
+Kun liittojen tietoon tulee luottamusmiehen tai hänen varamiehensä ja työnantajan välinen ongelmatilanne, ja on olemassa uhka että tämä johtaa luottamusmiehen työsuhteen päättämiseen, liitot ryhtyvät viipymättä selvittämään tilannetta. Tavoitteena on estää henkilöstön edustajan työsuhdeturvaa koskevien työehto- sopimusmääräysten rikkominen sekä työrauhavelvoitteen rikkominen. Liittojen pyrkimyksenä on lisäksi yhteisellä kannanotolla auttaa palauttamaan edellytykset luottamusmiehen työsuhteen perustana olevalle luottamukselle.
 
-Työehtosopimus
-Korvaus luottamusmiehen perusteettomasta lomautuksesta mää- räytyy työsopimuslain 12 luvun 1 §:n 1 momentin mukaisesti.
-Kansainväliseen konserniyhteistyöhön valitun henkilöstön edus- tajan ja varaedustajan sekä yhteistoimintalain mukaisesti valitun henkilöstöryhmän yhteistoimintaedustajan irtisanomissuojasta säädetään työsopimuslain 7 luvun 10 §:ssä.
-44 PAIKALLINEN SOPIMINEN
-44.1 Mahdollisuus paikalliseen sopimiseen
-Mahdollisuus paikalliseen sopimiseen ilmenee kustakin työehto- sopimusmääräyksestä (ks. myös työehtosopimuksen liite, s. 198).
-44.2 Paikallisen sopimisen osapuolet
-Paikallisen sopimisen osapuolina ovat, ellei asianomaisesta työ- ehtosopimusmääräyksestä johdu muuta:
+Tässä alakohdassa sovittua menettelyä noudatetaan myös työsuojeluvaltuutettuun ja -varavaltuutettuihin.
+
+##### 43.6.5 Pääluottamusmiehen ehdokas- ja jälkisuoja
+Tämän kohdan määräyksiä on sovellettava myös pääluottamusmiesehdokkaaseen, jonka ammattiosaston kokous on asettanut ja jonka asettamisesta ammattiosasto on kirjallisesti työnantajalle ilmoittanut. Ehdokassuoja alkaa kuitenkin aikaisintaan kolme kuukautta ennen valittavana olevan pääluottamusmiehen toimikauden alkua ja päättyy muun kuin vaalissa pääluottamusmieheksi valituksi tulleen osalta ammattiosaston todettua vaalituloksen.
+
+Tämän kohdan määräyksiä on sovellettava myös pääluottamusmiehenä toimineeseen työntekijään kuusi kuukautta hänen pääluottamusmiestehtävänsä päättymisen jälkeen.
+
+##### 43.6.6 Erimielisyysneuvottelut työsopimuksen päättämisestä
+Jos erimielisyys koskee työehtosopimuksen tarkoittaman luottamusmiehen työsuhteen päättämistä, on paikalliset ja liittojen väliset neuvottelut käynnistettävä ja käytävä viipymättä sen jälkeen, kun päättämisen peruste on riitautettu.
+
+##### 43.6.7 Korvaukset
+Jos luottamusmiehen työsopimus on päätetty työehtosopimuksen mukaisten perusteiden vastaisesti, työnantajan on maksettava korvauksena luottamusmiehelle vähintään 10 ja enintään 30 kuukauden palkka.
+
+Korvaus on määrättävä työsopimuslain 12 luvun 2 §:n 2 momentin perusteiden mukaan. Korvausta lisäävänä tekijänä on otettava huomioon se, että henkilöstön edustajan oikeuksia on loukattu.
+
+Korvaus luottamusmiehen perusteettomasta lomautuksesta määräytyy työsopimuslain 12 luvun 1 §:n 1 momentin mukaisesti.
+
+Kansainväliseen konserniyhteistyöhön valitun henkilöstön edustajan ja varaedustajan sekä yhteistoimintalain mukaisesti valitun henkilöstöryhmän yhteistoimintaedustajan irtisanomissuojasta säädetään työsopimuslain 7 luvun 10 §:ssä.
+
+### 44 PAIKALLINEN SOPIMINEN
+
+#### 44.1 Mahdollisuus paikalliseen sopimiseen
+Mahdollisuus paikalliseen sopimiseen ilmenee kustakin työehtosopimusmääräyksestä (ks. myös työehtosopimuksen liite, s. 198).
+
+#### 44.2 Paikallisen sopimisen osapuolet
+Paikallisen sopimisen osapuolina ovat, ellei asianomaisesta työehtosopimusmääräyksestä johdu muuta:
 • työntekijä ja esimies,
 • luottamusmies ja työnantaja,
 • pääluottamusmies ja työnantaja.
-Sopimuksen osapuolina ovat luottamusmies ja työnantaja, jos so- pimuksen tarkoittaman järjestelyn on tarkoitus koskea luottamus- miehen toimialueen työntekijöitä yleisesti tai, jos yksilötasoisilla sopimuksilla olisi olennaisia vaikutuksia muiden työntekijöiden työskentelyyn.
-Paikallinen sopimus voidaan tehdä myös siten, että luottamus- miehen ja työnantajan kesken sovitaan asiasta yleisesti (kehys- sopimus), ja jätetään mahdollisuus yksityiskohdista sopimiseen työntekijän ja työnantajan välillä.
- 180
 
-Työehtosopimus
+Sopimuksen osapuolina ovat luottamusmies ja työnantaja, jos sopimuksen tarkoittaman järjestelyn on tarkoitus koskea luottamusmiehen toimialueen työntekijöitä yleisesti tai, jos yksilötasoisilla sopimuksilla olisi olennaisia vaikutuksia muiden työntekijöiden työskentelyyn.
+
+Paikallinen sopimus voidaan tehdä myös siten, että luottamusmiehen ja työnantajan kesken sovitaan asiasta yleisesti (kehyssopimus), ja jätetään mahdollisuus yksityiskohdista sopimiseen työntekijän ja työnantajan välillä.
+
 Jos asianomainen työehtosopimusmääräys edellyttää sopimista pääluottamusmiehen tai luottamusmiehen kanssa ja jos näitä ei työpaikalle ole valittu, voi sopimuksen tehdä myös kohdassa 44.5 mainittu paikallisen sopimisen työryhmä.
-44.3 Paikallisen sopimuksen sitovuus
+
+#### 44.3 Paikallisen sopimuksen sitovuus
 Luottamusmiehen kanssa tehty sopimus sitoo niitä työntekijöitä, joita luottamusmiehen on katsottava edustavan.
-44.4 Paikallisen sopimuksen muoto ja kestoaika
+
+#### 44.4 Paikallisen sopimuksen muoto ja kestoaika
 Sopimus on solmittava kirjallisena, jos jompikumpi sopijapuoli sitä pyytää.
-Sopimus voidaan solmia määräajaksi tai olemaan voimassa tois- taiseksi. Toistaiseksi voimassa oleva sopimus voidaan irtisanoa kolmen kuukauden irtisanomisaikaa noudattaen, ellei irtisano- misajasta ole muuta sovittu.
-Tässä tarkoitettu paikallinen sopimus on voimassa olevan työeh- tosopimuksen osa.
-44.5. Paikallisen sopimisen valmiudet ja sopimusten seuranta
-Paikallinen sopiminen edellyttää molemmilta osapuolilta tietoja ja taitoja, jotka liittyvät muun muassa työehtosopimuksen tunte- miseen, neuvotteluosaamiseen, yritystalouteen sekä tuotanto- ja palvelutoiminnan kehittämiseen. Tärkeätä on tunnistaa paikalli- sen sopimisen laatua parantavat kehittämiskohteet ja toimia ta- voitteellisesti niiden korjaamiseksi.
- 181
+Sopimus voidaan solmia määräajaksi tai olemaan voimassa toistaiseksi. Toistaiseksi voimassa oleva sopimus voidaan irtisanoa kolmen kuukauden irtisanomisaikaa noudattaen, ellei irtisanomisajasta ole muuta sovittu. Tässä tarkoitettu paikallinen sopimus on voimassa olevan työehtosopimuksen osa.
 
-Työehtosopimus
-Työpaikan paikallisten sopimusten laatimista, kehittämistä ja seurantaa varten työpaikalla on työpaikan olosuhteisiin perehty- nyt paikallisen sopimisen työryhmä. Työryhmässä on vähintään kaksi työnantajan ja kaksi työntekijöiden edustajaa, joista toinen on pääluottamusmies. Jos työpaikalla ei ole valittu pääluotta- musmiestä, työntekijät valitsevat keskuudestaan ryhmään kaksi jäsentä. Ryhmän toimikausi on kaksi vuotta kerrallaan luottamus- mieskausien mukaisesti. Ryhmän jäsenillä on oikeus osallistua liittojen yhteisesti sopimaan paikallisen sopimisen koulutukseen.
-Neuvoteltavien asioiden luonteesta ja työpaikan koosta voi joh- tua, että paikalliseen sopimiseen osallistuu pääneuvottelijoiden ohella myös muita työpaikan henkilöitä asiantuntijoina. Ennen neuvottelujen aloittamista tulee sopia siitä, että osapuolten neu- vottelukokoonpanot ovat kooltaan tasasuhtaiset.
-Paikalliset sopimukset ovat keskeinen osa työehtojen määräy- tymisjärjestelmää, joten on huolehdittava siitä, että sopimukset ovat työpaikalla asianmukaisesti nähtävillä. Paikallisten sopi- musten toimivuus edellyttää niiden vuosittaista seurantaa ja tar- peen mukaista päivittämistä.
-44.6 Paikallisen sopimuksen jälkivaikutus
-Paikallinen sopimus on voimassa työehtosopimuksen voimassa- olon päättymisen jälkeenkin, ellei sitä asianmukaisesti irtisanota päättymään irtisanomisajan kuluttua. Irtisanomisoikeus koskee sopimuksettoman tilan aikana myös määräajaksi solmittuja pai- kallisia sopimuksia. Irtisanomisaika on tällöin kolme kuukautta.
-44.7 Yhteistoiminta suomalaisessa yritysryhmässä
-Työpaikkatasoisen paikallisen sopimisen edistämiseksi liitot suosittelevat, että niissä Teknologiateollisuuden työnantajat ry:n jäsenyrityksissä, joihin sovelletaan yhteistoiminnasta suo-
- 182
+#### 44.5. Paikallisen sopimisen valmiudet ja sopimusten seuranta
+Paikallinen sopiminen edellyttää molemmilta osapuolilta tietoja ja taitoja, jotka liittyvät muun muassa työehtosopimuksen tuntemiseen, neuvotteluosaamiseen, yritystalouteen sekä tuotanto- ja palvelutoiminnan kehittämiseen. Tärkeätä on tunnistaa paikallisen sopimisen laatua parantavat kehittämiskohteet ja toimia ta- voitteellisesti niiden korjaamiseksi.
 
-Työehtosopimus
-malaisissa ja yhteisönlaajuisissa yritysryhmissä annettua lakia (335/2007), tulevat konserniyhteistyön – tiedottaminen ja kuule- minen – piiriin myös yritysryhmän yhteiset henkilöstö- ja palk- kapolitiikan periaatteet.
-45 ERIMIELISYYDET JA NIIDEN RATKAISEMINEN
-45.1 Neuvotteluvelvollisuus ja painostuskielto
-Työehtosopimuksen soveltamista, tulkintaa tai rikkomista koske- va erimielisyys on pyrittävä ratkaisemaan työpaikalla käytävin neuvotteluin.
-Neuvotteluvelvollisuuden piiriin kuuluvan asian johdosta ei saa ryhtyä työnseisaukseen eikä muuhunkaan toimenpiteeseen toisen osapuolen painostamiseksi tai työn säännöllisen kulun häiritse- miseksi.
-45.2 Paikallinen neuvottelujärjestys
-Erimielisyysasioissa paikalliset neuvottelut käydään järjestyk- sessä, joka määräytyy joko käsiteltävän asian laajuuden tai sen aiempien ratkaisuyritysten perusteella seuraavasti:
-1. Työntekijän työehtoja koskevasta asiasta neuvottelevat en- sin työntekijä ja hänen esimiehensä.
-2. Ellei työntekijä ole saanut asiaa selvitetyksi esimiehensä kanssa, hän voi saattaa asian neuvoteltavaksi luottamus- miehen ja työnantajan edustajan välillä.
-3. Ellei luottamusmiehen ja työnantajan edustajan välisessä neuvottelussa päästä sovintoon, voidaan asia siirtää neu- voteltavaksi pääluottamusmiehen ja työnantajan edustajan kanssa.
- 183
+Työpaikan paikallisten sopimusten laatimista, kehittämistä ja seurantaa varten työpaikalla on työpaikan olosuhteisiin perehtynyt paikallisen sopimisen työryhmä. Työryhmässä on vähintään kaksi työnantajan ja kaksi työntekijöiden edustajaa, joista toinen on pääluottamusmies. Jos työpaikalla ei ole valittu pääluottamusmiestä, työntekijät valitsevat keskuudestaan ryhmään kaksi jäsentä. Ryhmän toimikausi on kaksi vuotta kerrallaan luottamusmieskausien mukaisesti. Ryhmän jäsenillä on oikeus osallistua liittojen yhteisesti sopimaan paikallisen sopimisen koulutukseen.
+Neuvoteltavien asioiden luonteesta ja työpaikan koosta voi johtua, että paikalliseen sopimiseen osallistuu pääneuvottelijoiden ohella myös muita työpaikan henkilöitä asiantuntijoina. Ennen neuvottelujen aloittamista tulee sopia siitä, että osapuolten neuvottelukokoonpanot ovat kooltaan tasasuhtaiset.
+Paikalliset sopimukset ovat keskeinen osa työehtojen määräytymisjärjestelmää, joten on huolehdittava siitä, että sopimukset ovat työpaikalla asianmukaisesti nähtävillä. Paikallisten sopimusten toimivuus edellyttää niiden vuosittaista seurantaa ja tarpeen mukaista päivittämistä.
 
-Työehtosopimus
-Jos asia koskee luottamusmiehen toimialueen työntekijöitä ylei- sesti, voidaan neuvottelut aloittaa suoraan luottamusmiehen ja työnantajan edustajan välillä.
-Neuvottelut on aloitettava ensi tilassa ja viimeistään viikon kulu- essa neuvotteluesityksen tekemisestä. Välitöntä ja nopeaa ratkai- sua vaativan erimielisyyden selvittely on aloitettava heti, kun se on ilmaantunut. Neuvottelut on käytävä viivyttelemättä.
-45.3 Liittojen myötävaikutus
-Liitot antavat pyydettäessä paikallisille osapuolille neuvottelujen kaikissa vaiheissa ohjausta ja neuvontaa edistääkseen erimieli- syyden ratkaisemista työpaikalla.
-Paikalliset osapuolet voivat pyytää yhdessä liitoilta sovintoesi- tyksen tai sitovan ratkaisun antamista riitakysymykseen. Jos liitot antavat sitovan ratkaisun, se on lopullinen.
-45.4 Erimielisyysmuistio ja työtuomioistuin
-Ellei erimielisyydestä päästä paikallisten osapuolten kesken so- vintoon tai riidassa ei ole heidän pyynnöstään tehty liittojen vä- lillä sitovaa ratkaisua, voidaan asia jommankumman paikallisen osapuolen vaatimuksesta alistaa liittojen välisissä neuvotteluissa ratkaistavaksi.
+#### 44.6 Paikallisen sopimuksen jälkivaikutus
+Paikallinen sopimus on voimassa työehtosopimuksen voimassaolon päättymisen jälkeenkin, ellei sitä asianmukaisesti irtisanota päättymään irtisanomisajan kuluttua. Irtisanomisoikeus koskee sopimuksettoman tilan aikana myös määräajaksi solmittuja paikallisia sopimuksia. Irtisanomisaika on tällöin kolme kuukautta.
+
+#### 44.7 Yhteistoiminta suomalaisessa yritysryhmässä
+Työpaikkatasoisen paikallisen sopimisen edistämiseksi liitot suosittelevat, että niissä Teknologiateollisuuden työnantajat ry:n jäsenyrityksissä, joihin sovelletaan yhteistoiminnasta suomalaisissa ja yhteisönlaajuisissa yritysryhmissä annettua lakia (335/2007), tulevat konserniyhteistyön – tiedottaminen ja kuuleminen – piiriin myös yritysryhmän yhteiset henkilöstö- ja palkkapolitiikan periaatteet.
+
+### 45 ERIMIELISYYDET JA NIIDEN RATKAISEMINEN
+
+#### 45.1 Neuvotteluvelvollisuus ja painostuskielto
+Työehtosopimuksen soveltamista, tulkintaa tai rikkomista koskeva erimielisyys on pyrittävä ratkaisemaan työpaikalla käytävin neuvotteluin.
+Neuvotteluvelvollisuuden piiriin kuuluvan asian johdosta ei saa ryhtyä työnseisaukseen eikä muuhunkaan toimenpiteeseen toisen osapuolen painostamiseksi tai työn säännöllisen kulun häiritsemiseksi.
+
+#### 45.2 Paikallinen neuvottelujärjestys
+Erimielisyysasioissa paikalliset neuvottelut käydään järjestyksessä, joka määräytyy joko käsiteltävän asian laajuuden tai sen aiempien ratkaisuyritysten perusteella seuraavasti:
+1. Työntekijän työehtoja koskevasta asiasta neuvottelevat ensin työntekijä ja hänen esimiehensä.
+2. Ellei työntekijä ole saanut asiaa selvitetyksi esimiehensä kanssa, hän voi saattaa asian neuvoteltavaksi luottamusmiehen ja työnantajan edustajan välillä.
+3. Ellei luottamusmiehen ja työnantajan edustajan välisessä neuvottelussa päästä sovintoon, voidaan asia siirtää neuvoteltavaksi pääluottamusmiehen ja työnantajan edustajan kanssa.
+
+Jos asia koskee luottamusmiehen toimialueen työntekijöitä yleisesti, voidaan neuvottelut aloittaa suoraan luottamusmiehen ja työnantajan edustajan välillä.
+Neuvottelut on aloitettava ensi tilassa ja viimeistään viikon kuluessa neuvotteluesityksen tekemisestä. Välitöntä ja nopeaa ratkaisua vaativan erimielisyyden selvittely on aloitettava heti, kun se on ilmaantunut. Neuvottelut on käytävä viivyttelemättä.
+
+#### 45.3 Liittojen myötävaikutus
+Liitot antavat pyydettäessä paikallisille osapuolille neuvottelujen kaikissa vaiheissa ohjausta ja neuvontaa edistääkseen erimielisyyden ratkaisemista työpaikalla.
+Paikalliset osapuolet voivat pyytää yhdessä liitoilta sovintoesityksen tai sitovan ratkaisun antamista riitakysymykseen. Jos liitot antavat sitovan ratkaisun, se on lopullinen.
+
+#### 45.4 Erimielisyysmuistio ja työtuomioistuin
+Ellei erimielisyydestä päästä paikallisten osapuolten kesken sovintoon tai riidassa ei ole heidän pyynnöstään tehty liittojen välillä sitovaa ratkaisua, voidaan asia jommankumman paikallisen osapuolen vaatimuksesta alistaa liittojen välisissä neuvotteluissa ratkaistavaksi.
+
 Erimieliseksi jäädystä asiasta laaditaan yhteinen muistio, jossa on määritelty erimielisyyden kohteena oleva asia sekä selostettu osapuolten perustellut kannat. Pääluottamusmies ja työnantajan edustaja allekirjoittavat muistion.
-Jos paikallisen neuvottelujärjestyksen noudattaminen on erimie- lisyysasiassa olennaisesti laiminlyöty, liitot voivat palauttaa asi- an työpaikalle neuvoteltavaksi.
- 184
+Jos paikallisen neuvottelujärjestyksen noudattaminen on erimielisyysasiassa olennaisesti laiminlyöty, liitot voivat palauttaa asian työpaikalle neuvoteltavaksi.
 
-Työehtosopimus
-Liittojen erimielisyysasiassa saavuttama yksimielinen kanta si- too paikallisia osapuolia.
-Tästä sopimuksesta aiheutuvat erimielisyydet, joista on neuvotte- lujärjestyksen mukaisesti neuvoteltu liittojen kesken pääsemättä yksimielisyyteen, voidaan alistaa työtuomioistuimen ratkaista- vaksi.
- 185
+Liittojen erimielisyysasiassa saavuttama yksimielinen kanta sitoo paikallisia osapuolia.
 
-Työehtosopimus
-IX ULKOPUOLISEN TYÖVOIMAN KÄYTTÖ JA MUITA ERINÄISIÄ MÄÄRÄYKSIÄ
-Ulkopuolisella työvoimalla tarkoitetaan joko alihankintaa tai työ- voiman vuokrausta.
-Työntekijöiden kokoontuminen työpaikalla on sallittua noudatta- en sovittuja menettelytapoja.
-Koulutusta koskevat määräykset käsittelevät yhteistyötä amma- tillista koulutusta, yhteistä koulutusta ja ay-koulutusta koskevis- sa järjestelyissä.
-46 ULKOPUOLISEN TYÖVOIMAN KÄYTTÖ 46.1 Alihankinta
-Alihankintaa koskeviin sopimuksiin otetaan ehto, jossa alihank- kija sitoutuu noudattamaan alansa normaali- tai yleissitovaa työ- ehtosopimusta sekä työ- ja sosiaalilainsäädäntöä.
+Tästä sopimuksesta aiheutuvat erimielisyydet, joista on neuvottelujärjestyksen mukaisesti neuvoteltu liittojen kesken pääsemättä yksimielisyyteen, voidaan alistaa työtuomioistuimen ratkaistavaksi.
+
+## IX ULKOPUOLISEN TYÖVOIMAN KÄYTTÖ JA MUITA ERINÄISIÄ MÄÄRÄYKSIÄ
+Ulkopuolisella työvoimalla tarkoitetaan joko alihankintaa tai työvoiman vuokrausta.
+Työntekijöiden kokoontuminen työpaikalla on sallittua noudattaen sovittuja menettelytapoja.
+Koulutusta koskevat määräykset käsittelevät yhteistyötä ammatillista koulutusta, yhteistä koulutusta ja ay-koulutusta koskevissa järjestelyissä.
+
+### 46 ULKOPUOLISEN TYÖVOIMAN KÄYTTÖ 
+
+#### 46.1 Alihankinta
+Alihankintaa koskeviin sopimuksiin otetaan ehto, jossa alihankkija sitoutuu noudattamaan alansa normaali- tai yleissitovaa työehtosopimusta sekä työ- ja sosiaalilainsäädäntöä.
 Jos yrityksen työvoimaa joudutaan vähentämään alihankinnan vuoksi, on yrityksen pyrittävä sijoittamaan työntekijät yrityksen muihin tehtäviin.
-46.2 Vuokratyövoima
+
+#### 46.2 Vuokratyövoima
 Vuokrattujen työntekijöiden vähimmäisehdot
-Vuokrattujen työntekijöiden työsuhteissa sovellettavat työehto- sopimukseen perustuvat vähimmäistyöehdot määräytyvät työso- pimuslain 2 luvun 9 §:n 1 momentin mukaisesti. Työsuhteissa so- velletaan tällöin vähintään teknologiateollisuuden työntekijöiden työehtosopimuksen määräyksiä, ellei vuokrayritys ole sidottu normaali- tai yleissitovaan työehtosopimukseen.
- 186
+Vuokrattujen työntekijöiden työsuhteissa sovellettavat työehtosopimukseen perustuvat vähimmäistyöehdot määräytyvät työsopimuslain 2 luvun 9 §:n 1 momentin mukaisesti. Työsuhteissa sovelletaan tällöin vähintään teknologiateollisuuden työntekijöiden työehtosopimuksen määräyksiä, ellei vuokrayritys ole sidottu normaali- tai yleissitovaan työehtosopimukseen.
 
-Työehtosopimus
-Työnantajavelvoitteiden täyttämiseen liittyvä yritysten yhteistyö
-Käyttäjä- ja vuokrayrityksen tulee yhteistyössä huolehtia työn- antajavelvoitteiden täyttämisestä. Jos vuokratyöntekijöiden ja käyttäjäyrityksen omien, vastaavaa työtä tekevien työntekijöiden työsuhteissa sovelletaan teknologiateollisuuden työntekijöiden työehtosopimusta, käyttäjäyrityksen on annettava vuokrayrityk- selle kirjallisesti tai sähköisesti kaikki tarpeellinen tieto, jotta se voi määritellä työntekijöidensä keskeiset työehdot käyttäjäyri- tyksessä sovellettavien periaatteiden mukaisesti.
-Velvoite kohdella vuokratyöntekijöitä tasapuolisesti jakautuu sekä työnantajana toimivan vuokrayrityksen että käyttäjäyrityk- sen kesken sen mukaisesti, miten yritykset käyttävät vuokratyön- tekijää koskevissa asioissa päätösvaltaa.
-Oman työvoiman käytön vähentäminen ja vuokratyö
-Työnantaja ei saa lomauttaa tai irtisanoa omia työntekijöitään vuokratyövoiman käytön vuoksi. Työn vähentyessä on ensin luovuttava vuokratyöntekijöiden käytöstä ja vasta sen jälkeen lomautetaan tai irtisanotaan työnantajan omassa palveluksessa olevia vastaavaa työtä tekeviä työntekijöitä. Työnantajan on kes- keytettävä tai peruttava omien työntekijöidensä lomautukset en- nen vuokratyövoiman käyttöä, jos lomautettujen työntekijöiden ammattitaitoa vastaavaa työtä on tarjolla. Vuokratyöntekijöitä voidaan kuitenkin edelleen tarvita erityistä ammattitaitoa edel- lyttäviin tehtäviin tai tehtäviin, joissa työnantajan oma henkilöstö ei vakiintuneesti työskentele.
-Käyttäjäyritys ei saa irtisanoa omia työntekijöitään taloudellisin, tuotannollisin tai toiminnan uudelleenjärjestelyistä johtuvista syistä siinä tarkoituksessa, että heidän työpanoksensa myöhem- min korvataan vuokratyövoimalla. Jos työsuhteiden päättymi-
- 187
+###### Työnantajavelvoitteiden täyttämiseen liittyvä yritysten yhteistyö
+Käyttäjä- ja vuokrayrityksen tulee yhteistyössä huolehtia työnantajavelvoitteiden täyttämisestä. Jos vuokratyöntekijöiden ja käyttäjäyrityksen omien, vastaavaa työtä tekevien työntekijöiden työsuhteissa sovelletaan teknologiateollisuuden työntekijöiden työehtosopimusta, käyttäjäyrityksen on annettava vuokrayritykselle kirjallisesti tai sähköisesti kaikki tarpeellinen tieto, jotta se voi määritellä työntekijöidensä keskeiset työehdot käyttäjäyrityksessä sovellettavien periaatteiden mukaisesti.
 
-Työehtosopimus
-sestä on kulunut vähemmän kuin 6 kuukautta, vuokratyövoiman käyttö on oikeutettua vain työnantajan toimintaedellytyksissä tänä aikana tapahtuneiden ennakoimattomien muutosten vuoksi. Työnantajan tulee selvittää pääluottamusmiehelle edellä tarkoite- tut toimintaedellytyksien muutokset.
-Käyttäjäyrityksen pääluottamusmies vuokratyöntekijän edusta- jana
-Käyttäjäyrityksen pääluottamusmiehen toimivalta edustaa vuok- ratyöntekijää työsuhteeseen liittyvässä erimielisyysasiassa pe- rustuu tämän antamaan valtuutukseen tilaajavastuulain 6 §:ssä säädetyllä tavalla.
-Neuvottelu vuokratyöntekijän asiassa käydään käyttäjä- tai vuok- rayrityksen kanssa sen mukaan kummalle kuuluu päätösvalta ky- seisen erimielisyyden suhteen.
-Pääluottamusmies suorittaa vuokratyöntekijöiden toimeksiannot normaalin säännöllisen työstä vapautuksen taikka tehtävän hoi- don vaatiman tilapäisesti annettavan työstä vapautuksen aikana.
-Paikallinen sopiminen vuokratyövoiman käytöstä
-Vuokratyövoiman käytön periaatteista voidaan sopia paikallisesti toisin. Sopimus tehdään kirjallisesti työnantajan ja pääluottamus- miehen välillä.
-Vuokratyöopas
-Tarkempaa ohjeistusta vuokratyövoiman käytöstä on liittojen yh- teisessä vuokratyöoppaassa.
- 188
+Velvoite kohdella vuokratyöntekijöitä tasapuolisesti jakautuu sekä työnantajana toimivan vuokrayrityksen että käyttäjäyrityksen kesken sen mukaisesti, miten yritykset käyttävät vuokratyöntekijää koskevissa asioissa päätösvaltaa.
 
-Työehtosopimus
-46.3 Ulkopuolisesta työvoimasta tiedottaminen
-Työnantaja tiedottaa tuotanto- ja kunnossapitotöihin osallistuvas- ta ulkopuolisesta työvoimasta etukäteen pääluottamusmiehelle ja työsuojeluvaltuutetulle. Jos tämä ei ole työn kiireellisyyden tai muun sen kaltaisen syyn takia mahdollista, voidaan tiedottami- nen tehdä näissä poikkeustilanteissa myös jälkikäteen viivytyk- settä.
-Vuokratyövoimaa käyttävien yritysten tulee pyydettäessä selvit- tää pääluottamusmiehelle tällaisten työntekijöiden työskentelyyn liittyvät kysymykset.
-46.4 Tilaajan vastuu ja selvitysten hankkiminen
-Ulkopuolista työvoimaa käytettäessä voi syntyä perusteltu epäi- lys, että tilaajan sopimuspuoli ei hoida lakisääteisiä tai työehto- sopimukseen perustuvia velvoitteitaan.
-Tilaajan tulee yhdessä pääluottamusmiehen kanssa arvioida asiantilaa ja sen ratkaisemiseksi tarpeellisten tietojen hankkimis- ta sekä sen perusteella ryhtyä toimenpiteisiin selvitysten hank- kimiseksi. Tilaajan pääluottamusmiehellä on oikeus perehtyä hankittuihin selvityksiin.
-Alihankinta- ja vuokratyösopimuksiin voidaan ottaa ehto, jonka mukaan tilaajalla on sopimussuhteen aikana oikeus velvoittaa sopimuspuolensa luotettavan selvityksen antamiseen edellä tar- koitettujen tietojen osalta. Selvitys ei saa sisältää yksityisyyden suojan piiriin kuuluvia tietoja.
-Liitot ovat sitoutuneet edistämään harmaan talouden torjuntaa erityisesti tukemalla viranomaisvalvontaa, jolla toteutetaan lähe- tyistä työntekijöistä annetun lain ja tilaajavastuulain tavoitteita toisaalta lähetettyjen työntekijöiden tasavertaisesta asemasta suomalaisten työntekijöiden kanssa sekä myös yritysten välistä tasavertaista kilpailua ja työehtojen noudattamista.
- 189
+###### Oman työvoiman käytön vähentäminen ja vuokratyö
+Työnantaja ei saa lomauttaa tai irtisanoa omia työntekijöitään vuokratyövoiman käytön vuoksi. Työn vähentyessä on ensin luovuttava vuokratyöntekijöiden käytöstä ja vasta sen jälkeen lomautetaan tai irtisanotaan työnantajan omassa palveluksessa olevia vastaavaa työtä tekeviä työntekijöitä. Työnantajan on keskeytettävä tai peruttava omien työntekijöidensä lomautukset ennen vuokratyövoiman käyttöä, jos lomautettujen työntekijöiden ammattitaitoa vastaavaa työtä on tarjolla. Vuokratyöntekijöitä voidaan kuitenkin edelleen tarvita erityistä ammattitaitoa edel- lyttäviin tehtäviin tai tehtäviin, joissa työnantajan oma henkilöstö ei vakiintuneesti työskentele.
 
-Työehtosopimus
-46.5 Kokoontuminen työpaikalla
-Teollisuusliitto ry:n rekisteröidyllä alayhdistyksellä ja sen työ- paikalla olevalla osastolla, työhuonekunnalla tai vastaavalla on mahdollisuus järjestää kokouksia työpaikan työsuhteita koske- vista kysymyksistä työajan ulkopuolella. Kokousten järjestämi- sessä noudatetaan seuraavaa menettelyä:
-a) Kokouksen pidosta työpaikalla tai muussa tämän sopimuk- sen tarkoittamassa paikassa on työnantajan kanssa sovit- tava, mikäli mahdollista, kolme päivää ennen aiottua ko- kousta.
-b) Työnantaja osoittaa hallinnassaan olevan, tarkoitukseen soveltuvan kokouspaikan, joka on joko työpaikalla tai työ- paikan läheisyydessä. Ellei sellaista ole, on kysymyksestä tarvittaessa neuvoteltava tarkoituksenmukaisen ratkaisun löytämiseksi.
-c) Pidettävän kokouksen järjestyksestä sekä kokoustilojen siisteydestä vastaavat kokoustilojen varauksen tehnyt jär- jestö ja järjestäjä.
-d) Kokouksen järjestäjät voivat kutsua kokoukseen Teolli- suusliitto ry:n ja sen alayhdistyksen sekä asianomaisten keskusjärjestöjen edustajia. Kokoukseen osallistuvan edus- tajan nimi ja asema kyseisen yhdistyksen organisaatiossa tulee ilmoittaa hyvissä ajoin ennen kokousta työnantajalle.
-46.6 Tiedotustoiminta
+Käyttäjäyritys ei saa irtisanoa omia työntekijöitään taloudellisin, tuotannollisin tai toiminnan uudelleenjärjestelyistä johtuvista syistä siinä tarkoituksessa, että heidän työpanoksensa myöhemmin korvataan vuokratyövoimalla. Jos työsuhteiden päättymisestä on kulunut vähemmän kuin 6 kuukautta, vuokratyövoiman käyttö on oikeutettua vain työnantajan toimintaedellytyksissä tänä aikana tapahtuneiden ennakoimattomien muutosten vuoksi. Työnantajan tulee selvittää pääluottamusmiehelle edellä tarkoitetut toimintaedellytyksien muutokset.
+
+###### Käyttäjäyrityksen pääluottamusmies vuokratyöntekijän edustajana
+Käyttäjäyrityksen pääluottamusmiehen toimivalta edustaa vuokratyöntekijää työsuhteeseen liittyvässä erimielisyysasiassa perustuu tämän antamaan valtuutukseen tilaajavastuulain 6 §:ssä säädetyllä tavalla.
+
+Neuvottelu vuokratyöntekijän asiassa käydään käyttäjä- tai vuokrayrityksen kanssa sen mukaan kummalle kuuluu päätösvalta kyseisen erimielisyyden suhteen.
+
+Pääluottamusmies suorittaa vuokratyöntekijöiden toimeksiannot normaalin säännöllisen työstä vapautuksen taikka tehtävän hoidon vaatiman tilapäisesti annettavan työstä vapautuksen aikana.
+
+###### Paikallinen sopiminen vuokratyövoiman käytöstä
+Vuokratyövoiman käytön periaatteista voidaan sopia paikallisesti toisin. Sopimus tehdään kirjallisesti työnantajan ja pääluottamusmiehen välillä.
+
+###### Vuokratyöopas
+Tarkempaa ohjeistusta vuokratyövoiman käytöstä on liittojen yhteisessä vuokratyöoppaassa.
+
+#### 46.3 Ulkopuolisesta työvoimasta tiedottaminen
+Työnantaja tiedottaa tuotanto- ja kunnossapitotöihin osallistuvasta ulkopuolisesta työvoimasta etukäteen pääluottamusmiehelle ja työsuojeluvaltuutetulle. Jos tämä ei ole työn kiireellisyyden tai muun sen kaltaisen syyn takia mahdollista, voidaan tiedottaminen tehdä näissä poikkeustilanteissa myös jälkikäteen viivytyksettä.
+Vuokratyövoimaa käyttävien yritysten tulee pyydettäessä selvittää pääluottamusmiehelle tällaisten työntekijöiden työskentelyyn liittyvät kysymykset.
+
+#### 46.4 Tilaajan vastuu ja selvitysten hankkiminen
+Ulkopuolista työvoimaa käytettäessä voi syntyä perusteltu epäilys, että tilaajan sopimuspuoli ei hoida lakisääteisiä tai työehtosopimukseen perustuvia velvoitteitaan.
+Tilaajan tulee yhdessä pääluottamusmiehen kanssa arvioida asiantilaa ja sen ratkaisemiseksi tarpeellisten tietojen hankkimista sekä sen perusteella ryhtyä toimenpiteisiin selvitysten hankkimiseksi. Tilaajan pääluottamusmiehellä on oikeus perehtyä hankittuihin selvityksiin.
+
+Alihankinta- ja vuokratyösopimuksiin voidaan ottaa ehto, jonka mukaan tilaajalla on sopimussuhteen aikana oikeus velvoittaa sopimuspuolensa luotettavan selvityksen antamiseen edellä tarkoitettujen tietojen osalta. Selvitys ei saa sisältää yksityisyyden suojan piiriin kuuluvia tietoja.
+
+Liitot ovat sitoutuneet edistämään harmaan talouden torjuntaa erityisesti tukemalla viranomaisvalvontaa, jolla toteutetaan lähetetyistä työntekijöistä annetun lain ja tilaajavastuulain tavoitteita toisaalta lähetettyjen työntekijöiden tasavertaisesta asemasta suomalaisten työntekijöiden kanssa sekä myös yritysten välistä tasavertaista kilpailua ja työehtojen noudattamista.
+
+#### 46.5 Kokoontuminen työpaikalla
+Teollisuusliitto ry:n rekisteröidyllä alayhdistyksellä ja sen työpaikalla olevalla osastolla, työhuonekunnalla tai vastaavalla on mahdollisuus järjestää kokouksia työpaikan työsuhteita koskevista kysymyksistä työajan ulkopuolella. Kokousten järjestämisessä noudatetaan seuraavaa menettelyä:
+a) Kokouksen pidosta työpaikalla tai muussa tämän sopimuksen tarkoittamassa paikassa on työnantajan kanssa sovittava, mikäli mahdollista, kolme päivää ennen aiottua kokousta.
+b) Työnantaja osoittaa hallinnassaan olevan, tarkoitukseen soveltuvan kokouspaikan, joka on joko työpaikalla tai työpaikan läheisyydessä. Ellei sellaista ole, on kysymyksestä tarvittaessa neuvoteltava tarkoituksenmukaisen ratkaisun löytämiseksi.
+c) Pidettävän kokouksen järjestyksestä sekä kokoustilojen siisteydestä vastaavat kokoustilojen varauksen tehnyt järjestö ja järjestäjä.
+d) Kokouksen järjestäjät voivat kutsua kokoukseen Teollisuusliitto ry:n ja sen alayhdistyksen sekä asianomaisten keskusjärjestöjen edustajia. Kokoukseen osallistuvan edustajan nimi ja asema kyseisen yhdistyksen organisaatiossa tulee ilmoittaa hyvissä ajoin ennen kokousta työnantajalle.
+
+#### 46.6 Tiedotustoiminta
 Teollisuusliitto ry:n ammattiosasto, työhuonekunta tai vastaava voi:
-a) työajan ulkopuolella, työnantajan kanssa sovittavassa muussa kuin tuotannollisessa tilassa, jakaa jäsenilleen ko- kousilmoituksiaan, työpaikan työsuhteisiin tai yleensä työ-
- 190
+a) työajan ulkopuolella, työnantajan kanssa sovittavassa muussa kuin tuotannollisessa tilassa, jakaa jäsenilleen ko- kousilmoituksiaan, työpaikan työsuhteisiin tai yleensä työmarkkinakysymyksiin liittyviä tiedonantoja, joissa tulee olla merkittynä liikkeellepanijan nimi.
+b) julkaista tiedot työpaikan henkilöstölle tarkoitetussa tiedotuslehdessä tai julkaista ne työnantajan työntekijöiden käyttöön osoittamalla ilmoitustaululla, jolla voidaan tiedottaa myös yleisiin kysymyksiin liittyvistä asioista. Tie- dotusaineisto ei kuitenkaan saa sisältää yleispolitiikkaa. Ilmoitustaulun sisällöstä ja hoidosta vastaa ilmoittaja.
 
- b)
-46.7
-Työehtosopimus
-markkinakysymyksiin liittyviä tiedonantoja, joissa tulee olla merkittynä liikkeellepanijan nimi.
-julkaista tiedot työpaikan henkilöstölle tarkoitetussa tie- dotuslehdessä tai julkaista ne työnantajan työntekijöiden käyttöön osoittamalla ilmoitustaululla, jolla voidaan tie- dottaa myös yleisiin kysymyksiin liittyvistä asioista. Tie- dotusaineisto ei kuitenkaan saa sisältää yleispolitiikkaa. Ilmoitustaulun sisällöstä ja hoidosta vastaa ilmoittaja.
-Ammattiyhdistysjäsenmaksujen pidättäminen
-Jos työntekijä on antanut siihen valtuutuksen, työnantaja pidättää palkasta Teollisuusliitto ry:n jäsenmaksut ja tilittää ne palkan- maksukausittain liiton nimeämälle pankkitilille. Pidättäminen suoritetaan siten kuin liittojen välillä 11.8.2017 allekirjoitetussa jäsenmaksujen perinnän menettelytapoja koskevassa pöytäkir- jassa on sovittu. Työntekijälle annetaan kalenterivuoden tai työ- suhteen päätyttyä verotusta varten todistus pidätetystä summasta.
-47 KOULUTUS
-47.1 Ammatillinen koulutus
-Jos työnantaja antaa työntekijälle ammatillista koulutusta tai lä- hettää työntekijän hänen ammattiinsa liittyvään koulutustilaisuu- teen, korvataan työntekijän säännöllisen työajan ansionmenetys keskituntiansion mukaisesti sekä kurssi- että matka-ajalta. Kuu- kausipalkkainen työntekijä saa koulutuksen ja sen edellyttämän matkan ajalta palkkansa vähentämättömänä.
-Jos koulutus järjestetään säännöllisen työajan ulkopuolella, mak- setaan koulutuksen ajalta henkilökohtaisen aikapalkan suuruinen korvaus.
-191
+#### 46.7 Ammattiyhdistysjäsenmaksujen pidättäminen
+Jos työntekijä on antanut siihen valtuutuksen, työnantaja pidättää palkasta Teollisuusliitto ry:n jäsenmaksut ja tilittää ne palkanmaksukausittain liiton nimeämälle pankkitilille. Pidättäminen suoritetaan siten kuin liittojen välillä 11.8.2017 allekirjoitetussa jäsenmaksujen perinnän menettelytapoja koskevassa pöytäkir- jassa on sovittu. Työntekijälle annetaan kalenterivuoden tai työsuhteen päätyttyä verotusta varten todistus pidätetystä summasta.
 
-Työehtosopimus
+### 47 KOULUTUS
+
+#### 47.1 Ammatillinen koulutus
+Jos työnantaja antaa työntekijälle ammatillista koulutusta tai lähettää työntekijän hänen ammattiinsa liittyvään koulutustilaisuuteen, korvataan työntekijän säännöllisen työajan ansionmenetys keskituntiansion mukaisesti sekä kurssi- että matka-ajalta. Kuukausipalkkainen työntekijä saa koulutuksen ja sen edellyttämän matkan ajalta palkkansa vähentämättömänä.
+
+Jos koulutus järjestetään säännöllisen työajan ulkopuolella, maksetaan koulutuksen ajalta henkilökohtaisen aikapalkan suuruinen korvaus.
 Lisäksi työntekijälle maksetaan työehtosopimuksen alakohdan 22.4.1 mukaiset korvaukset matkakustannuksista.
-Työnantaja maksaa myös kurssimaksut, opetusmateriaalin ja internaattikurssien täysihoitomaksun ja muiden kuin internaat- tikurssien osalta työehtosopimuksen alakohtien 22.4.2 ja 22.4.4 mukaan määräytyvän päivärahan tai ateriakorvauksen.
-Ennen koulutustilaisuuteen ilmoittautumista on todettava, että kyse on tämän sopimuskohdan mukaisesta työntekijälle vapaa- ehtoisesta koulutuksesta. Vapaaehtoisen tai työntekijää velvoit- tavan koulutuksen eroista on liittojen välillä laadittu tulkintaohje, joka löytyy liittojen kotisivuilta.
-47.2 Yhteinen koulutus
-Työpaikan yhteistoimintaa ja paikallista sopimista edistävän kou- lutuksen järjestävät liitot tai työnantaja- ja työntekijäosapuolet yhteisesti.
-Työsuojelun yhteistoiminnan peruskurssit ja työsuojeluyhteis- työn kannalta tarpeelliset erikoiskurssit ovat tässä tarkoitettua yhteistä koulutusta. Peruskurssille voivat tämän sopimuksen edellytyksin osallistua työsuojelutoimikunnan jäsen tai sitä kor- vaavan yhteistoimintaelimen jäsen, työsuojeluvaltuutettu, vara- valtuutettu ja työsuojeluasiamies sekä erikoiskurssille työsuoje- luvaltuutettu.
-Koulutukseen osallistumisesta sovitaan paikallisesti koulutuk- sen luonteesta riippuen kysymykseen tulevassa työpaikan yhteis- työelimessä tai työnantajan ja luottamusmiehen kesken. Koulu- tukseen osallistumisesta voidaan sopia myös työnantajan ja asi- anomaisen henkilön kesken.
+
+Työnantaja maksaa myös kurssimaksut, opetusmateriaalin ja internaattikurssien täysihoitomaksun ja muiden kuin internaattikurssien osalta työehtosopimuksen alakohtien 22.4.2 ja 22.4.4 mukaan määräytyvän päivärahan tai ateriakorvauksen.
+
+Ennen koulutustilaisuuteen ilmoittautumista on todettava, että kyse on tämän sopimuskohdan mukaisesta työntekijälle vapaaehtoisesta koulutuksesta. Vapaaehtoisen tai työntekijää velvoittavan koulutuksen eroista on liittojen välillä laadittu tulkintaohje, joka löytyy liittojen kotisivuilta.
+
+#### 47.2 Yhteinen koulutus
+Työpaikan yhteistoimintaa ja paikallista sopimista edistävän koulutuksen järjestävät liitot tai työnantaja- ja työntekijäosapuolet yhteisesti.
+
+Työsuojelun yhteistoiminnan peruskurssit ja työsuojeluyhteistyön kannalta tarpeelliset erikoiskurssit ovat tässä tarkoitettua yhteistä koulutusta. Peruskurssille voivat tämän sopimuksen edellytyksin osallistua työsuojelutoimikunnan jäsen tai sitä korvaavan yhteistoimintaelimen jäsen, työsuojeluvaltuutettu, varavaltuutettu ja työsuojeluasiamies sekä erikoiskurssille työsuojeluvaltuutettu.
+
+Koulutukseen osallistumisesta sovitaan paikallisesti koulutuksen luonteesta riippuen kysymykseen tulevassa työpaikan yhteistyöelimessä tai työnantajan ja luottamusmiehen kesken. Koulutukseen osallistumisesta voidaan sopia myös työnantajan ja asi- anomaisen henkilön kesken.
+
 Koulutukseen osallistuvalle korvataan koulutuksen aiheuttamat suoranaiset kustannukset ja säännöllisen työajan ansionmenetys kuten kohdassa 47.1 on määrätty.
-192
- 
-Työehtosopimus
-47.3 Ay-koulutus, työsuhteen säilyminen ja ilmoitus- ajat
-Työntekijä voi työsuhteen katkeamatta osallistua Teollisuusliitto ry:n tai SAK:n järjestämälle enintään kuukauden kestävälle kurs- sille. Lisäksi työntekijä voi osallistua työsuhteen katkeamatta Teollisuusliitto ry:n kolmen kuukauden muutoksen eväät- kurs- sille.
-Ilmoitus aikomuksesta lähteä kurssille on tehtävä mahdollisim- man varhain. Enintään viikon kestävästä kurssista on ilmoitettava vähintään kolme viikkoa ja tätä pidemmästä kurssista vähintään kuusi viikkoa ennen kurssin alkua.
-Jos työnantaja perustellusti katsoo, että vapaan myöntäminen työntekijän ilmoittamana aikana tuottaisi tuntuvaa haittaa yrityk- sen tuotannolle tai toiminnalle, on hänen ilmoitettava kielteisestä päätöksestään ja sen perusteluista työntekijälle ja pääluottamus- miehelle kymmenen päivää ennen kurssin alkua. Tämän jälkeen tulee yhteisesti selvittää muu mahdollinen ajankohta, jolloin kurssille osallistumiselle ei olisi estettä.
-Ennen koulutustilaisuuteen osallistumista on käytännön järjeste- lyistä sovittava työnantajan kanssa. Lisäksi todetaan nimenomai- sesti etukäteen, onko koulutilaisuus sellainen, josta työnantaja maksaa työntekijälle korvauksia ja mitä nämä korvaukset ovat.
-47.3.1 Korvaukset
-Liittojen koulutustyöryhmän vuosittain hyväksymiltä kursseilta korvataan ansionmenetys seuraavasti:
-• enintään kuukauden ajalta pääluottamusmiehelle, luottamus- miehelle ja työsuojeluvaltuutetulle,
- 193
 
-Työehtosopimus
-• enintään kahden viikon ajalta varapääluottamusmiehel- le, varaluottamusmiehelle, yhteistoimintalain mukaiselle henkilöstöryhmän edustajalle, työsuojeluasiamiehelle, työ- suojelutoimikunnan jäsenelle ja työsuojeluvaltuutetun va- ramiehelle, sekä
-• enintään kuukauden ajalta ammattiosaston puheenjohtajal- le, jos hän työskentelee yrityksessä, jossa on vähintään 100 teknologia-alan työntekijää ja hänen johtamassaan ammatti- osastossa vähintään 50 jäsentä.
-Ansionmenetys korvataan keskituntiansion mukaisesti. Kuukau- sipalkkainen työntekijä saa palkkansa kurssipäiviltä vähentämät- tömänä.
-Ehtona ansionmenetyksen korvaamiselle on lisäksi, että
-• koulutus on kunkin kurssille osallistuvan kannalta hänen tehtävänsä edellyttämää ja että
-• sama henkilö osallistuu vain kerran samaan tai sisällöltään vastaavaan koulutustilaisuuteen.
-Lisäksi työnantaja maksaa kurssin järjestäjälle liittojen sopiman ateriakorvauksen päiviltä, joilta työntekijälle maksetaan ansion- menetyksen korvausta.
-Osallistuminen tämän sopimuksen mukaiseen, enintään kuukau- den kestävään ay-koulutukseen ei vähennä vuosiloma-, eläke- tai muita etuuksia.
- 194
+#### 47.3 Ay-koulutus, työsuhteen säilyminen ja ilmoitusajat
+Työntekijä voi työsuhteen katkeamatta osallistua Teollisuusliitto ry:n tai SAK:n järjestämälle enintään kuukauden kestävälle kurssille. Lisäksi työntekijä voi osallistua työsuhteen katkeamatta Teollisuusliitto ry:n kolmen kuukauden muutoksen eväät- kurssille.
 
-Työehtosopimus
-47.4 Tutkintotavoitteiseen koulutukseen liittyvä työ- harjoittelu ja koulutussopimukseen perustuva koulutus
-47.4.1 Koulutussopimukseen perustuva koulutus
-Ammatillisesta koulutuksesta annetun lain tarkoittamassa kou- lutussopimukseen perustuvassa koulutuksessa opiskelija hankkii osaamista työpaikalla käytännön työtehtävien yhteydessä. Opis- kelijan kanssa ei laadita työsopimusta.
-Työelämässä oppiminen suunnitellaan yhdessä opiskelijan, työn- antajan edustajan ja koulutuksen järjestäjän edustajan kanssa osana opiskelijan henkilökohtaista osaamisen kehittämissuunni- telmaa. Koulutussopimus tehdään kullekin opiskelijalle erikseen koulutuksen järjestäjän ja koulutussopimustyöpaikan edustajan välillä.
-47.4.2 Työpaikkaohjaaja
-Työpaikalta nimetään koulutussopimuksella opiskelevalle vas- tuullinen työpaikkaohjaaja, joka tukee, ohjaa ja koordinoi opis- kelijan työpaikalla tapahtuvaa oppimista. Koulutussopimuksessa tulee sopia työpaikkaohjaajan ohjausosaamisen varmistamiseksi tarpeellisesta koulutuksesta. Koulutuksen järjestäjän yleisvas- tuulla on työpaikkaohjaajan perehdytyksen asianmukainen orga- nisointi.
-Työpaikkaohjaajalle on varattava riittävä aika tehtävänsä suorit- tamiseen mukaan lukien välttämätön suunnittelu- ja koulutus- aika. Jos työpaikkaohjaajan varsinainen työ ohjaustehtävän tai siihen liittyvän edellä mainitun valmistautumisajan vuoksi kes- keytyy, maksetaan työpaikkaohjaajalle tältä ajalta hänen keski- tuntiansionsa mukainen palkka, ellei ohjausta ole otettu huomi- oon muutoin hänen palkkauksessaan.
- 195
+Ilmoitus aikomuksesta lähteä kurssille on tehtävä mahdollisimman varhain. Enintään viikon kestävästä kurssista on ilmoitettava vähintään kolme viikkoa ja tätä pidemmästä kurssista vähintään kuusi viikkoa ennen kurssin alkua.
 
-Työehtosopimus
-47.4.3 Yhteistoiminta
-Paikallisesti tulee yhteisesti todeta yrityksessä käytössä olevat tutkintotavoitteiseen koulutukseen liittyvät työharjoittelu- ja koulutussopimukseen perustuvat koulutuskäytännöt ja se,
-• ettei niillä ole tarkoitus vaikuttaa yrityksen palveluksessa ole- van henkilöstön työsuhteisiin ja
-• ettei kenenkään työsopimusta irtisanota tai työntekijöitä lo- mauteta tämän sopimuksen tarkoittamien henkilöiden vuoksi.
-Edellä mainitut seikat tulee todeta joko ennen tutkintotavoittei- seen koulutukseen liittyvän työharjoittelun tai koulutussopimuk- seen perustuvan koulutuksen järjestämistä taikka yhteistoimin- talain mukaisen henkilöstö- ja koulutussuunnitelman käsittelyn yhteydessä.
-47.4.4 Henkilöstön työsuhdeturva
-Sikäli kun yrityksessä on noudatettu edellä alakohdassa 47.4.2 todettua menettelytapaa, työsopimuslakiin tai tämän työehtoso- pimuksen lukuihin 35 ja 37 sisältyvät
-• työvoiman vähentämistä
-• lisätyön tarjoamisvelvollisuutta tai
-• takaisinottoa
-koskevat säännökset ja määräykset eivät aseta esteitä tutkinto- tavoitteiseen koulutukseen liittyvien työharjoittelupaikkojen ja koulutussopimukseen perustuvien koulutusten tarjoamiselle.
- 196
+Jos työnantaja perustellusti katsoo, että vapaan myöntäminen työntekijän ilmoittamana aikana tuottaisi tuntuvaa haittaa yrityksen tuotannolle tai toiminnalle, on hänen ilmoitettava kielteisestä päätöksestään ja sen perusteluista työntekijälle ja pääluottamusmiehelle kymmenen päivää ennen kurssin alkua. Tämän jälkeen tulee yhteisesti selvittää muu mahdollinen ajankohta, jolloin kurssille osallistumiselle ei olisi estettä.
 
-Helsingissä päivänä tammikuuta 2022 TEKNOLOGIATEOLLISUUDEN TYÖNANTAJAT RY
-Jarkko Ruohoniemi
-TEOLLISUUSLIITTO RY
-Riku Aalto Turja Lehtonen
-Työehtosopimus
- 197
+Ennen koulutustilaisuuteen osallistumista on käytännön järjestelyistä sovittava työnantajan kanssa. Lisäksi todetaan nimenomaisesti etukäteen, onko koulutilaisuus sellainen, josta työnantaja maksaa työntekijälle korvauksia ja mitä nämä korvaukset ovat.
 
-Paikallinen sopiminen
-Ohjeita paikallisen sopimisen tueksi Työehtosopimuksen tarkoittama paikallinen sopiminen
+##### 47.3.1 Korvaukset
+Liittojen koulutustyöryhmän vuosittain hyväksymiltä kursseilta korvataan ansionmenetys enintään kuukauden ajalta pääluottamusmiehelle, luottamusmiehelle ja työsuojeluvaltuutetulle.
+Liittojen koulutustyöryhmän vuosittain hyväksymiltä kursseilta korvataan ansionmenetys enintään kahden viikon ajalta varapääluottamusmiehelle, varaluottamusmiehelle, yhteistoimintalain mukaiselle henkilöstöryhmän edustajalle, työsuojeluasiamiehelle, työ- suojelutoimikunnan jäsenelle ja työsuojeluvaltuutetun varamiehelle.
+Liittojen koulutustyöryhmän vuosittain hyväksymiltä kursseilta korvataan ansionmenetys enintään kuukauden ajalta ammattiosaston puheenjohtajalle, jos hän työskentelee yrityksessä, jossa on vähintään 100 teknologia-alan työntekijää ja hänen johtamassaan ammattiosastossa vähintään 50 jäsentä.
+
+Ansionmenetys korvataan keskituntiansion mukaisesti. Kuukausipalkkainen työntekijä saa palkkansa kurssipäiviltä vähentämättömänä.
+
+Ehtona ansionmenetyksen korvaamiselle on lisäksi, että koulutus on kunkin kurssille osallistuvan kannalta hänen tehtävänsä edellyttämää ja että sama henkilö osallistuu vain kerran samaan tai sisällöltään vastaavaan koulutustilaisuuteen.
+
+Lisäksi työnantaja maksaa kurssin järjestäjälle liittojen sopiman ateriakorvauksen päiviltä, joilta työntekijälle maksetaan ansionmenetyksen korvausta.
+
+Osallistuminen tämän sopimuksen mukaiseen, enintään kuukauden kestävään ay-koulutukseen ei vähennä vuosiloma-, eläke- tai muita etuuksia.
+
+#### 47.4 Tutkintotavoitteiseen koulutukseen liittyvä työharjoittelu ja koulutussopimukseen perustuva koulutus
+
+##### 47.4.1 Koulutussopimukseen perustuva koulutus
+Ammatillisesta koulutuksesta annetun lain tarkoittamassa koulutussopimukseen perustuvassa koulutuksessa opiskelija hankkii osaamista työpaikalla käytännön työtehtävien yhteydessä. Opiskelijan kanssa ei laadita työsopimusta.
+Työelämässä oppiminen suunnitellaan yhdessä opiskelijan, työnantajan edustajan ja koulutuksen järjestäjän edustajan kanssa osana opiskelijan henkilökohtaista osaamisen kehittämissuunnitelmaa. Koulutussopimus tehdään kullekin opiskelijalle erikseen koulutuksen järjestäjän ja koulutussopimustyöpaikan edustajan välillä.
+
+##### 47.4.2 Työpaikkaohjaaja
+Työpaikalta nimetään koulutussopimuksella opiskelevalle vastuullinen työpaikkaohjaaja, joka tukee, ohjaa ja koordinoi opiskelijan työpaikalla tapahtuvaa oppimista. Koulutussopimuksessa tulee sopia työpaikkaohjaajan ohjausosaamisen varmistamiseksi tarpeellisesta koulutuksesta. Koulutuksen järjestäjän yleisvastuulla on työpaikkaohjaajan perehdytyksen asianmukainen organisointi.
+
+Työpaikkaohjaajalle on varattava riittävä aika tehtävänsä suorittamiseen mukaan lukien välttämätön suunnittelu- ja koulutusaika. Jos työpaikkaohjaajan varsinainen työ ohjaustehtävän tai siihen liittyvän edellä mainitun valmistautumisajan vuoksi keskeytyy, maksetaan työpaikkaohjaajalle tältä ajalta hänen keskituntiansionsa mukainen palkka, ellei ohjausta ole otettu huomi- oon muutoin hänen palkkauksessaan.
+
+##### 47.4.3 Yhteistoiminta
+Paikallisesti tulee yhteisesti todeta yrityksessä käytössä olevat tutkintotavoitteiseen koulutukseen liittyvät työharjoittelu- ja koulutussopimukseen perustuvat koulutuskäytännöt ja se, ettei niillä ole tarkoitus vaikuttaa yrityksen palveluksessa olevan henkilöstön työsuhteisiin ja ettei kenenkään työsopimusta irtisanota tai työntekijöitä lomauteta tämän sopimuksen tarkoittamien henkilöiden vuoksi.
+
+Edellä mainitut seikat tulee todeta joko ennen tutkintotavoitteiseen koulutukseen liittyvän työharjoittelun tai koulutussopimukseen perustuvan koulutuksen järjestämistä taikka yhteistoimintalain mukaisen henkilöstö- ja koulutussuunnitelman käsittelyn yhteydessä.
+
+##### 47.4.4 Henkilöstön työsuhdeturva
+Sikäli kun yrityksessä on noudatettu edellä alakohdassa 47.4.2 todettua menettelytapaa, työsopimuslakiin tai tämän työehtosopimuksen lukuihin 35 ja 37 sisältyvät työvoiman vähentämistä, lisätyön tarjoamisvelvollisuutta tai takaisinottoa koskevat säännökset ja määräykset eivät aseta esteitä tutkinto- tavoitteiseen koulutukseen liittyvien työharjoittelupaikkojen ja koulutussopimukseen perustuvien koulutusten tarjoamiselle.
+
+# Paikallinen sopiminen
+
+## OHJEITA PAIKALLISEN SOPIMISEN TUEKSI
+
+### Työehtosopimuksen tarkoittama paikallinen sopiminen
 Työehtosopimuksen tarkoittama paikallinen sopiminen voidaan jakaa kahteen ryhmään:
-1. työehtosopimuksen oikeusvaikutukset saaviin sopimuksiin 2. työsopimustasoiseen sopimiseen.
-Molemmissa on kyse toisin sopimisesta eli poikkeamisesta työ- ehtosopimuksen määräyksistä tai työehtosopimuksen täydentämi- sestä.
-Työehtosopimuksen oikeusvaikutukset saavat paikalliset sopimukset
-Näihin paikallisiin sopimuksiin sovelletaan työehtosopimuksen kohdan 44.2 mukaista paikallisen sopimisen neuvottelujärjestystä. Luottamusmies ja pääluottamusmies ovat suoraan asemansa no- jalla kelpoisia solmimaan sopimuksia, jotka sitovat kaikkia (pää) luottamusmiehen toimialueen työntekijöitä, myös ammattiliittoi- hin järjestäytymättömiä. Yksittäistä työntekijää koskeva paikalli- nen sopimus voidaan tehdä työntekijän ja hänen esimiehensä vä- lillä, ellei kyse ole työntekijöitä yleisemmin koskevasta tai muiden työntekijöiden työhön olennaisesti vaikuttavasta järjestelystä.
-Nämä sopimukset saavat työehtosopimuksen oikeusvaikutukset. Tämä tarkoittaa, että paikallinen sopimus velvoittaa työnantajaa ja jokaista työntekijää samalla tavoin kuin valtakunnallisen työehto- sopimuksen määräykset.
-Toistaiseksi voimassa oleva työehtosopimuksen osaksi katsottava paikallinen sopimus on irtisanottavissa kolmen kuukauden irtisa- nomisajalla, ellei asianomaisesta työehtosopimuksen määräykses- tä muuta ilmene tai muusta ole sovittu. Irtisanomiselle ei vaadita erityisiä perusteita.
-198
- 
-8.1.3
-11.2
-11.4
-karkearyhmittelyn tai muun työnvaativuuden määritysta- van käyttöönotto
-työnvaativuusryhmien luku- määrä
-työsuhteessa oppisopimusta solmittaessa olevan opiskeli- japalkka
-käytettävät palkkaustavat, kohta 2
-Paikallinen sopiminen
-   Työehtosopimuksen osa
-  Menettely- määräykset
-  Työehtosopimuksen allekirjoituspöytäkirja
-  palkkojen tarkistaminen, pai- kallinen palkkaratkaisu
-  kirjallisesti, pääluottamus- miehen kanssa
-     työaikakysymykset, poikkea- minen TES 19 luvun määrä- yksistä
- kirjallisesti, pääluottamus- miehen kanssa (kehyssopimus)
-    Työehtosopimus
-8.1.1
-TES 44.2
-   8.1.2
-TES 44.2
-   paikallisesti sovittava työkoh- tainen palkka (karkearyhmit- tely)
-TES 44.2
-       8.1.4
-muu paikallisesti sovittu työn- vaativuuden määrittämistapa
-TES 44.2
-   10.1
-TES 44.2
-       TES 44.2, kirjallisesti
-   paikallisesti sovittu palkkaus- järjestelmä
-kirjallisesti, pääluottamus- miehen kanssa
-       13.1
-14.4
-tulospalkkiolisän käyttöönotto
-palvelusvuosilisän maksuajan- kohta
-TES 44.2, kirjallisesti
-   työntekijöitä yleisesti koske- va maksutapa
-          199
+1. työehtosopimuksen oikeusvaikutukset saaviin sopimuksiin 
+2. työsopimustasoiseen sopimiseen.
 
-Paikallinen sopiminen
- 16
- muun palkanmääritysjakson käyttöönotto
- kirjallisesti, pääluottamus- miehen kanssa
- 18
- palkanmaksu tuntipalkkaisille kerran kuukaudessa
- TES 44.2
- 19.2
- työajan tasaamisen toteutta- mistapa
- TES 44.2
- 19.2
- työajan tasaamisvapaan ajan- kohta
- TES 44.2
- 19.3
- työajan tasaamislisän maksu- ajankohta
- TES 44.2
- 19.4.1
-  työtuntijärjestelmän muutok- sesta ilmoittaminen
-  TES 44.2
-  19.7
-  säännöllisen vuorokautisen ja viikoittaisen enimmäistyöajan pituus
-TES 44.2
-  19.7
- yli vuoden mittainen työajan tasoittumisjakso työaikapank- kisopimuksessa
- TES 44.2
- 19.7
- työvuorokauden ja työviikon alkaminen
- TES 44.2
-  19.7       päivittäinen lepoaika TES 44.2
-19.7       yötyön teettäminen TES 44.2
-19.7
-  työtuntijärjestelmän muutta- minen
- TES 44.2
-  19.7
-  työtuntijärjestelmän muutok- sesta ilmoittaminen
-TES 44.2
-   19.7
- tasaamisvapaan määrä
-kirjallisesti, pääluottamus- miehen kanssa (kehyssopimus)
- 19.8.1
- työaikapankki; käsite ja tar- koitus
- kirjallisesti, pääluottamus- miehen kanssa
- 19.8.2
-  työaikapankin käyttöönotto
-  kirjallisesti, pääluottamus- miehen kanssa
-  200
+Molemmissa on kyse toisin sopimisesta eli poikkeamisesta työehtosopimuksen määräyksistä tai työehtosopimuksen täydentämisestä.
 
-Paikallinen sopiminen
- 19.8.4
- työaikapankkisaldot työsuh- teen päättyessä
- kirjallisesti, pääluottamus- miehen kanssa
- 19.8.4
- työaikapankkisopimuksen irtisanomisaika
- kirjallisesti, pääluottamus- miehen kanssa
- 20.3
-  työajan enimmäismäärän tarkastelujakso
-  TES 44.2
-  20.6
-  yhden ylityökäsitteen käyt- töönotto ja ylityölisän suuruus
-kirjallisesti, pääluottamus- miehen kanssa
-  20.8
- sunnuntaityökorotuksen mak- saminen tai sen suuruus
- kirjallisesti, pääluottamus- miehen kanssa
- 21.1.2
-  vuosiloman järjestäminen 3-vuorotyössä
-  TES 44.2
-  21.4
-   vuosilomapalkan maksamisen jaksottaminen
- työntekijöitä yleisesti koske- va maksutapa
-   21.5
-  lomarahan vaihto vapaaseen
-kirjallisesti, pääluottamus- miehen kanssa (kehyssopimus)
-  21.5.1
-  lomarahan maksamisen ajan- kohta
-  kirjallisesti; työntekijöitä yleisesti koske- va maksutapa
-  22.9
-  työkomennuksiin liittyvien kustannusten korvaaminen ja niiden määrä
-jos työpaikalla matkatyötä yleisemmin, kirjallisesti pääluottamus- miehen kanssa
-  27.3 D
- työsuojeluasiamiehen tehtävät
- työsuojeluasia- miehen kanssa
- 28.1
-  työsuojeluvaltuutetun ajan- käyttö
-  työsuojeluval- tuutetun kanssa
-  201
+### Työehtosopimuksen oikeusvaikutukset saavat paikalliset sopimukset
+Näihin paikallisiin sopimuksiin sovelletaan työehtosopimuksen kohdan 44.2 mukaista paikallisen sopimisen neuvottelujärjestystä. Luottamusmies ja pääluottamusmies ovat suoraan asemansa nojalla kelpoisia solmimaan sopimuksia, jotka sitovat kaikkia (pää) luottamusmiehen toimialueen työntekijöitä, myös ammattiliittoihin järjestäytymättömiä. Yksittäistä työntekijää koskeva paikallinen sopimus voidaan tehdä työntekijän ja hänen esimiehensä välillä, ellei kyse ole työntekijöitä yleisemmin koskevasta tai muiden työntekijöiden työhön olennaisesti vaikuttavasta järjestelystä.
 
-Paikallinen sopiminen
- 28.2
-  työsuojeluvaltuutetun kuukau- sikorvauksen määrä
-  työsuojeluval- tuutetun kanssa
-  31.1.3 D
-  työntekijän oma ilmoitus lyhytaikaisesta sairauspoissa- olosta
-kirjallisesti pääluottamus- miehen kanssa
-  37.5
-  lomauttaminen, sen perusteet ja lomautusilmoitusaika
-  TES 44.2
-  40
-  neuvotteluvelvoitteen täytty- minen yhteistoimintaneuvot- teluissa
-TES 44.2
-  43.3.3 A
-  luottamusmiesten toimialueet ja lukumäärä
-  pääluottamus- miehen kanssa
-  43.3.3 B
-  luottamusmiehen asettaminen tiettyä tehtävää varten
-kirjallisesti pääluottamus- miehen kanssa
-  43.3.3 C
- (pää)luottamusmiehen ja työ- suojeluvaltuutetun tehtävien yhdistäminen
- pääluottamus- miehen kanssa
- 43.3.4 B
-  luottamusmiehen työpaikalla sovittavat tehtävät
-  luottamusmie- hen kanssa
-  43.4.3
-  säännöllisen vapautuksen jakautuminen pääluottamus- miehen ja luottamusmiesten kesken
-kirjallisesti pääluottamus- miehen kanssa
-  43.4.3
- pääluottamusmiehen säännöl- lisen vapautuksen määrä
- kirjallisesti pääluottamus- miehen kanssa
- 43.4.4 D
-  pääluottamusmiehen kuukau- sikorvauksen määrä
-  pääluottamus- miehen kanssa
-  46.2
-   vuokratyövoiman käytön periaatteet
- kirjallisesti pääluottamus- miehen kanssa
-   47.2
-   yhteiseen koulutukseen osal- listuminen
- yhteistoiminta- elimessä, luot- tamusmiehen tai työntekijän kanssa
-   202
+Nämä sopimukset saavat työehtosopimuksen oikeusvaikutukset. Tämä tarkoittaa, että paikallinen sopimus velvoittaa työnantajaa ja jokaista työntekijää samalla tavoin kuin valtakunnallisen työehtosopimuksen määräykset.
 
-Paikallinen sopiminen
-Työehtosopimuksen mukainen työsopimustasoinen paikallinen sopiminen
-Nämä sopimukset solmitaan työntekijän tai työntekijöiden sekä työnantajan välillä. Luottamusmies ja pääluottamusmies voivat näissä asioissa tehdä paikallisen sopimuksen pääsääntöisesti vain, jos ovat saaneet siihen kaikilta asianomaisilta työntekijöiltä erillisen valtuutuksen.
-Näihin sopimuksiin ei sovelleta työehtosopimuksen 44. luvun määräyksiä eivätkä nämä sopimukset tule työehtosopimuksen osaksi.
-Työsopimustasoiset paikalliset sopimukset ovat usein luonteel- taan tilannekohtaisia tai määräaikaisia. Toistaiseksi voimassaole- van sopimuksen irtisanomisaika on kolme kuukautta, ellei toisin sovita.
-Työehtosopimus
-     Työsopimus- tasoinen ehto
-  Menettely- määräykset
-    10.1
-   opiskelijat ym., suorituspalkkatyön yksikköhinnat
-  11.2
-   työkohtaisesti käytet- tävät palkkaustavat, kohta 3
- luottamusmiehelle tiedoksi
- 11.2.1
-    henkilökohtaisen aikapalkan pysyvyys
-     11.2.2
-   suorituspalkkatyön yksikköhinta
-    14.5.3
-  palvelusvuosilisän vaihtaminen vapaa- seen
-kirjallisesti, pääluot- tamusmiehelle selvi- tys käytännöistä
-  19.2
-    työajan tasaamis- vapaan siirtäminen seuraavalle vuodelle
-  pääluottamus- miehelle selvitys käytännöistä
-   203
+Toistaiseksi voimassa oleva työehtosopimuksen osaksi katsottava paikallinen sopimus on irtisanottavissa kolmen kuukauden irtisanomisajalla, ellei asianomaisesta työehtosopimuksen määräyksestä muuta ilmene tai muusta ole sovittu. Irtisanomiselle ei vaadita erityisiä perusteita.
 
-Paikallinen sopiminen
- 19.6
-   samassa vuorossa työskenteleminen
-  20.10
-   viikkolepokorvaus; raha/vapaa
-  20.10.2
-  viikkolevon korvaa- van vapaan antaminen
-    20.12           varallaolokorvaus
-22.4.1
-  oman auton käyttö matkatyössä
- 22.7
-    ulkomaan työehdot
-  kirjallisesti
-   35.4
-  takaisinottovelvolli- suus
-kirjallisesti, työsopi- muksen irtisanomis- tai päättymistilan- teessa
-  36.1
-   oikeus työllistymisva- paaseen
- sovittavissa irtisano- misen jälkeen
- 37.7.
-    lomauttamisen kes- keyttäminen
-     37.9 C
-  korvauksen maksami- nen irtisanomisajan palkan menetyksestä (200 päivän lomau- tus)
-  43.4.4 C
-    pääluottamusmiehen työajan ulkopuolisten tehtävien korvaami- nen
-    204
+Paikallinsen sopimisen menettelymääräykset (kaaviot)
