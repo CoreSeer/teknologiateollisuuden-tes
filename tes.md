@@ -2099,7 +2099,7 @@ Luottamusmiehelle, joka osallistuu kehittämis- ja muihin vastaaviin tehtäviin,
 
 Avoin tiedonkulku mahdollistaa osapuolille edellytykset neuvotella asioista. Tiedot on annettava niin aikaisessa vaiheessa kuin mahdollista. Mikäli annettavat tiedot sisältävät työnantajan erikseen osoittamia liike- tai ammattisalaisuuksia, tulee nämä tiedot pitää salassa.
 
-###### D. Keskustelu neuvottelujärjestelmän tavoitteista ja toimivuudes- ta
+###### D. Keskustelu neuvottelujärjestelmän tavoitteista ja toimivuudesta
 Työpaikoilla tulee käydä säännöllisesti – kahden kuukauden kuluessa luottamusmieskauden alkamisesta ja tämän jälkeen vuosittain – keskustelu, jossa käsitellään työpaikan neuvottelujärjestelmälle asetettavia/asetettuja tavoitteita ja sen toimivuutta. Keskustelun osapuolina ovat kukin luottamusmies oman vastaneuvottelijansa kanssa sekä tarpeen vaatiessa he kaikki yhdessä ja siinä annetaan molemminpuolista palautetta, jonka pohjalta yhteistyötä pyritään edelleen parantamaan. Samalla suunnitellaan luottamusmiehen tehtävään liittyvän koulutuksen tarve, aikataulut ja tavoitteet.
 
 ##### 43.4.2 Pääluottamusmiehelle annettavat tiedot
