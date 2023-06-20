@@ -412,454 +412,494 @@ II Työt, jotka edellyttävät normaalia ammattitaitoa ja melkoista vastuuta ty�
 III Työt, jotka edellyttävät monipuolista ja hyvää ammattitaitoa ja suurta vastuuta työn sujumisesta. Hyvää ammattitaitoa ja melkoista vastuuta edellyttävät työt vaikeahkoissa työolosuhteissa. Tähän ryhmään kuuluvat myös vaikeissa olosuhteissa tehtävät normaalia ammattitaitoa ja melkoista vastuuta edellyttävät työt.
 
 ###### Työkohtaiset tunti- ja kuukausipalkat
-Työkohtaiset palkat ovat työnvaativuusryhmittäin työehtosopi- muksen voimaan tullessa seuraavat:
-  Työn- vaativuus- ryhmä
-   Työkohtainen tuntipalkka senttiä/tunti
-  Työkohtainen kuukausipalkka euroa/kuukausi
-  Palkka- ryhmä
- I 930 II 1077 III 1246
-1621 C 1877 B 2172 A
-   Työkohtaiset palkat ovat työnvaativuusryhmittäin 1.3.2022 alka- en seuraavat:
- Työn- vaativuus- ryhmä
-   Työkohtainen tuntipalkka senttiä/tunti
-  Työkohtainen kuukausipalkka euroa/kuukausi
-  Palkka- ryhmä
- I 949 II 1099 III 1272
-1654 C 1915 B 2217 A
-   Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti pal- kankorotuksen ajankohdasta lukien.
-52
+Työkohtaiset palkat ovat työnvaativuusryhmittäin työehtosopimuksen voimaan tullessa eli 10.1.2022 alkaen seuraavat:
+Työnvaativuusryhmä I: työkohtainen tuntipalkka 930 senttiä/tunti, työkohtainen kuukausipalkka 1621 euroa/kuukausi, palkkaryhmä C. 
+Työnvaativuusryhmä II: työkohtainen tuntipalkka 1077 senttiä/tunti, työkohtainen kuukausipalkka 1877 euroa/kuukausi, palkkaryhmä B.
+Työnvaativuusryhmä III: työkohtainen tuntipalkka 1246 senttiä/tunti, työkohtainen kuukausipalkka 2172 euroa/kuukausi, palkkaryhmä A.  
 
-Paikallisesti sovittava työkohtainen palkka
-Paikallisesti voidaan sopia korkeammista työkohtaisista palkois- ta kuitenkin niin, että työnvaativuusryhmä I työkohtaisen palkan tulee olla pienempi kuin työehtosopimuksessa sovittu työnvaati- vuusryhmä II työkohtainen palkka ja että työnvaativuusryhmä III työkohtainen palkka on korkeintaan TVR:n työnvaativuusryhmä 9 suuruinen.
-8.1.4 Muu paikallisesti sovittu työnvaativuuden määrittämistapa
-Työnvaativuusryhmät
-Työpaikan työt sijoitetaan paikallisesti sovitun työnvaativuuden määrittämistavan mukaisesti vaativuusryhmiin, joita on vähin- tään viisi.
-Työkohtaiset tunti- ja kuukausipalkat
-Työkohtaiset palkat ovat työnvaativuusryhmissä työehtosopi- muksen voimaan tullessa seuraavat:
-alaraja 930 1621 yläraja 1374 2395
-Työkohtaiset palkat ovat työnvaativuusryhmissä 1.3.2022 alkaen seuraavat:
-alaraja 949 1654 yläraja 1402 2444
+Työkohtaiset palkat ovat työnvaativuusryhmittäin 1.3.2022 alkaen seuraavat:
+Työnvaativuusryhmä I: työkohtainen tuntipalkka 949 senttiä/tunti, työkohtainen kuukausipalkka 1654 euroa/kuukausi, palkkaryhmä C. 
+Työnvaativuusryhmä II: työkohtainen tuntipalkka 1099 senttiä/tunti, työkohtainen kuukausipalkka 1915 euroa/kuukausi, palkkaryhmä B.
+Työnvaativuusryhmä III: työkohtainen tuntipalkka 1272 senttiä/tunti, työkohtainen kuukausipalkka 2217 euroa/kuukausi, palkkaryhmä A.
+
 Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti pal- kankorotuksen ajankohdasta lukien.
-Työehtosopimus
-    Tuntipalkat senttiä/tunti
-  Kuukausipalkat euroa/kuukausi
-      Tuntipalkat senttiä/tunti
-  Kuukausipalkat euroa/kuukausi
-   53
 
-Työehtosopimus
-8.2 Työkohtainen palkanosuus
-Työntekijän työkohtainen palkanosuus ja palkkaryhmä määrite- tään hänen säännönmukaisesti tekemiensä töiden perusteella.
-Työkohtaisen palkanosuuden suuruus määräytyy sen työnvaa- tivuusryhmän työkohtaisen palkan perusteella, johon kuuluvia töitä työntekijä tekee selvästi eniten.
-9 PÄTEVYYS JA HENKILÖKOHTAINEN PALKANOSUUS
-9.1 Pätevyys
-Henkilökohtainen palkanosuus määritetään työn kannalta merki- tyksellisten pätevyystekijöiden perusteella.
+###### Paikallisesti sovittava työkohtainen palkka
+Paikallisesti voidaan sopia korkeammista työkohtaisista palkoista kuitenkin niin, että työnvaativuusryhmä I työkohtaisen palkan tulee olla pienempi kuin työehtosopimuksessa sovittu työnvaativuusryhmä II työkohtainen palkka ja että työnvaativuusryhmä III työkohtainen palkka on korkeintaan TVR:n työnvaativuusryhmä 9 suuruinen.
+
+##### 8.1.4 Muu paikallisesti sovittu työnvaativuuden määrittämistapa
+
+###### Työnvaativuusryhmät
+Työpaikan työt sijoitetaan paikallisesti sovitun työnvaativuuden määrittämistavan mukaisesti vaativuusryhmiin, joita on vähintään viisi.
+
+###### Työkohtaiset tunti- ja kuukausipalkat
+Työkohtaiset palkat ovat työnvaativuusryhmissä työehtosopimuksen voimaan tullessa eli 10.1.2022 alkaen seuraavat:
+Työkohtaisen palkan alaraja on 930 senttiä/tunti ja kuukausipalkka 1621 euroa/kuukausi.
+Työkohtaisen palkan yläraja on 1374 senttiä/tunti ja kuukausipalkka 2395 euroa/kuukausi.
+
+Työkohtaiset palkat ovat työnvaativuusryhmissä 1.3.2022 alkaen seuraavat:
+Työkohtaisen palkan alaraja on 949 senttiä/tunti ja kuukausipalkka 1654 euroa/kuukausi.
+Työkohtaisen palkan yläraja on 1402 senttiä/tunti ja kuukausipalkka 2444 euroa/kuukausi.
+
+Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti palkankorotuksen ajankohdasta lukien.
+
+#### 8.2 Työkohtainen palkanosuus
+Työntekijän työkohtainen palkanosuus ja palkkaryhmä määritetään hänen säännönmukaisesti tekemiensä töiden perusteella.
+
+Työkohtaisen palkanosuuden suuruus määräytyy sen työnvaativuusryhmän työkohtaisen palkan perusteella, johon kuuluvia töitä työntekijä tekee selvästi eniten.
+
+### 9 PÄTEVYYS JA HENKILÖKOHTAINEN PALKANOSUUS
+
+#### 9.1 Pätevyys
+Henkilökohtainen palkanosuus määritetään työn kannalta merkityksellisten pätevyystekijöiden perusteella.
+
 Pätevyystekijät ovat ammatinhallinta, monitaitoisuus, työtulos ja huolellisuus. Tekijöistä vähintään kaksi valitaan työnantajan laatimaan paikalliseen mittausjärjestelmään.
+
 Järjestelmän sisältö käsitellään työnantajan ja työntekijöiden edustajien kesken. Jokaiselle työntekijälle selvitetään periaatteet, joiden mukaan henkilökohtaiset palkanosuudet porrastuvat.
-9.2 Henkilökohtainen palkanosuus
-9.2.1 Työntekijän henkilökohtaisen palkanosuuden määrittely
-Esimies arvioi työntekijän pätevyyden paikallisen mittausjärjes- telmän mukaisesti. Työntekijän henkilökohtaisen palkanosuuden tulee vastata hänen pätevyyttään. Työntekijälle selvitetään henki- lökohtaisen palkanosuuden määräytymisperusteet.
- 54
 
-Työehtosopimus
+#### 9.2 Henkilökohtainen palkanosuus
+
+##### 9.2.1 Työntekijän henkilökohtaisen palkanosuuden määrittely
+Esimies arvioi työntekijän pätevyyden paikallisen mittausjärjestelmän mukaisesti. Työntekijän henkilökohtaisen palkanosuuden tulee vastata hänen pätevyyttään. Työntekijälle selvitetään henkilökohtaisen palkanosuuden määräytymisperusteet.
+
 Uuden työntekijän henkilökohtainen palkanosuus määritellään viimeistään neljän kuukauden kuluttua työsuhteen alkamisesta. Ennen henkilökohtaisen palkanosuuden määritystä työntekijän peruspalkkana käytetään työkohtaista palkanosuutta.
-9.2.2 Henkilökohtaisen palkanosuuden suuruus
+
+##### 9.2.2 Henkilökohtaisen palkanosuuden suuruus
 Henkilökohtainen palkanosuus on suuruudeltaan vähintään 5 % ja enintään 26 % työntekijän työkohtaisesta palkanosuudesta. Henkilökohtaisten palkanosuuksien määrityksessä on käytettävä porrastusryhmittäin koko sovellutusaluetta.
-Työpaikkakohtaisesti työntekijöille määriteltyjen henkilökoh- taisten palkanosuuksien prosenttilukujen keskiarvo porrastus- ryhmittäin on 12-18 prosentin välillä. Keskiarvon toteutuminen todetaan kaikkia työntekijöitä koskevien määritysten yhteydessä.
-9.2.3 Porrastusryhmät
-Porrastusryhminä käytetään palkkaryhmiä. Palkkaryhmät mää- räytyvät työnvaativuuden perusteella työehtosopimuksen 8 luvun mukaisesti. Alle 30 työntekijän palkkaryhmät yhdistetään vierei- sen palkkaryhmän kanssa yhteiseksi porrastusryhmäksi.
-10 ALLE 18-VUOTIAAT TYÖNTEKIJÄT, OPISKELIJAT, HARJOITTELIJAT JA TYÖRAJOITTEISET
-10.1 Alle 18-vuotiaat työntekijät, opiskelijat ja harjoittelijat
-Alle 18-vuotiaiden työntekijöiden palkat porrastetaan syntymä- vuoden perusteella. Työntekovuoden aikana 15 vuotta täyttävälle työntekijälle maksetaan portaan 1 mukaista palkkaa.
- 55
 
-Työehtosopimus
-Opiskelijoiden ja alle 18-vuotiaiden työntekijöiden tunti- ja kuu- kausipalkat ovat työehtosopimuksen voimaan tullessa seuraavat:
-  Porras 1 Porras 2 Porras 3 Porras 4
-senttiä/tunti euroa/kuukausi 803 1400
-844 1470
-886 1544
-930 1621
-     Opiskelijoiden ja alle 18-vuotiaiden työntekijöiden tunti- ja kuu- kausipalkat ovat 1.3.2022 alkaen seuraavat:
- Porras 1 Porras 2 Porras 3 Porras 4
-senttiä/tunti euroa/kuukausi 820 1429
-861 1500
-904 1575
-949 1654
-     Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti pal- kankorotuksen ajankohdasta lukien.
-Opiskelijoille maksetaan osaamisen, kokemuksen ja pätevyyden perusteella vähintään portaan 2 mukaista tunti- tai kuukausipalk- kaa. Opiskelijoilla tarkoitetaan ammatillisesta koulutuksesta an- netussa laissa tarkoitettuja oppisopimusopiskelijoita ja työsuh- teessa olevia alan ammatillisten oppilaitosten opiskelijoita.
-Kohdassa 8.1 mainituista työkohtaisista palkoista voidaan poike- ta sellaisten työsuhteessa olevien harjoittelijoiden suhteen, joilla ei ole asianomaisen työn vaatimaa kokemusta. 18 vuotta täyttä- neiden harjoittelijoiden aikapalkan on kuitenkin oltava vähintään alimman työnvaativuusryhmän suuruinen.
-56
+Työpaikkakohtaisesti työntekijöille määriteltyjen henkilökohtaisten palkanosuuksien prosenttilukujen keskiarvo porrastusryhmittäin on 12-18 prosentin välillä. Keskiarvon toteutuminen todetaan kaikkia työntekijöitä koskevien määritysten yhteydessä.
 
-Työehtosopimus
-Suorituspalkkatyössä noudatetaan käytössä olevia yksikköhinto- ja, ellei työnantajan ja työntekijän välillä sovita toisin.
-Työntekijälle, joka on työsuhteessa oppisopimusta solmittaessa, maksetaan opiskelijapalkkana hänen peruspalkkaansa, ellei pai- kallisesti sovita sitä korkeammasta palkasta.
-10.2 Työrajoitteiset
-Kohdassa 8.1 mainituista palkoista voidaan poiketa sellaisten työntekijöiden suhteen, joiden työkyky kyseisessä työssä sairau- den tai muun syyn takia on pysyvästi alentunut.
-11 TYÖNTEKIJÄN PALKKA 11.1 Työntekijän peruspalkka
-Työntekijän peruspalkka saadaan lisäämällä työntekijän työkoh- taiseen palkanosuuteen henkilökohtainen palkanosuus.
-11.2 Käytettävät palkkaustavat
+##### 9.2.3 Porrastusryhmät
+Porrastusryhminä käytetään palkkaryhmiä. Palkkaryhmät määräytyvät työnvaativuuden perusteella työehtosopimuksen 8 luvun mukaisesti. Alle 30 työntekijän palkkaryhmät yhdistetään viereisen palkkaryhmän kanssa yhteiseksi porrastusryhmäksi.
+
+### 10 ALLE 18-VUOTIAAT TYÖNTEKIJÄT, OPISKELIJAT, HARJOITTELIJAT JA TYÖRAJOITTEISET
+
+#### 10.1 Alle 18-vuotiaat työntekijät, opiskelijat ja harjoittelijat
+Alle 18-vuotiaiden työntekijöiden palkat porrastetaan syntymävuoden perusteella. Työntekovuoden aikana 15 vuotta täyttävälle työntekijälle maksetaan portaan 1 mukaista palkkaa.
+
+Opiskelijoiden ja alle 18-vuotiaiden työntekijöiden tunti- ja kuukausipalkat ovat työehtosopimuksen voimaan tullessa eli 10.1.2022 alkaen seuraavat:
+Porras 1: 803 senttiä/tunti, 1400 euroa/kuukausi
+Porras 2: 844 senttiä/tunti, 1470 euroa/kuukausi
+Porras 3: 886 senttiä/tunti, 1544 euroa/kuukausi
+Porras 4: 930 senttiä/tunti, 1621 euroa/kuukausi
+
+Opiskelijoiden ja alle 18-vuotiaiden työntekijöiden tunti- ja kuukausipalkat ovat 1.3.2022 alkaen seuraavat:
+Porras 1: 820 senttiä/tunti, 1429 euroa/kuukausi
+Porras 2: 861 senttiä/tunti, 1500 euroa/kuukausi
+Porras 3: 904 senttiä/tunti, 1575 euroa/kuukausi
+Porras 4: 949 senttiä/tunti, 1654 euroa/kuukausi
+
+Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti palkankorotuksen ajankohdasta lukien.
+
+Opiskelijoille maksetaan osaamisen, kokemuksen ja pätevyyden perusteella vähintään portaan 2 mukaista tunti- tai kuukausipalkkaa. Opiskelijoilla tarkoitetaan ammatillisesta koulutuksesta annetussa laissa tarkoitettuja oppisopimusopiskelijoita ja työsuhteessa olevia alan ammatillisten oppilaitosten opiskelijoita.
+
+Kohdassa 8.1 mainituista työkohtaisista palkoista voidaan poiketa sellaisten työsuhteessa olevien harjoittelijoiden suhteen, joilla ei ole asianomaisen työn vaatimaa kokemusta. 18 vuotta täyttäneiden harjoittelijoiden aikapalkan on kuitenkin oltava vähintään alimman työnvaativuusryhmän suuruinen.
+
+Suorituspalkkatyössä noudatetaan käytössä olevia yksikköhintoja, ellei työnantajan ja työntekijän välillä sovita toisin.
+
+Työntekijälle, joka on työsuhteessa oppisopimusta solmittaessa, maksetaan opiskelijapalkkana hänen peruspalkkaansa, ellei paikallisesti sovita sitä korkeammasta palkasta.
+
+#### 10.2 Työrajoitteiset
+Kohdassa 8.1 mainituista palkoista voidaan poiketa sellaisten työntekijöiden suhteen, joiden työkyky kyseisessä työssä sairauden tai muun syyn takia on pysyvästi alentunut.
+
+### 11 TYÖNTEKIJÄN PALKKA 
+
+#### 11.1 Työntekijän peruspalkka
+Työntekijän peruspalkka saadaan lisäämällä työntekijän työkohtaiseen palkanosuuteen henkilökohtainen palkanosuus.
+
+#### 11.2 Käytettävät palkkaustavat
 Käytettävät palkkaustavat ovat:
-1 Liittojen yhteisesti laatimat ja sopimat palkkaustavat:
- 1.1 Aikapalkka
-1.2 Suorituspalkka
-• Palkkiopalkka
-a) kiinteä osuus
-muuttuva osuus
-b) kiinteä osuus
-muuttuva osuus
-c) muuttuva osuus enintään
-85 % 15 % 70 % 30 % 30 %
-57
+##### 1 Liittojen yhteisesti laatimat ja sopimat palkkaustavat:
+###### 1.1 Aikapalkka
+###### 1.2 Suorituspalkka
+• Palkkiopalkka a) kiinteä osuus 85 %, muuttuva osuus 15 %.
+• Palkkiopalkka b) kiinteä osuus 70 %, muuttuva osuus 30 %.
+• Palkkiopalkka c) muuttuva osuus enintään 30 %.
 
-Työehtosopimus
-• Osaurakka
-a) kiinteä osuus
-muuttuva osuus
-b) kiinteä osuus
-muuttuva osuus
-c) muuttuva osuus enintään
+• Osaurakka a) kiinteä osuus 75 %, muuttuva osuus 25 %.
+• Osaurakka b) kiinteä osuus 50 %, muuttuva osuus 50 %.
+• Osaurakka c) muuttuva osuus 50 %.
+
 • Suora urakka
-75 % 25 % 50 % 50 % 50 %
- 2 Paikallisesti sovitut ja kirjatut palkkaustavat
-3 Työkohtaisesti työnantajan ja asianomaisen työntekijän tai asianomaisten työntekijöiden välillä sovittu palkkaustapa. Tämä palkkaustapa tulee saattaa luottamusmiehelle tiedok- si.
+
+##### 2 Paikallisesti sovitut ja kirjatut palkkaustavat
+##### 3 Työkohtaisesti työnantajan ja asianomaisen työntekijän tai asianomaisten työntekijöiden välillä sovittu palkkaustapa. Tämä palkkaustapa tulee saattaa luottamusmiehelle tiedoksi.
+
 Riippumatta työhön käytettävästä palkkaustavasta työntekijälle määritetään aikapalkka.
-Palkkiopalkan ja osaurakan kiinteä osuus voi olla joko työkohtai- nen tai työ- ja henkilökohtainen. Kiinteän osuuden pätevyysosa porrastetaan tuotannon sujumisen kannalta keskeisten tekijöiden perusteella.
-Muutettaessa palkkaustapaa tulee paikallisten osapuolten käydä neuvottelut ennen muutoksen toteuttamista ja pyrkiä sopimaan palkkaustavan muutoksesta, ellei kyseessä ole paikallisesti sovit- tu palkkaustapa, jolloin menetellään paikallisen sopimuksen mu- kaisesti. Tarkempaa ohjeistusta palkkaustavan muutostilanteisiin on liittojen yhteisessä palkkarakenneoppaassa.
-11.2.1 Aikapalkka
-Aikapalkkatyöstä maksetaan työntekijälle henkilökohtainen ai- kapalkka (senttiä/tunti tai euroa/kk), joka on vähintään peruspal- kan suuruinen.
-58
 
-Työehtosopimus
-Aikapalkka muodostuu peruspalkasta ja mahdollisesta aikapalk- kaosuudesta. Aikapalkkaosuuden tulee tukea peruspalkan mää- rityksessä noudatettavia periaatteita. Osuus voidaan porrastaa esimerkiksi henkilökohtaisen palkanosuuden periaatteiden mu- kaisesti.
+Palkkiopalkan ja osaurakan kiinteä osuus voi olla joko työkohtainen tai työ- ja henkilökohtainen. Kiinteän osuuden pätevyysosa porrastetaan tuotannon sujumisen kannalta keskeisten tekijöiden perusteella.
+
+Muutettaessa palkkaustapaa tulee paikallisten osapuolten käydä neuvottelut ennen muutoksen toteuttamista ja pyrkiä sopimaan palkkaustavan muutoksesta, ellei kyseessä ole paikallisesti sovittu palkkaustapa, jolloin menetellään paikallisen sopimuksen mukaisesti. Tarkempaa ohjeistusta palkkaustavan muutostilanteisiin on liittojen yhteisessä palkkarakenneoppaassa.
+
+##### 11.2.1 Aikapalkka
+Aikapalkkatyöstä maksetaan työntekijälle henkilökohtainen aikapalkka (senttiä/tunti tai euroa/kk), joka on vähintään peruspalkan suuruinen.
+
+Aikapalkka muodostuu peruspalkasta ja mahdollisesta aikapalkkaosuudesta. Aikapalkkaosuuden tulee tukea peruspalkan määrityksessä noudatettavia periaatteita. Osuus voidaan porrastaa esimerkiksi henkilökohtaisen palkanosuuden periaatteiden mu- kaisesti.
+
 Työntekijälle vahvistettua henkilökohtaista aikapalkkaa ei hänen peruspalkkansa muuttuessa muuteta aiempaa pienemmäksi ilman työsopimuslaissa tarkoitettua asiallista ja painavaa syytä, ellei työnantajan ja työntekijän välillä sovita toisin.
-11.2.2 Suorituspalkka
-Suorituspalkkatyön hinnoittelu perustuu tehtävän työn työkohtai- seen palkkaan ja suoritusnormiin.
-Hinnoittelusääntö ja palkkatakuu
-Palkkiopalkkatöissä tulee normaalia palkkiotyötulosta vastaavan hinnoittelupalkan olla 15 % työn työkohtaista palkkaa korkeam- pi.
-Urakkatyö on hinnoiteltava niin, että palkka normaalilla urakka- työvauhdilla työskenneltäessä on 20 % työn työkohtaista palkkaa korkeampi. Sama koskee palkkiopalkkatöitä, joissa työntekijän normaalia urakkatyövauhtia vastaava työmäärä voidaan määri- tellä esimerkiksi työnmittauksen avulla.
-Suorituspalkkatyöstä maksetaan työntekijälle vähintään perus- palkka.
-Työntekijälle annettavat tiedot
-Työntekijällä on ennen suorituspalkkatyön aloittamista ja yksik- köhinnasta sopimista oikeus saada tiedot työn palkkaperusteista ja palkan muodostumisesta.
- 59
 
-Työehtosopimus
+##### 11.2.2 Suorituspalkka
+Suorituspalkkatyön hinnoittelu perustuu tehtävän työn työkohtaiseen palkkaan ja suoritusnormiin.
+
+###### Hinnoittelusääntö ja palkkatakuu
+Palkkiopalkkatöissä tulee normaalia palkkiotyötulosta vastaavan hinnoittelupalkan olla 15 % työn työkohtaista palkkaa korkeampi.
+
+Urakkatyö on hinnoiteltava niin, että palkka normaalilla urakkatyövauhdilla työskenneltäessä on 20 % työn työkohtaista palkkaa korkeampi. Sama koskee palkkiopalkkatöitä, joissa työntekijän normaalia urakkatyövauhtia vastaava työmäärä voidaan määritellä esimerkiksi työnmittauksen avulla.
+Suorituspalkkatyöstä maksetaan työntekijälle vähintään peruspalkka.
+
+###### Työntekijälle annettavat tiedot
+Työntekijällä on ennen suorituspalkkatyön aloittamista ja yksikköhinnasta sopimista oikeus saada tiedot työn palkkaperusteista ja palkan muodostumisesta.
+
 Työntekijälle tai työntekijäryhmälle annettavasta kirjallisesta työmääräimestä tulee ilmetä sekä suorituspalkkatyön määrä että yksikköhinta.
-Yksikköhinnasta sopiminen
+
+###### Yksikköhinnasta sopiminen
 Työnantaja sopii suorituspalkkatyön yksikköhinnan ennen työn alkamista sen työntekijän tai niiden työntekijöiden kanssa, joille suorituspalkkatyö tarjotaan.
-Jos tehtävän työn yksikköhinnasta ei päästä sopimukseen, nouda- tetaan työehtosopimuksen mukaista hinnoittelua.
-Yksikköhinnan pysyvyys
-Hinnoitteluun vaikuttavien tekijöiden pysyessä muuttumattomi- na pidetään yksikköhinta ennallaan. Yksikköhinnan ja sen pe- rusteena mahdollisesti olevan työn aika-arvon eli työarvon tulee vastata todellisia olosuhteita ja menetelmiä.
-Suorituspalkkatyön keskeytyminen
-Työntekijälle maksetaan suorituspalkkatyön keskeytymisen ajal- ta hänen henkilökohtaista aikapalkkaansa, ellei keskeytyksen ai- heuttanutta työtä voida järjestää suorituspalkalla.
-Jos työntekijä työnantajan määräyksestä joutuu keskeyttämään aloittamansa sovitun suoran urakan muun työn takia ilman en- nakkotietoa eikä keskeytyksen aiheuttanutta työtä voida järjes- tää suorituspalkalla, maksetaan työntekijälle tästä työstä hänen keskituntiansionsa mukainen palkka, kuitenkin enintään kuudelta työpäivältä.
-11.3 Aika- ja suorituspalkkojen kehityksen vertailu
-Työpaikoilla, joilla on käytössä sekä aika- että suorituspalkkoja, aikapalkkaisten ja suorituspalkkaisten työntekijöiden palkkojen kehitys todetaan vuosittain pääluottamusmiehen kanssa käytä-
- 60
+Jos tehtävän työn yksikköhinnasta ei päästä sopimukseen, noudatetaan työehtosopimuksen mukaista hinnoittelua.
 
-Työehtosopimus
-vissä keskusteluissa. Mikäli palkkojen kehityksissä havaitaan merkittäviä eroja, erojen syyt selvitetään ja tehdään mahdollisia korjauksia.
-11.4 Paikallisesti sovittu palkkausjärjestelmä
-Paikallisesti voidaan sopia muustakin palkkausjärjestelmästä edellä luvuissa 8,9 ja 11 määritellyn palkkausjärjestelmän vaih- toehdoksi. Paikallinen palkkausjärjestelmä tulee rakentaa sama- palkkaisuusperiaatteen mukaisesti. Paikallisesti sovitun palk- kausjärjestelmän mukaan määräytyvän palkan tulee olla vähin- tään töiden vaativuusryhmittelyn TVR 1:n työkohtaisen palkan suuruinen lisättynä 5 prosentilla. Paikallinen sopimus tehdään työnantajan ja pääluottamusmiehen kanssa kirjallisesti. Paikalli- sen palkkausjärjestelmää koskevan sopimuksen irtisanomisaika on kuusi kuukautta, ellei irtisanomisajasta ole muuta sovittu.
-Irtisanottaessa paikallinen palkkausjärjestelmää koskeva sopi- mus tulee työnantajan ja pääluottamusmiehen käydä neuvottelut irtisanomisen perusteista, vaikutuksista ja vaihtoehdoista ennen sopimuksen irtisanomista. Irtisanomisajan jälkeen siirrytään työ- ehtosopimuksen mukaiseen palkkausjärjestelmään ja ennen pai- kallista palkkausjärjestelmää käytössä olleisiin henkilökohtaisiin aikapalkkoihin. Tässä yhteydessä tehdään henkilökohtaisten ai- kapalkkojen korotukset ja tarkistukset työehtosopimuksen mu- kaisesti paikallisen palkkausjärjestelmän käyttöönotosta alkaen.
-12 TYÖNTUTKIMUKSET
-Menetelmien kehittämisen ja työnmittauksen tavoitteena on parantaa yrityksen tuottavuutta, kilpailukykyä ja työsuhteiden jatkuvuutta. Kehittämistoiminnan yhteydessä tulee toimia myös mielekkään, vaihtelevan ja kehittävän työn sisällön parantami- seksi.
- 61
+###### Yksikköhinnan pysyvyys
+Hinnoitteluun vaikuttavien tekijöiden pysyessä muuttumattomina pidetään yksikköhinta ennallaan. Yksikköhinnan ja sen perusteena mahdollisesti olevan työn aika-arvon eli työarvon tulee vastata todellisia olosuhteita ja menetelmiä.
 
-Työehtosopimus
-Työntekijöiden ja heidän edustajiensa tulee voida osallistua työ- organisaatioiden, teknologian, työolosuhteiden ja työtehtävien kehittämiseen ja muutoksen toteuttamiseen.
-Työpaikoilla järjestettävien työn- ja aikatutkimusten tarkoituk- sena on työn tuloksen ja sen kautta työntekijöiden ansioiden ke- hittyminen. Niiden johdosta ehkä toteutettavat muutokset töiden järjestelyssä eivät saa haitallisesti vaikuttaa työntekijöiden nor- maaleihin palkkatuloihin.
-Työnantajan käyttäessä työntutkimuksia työntekijöiden edusta- jille tulee antaa riittävä selvitys ja koulutus työntutkimustavoista sekä siitä, miten tutkimusten tuloksia mahdollisesti sovelletaan työntekijöiden palkkaukseen.
-Työnmittauksesta ja sen tarkoituksesta ilmoitetaan asianomaisel- le työntekijälle ennen tutkimuksen aloittamista.
-Jos työntutkimuksen perusteella määritetystä yksikköhinnasta on syntynyt erimielisyyttä ja työstä suoritetaan tämän vuoksi tarkis- tustutkimus, selvitetään luottamusmiehelle hänen niin halutes- saan tutkimuksen suoritustapa ja tulokset.
-13 AIKA- JA SUORITUSPALKKOJA TÄYDENTÄVÄT TULOSPALKKIOT
-13.1 Tulospalkkiojärjestelmän laatiminen ja käyt- töönotto
-Työnantaja voi täydentää aika- ja suorituspalkkoja tulospalkkiol- la, jonka perusteena ovat yleensä toiminnalliset tavoitteet, kuten tuottavuuden parantaminen ja kehitystavoitteiden saavuttaminen. Tulospalkkion käyttöönotosta sovitaan paikallisesti ja se kirja- taan.
- 62
+###### Suorituspalkkatyön keskeytyminen
+Työntekijälle maksetaan suorituspalkkatyön keskeytymisen ajalta hänen henkilökohtaista aikapalkkaansa, ellei keskeytyksen aiheuttanutta työtä voida järjestää suorituspalkalla.
 
-Työehtosopimus
+Jos työntekijä työnantajan määräyksestä joutuu keskeyttämään aloittamansa sovitun suoran urakan muun työn takia ilman ennakkotietoa eikä keskeytyksen aiheuttanutta työtä voida järjestää suorituspalkalla, maksetaan työntekijälle tästä työstä hänen keskituntiansionsa mukainen palkka, kuitenkin enintään kuudelta työpäivältä.
+
+#### 11.3 Aika- ja suorituspalkkojen kehityksen vertailu
+Työpaikoilla, joilla on käytössä sekä aika- että suorituspalkkoja, aikapalkkaisten ja suorituspalkkaisten työntekijöiden palkkojen kehitys todetaan vuosittain pääluottamusmiehen kanssa käytävissä keskusteluissa. Mikäli palkkojen kehityksissä havaitaan merkittäviä eroja, erojen syyt selvitetään ja tehdään mahdollisia korjauksia.
+
+#### 11.4 Paikallisesti sovittu palkkausjärjestelmä
+Paikallisesti voidaan sopia muustakin palkkausjärjestelmästä edellä luvuissa 8,9 ja 11 määritellyn palkkausjärjestelmän vaihtoehdoksi. Paikallinen palkkausjärjestelmä tulee rakentaa samapalkkaisuusperiaatteen mukaisesti. Paikallisesti sovitun palk- kausjärjestelmän mukaan määräytyvän palkan tulee olla vähintään työnvaativuusryhmä 1:n työkohtaisen palkan suuruinen lisättynä 5 prosentilla. Paikallinen sopimus tehdään työnantajan ja pääluottamusmiehen kanssa kirjallisesti. Paikallisen palkkausjärjestelmää koskevan sopimuksen irtisanomisaika on kuusi kuukautta, ellei irtisanomisajasta ole muuta sovittu.
+
+Irtisanottaessa paikallinen palkkausjärjestelmää koskeva sopimus tulee työnantajan ja pääluottamusmiehen käydä neuvottelut irtisanomisen perusteista, vaikutuksista ja vaihtoehdoista ennen sopimuksen irtisanomista. Irtisanomisajan jälkeen siirrytään työehtosopimuksen mukaiseen palkkausjärjestelmään ja ennen paikallista palkkausjärjestelmää käytössä olleisiin henkilökohtaisiin aikapalkkoihin. Tässä yhteydessä tehdään henkilökohtaisten aikapalkkojen korotukset ja tarkistukset työehtosopimuksen mukaisesti paikallisen palkkausjärjestelmän käyttöönotosta alkaen.
+
+### 12 TYÖNTUTKIMUKSET
+Menetelmien kehittämisen ja työnmittauksen tavoitteena on parantaa yrityksen tuottavuutta, kilpailukykyä ja työsuhteiden jatkuvuutta. Kehittämistoiminnan yhteydessä tulee toimia myös mielekkään, vaihtelevan ja kehittävän työn sisällön parantamiseksi.
+
+Työntekijöiden ja heidän edustajiensa tulee voida osallistua työorganisaatioiden, teknologian, työolosuhteiden ja työtehtävien kehittämiseen ja muutoksen toteuttamiseen.
+
+Työpaikoilla järjestettävien työn- ja aikatutkimusten tarkoituksena on työn tuloksen ja sen kautta työntekijöiden ansioiden kehittyminen. Niiden johdosta ehkä toteutettavat muutokset töiden järjestelyssä eivät saa haitallisesti vaikuttaa työntekijöiden normaaleihin palkkatuloihin.
+
+Työnantajan käyttäessä työntutkimuksia työntekijöiden edustajille tulee antaa riittävä selvitys ja koulutus työntutkimustavoista sekä siitä, miten tutkimusten tuloksia mahdollisesti sovelletaan työntekijöiden palkkaukseen.
+
+Työnmittauksesta ja sen tarkoituksesta ilmoitetaan asianomaiselle työntekijälle ennen tutkimuksen aloittamista.
+
+Jos työntutkimuksen perusteella määritetystä yksikköhinnasta on syntynyt erimielisyyttä ja työstä suoritetaan tämän vuoksi tarkistustutkimus, selvitetään luottamusmiehelle hänen niin halutessaan tutkimuksen suoritustapa ja tulokset.
+
+### 13 AIKA- JA SUORITUSPALKKOJA TÄYDENTÄVÄT TULOSPALKKIOT
+
+#### 13.1 Tulospalkkiojärjestelmän laatiminen ja käyttöönotto
+Työnantaja voi täydentää aika- ja suorituspalkkoja tulospalkkiolla, jonka perusteena ovat yleensä toiminnalliset tavoitteet, kuten tuottavuuden parantaminen ja kehitystavoitteiden saavuttaminen. Tulospalkkion käyttöönotosta sovitaan paikallisesti ja se kirjataan.
+
 Ennen tulospalkkiojärjestelmän käyttöönottoa työnantajan tulee antaa työntekijöille riittävä selvitys sen sisällöstä, tarkoituksesta ja tavoitteista sekä maksuperusteista.
-13.2 Tulospalkkion käsittely palkkahallinnossa
-Työntekijälle maksettu tulospalkkiolisä otetaan huomioon lasket- taessa vuosilomapalkkaa ja lomakorvausta, mikäli tulospalkkio- lisän laskentaperuste ei näitä sisällä.
-Tulospalkkiolisiin ei sovelleta työehtosopimuksen palkankoro- tusmääräyksiä.
-14 ERILLISET LISÄT JA PALKKIOT
-14.1 Tilapäinen poikkeama taikka poikkeuksellinen haitta tai hankaluus työolosuhteissa
+
+#### 13.2 Tulospalkkion käsittely palkkahallinnossa
+Työntekijälle maksettu tulospalkkiolisä otetaan huomioon laskettaessa vuosilomapalkkaa ja lomakorvausta, mikäli tulospalkkiolisän laskentaperuste ei näitä sisällä.
+Tulospalkkiolisiin ei sovelleta työehtosopimuksen palkankorotusmääräyksiä.
+
+### 14 ERILLISET LISÄT JA PALKKIOT
+
+#### 14.1 Tilapäinen poikkeama taikka poikkeuksellinen haitta tai hankaluus työolosuhteissa
 Työolosuhteet otetaan huomioon työnvaativuutta määriteltäessä.
-Jos työolosuhteissa esiintyy selvästi havaittavaa tilapäistä poik- keamaa, jota ei ole otettu huomioon työnvaativuutta määriteltäes- sä taikka sellaista poikkeuksellista haittaa tai hankaluutta, jota ei voida ottaa huomioon työnvaativuutta määriteltäessä, maksetaan haitan suuruuden perusteella määriteltyä erillistä lisää.
-Lisä on sopimuskauden alusta alkaen vähintään 56 senttiä tunnis- sa, ellei paikallisesti toisin sovita.
+
+Jos työolosuhteissa esiintyy selvästi havaittavaa tilapäistä poikkeamaa, jota ei ole otettu huomioon työnvaativuutta määriteltäes- sä taikka sellaista poikkeuksellista haittaa tai hankaluutta, jota ei voida ottaa huomioon työnvaativuutta määriteltäessä, maksetaan haitan suuruuden perusteella määriteltyä erillistä lisää.
+
+Lisä on sopimuskauden alusta alkaen vähintään 56 senttiä tunnissa, ellei paikallisesti toisin sovita.
+
 Lisä maksetaan vain niiltä tunneilta, jolloin tilapäistä poikkea- maa työolosuhteissa taikka poikkeuksellista haittaa tai hanka- luutta esiintyy.
- 63
 
-Työehtosopimus
-14.2 Vuorotyölisät
-Varsinaisessa vuorotyössä maksetaan ilta- ja yövuoron tunneilta vuorotyölisää työehtosopimuksen voimaan tullessa seuraavasti:
-iltavuoro (esim. klo 14 - 22) 123 senttiä/tunti yövuoro (esim. klo 22 - 06) 226 senttiä/tunti
+#### 14.2 Vuorotyölisät
+Varsinaisessa vuorotyössä maksetaan ilta- ja yövuoron tunneilta vuorotyölisää työehtosopimuksen voimaan tullessa eli 10.1.2022 alkaen seuraavasti:
+Vuorotyössä maksetaan vuorotyölisää iltavuorosta (esim. klo 14 - 22 väliltä) 123 senttiä/tunti.
+Vuorotyössä maksetaan vuorotyölisää yövuorosta (esim. klo 22 - 06 väliltä) 226 senttiä/tunti.
+
 Varsinaisessa vuorotyössä maksetaan ilta- ja yövuoron tunneilta vuorotyölisää 1.3.2022 alkaen seuraavasti:
-iltavuoro (esim. klo 14 - 22) 125 senttiä/tunti yövuoro (esim. klo 22 - 06) 231 senttiä/tunti
-Vuorotyölisä voidaan vuoroja kohti jakaa toisinkin, mutta vuoro- kautta kohti maksettavan lisän on yhteensä vastattava yllä mai- nittuja määriä.
-Keskeytymättömässä kolmivuorotyössä sekä jatkuvassa kak- si- tai yksivuorotyössä työskentelevälle työntekijälle maksetaan hänen kultakin lauantaityövuorokauden aikana tekemältään säännöllisen työajan tunnilta erillinen lauantailisä, jonka suuruus työehtosopimuksen voimaan tullessa on 226 senttiä/tunti. Lisän suuruus 1.3.2022 alkaen on 231 senttiä/tunti.
-14.3 Ilta- ja yötyölisät
-Työstä, joka ei ole vuoro-, yli- eikä hätätyötä, maksetaan:
-- klo 18-23 välisenä aikana tehdystä työstä iltavuoron lisää vas- taava korvaus
-- klo 23-06 välisenä aikana tehdystä työstä yövuoron lisää vas- taava korvaus.
- 64
+Vuorotyössä maksetaan vuorotyölisää iltavuorosta (esim. klo 14 - 22 väliltä) 125 senttiä/tunti.
+Vuorotyössä maksetaan vuorotyölisää yövuorosta (esim. klo 22 - 06 väliltä) 231 senttiä/tunti.
 
-Työsuhteen kesto
-10 mutta ei 15 vuotta
-15 mutta ei 20 vuotta
-20 mutta ei 25 vuotta
-25 vuotta tai enemmän
-Lkk on edellisen lomanmääräytymisvuoden lomaan oikeuttavi-
-en kuukausien lukumäärä
-KTA on tuntipalkkaisella työntekijällä työehtosopimuksen koh- dassa 15.2 tarkoitettu kolmannen neljänneksen keskitun- tiansio.
-Lisän laskentakaava
-2xLkkx KTA 4xLkkx KTA 6xLkkx KTA 8xLkkx KTA
-Työehtosopimus
- 14.4 Palvelusvuosilisä
+Vuorotyölisä voidaan vuoroja kohti jakaa toisinkin, mutta vuorokautta kohti maksettavan lisän on yhteensä vastattava yllä mainittuja määriä.¨
+
+Keskeytymättömässä kolmivuorotyössä sekä jatkuvassa kaksi- tai yksivuorotyössä työskentelevälle työntekijälle maksetaan hänen kultakin lauantaityövuorokauden aikana tekemältään säännöllisen työajan tunnilta erillinen lauantailisä, jonka suuruus työehtosopimuksen voimaan tullessa eli 10.1.2022 alkaen on 226 senttiä/tunti. Lauantailisän suuruus 1.3.2022 alkaen on 231 senttiä/tunti.
+
+#### 14.3 Ilta- ja yötyölisät
+Työstä, joka ei ole vuoro-, yli- eikä hätätyötä, maksetaan klo 18-23 välisenä aikana iltavuoron lisää vastaava korvaus.
+Työstä, joka ei ole vuoro-, yli- eikä hätätyötä, maksetaan klo 23-06 välisenä aikana yövuoron lisää vastaava korvaus.
+
+#### 14.4 Palvelusvuosilisä
 Työntekijälle maksetaan joulukuun 1. päivää lähinnä seuraavan yrityksen normaalin palkanmaksupäivän yhteydessä erillise- nä lisänä palvelusvuosilisää sen mukaan, kuinka kauan hänen työsuhteensa on marraskuun loppuun mennessä yhtäjaksoisesti kestänyt.
-Palvelusvuosilisän maksamisen ajankohdasta voidaan paikalli- sesti sopia toisin. Sopimuksen tulee koskea kaikkia palvelusvuo- silisään oikeutettuja työntekijöitä.
-14.4.1 Perusteen toteaminen
-Se, kuuluuko työntekijä lisän soveltamispiiriin ja minkä perus- teen mukaisesti mahdollinen lisä hänelle maksetaan, todetaan vuosittain 30.11. Tällöin todettua perustetta noudatetaan seuraa- vaan tarkastusajankohtaan asti. Työsuhteen kestoa ja yhdenjak- soisuutta määriteltäessä noudatetaan vuosilomalain soveltamis- käytäntöä.
-14.4.2 Palvelusvuosilisän määrä
+Palvelusvuosilisän maksamisen ajankohdasta voidaan paikallisesti sopia toisin. Sopimuksen tulee koskea kaikkia palvelusvuosilisään oikeutettuja työntekijöitä.
+
+##### 14.4.1 Perusteen toteaminen
+Se, kuuluuko työntekijä lisän soveltamispiiriin ja minkä perusteen mukaisesti mahdollinen lisä hänelle maksetaan, todetaan vuosittain 30.11. Tällöin todettua perustetta noudatetaan seuraavaan tarkastusajankohtaan asti. Työsuhteen kestoa ja yhdenjaksoisuutta määriteltäessä noudatetaan vuosilomalain soveltamiskäytäntöä.
+
+##### 14.4.2 Palvelusvuosilisän määrä
 Lisä määräytyy seuraavasti:
-65
+Työsuhteen kesto 10 mutta ei 15 vuotta: Lisän laskentakaava on 2 X Lkk X KTA.
+Työsuhteen kesto 15 mutta ei 20 vuotta: Lisän laskentakaava on 4 X Lkk X KTA.
+Työsuhteen kesto 20 mutta ei 25 vuotta: Lisän laskentakaava on 6 X Lkk X KTA.
+Työsuhteen kesto 25 vuotta tai enemmän: Lisän laskentakaava on 8 X Lkk X KTA.
 
-Työehtosopimus
-Kuukausipalkkaiselle työntekijälle maksamisessa tarvittava tun- tipalkka lasketaan siten, että henkilökohtaisena aikapalkkana ole- va kuukausipalkka jaetaan luvulla 169.
-Osa-aikatyötä tekevän työntekijän palvelusvuosilisän suuruus lasketaan siten, että kerrotaan viikon säännöllisten tuntien luku- määrän ja luvun 40 osamäärällä edellä olevan kaavan mukaan laskettu palvelusvuosilisä.
-Jos työntekijä on siirtynyt kokoaikatyöstä osa-aikatyöhön tai osa-aikatyötä tehnyt työntekijä kokoaikatyöhön edellisen perus- teen toteamishetken (30.11.) jälkeen, suhteutetaan edellä olevan kaavan mukaan laskettu palvelusvuosilisä siten, että sen katso- taan jakautuvan kahteentoista osaan ja niiltä täysiltä kuukausil- ta, joina työntekijä on ollut sanottuna ajanjaksona osa-aikainen, kerrotaan tätä vastaava suhteellinen osuus palvelusvuosilisästä osa-aikatyön työviikon säännöllisten tuntien lukumäärän ja luvun 40 osamäärällä.
-14.4.3 Palvelusvuosilisän vaihtaminen vapaaseen
-Työnantaja ja työntekijä voivat vuosittain sopia, että työntekijän ansaitsema palvelusvuosilisä tai sen osa vaihdetaan vastaavaan vapaaseen. Vapaa voidaan pitää palvelusvuosilisän tarkastusajan- kohdan jälkeen. Työnantaja ja työntekijä sopivat vapaan ajankoh- dasta tai menettelytavasta, jota vapaan pitämisessä noudatetaan. Sopimus on tehtävä kirjallisesti. Pääluottamusmiehelle annetaan selvitys vaihtokäytännöistä.
-Vapaan ajalta maksetaan tuntipalkkaiselle työntekijälle keskitun- tiansiota vastaava korvaus.
- 66
+Lkk on edellisen lomanmääräytymisvuoden lomaan oikeuttavien kuukausien lukumäärä.
+KTA on tuntipalkkaisella työntekijällä työehtosopimuksen kohdassa 15.2 tarkoitettu kolmannen neljänneksen keskituntiansio.
 
-14.4.4 Työsuhteen päättyminen
-Jos lisän soveltamispiiriin kuuluvan työntekijän työsuhde päättyy ennen lisän vuosittaista maksua, maksetaan työntekijälle loppu- tilin yhteydessä edeltävän joulukuun alusta laskettuna kultakin sellaiselta kuukaudelta, jolta työntekijä on ansainnut vuosilomaa, 1/12 siitä summasta, joka hänelle viimeksi palvelusvuosilisänä maksettiin.
-14.5 Ammattitutkintopalkkiot
-Työntekijälle, joka hyväksyttävästi suorittaa yhdessä työnantajan kanssa sovitun työhön liittyvän ammattitutkinnon tai erikoisam- mattitutkinnon taikka entisen teknologiateollisuuden sähköalan työntekijöiden työehtosopimuksen mukaisen sopimusalan am- mattitutkinnon tai erikoisammattitutkinnon, maksetaan tutkinnon suorittamista seuraavan palkanmaksun yhteydessä ammattitut- kintopalkkio, jonka suuruus on:
-- ammattitutkinto 200 euroa
-- erikoisammattitutkinto 300 euroa.
-15 TUNTIPALKKAISEN TYÖNTEKIJÄN KESKITUNTIANSIO
-15.1 Keskituntiansion käyttö ja laskeminen
+Kuukausipalkkaiselle työntekijälle maksamisessa tarvittava tuntipalkka lasketaan siten, että henkilökohtaisena aikapalkkana oleva kuukausipalkka jaetaan luvulla 169.
+
+Osa-aikatyötä tekevän työntekijän palvelusvuosilisän suuruus lasketaan siten, että kerrotaan viikon säännöllisten tuntien lukumäärän ja luvun 40 osamäärällä edellä olevan kaavan mukaan laskettu palvelusvuosilisä.
+
+Jos työntekijä on siirtynyt kokoaikatyöstä osa-aikatyöhön tai osa-aikatyötä tehnyt työntekijä kokoaikatyöhön edellisen perusteen toteamishetken (30.11.) jälkeen, suhteutetaan edellä olevan kaavan mukaan laskettu palvelusvuosilisä siten, että sen katsotaan jakautuvan kahteentoista osaan ja niiltä täysiltä kuukausilta, joina työntekijä on ollut sanottuna ajanjaksona osa-aikainen, kerrotaan tätä vastaava suhteellinen osuus palvelusvuosilisästä osa-aikatyön työviikon säännöllisten tuntien lukumäärän ja luvun 40 osamäärällä.
+
+##### 14.4.3 Palvelusvuosilisän vaihtaminen vapaaseen
+Työnantaja ja työntekijä voivat vuosittain sopia, että työntekijän ansaitsema palvelusvuosilisä tai sen osa vaihdetaan vastaavaan vapaaseen. Vapaa voidaan pitää palvelusvuosilisän tarkastusajankohdan jälkeen. Työnantaja ja työntekijä sopivat vapaan ajankohdasta tai menettelytavasta, jota vapaan pitämisessä noudatetaan. Sopimus on tehtävä kirjallisesti. Pääluottamusmiehelle annetaan selvitys vaihtokäytännöistä.
+
+Vapaan ajalta maksetaan tuntipalkkaiselle työntekijälle keskituntiansiota vastaava korvaus.
+
+##### 14.4.4 Työsuhteen päättyminen
+Jos lisän soveltamispiiriin kuuluvan työntekijän työsuhde päättyy ennen lisän vuosittaista maksua, maksetaan työntekijälle lopputilin yhteydessä edeltävän joulukuun alusta laskettuna kultakin sellaiselta kuukaudelta, jolta työntekijä on ansainnut vuosilomaa, 1/12 siitä summasta, joka hänelle viimeksi palvelusvuosilisänä maksettiin.
+
+#### 14.5 Ammattitutkintopalkkiot
+Työntekijälle, joka hyväksyttävästi suorittaa yhdessä työnantajan kanssa sovitun työhön liittyvän ammattitutkinnon tai erikoisammattitutkinnon taikka entisen teknologiateollisuuden sähköalan työntekijöiden työehtosopimuksen mukaisen sopimusalan ammattitutkinnon tai erikoisammattitutkinnon, maksetaan tutkinnon suorittamista seuraavan palkanmaksun yhteydessä ammattitutkintopalkkio, jonka suuruus on:
+Ammattitutkintopalkkio on ammattitutkinnosta 200 euroa.
+Ammattitutkintopalkkio on erikoisammattitutkinnosta 300 euroa.
+
+### 15 TUNTIPALKKAISEN TYÖNTEKIJÄN KESKITUNTIANSIO
+
+#### 15.1 Keskituntiansion käyttö ja laskeminen
 Keskituntiansiota käytetään palkan ja korvausten maksamisen laskentaperusteena työehtosopimuksessa erikseen mainituissa tapauksissa.
-Työntekijän keskituntiansio lasketaan siten, että hänelle kunkin vuosineljänneksen aikana tehdyltä työajalta aika- ja suorituspalk- kojen mukaan kertynyt ansio mahdollisine erillisine lisineen jae- taan tehtyjen työtuntien kokonaismäärällä.
-Työehtosopimus
- 67
+Työntekijän keskituntiansio lasketaan siten, että hänelle kunkin vuosineljänneksen aikana tehdyltä työajalta aika- ja suorituspalkkojen mukaan kertynyt ansio mahdollisine erillisine lisineen jaetaan tehtyjen työtuntien kokonaismäärällä.
 
-Työehtosopimus
 Tehdyn työajan lisistä ei oteta huomioon
 • ylityölisiä
 • sunnuntaityölisiä
 • työajan tasaamislisiä
 • lauantailisiä
 • tulospalkkiolisiä.
-Myöskään muun kuin tehdyn työajan lisiä, kuten palvelusvuosi- lisää ja voittopalkkioita, ei huomioida keskituntiansion lasken- nassa.
-Jos työntekijä on ollut laskentaneljänneksen aikana työssä vä- hemmän kuin 160 tuntia, keskituntiansiota ei tältä vuosineljän- nekseltä lasketa.
-Pitkäaikaisesta, eri vuosineljänneksille jakautuneesta suoritus- palkasta saatu kokonaisansio voidaan keskituntiansiota lasketta- essa jakaa tehtyjen työtuntien osoittamassa suhteessa kyseisten vuosineljännesten kesken, mikäli suorituspalkkaan käytettyjen työtuntien lukumäärä tällöin on tiedossa.
-15.2 Keskituntiansion käyttöajankohdat
-Edellisten kohtien mukaan laskettujen eri vuosineljännesten kes- kituntiansioita käytetään seuraavasti:
-• helmi-, maalis- ja huhtikuun aikana edellisen vuoden IV vuo- sineljänneksen keskituntiansiota,
-• touko-, kesä- ja heinäkuun aikana vuoden I vuosineljännek- sen keskituntiansiota,
-• elo-, syys- ja lokakuun aikana vuoden II vuosineljänneksen keskituntiansiota sekä
-• marras-, joulu- ja tammikuun aikana III vuosineljänneksen keskituntiansiota.
- 68
 
-Työehtosopimus
-Tässä kohdassa mainitut kuukausijaksot ja vuosineljännekset las- ketaan alkaviksi ja päättyviksi tilikausittain.
-Jos tilikausi osuu kahdelle eri kuukaudelle tai vuosineljännek- selle, luetaan se siihen kuukauteen tai vuosineljännekseen, johon suurin osa tilikauden säännöllisistä työtunneista kohdistuu.
-15.3 Uusi työntekijä ja eräät muut erityistilanteet
-Uudelle työntekijälle maksetaan kohtaan 15.1 perustuva palkka tai korvaus enintään neljän kuukauden ajan hänen henkilökohtai- sen aikapalkkansa mukaan.
+Myöskään muun kuin tehdyn työajan lisiä, kuten palvelusvuosilisää ja voittopalkkioita, ei huomioida keskituntiansion laskennassa.
+
+Jos työntekijä on ollut laskentaneljänneksen aikana työssä vähemmän kuin 160 tuntia, keskituntiansiota ei tältä vuosineljännekseltä lasketa.
+
+Pitkäaikaisesta, eri vuosineljänneksille jakautuneesta suorituspalkasta saatu kokonaisansio voidaan keskituntiansiota laskettaessa jakaa tehtyjen työtuntien osoittamassa suhteessa kyseisten vuosineljännesten kesken, mikäli suorituspalkkaan käytettyjen työtuntien lukumäärä tällöin on tiedossa.
+
+#### 15.2 Keskituntiansion käyttöajankohdat
+Edellisten kohtien mukaan laskettujen eri vuosineljännesten keskituntiansioita käytetään seuraavasti:
+• helmi-, maalis- ja huhtikuun aikana käytetään edellisen vuoden IV vuosineljänneksen keskituntiansiota,
+• touko-, kesä- ja heinäkuun aikana käytetään vuoden I vuosineljänneksen keskituntiansiota,
+• elo-, syys- ja lokakuun aikana käytetään vuoden II vuosineljänneksen keskituntiansiota sekä
+• marras-, joulu- ja tammikuun aikana käytetään III vuosineljänneksen keskituntiansiota.
+
+Tässä kohdassa mainitut kuukausijaksot ja vuosineljännekset lasketaan alkaviksi ja päättyviksi tilikausittain.
+
+Jos tilikausi osuu kahdelle eri kuukaudelle tai vuosineljännekselle, luetaan se siihen kuukauteen tai vuosineljännekseen, johon suurin osa tilikauden säännöllisistä työtunneista kohdistuu.
+
+#### 15.3 Uusi työntekijä ja eräät muut erityistilanteet
+Uudelle työntekijälle maksetaan kohtaan 15.1 perustuva palkka tai korvaus enintään neljän kuukauden ajan hänen henkilökohtaisen aikapalkkansa mukaan.
+
 Jos keskituntiansio on peruspalkkaa pienempi, maksetaan palkka tai korvaus kuitenkin peruspalkan mukaan.
-Työntekijälle, jolle kohdan 15.1 mukaan ei keskituntiansiota ole laskettu esimerkiksi sairauden tai suoritetun asevelvollisuuden takia, maksetaan palkka tai korvaus vastaavasti viimeksi laske- tun keskituntiansion mukaan tai henkilökohtaisen aikapalkan mukaan, jos tämä on korkeampi.
-16 PALKANMÄÄRITYSJAKSO JA SEN MUUTTAMINEN
-Palkanmääritysjaksolla tarkoitetaan ajanjaksoa, jota kohti palkka on määritetty. Perusmääritysjakson pituus on tunti. Muun mää- ritysjakson käyttöönotosta sovitaan paikallisesti työnantajan ja pääluottamusmiehen välillä ja se kirjataan.
-Silloin kun määritysjakson pituus muuttuu, työntekijän perus- palkan rakenne säilyy entisellään. Jakson pituuden muutos ei saa haitallisesti vaikuttaa työntekijän normaaleihin palkkatuloihin.
-Ennen määritysjakson muuttamista työnantajan tulee antaa työn- tekijöille selvitys muutoksen tavoitteista, sisällöstä ja käytännön menettelytavoista.
- 69
 
-Työehtosopimus
-Muun kuin perusmääritysjakson käyttöä koskeva sopimus voi- daan perustellusta syystä irtisanoa. Irtisanomisaika on vähintään kuusi kuukautta.
-17 KUUKAUSIPALKKAA KOSKEVAT ERITYISMÄÄRÄYKSET
-17.1 Ansionmenetyksen korvaaminen
-Työehtosopimuksen mukaan korvattava säännöllisen työajan an- sionmenetys maksetaan henkilökohtaisena aikapalkkana olevaan kuukausipalkkaan perustuen.
-17.2 Eräiden korvausten kuukausipalkkajakaja
-Seuraavien korvausten maksamisessa tarvittava tuntipalkka las- ketaan siten, että henkilökohtaisena aikapalkkana oleva kuukau- sipalkka jaetaan luvulla 169:
+Työntekijälle, jolle kohdan 15.1 mukaan ei keskituntiansiota ole laskettu esimerkiksi sairauden tai suoritetun asevelvollisuuden takia, maksetaan palkka tai korvaus vastaavasti viimeksi lasketun keskituntiansion mukaan tai henkilökohtaisen aikapalkan mukaan, jos tämä on korkeampi.
+
+### 16 PALKANMÄÄRITYSJAKSO JA SEN MUUTTAMINEN
+Palkanmääritysjaksolla tarkoitetaan ajanjaksoa, jota kohti palkka on määritetty. Perusmääritysjakson pituus on tunti. Muun määritysjakson käyttöönotosta sovitaan paikallisesti työnantajan ja pääluottamusmiehen välillä ja se kirjataan.
+Silloin kun määritysjakson pituus muuttuu, työntekijän peruspalkan rakenne säilyy entisellään. Jakson pituuden muutos ei saa haitallisesti vaikuttaa työntekijän normaaleihin palkkatuloihin.
+
+Ennen määritysjakson muuttamista työnantajan tulee antaa työntekijöille selvitys muutoksen tavoitteista, sisällöstä ja käytännön menettelytavoista.
+
+Muun kuin perusmääritysjakson käyttöä koskeva sopimus voidaan perustellusta syystä irtisanoa. Irtisanomisaika on vähintään kuusi kuukautta.
+
+### 17 KUUKAUSIPALKKAA KOSKEVAT ERITYISMÄÄRÄYKSET
+
+#### 17.1 Ansionmenetyksen korvaaminen
+Työehtosopimuksen mukaan korvattava säännöllisen työajan ansionmenetys maksetaan henkilökohtaisena aikapalkkana olevaan kuukausipalkkaan perustuen.
+#### 17.2 Eräiden korvausten kuukausipalkkajakaja
+Seuraavien korvausten maksamisessa tarvittava tuntipalkka lasketaan siten, että henkilökohtaisena aikapalkkana oleva kuukausipalkka jaetaan luvulla 169:
 • viikkolepokorvaus
 • hälytysraha
 • matka-ajan korvaus säännöllisen työajan ulkopuolella
 • ammatillinen koulutus
 • varallaoloajan korvaus
 • kutsuntapäivän korvaus.
-17.3 Osa-ajan palkka
-Jos työntekijällä ei ole oikeutta saada palkkaansa koko palkan- maksukaudelta esimerkiksi palkattoman poissaolon vuoksi, las- ketaan hänelle osa-ajan palkka.
-Osa-ajan palkka lasketaan siten, että henkilökohtaisena aikapalk- kana tai suorituspalkan kiinteänä osana oleva kuukausipalkka
- 70
 
-Työehtosopimus
-jaetaan palkanmaksukauteen sisältyvien työtuntijärjestelmän mukaisten työtuntien määrällä ja saatu tuntipalkka kerrotaan niiden tuntien lukumäärällä, joilta työntekijällä on oikeus saada palkkaa. Suorituspalkan muuttuva osuus maksetaan tehdyn työn mukaan.
-17.4 Osa-aikatyö
-Osa-aikatyössä, jossa työaika on lyhyempi kuin 40 tuntia vii- kossa, työkohtaiset kuukausipalkat lasketaan siten, että kerrotaan osa-aikatyötä tekevän työntekijän säännöllisten tuntien lukumää- rän ja luvun 40 osamäärällä kohdassa 8.1 mainitut työkohtaiset kuukausipalkat.
-Osa-aikaisella työntekijällä käytetään vakiotuntijakajan 169 ase- mesta jakajana keskimääräistä sovittua työaikaa kuukaudessa.
-18 PALKAN MAKSAMINEN
-Palkanmääritysjakson ollessa viikkoa lyhyempi, palkka on mak- settava vähintään kaksi kertaa kuukaudessa, ellei ole paikallisesti sovittu palkan tai sen osan maksamisesta kerran kuukaudessa. Jos palkka on määritetty viikkoa tai sitä pidempää ajanjaksoa kohti, palkka on maksettava vähintään kerran kuukaudessa.
- 71
+#### 17.3 Osa-ajan palkka
+Jos työntekijällä ei ole oikeutta saada palkkaansa koko palkanmaksukaudelta esimerkiksi palkattoman poissaolon vuoksi, lasketaan hänelle osa-ajan palkka.
+Osa-ajan palkka lasketaan siten, että henkilökohtaisena aikapalkkana tai suorituspalkan kiinteänä osana oleva kuukausipalkka jaetaan palkanmaksukauteen sisältyvien työtuntijärjestelmän mukaisten työtuntien määrällä ja saatu tuntipalkka kerrotaan niiden tuntien lukumäärällä, joilta työntekijällä on oikeus saada palkkaa. Suorituspalkan muuttuva osuus maksetaan tehdyn työn mukaan.
 
-Työehtosopimus
-III TYÖAIKA JA VUOSILOMA
-Työaikaa koskevat määräykset sääntelevät säännöllisen työajan pituutta ja sen järjestämistä joko työnantajan työnjohto-oikeuteen perustuen tai paikallisesti sopien. Työajan tarkoituksenmukaisel- la sijoittamisella voidaan parantaa yritysten toimituskykyä, ottaa huomioon työntekijöiden työaikaan liittyvät tarpeet sekä saattaa työn kysyntä ja tarjonta kohtaamaan tehokkaasti.
+#### 17.4 Osa-aikatyö
+Osa-aikatyössä, jossa työaika on lyhyempi kuin 40 tuntia viikossa, työkohtaiset kuukausipalkat lasketaan siten, että kerrotaan osa-aikatyötä tekevän työntekijän säännöllisten tuntien lukumäärän ja luvun 40 osamäärällä kohdassa 8.1 mainitut työkohtaiset kuukausipalkat.
+
+Osa-aikaisella työntekijällä käytetään vakiotuntijakajan 169 asemesta jakajana keskimääräistä sovittua työaikaa kuukaudessa.
+
+### 18 PALKAN MAKSAMINEN
+Palkanmääritysjakson ollessa viikkoa lyhyempi, palkka on maksettava vähintään kaksi kertaa kuukaudessa, ellei ole paikallisesti sovittu palkan tai sen osan maksamisesta kerran kuukaudessa. Jos palkka on määritetty viikkoa tai sitä pidempää ajanjaksoa kohti, palkka on maksettava vähintään kerran kuukaudessa.
+
+## III TYÖAIKA JA VUOSILOMA
+Työaikaa koskevat määräykset sääntelevät säännöllisen työajan pituutta ja sen järjestämistä joko työnantajan työnjohto-oikeuteen perustuen tai paikallisesti sopien. Työajan tarkoituksenmukaisella sijoittamisella voidaan parantaa yritysten toimituskykyä, ottaa huomioon työntekijöiden työaikaan liittyvät tarpeet sekä saattaa työn kysyntä ja tarjonta kohtaamaan tehokkaasti.
 Työehtosopimuksen määrittämän säännöllisen työajan ylittyessä kyse voi olla joko lain mukaisesta ylityöstä tai TES-ylityöstä. Tällaisesta työstä maksetaan korotettua palkkaa.
-Vuosilomamääräykset käsittelevät vuosilomapalkkaa ja lomara- haa.
+Vuosilomamääräykset käsittelevät vuosilomapalkkaa ja lomarahaa.
 Muilta kuin työehtosopimuksessa määritellyiltä osin noudatetaan työaikalain ja vuosilomalain säännöksiä.
-Liitot ovat sopineet työehtosopimuksen allekirjoituspöytäkir- jassa mahdollisuudesta työaikaan liittyviin työpaikkakohtaisiin kokeiluihin, joilla poiketaan työehtosopimuksen 19 luvun mää- räyksistä.
-19 SÄÄNNÖLLINEN TYÖAIKA 19.1 Säännöllisen työajan pituus
+Liitot ovat sopineet työehtosopimuksen allekirjoituspöytäkirjassa mahdollisuudesta työaikaan liittyviin työpaikkakohtaisiin kokeiluihin, joilla poiketaan työehtosopimuksen 19 luvun määräyksistä.
+
+### 19 SÄÄNNÖLLINEN TYÖAIKA 
+
+#### 19.1 Säännöllisen työajan pituus
 Säännöllinen työaika on enintään 8 tuntia työvuorokaudessa ja 40 tuntia työviikossa.
-19.1.1 Keskimääräinen viikkotyöaika päivä- ja kaksivuoro- työssä
-Työskenneltäessä normaalisti täysiaikaisesti eli 40-tuntisin työ- viikoin, tulee työaika päivä- ja kaksivuorotyössä tasata siten, että se on enintään kalenterivuoden aikana
-72
- 
-Työehtosopimus
-vuonna 2022 keskimäärin 36,6 tuntia viikossa vuonna 2023 keskimäärin 36,2 tuntia viikossa.
-Keskimääräinen viikkotyöaika on saatu siten, että STK:n ja SAK:n välillä 28.3.1984 ja 15.3.1986 solmittujen sopimusten edellyttämät työajan lyhennykset on muutettu kalenterivuotta koskevaksi keskimääräiseksi viikkotyöajaksi. Myös arkipyhät sekä juhannus- ja jouluaatto tasaavat viikkotyöaikaa. Keskimää- räinen viikkotyöaika voi kalenterivuosittain työntekijäkohtaises- ti vaihdella riippuen siitä, onko työntekijä mahdollisesti kohdan 19.2. mukaisesti siirtänyt tasaamisvapaata seuraavalle vuodelle taikka siitä, onko tasaamisvapaan määrästä paikallisesti sovittu toisin kohdan 19.7 tarkoittamalla tavalla.
+
+##### 19.1.1 Keskimääräinen viikkotyöaika päivä- ja kaksivuorotyössä
+Työskenneltäessä normaalisti täysiaikaisesti eli 40-tuntisin työviikoin, tulee työaika päivä- ja kaksivuorotyössä tasata siten, että se on enintään kalenterivuoden aikana vuonna 2022 keskimäärin 36,6 tuntia viikossa ja vuonna 2023 keskimäärin 36,2 tuntia viikossa.
+
+Keskimääräinen viikkotyöaika on saatu siten, että STK:n ja SAK:n välillä 28.3.1984 ja 15.3.1986 solmittujen sopimusten edellyttämät työajan lyhennykset on muutettu kalenterivuotta koskevaksi keskimääräiseksi viikkotyöajaksi. Myös arkipyhät sekä juhannus- ja jouluaatto tasaavat viikkotyöaikaa. Keskimääräinen viikkotyöaika voi kalenterivuosittain työntekijäkohtaisesti vaihdella riippuen siitä, onko työntekijä mahdollisesti kohdan 19.2. mukaisesti siirtänyt tasaamisvapaata seuraavalle vuodelle taikka siitä, onko tasaamisvapaan määrästä paikallisesti sovittu toisin kohdan 19.7 tarkoittamalla tavalla.
 Työajan tasaamisessa keskimääräiseksi noudatetaan 19.2 kohdan määräyksiä.
-19.1.2 Keskimääräinen viikkotyöaika kolmivuorotyössä
-Säännöllinen työaika on
-• keskeytyvässä kolmivuorotyössä keskimäärin 35,8 tuntia viikossa ja
-• keskeytymättömässä kolmivuorotyössä keskimäärin 34,9 tuntia viikossa.
-Keskimääräiset viikkotyöajat toteutetaan etukäteen laadittavalla työtuntijärjestelmällä. Työajan tulee enintään vuoden, pääsään- töisesti kalenterivuoden, pituisena ajanjaksona tasoittua keski- määrin edellä mainittuihin määriin viikossa.
-Arkipyhät ovat työ- tai vapaapäiviä työtuntijärjestelmästä ilme- nevällä tavoin. Arkipyhien sekä juhannus- ja jouluaaton työaikaa
- 73
 
-Työehtosopimus
-tasaava vaikutus on otettu huomioon edellä mainittuja keskimää- räisiä viikkotyöaikoja laskettaessa. Vuosilomapäiviä ei voida käyttää työajan tasaamiseen.
-Keskeytyvällä kolmivuorotyöllä tarkoitetaan työtä, jota tehdään kolmessa vuorossa niin, että työskentely keskeytyy yleensä vii- konvaihteen ajaksi. Yrityksen tuotantotarpeiden vuoksi arkipy- häviikkojen työaika vaihtelee sen mukaisesti, keskeytyvätkö työt arkipyhinä vai eivät.
+##### 19.1.2 Keskimääräinen viikkotyöaika kolmivuorotyössä
+Säännöllinen työaika on keskeytyvässä kolmivuorotyössä keskimäärin 35,8 tuntia viikossa ja keskeytymättömässä kolmivuorotyössä keskimäärin 34,9 tuntia viikossa.
+
+Keskimääräiset viikkotyöajat toteutetaan etukäteen laadittavalla työtuntijärjestelmällä. Työajan tulee enintään vuoden, pääsääntöisesti kalenterivuoden, pituisena ajanjaksona tasoittua keskimäärin edellä mainittuihin määriin viikossa.
+
+Arkipyhät ovat työ- tai vapaapäiviä työtuntijärjestelmästä ilmenevällä tavoin. Arkipyhien sekä juhannus- ja jouluaaton työaikaa tasaava vaikutus on otettu huomioon edellä mainittuja keskimääräisiä viikkotyöaikoja laskettaessa. Vuosilomapäiviä ei voida käyttää työajan tasaamiseen.
+
+Keskeytyvällä kolmivuorotyöllä tarkoitetaan työtä, jota tehdään kolmessa vuorossa niin, että työskentely keskeytyy yleensä viikonvaihteen ajaksi. Yrityksen tuotantotarpeiden vuoksi arkipyhäviikkojen työaika vaihtelee sen mukaisesti, keskeytyvätkö työt arkipyhinä vai eivät.
+
 Keskeytymättömällä kolmivuorotyöllä tarkoitetaan työtä, jota tehdään kolmessa vuorossa yhteensä 24 tuntia vuorokaudessa seitsemänä päivänä viikossa.
-Keskeytymätöntä kolmivuorotyötä koskevia määräyksiä sovelle- taan myös maan alla tehtävässä kaivostyössä.
-19.2 Työajan tasaaminen päivä- ja kaksivuorotyössä
-A. Keskimääräisen viikkotyöajan toteuttaminen
-Keskimääräinen viikkotyöaika toteutuu antamalla työajan tasaa- misvapaata 12,5 päivää kalenterivuodessa. Vuosilomapäiviä ei voida käyttää työajan tasaamiseen.
-Ellei paikallisesti sovita toisin, toteutetaan työajan tasaaminen pitämällä vapaata työnantajan osoituksen mukaan vähintään työ- vuoro kerrallaan.
+
+Keskeytymätöntä kolmivuorotyötä koskevia määräyksiä sovelletaan myös maan alla tehtävässä kaivostyössä.
+
+#### 19.2 Työajan tasaaminen päivä- ja kaksivuorotyössä
+
+##### A. Keskimääräisen viikkotyöajan toteuttaminen
+Keskimääräinen viikkotyöaika toteutuu antamalla työajan tasaamisvapaata 12,5 päivää kalenterivuodessa. Vuosilomapäiviä ei voida käyttää työajan tasaamiseen.
+
+Ellei paikallisesti sovita toisin, toteutetaan työajan tasaaminen pitämällä vapaata työnantajan osoituksen mukaan vähintään työvuoro kerrallaan.
+
 Työajan tasaaminen voidaan paikallisesti sopien toteuttaa myös lyhentämällä säännöllistä vuorokautista työaikaa taikka eri työ- ajan tasaamisvaihtoehtoja yhdistelemällä.
- 74
 
-B. Tasaamisvapaan antaminen
-Tasaamisvapaan ajankohta
-• ilmenee etukäteen vahvistetusta työtuntijärjestelmästä,
-• ilmoitetaan viimeistään viikkoa ennen tai
-• sovitaan paikallisesti.
-Työtuntijärjestelmä on luonteeltaan kollektiivinen ja koskee sitä aikaa, jolloin käytettävänä työaikamuotona asianomaisessa työ- kohteessa, osastolla tai työpaikalla yleensä on päivä- tai kaksi- vuorotyö.
-Mikäli työtuntijärjestelmästä ei muuta johdu, työstä poissa ole- van työntekijän katsotaan saaneen vapaata, vaikkei hänelle ole siitä erikseen ilmoitettu, kun koko yritys, sen työosasto tai työ- ryhmä, johon työntekijä kuuluu, on tässä sopimuksessa tarkoitet- tua vapaata pitänyt.
-C. Tasaamisvapaan siirtäminen
-Työnantaja ja työntekijä voivat sopia tasaamisvapaan siirtämi- sestä annettavaksi viimeistään seuraavan vuoden loppuun men- nessä. Pääluottamusmiehelle annetaan selvitys tasaamisvapaiden siirtokäytännöistä.
-Siirtää voidaan sellainen tasaamisvapaa, josta tasaamislisää ei ole maksettu. Siirretyn tasaamisvapaan osalta tasaamislisä makse- taan vapaan pitämisen yhteydessä. Siirrettävän tasaamisvapaan määrästä ja tasaamislisän maksamisajankohdasta voidaan työn- antajan ja työntekijän välillä sopia toisin.
-D. Tasaamisvapaa ja lomauttaminen
-Vajaatyöllisyystilanteissa käytetään ensisijaisesti työajan tasaa- misvapaata ja tarvittaessa vasta sen jälkeen turvaudutaan lomaut- tamiseen.
-Työehtosopimus
- 75
+##### B. Tasaamisvapaan antaminen
+Tasaamisvapaan ajankohta ilmenee etukäteen vahvistetusta työtuntijärjestelmästä, ja se ilmoitetaan viimeistään viikkoa ennen tai sovitaan paikallisesti.
 
-Työehtosopimus
-19.3 Työajan tasaamislisät ja niiden maksaminen
-Työajan tasaamisesta keskimääräiseen viikkotyöaikaan aiheutu- va ansion vähentyminen korvataan siten, että työntekijä ansaitsee jokaiselta tämän sopimuksen tarkoittamassa työaikamuodossa työskentelemältään säännöllisen työajan tunnilta senttimääräisen lisän, joka on päivä- ja kaksivuorotyössä 6,3 %, keskeytyvässä kolmivuorotyössä 11 % ja keskeytymättömässä kolmivuorotyös- sä 14,3 % työntekijän vuosineljänneksittäin määräytyvästä kes- kituntiansiosta.
-Lisä maksetaan myös
-• työnantajan korvattavalta matkustamis- ja koulutusajalta säännöllisen työajan osalta,
-• ajalta, jolta työnantaja maksaa sairausajan palkkaa
-• ajalta, jolta työnantaja maksaa palkkaa lapsen sairauden
-vuoksi
-• siltä säännöllisen työajan osalta, joka luottamusmieheltä tai
-työsuojeluvaltuutetulta kuluu heidän toimiessaan työnanta- jan kanssa sovituissa tehtävissä.
-Ansaitut lisät maksetaan päivä- ja kaksivuorotyössä palkanmak- sukausittain, ellei paikallisesti sovita toisin. Kolmivuorotyössä ansaittujen lisien maksamisen ajankohdista sovitaan paikallisesti.
-Kuukausipalkkaisen työntekijän työaika tasataan kuukausipalk- kaa alentamatta.
-19.4 Työtuntijärjestelmä
-Etukäteen laadittavasta työtuntijärjestelmästä tulee ilmetä sään- nöllisen vuorokautisen ja viikoittaisen työajan sijoittuminen sekä enintään vuoden pituinen ajanjakso, jonka kuluessa työaika ta- soittuu säännölliseen määräänsä.
- 76
+Työtuntijärjestelmä on luonteeltaan kollektiivinen ja koskee sitä aikaa, jolloin käytettävänä työaikamuotona asianomaisessa työkohteessa, osastolla tai työpaikalla yleensä on päivä- tai kaksivuorotyö.
 
-Työehtosopimus
-Kolmivuorotyössä työtuntijärjestelmä on luonteeltaan kollektii- vinen. Työajan tasoittumisjakso on enintään vuoden, pääsääntöi- sesti kalenterivuoden, pituinen ajanjakso.
-Jos säännöllisen työajan sijoittumisen yksityiskohtainen ilmoit- taminen päivä- ja kaksivuorotyötä koskevassa työtuntijärjestel- mässä koko tasoittumisjaksoksi on tasoittumisjakson pituuden tai työn epäsäännöllisyyden vuoksi erittäin vaikeaa, työtuntijärjes- telmä voidaan tältä osin laatia lyhyemmäksi ajaksi.
-Työaika on järjestettävä työtuntijärjestelmää laadittaessa niin, että työaikalain tarkoittama viikoittainen vapaa-aika (viikkole- po), mikäli mahdollista, sijoitetaan sunnuntain yhteyteen. Käy- tössä oleva työaikamuoto tai -järjestelmä huomioon ottaen pi- detään tavoitteena, että työntekijällä on viikon aikana toinenkin vapaapäivä. Jos tämä vapaapäivä määrätään kiinteäksi viikonpäi- väksi, sen tulee mahdollisuuksien mukaan olla lauantai. Muussa tapauksessa vapaapäivä ilmenee työtuntijärjestelmästä.
-Arkipyhäviikot ja vapaapäivät
-Arkipyhäviikolla on arkipäiväksi sattuvan juhlapäivän aaton ja lauantain säännöllinen työaika kahdeksan tuntia, lukuun ottamat- ta pääsiäislauantaita sekä juhannus- ja jouluaattoa, jotka ovat va- paapäiviä, elleivät tuotannon tekniset syyt muuta vaadi.
-Uudenvuodenpäivä-, loppiaispäivä-, vapunpäivä-, helatorstai-, itsenäisyyspäiväviikon sekä joulun ja pääsiäisen jälkeiset lauan- tait ovat vapaapäiviä töissä, joissa työaika muutoinkin on järjes- tetty kiintein, lauantaiksi osuvin vapaapäivin.
- 77
+Mikäli työtuntijärjestelmästä ei muuta johdu, työstä poissa olevan työntekijän katsotaan saaneen vapaata, vaikkei hänelle ole siitä erikseen ilmoitettu, kun koko yritys, sen työosasto tai työryhmä, johon työntekijä kuuluu, on tässä sopimuksessa tarkoitettua vapaata pitänyt.
 
-Työehtosopimus
-19.4.1 Työtuntijärjestelmän muuttaminen ja muutoksesta ilmoittaminen
-Voimassa olevan työtuntijärjestelmän muuttamisen perusteista, vaikutuksista ja vaihtoehdoista neuvotellaan työpaikalla työehto- sopimuksen neuvottelujärjestyksen mukaisesti.
-Pysyvästä muutoksesta voimassa olevaan työtuntijärjestelmään ilmoitetaan asianomaiselle työntekijälle kaksi viikkoa ennen muutoksen toimeenpanoa. Tilapäisestä muutoksesta ilmoitetaan, mikäli mahdollista, viikkoa ennen muutoksen toimeenpanoa, kui- tenkin viimeistään kolmantena muutoksen toimeenpanoa edeltä- vänä päivänä. Ilmoitusajoista voidaan paikallisesti sopia toisin.
-Muutos on luonteeltaan tilapäinen, jos muutostarpeen lakattua työpaikalla on tarkoitus siirtyä takaisin käytössä olevaan työtun- tijärjestelmään.
+##### C. Tasaamisvapaan siirtäminen
+Työnantaja ja työntekijä voivat sopia tasaamisvapaan siirtämisestä annettavaksi viimeistään seuraavan vuoden loppuun mennessä. Pääluottamusmiehelle annetaan selvitys tasaamisvapaiden siirtokäytännöistä.
+
+Siirtää voidaan sellainen tasaamisvapaa, josta tasaamislisää ei ole maksettu. Siirretyn tasaamisvapaan osalta tasaamislisä maksetaan vapaan pitämisen yhteydessä. 
+
+Siirrettävän tasaamisvapaan määrästä ja tasaamislisän maksamisajankohdasta voidaan työnantajan ja työntekijän välillä sopia toisin.
+
+##### D. Tasaamisvapaa ja lomauttaminen
+Vajaatyöllisyystilanteissa käytetään ensisijaisesti työajan tasaamisvapaata ja tarvittaessa vasta sen jälkeen turvaudutaan lomauttamiseen.
+
+#### 19.3 Työajan tasaamislisät ja niiden maksaminen
+Työajan tasaamisesta keskimääräiseen viikkotyöaikaan aiheutuva ansion vähentyminen korvataan siten, että työntekijä ansaitsee jokaiselta tämän sopimuksen tarkoittamassa työaikamuodossa työskentelemältään säännöllisen työajan tunnilta senttimääräisen lisän, joka on päivä- ja kaksivuorotyössä 6,3 %, keskeytyvässä kolmivuorotyössä 11 % ja keskeytymättömässä kolmivuorotyössä 14,3 % työntekijän vuosineljänneksittäin määräytyvästä keskituntiansiosta.
+
+Tasaamislisä maksetaan myös työnantajan korvattavalta matkustamis- ja koulutusajalta säännöllisen työajan osalta.
+Tasaamislisä maksetaan myös ajalta, jolta työnantaja maksaa sairausajan palkkaa.
+Tasaamislisä maksetaan myös ajalta, jolta työnantaja maksaa palkkaa lapsen sairauden
+vuoksi.
+Tasaamislisä maksetaan myös siltä säännöllisen työajan osalta, joka luottamusmieheltä tai työsuojeluvaltuutetulta kuluu heidän toimiessaan työnantajan kanssa sovituissa tehtävissä.
+
+Ansaitut lisät maksetaan päivä- ja kaksivuorotyössä palkanmaksukausittain, ellei paikallisesti sovita toisin. Kolmivuorotyössä ansaittujen tasaamislisien maksamisen ajankohdista sovitaan paikallisesti.
+
+Kuukausipalkkaisen työntekijän työaika tasataan kuukausipalkkaa alentamatta.
+
+#### 19.4 Työtuntijärjestelmä
+Etukäteen laadittavasta työtuntijärjestelmästä tulee ilmetä säännöllisen vuorokautisen ja viikoittaisen työajan sijoittuminen sekä enintään vuoden pituinen ajanjakso, jonka kuluessa työaika tasoittuu säännölliseen määräänsä.
+
+Kolmivuorotyössä työtuntijärjestelmä on luonteeltaan kollektiivinen. Työajan tasoittumisjakso on enintään vuoden, pääsääntöisesti kalenterivuoden, pituinen ajanjakso.
+Jos säännöllisen työajan sijoittumisen yksityiskohtainen ilmoittaminen päivä- ja kaksivuorotyötä koskevassa työtuntijärjestelmässä koko tasoittumisjaksoksi on tasoittumisjakson pituuden tai työn epäsäännöllisyyden vuoksi erittäin vaikeaa, työtuntijärjestelmä voidaan tältä osin laatia lyhyemmäksi ajaksi.
+
+Työaika on järjestettävä työtuntijärjestelmää laadittaessa niin, että työaikalain tarkoittama viikoittainen vapaa-aika (viikkolepo), mikäli mahdollista, sijoitetaan sunnuntain yhteyteen. Käytössä oleva työaikamuoto tai -järjestelmä huomioon ottaen pidetään tavoitteena, että työntekijällä on viikon aikana toinenkin vapaapäivä. Jos tämä vapaapäivä määrätään kiinteäksi viikonpäiväksi, sen tulee mahdollisuuksien mukaan olla lauantai. Muussa tapauksessa vapaapäivä ilmenee työtuntijärjestelmästä.
+
+###### Arkipyhäviikot ja vapaapäivät
+Arkipyhäviikolla on arkipäiväksi sattuvan juhlapäivän aaton ja lauantain säännöllinen työaika kahdeksan tuntia, lukuun ottamatta pääsiäislauantaita sekä juhannus- ja jouluaattoa, jotka ovat vapaapäiviä, elleivät tuotannon tekniset syyt muuta vaadi.
+
+Uudenvuodenpäivä-, loppiaispäivä-, vapunpäivä-, helatorstai-, itsenäisyyspäiväviikon sekä joulun ja pääsiäisen jälkeiset lauantait ovat vapaapäiviä töissä, joissa työaika muutoinkin on järjestetty kiintein, lauantaiksi osuvin vapaapäivin.
+
+##### 19.4.1 Työtuntijärjestelmän muuttaminen ja muutoksesta ilmoittaminen
+Voimassa olevan työtuntijärjestelmän muuttamisen perusteista, vaikutuksista ja vaihtoehdoista neuvotellaan työpaikalla työehtosopimuksen neuvottelujärjestyksen mukaisesti.
+
+Pysyvästä muutoksesta voimassa olevaan työtuntijärjestelmään ilmoitetaan asianomaiselle työntekijälle kaksi viikkoa ennen muutoksen toimeenpanoa. Tilapäisestä muutoksesta ilmoitetaan, mikäli mahdollista, viikkoa ennen muutoksen toimeenpanoa, kuitenkin viimeistään kolmantena muutoksen toimeenpanoa edeltävänä päivänä. Ilmoitusajoista voidaan paikallisesti sopia toisin.
+
+Muutos on luonteeltaan tilapäinen, jos muutostarpeen lakattua työpaikalla on tarkoitus siirtyä takaisin käytössä olevaan työtuntijärjestelmään.
 Työtuntijärjestelmän muuttamista koskevat määräykset eivät koske hätätyötä tai siihen rinnastettavaa työtä.
-19.5 Työaikamuodon muutokset
+
+#### 19.5 Työaikamuodon muutokset
 Siirryttäessä työaikamuodosta toiseen määräytyy työaika ja siitä maksettava erillinen lisä siirron jälkeen kyseistä työaikamuotoa koskevien määräysten mukaan.
-19.6 Yleisiä määräyksiä työajan järjestämisestä
+
+#### 19.6 Yleisiä määräyksiä työajan järjestämisestä
 Ellei työajan järjestämisestä ole sovittu paikallisesti kohdan 19.7 mukaisesti, on työaika järjestettävä seuraavasti:
+
 1. Työvuorokausi
-Työvuorokausi alkaa päivätyössä klo 7.00. Työviikko alkaa maa- nantaina. Sunnuntaityövuorokausi samoin kuin viikkolepokorva- uksen laskemisessa käytettävä vuorokausi määräytyvät työvuo- rokauden mukaan.
- 78
+Työvuorokausi alkaa päivätyössä klo 7.00. Työviikko alkaa maa- nantaina. Sunnuntaityövuorokausi samoin kuin viikkolepokorvauksen laskemisessa käytettävä vuorokausi määräytyvät työvuorokauden mukaan.
 
 2. Päivittäisen työajan sijoitus
-Työaika alkaa päivätyössä klo 7.00, ellei työnantaja ole tuotan- non teknisten syiden sitä perustellusti vaatiessa vahvistanut muu- ta työaikaa.
+Työaika alkaa päivätyössä klo 7.00, ellei työnantaja ole tuotannon teknisten syiden sitä perustellusti vaatiessa vahvistanut muuta työaikaa.
+
 3. Päivittäinen lepoaika
-Päivätyössä on tunnin lepoaika, jona aikana työntekijä voi pois- tua työpaikaltaan.
+Päivätyössä on tunnin lepoaika, jona aikana työntekijä voi poistua työpaikaltaan.
 Kaksivuorotyössä lepoaika on puoli tuntia.
 Kolmivuorotyössä varataan tilaisuus ateriointiin työn lomassa tähän tarkoitukseen varatussa paikassa.
-Työntekijä voi työpaikalla nauttia työn tekemisen kannalta sopi- vimpana aikana kahvia tai virvokkeita.
+Työntekijä voi työpaikalla nauttia työn tekemisen kannalta sopivimpana aikana kahvia tai virvokkeita.
+
 4. Vuorojen vaihtuminen ja muuttuminen
 Vuorotyössä tulee työvuorojen säännöllisesti vaihtua ja enintään kolmen viikon pituisin ajanjaksoin muuttua.
-Työnantaja ja työntekijä voivat sopia siitä, että työntekijä työs- kentelee jatkuvasti myös samassa vuorossa.
+Työnantaja ja työntekijä voivat sopia siitä, että työntekijä työskentelee jatkuvasti myös samassa vuorossa.
+
 5. Säännöllisen työajan järjestäminen keskimääräiseksi
-Säännöllistä työaikaa keskimääräiseksi järjestettäessä noudate- taan enintään vuoden, kolmivuorotyössä pääsääntöisesti kalente- rivuoden, pituista tasoittumisajanjaksoa.
+Säännöllistä työaikaa keskimääräiseksi järjestettäessä noudatetaan enintään vuoden, kolmivuorotyössä pääsääntöisesti kalenterivuoden, pituista tasoittumisajanjaksoa.
+
 6. Yötyö
 Yötyötä saadaan teettää työaikalain 8 §:n säännöksiä noudattaen.
-Työehtosopimus
- 79
 
-Työehtosopimus
-19.7 Työajan järjestäminen paikallisesti sopien, sään- nöllisen työajan lisääminen sekä vähentäminen
-Työnantajan ja pääluottamusmiehen välillä on suositeltavaa tar- kastella vähintään vuosittain
-• toimivatko käytössä olevat työaikajärjestelyt tuotannon ja palvelutoiminnan järjestämisen sekä työntekijöiden työaikaa koskevien tarpeiden kannalta tarkoituksenmukaisella tavalla ja
-• onko työpaikalla tarpeita ja mahdollisuuksia toteuttaa kalen- terivuoden aikana järjestelyjä säännöllisen työajan lisäämi- seksi tai vähentämiseksi.
+#### 19.7 Työajan järjestäminen paikallisesti sopien, sään- nöllisen työajan lisääminen sekä vähentäminen
+Työnantajan ja pääluottamusmiehen välillä on suositeltavaa tarkastella vähintään vuosittain, toimivatko käytössä olevat työaikajärjestelyt tuotannon ja palvelutoiminnan järjestämisen sekä työntekijöiden työaikaa koskevien tarpeiden kannalta tarkoituksenmukaisella tavalla, ja onko työpaikalla tarpeita ja mahdollisuuksia toteuttaa kalenterivuoden aikana järjestelyjä säännöllisen työajan lisäämiseksi tai vähentämiseksi.
+
 Paikallisesti voidaan asetettujen tavoitteiden mukaisesti sopia:
-1. säännöllisen vuorokautisen ja viikoittaisen työajan enim- mäispituus
-2. yli vuoden pituisesta tasoittumisjaksosta työaikapankkiso- pimuksessa
+1. säännöllisen vuorokautisen ja viikoittaisen työajan enimmäispituus
+2. yli vuoden pituisesta tasoittumisjaksosta työaikapankkisopimuksessa
 3. työvuorokauden ja työviikon alkaminen
 4. päivittäinen lepoaika
 5. työtuntijärjestelmän muuttaminen
 6. yötyön teettäminen työaikalain 8 §:stä poiketen.
-Sopiminen säännöllisen työajan lisäämisestä sekä vähentä- misestä
-A. Aloite ja sopimisen perusteet
-Aloitteen sopia säännöllisen työajan lisäämisestä tai vähentä- misestä voi tehdä joko työnantaja tai työntekijöiden edustajana pääluottamusmies taikka palvelusvuosilisää koskien yksittäinen työntekijä.
- 80
 
-Työehtosopimus
+##### Sopiminen säännöllisen työajan lisäämisestä sekä vähentämisestä
+
+###### A. Aloite ja sopimisen perusteet
+Aloitteen sopia säännöllisen työajan lisäämisestä tai vähentämisestä voi tehdä joko työnantaja tai työntekijöiden edustajana pääluottamusmies taikka palvelusvuosilisää koskien yksittäinen työntekijä.
+
 Perusteita tällaiselle sopimiselle voivat muun muassa olla:
 • työvoiman lisätarve ja mahdollisuus ohjata työtä yrityksen omille ammattityöntekijöille
 • vajaatyöllisyystilanne
 • työntekijän oma toive.
-B. Työajan lisääminen
-Työajan lisäämiseksi paikallisesti voidaan työnantajan ja pääluot- tamusmiehen välillä sopia (kehyssopimus) siitä, että työntekijällä on mahdollista työsuhteensa aikana sopia työnantajan edustajan kanssa toisin työajan tasaamisvapaan määrästä enintään 48 tun- nin/6 päivän osalta.
+
+###### B. Työajan lisääminen
+Työajan lisäämiseksi paikallisesti voidaan työnantajan ja pääluottamusmiehen välillä sopia (kehyssopimus) siitä, että työntekijällä on mahdollista työsuhteensa aikana sopia työnantajan edustajan kanssa toisin työajan tasaamisvapaan määrästä enintään 48 tunnin/6 päivän osalta.
+
 Kehyssopimuksessa on hyvä mainita työnantajan ja työntekijän sopimuksissa määriteltäviksi asioiksi esimerkiksi:
 • monestako tasaamisvapaapäivästä sovitaan
 • menettelytavat muutostilanteissa
-• etukäteen työtuntijärjestelmään merkittyjen tasaamisvapai- den sopiminen työajaksi
+• etukäteen työtuntijärjestelmään merkittyjen tasaamisvapaiden sopiminen työajaksi
 • milloin sopimus tehdään ja sopimuksen voimaantulo.
-Sopimukset on tehtävä kirjallisesti ja ne voivat koskea kalenteri- vuotta kerrallaan. Pääluottamusmiehelle annetaan selvitys sopi- miskäytännöistä.
-Mikäli kuukausipalkkaisen työntekijän työajan tasaamisvapaan määrästä tai antamisesta on tämän sopimuskohdan mukaisesti toisin sovittu, hänelle maksetaan erillinen kiinteä kuukausikor- vaus kaikilta kalenterikuukausilta. Sitä ei oteta huomioon muiden palkkaerien laskennassa.
- 81
 
-Työehtosopimus
-Erillisen kiinteän kuukausikorvauksen suuruus lasketaan seuraa- van kaavan mukaan
+Sopimukset on tehtävä kirjallisesti ja ne voivat koskea kalenterivuotta kerrallaan. Pääluottamusmiehelle annetaan selvitys sopimiskäytännöistä.
+
+Mikäli kuukausipalkkaisen työntekijän työajan tasaamisvapaan määrästä tai antamisesta on tämän sopimuskohdan mukaisesti toisin sovittu, hänelle maksetaan erillinen kiinteä kuukausikorvaus kaikilta kalenterikuukausilta. Sitä ei oteta huomioon muiden palkkaerien laskennassa.
+
+Erillisen kiinteän kuukausikorvauksen suuruus lasketaan seuraavan kaavan mukaan: 
 kuukausipalkka * 0,051 * työajaksi sovitun tasaamisvapaan määrä 100 tuntia (12,5 päivää)
-C. Työajan vähentäminen
-Työajan vähentämiseksi voidaan
-• paikallisesti työnantajan ja pääluottamusmiehen välillä so- pia (kehyssopimus) siitä, että työntekijällä on mahdollista työsuhteensa aikana sopia työnantajan edustajan kanssa lo- marahan tai sen osan vaihtamisesta vastaavaan palkalliseen vapaaseen. Sopimukset on tehtävä kirjallisesti.
-• työnantajan ja työntekijän välillä vuosittain sopia, että työn- tekijän ansaitsema palvelusvuosilisä tai sen osa vaihdetaan vastaavaan vapaaseen – tarkemmat määräykset asiasta on työehtosopimuksen alakohdassa 14.5.3.
-19.8 Työaikapankki 19.8.1 Käsite ja tarkoitus
-Työaikapankilla tarkoitetaan yritys- tai työpaikkatasolla käyt- töönotettuja työ- ja vapaa-ajan yhteensovitusjärjestelyjä, joissa sovitaan eri osatekijöiden säästämisestä tai lainaamisesta sekä yhdistämisestä toisiinsa pitkäjänteisesti.
+
+###### C. Työajan vähentäminen
+Työajan vähentämiseksi voidaan paikallisesti työnantajan ja pääluottamusmiehen välillä sopia (kehyssopimus) siitä, että työntekijällä on mahdollista työsuhteensa aikana sopia työnantajan edustajan kanssa lomarahan tai sen osan vaihtamisesta vastaavaan palkalliseen vapaaseen. Sopimukset on tehtävä kirjallisesti.
+
+Työajan vähentämiseksi voidaan työnantajan ja työntekijän välillä vuosittain sopia, että työntekijän ansaitsema palvelusvuosilisä tai sen osa vaihdetaan vastaavaan vapaaseen – tarkemmat määräykset asiasta on työehtosopimuksen alakohdassa 14.5.3.
+
+#### 19.8 Työaikapankki 
+
+##### 19.8.1 Käsite ja tarkoitus
+Työaikapankilla tarkoitetaan yritys- tai työpaikkatasolla käyttöönotettuja työ- ja vapaa-ajan yhteensovitusjärjestelyjä, joissa sovitaan eri osatekijöiden säästämisestä tai lainaamisesta sekä yhdistämisestä toisiinsa pitkäjänteisesti.
 Työaikapankin osatekijöiksi sovittujen erien antamista koskevat aika- ja muut rajoitteet syrjäytyvät työaikapankkisopimuksella, ellei paikallisesti sovita toisin.
 Työaikapankin tarkoituksena on tukea yrityksen tuottavuutta ja kilpailukykyä sekä työntekijöiden yksilöllisten työaikatarpeiden huomioon ottamista.
-  82
 
-19.8.2 Työaikapankin käyttöönotto
-Työaikapankkijärjestelmän käyttöönotosta ja yksityiskohdista sovitaan paikallisesti työnantajan ja pääluottamusmiehen välillä kirjallisesti. Työaikapankin käyttöönottosopimuksessa on sovit- tava ainakin:
+##### 19.8.2 Työaikapankin käyttöönotto
+Työaikapankkijärjestelmän käyttöönotosta ja yksityiskohdista sovitaan paikallisesti työnantajan ja pääluottamusmiehen välillä kirjallisesti. Työaikapankin käyttöönottosopimuksessa on sovittava ainakin:
 1. keitä sopimus koskee
 2. mistä osatekijöistä työaikapankki muodostuu
 3. säännöllisen vuorokautisen ja viikoittaisen työajan enim-
@@ -871,257 +911,272 @@ tai lainataan
 6. työajan tasoittumisjakson pituus
 7. työkyvyttömyyden vaikutuksesta työaikapankkivapaan
 käyttöön.
+
 Sopimukseen tulee myös kirjata säännöllisen vuorokautisen ja/ tai viikoittaisen työajan järjestämistä koskevat periaatteet sekä työajan järjestämiseen liittyvät ilmoitus- ja menettelytavat.
-Työpäivän tai sitä pidemmän vapaan antamisajankohdasta sovi- taan työnantajan ja työntekijän kesken.
-19.8.3 Työaikapankin käyttö
-Työaikapankin säästämis- ja lainaamisrajat voidaan sopia va- paasti. Sovittaessa yli vuoden pituisesta tasoittumisjaksosta, saa keskimääräinen säännöllinen viikkotyöaika kuitenkin olla enin- tään työaikalain mukainen.
-Työehtosopimus
- 83
 
-Työehtosopimus
-19.8.4 Työsuhteen päättyminen
-Työaikapankissa olevat saldot tasataan ennen työsuhteen päätty- mistä. Mikäli kuitenkin työsuhteen päättyessä työaikapankissa on säästettyä aika- tai rahasaldoa, ne maksetaan lopputilin yhte- ydessä paikallisesti sovitulla tavalla. Lainatut aika- ja rahasaldot peritään lopputilissä.
-Jos työntekijän työsopimus on irtisanottu työnantajasta johtuvas- ta syystä ja työntekijä on vapautettu työvelvoitteestaan koko ir- tisanomisajaksi, irtisanomishetkellä olevaa työaikapankkivelkaa ei peritä takaisin lopputilistä ja työaikapankkiin säästetyt saldot maksetaan rahana.
-Työaikapankkisopimuksen irtisanomisaika on kuusi kuukautta, ellei paikallisesti sovita toisin. Työaikasaldojen tasaaminen ta- pahtuu irtisanomisajan puitteissa. Mikäli aika- tai rahasaldoja ei ole tasattu irtisanomisajan kuluessa, niiden maksaminen ja ta- kaisin periminen suoritetaan kuten työsuhteen päättyessä, ellei paikallisesti sovita toisin.
-20 SÄÄNNÖLLISEN TYÖAJAN YLITTYMINEN JA SUNNUNTAITYÖ
-20.1 Vuorokautinen ylityö
-Määritelmä
+Työpäivän tai sitä pidemmän vapaan antamisajankohdasta sovitaan työnantajan ja työntekijän kesken.
+##### 19.8.3 Työaikapankin käyttö
+Työaikapankin säästämis- ja lainaamisrajat voidaan sopia va- paasti. Sovittaessa yli vuoden pituisesta tasoittumisjaksosta, saa keskimääräinen säännöllinen viikkotyöaika kuitenkin olla enintään työaikalain mukainen.
+
+##### 19.8.4 Työsuhteen päättyminen
+Työaikapankissa olevat saldot tasataan ennen työsuhteen päättymistä. Mikäli kuitenkin työsuhteen päättyessä työaikapankissa on säästettyä aika- tai rahasaldoa, ne maksetaan lopputilin yhteydessä paikallisesti sovitulla tavalla. Lainatut aika- ja rahasaldot peritään lopputilissä.
+
+Jos työntekijän työsopimus on irtisanottu työnantajasta johtuvasta syystä ja työntekijä on vapautettu työvelvoitteestaan koko irtisanomisajaksi, irtisanomishetkellä olevaa työaikapankkivelkaa ei peritä takaisin lopputilistä ja työaikapankkiin säästetyt saldot maksetaan rahana.
+
+Työaikapankkisopimuksen irtisanomisaika on kuusi kuukautta, ellei paikallisesti sovita toisin. Työaikasaldojen tasaaminen tapahtuu irtisanomisajan puitteissa. 
+
+Mikäli aika- tai rahasaldoja ei ole tasattu irtisanomisajan kuluessa, niiden maksaminen ja takaisin periminen suoritetaan kuten työsuhteen päättyessä, ellei paikallisesti sovita toisin.
+
+### 20 SÄÄNNÖLLISEN TYÖAJAN YLITTYMINEN JA SUNNUNTAITYÖ
+
+#### 20.1 Vuorokautinen ylityö
+
+###### Määritelmä
 Työaikalain mukaisella vuorokautisella ylityöllä tarkoitetaan säännöllisen vuorokautisen työajan eli 8 tunnin tai paikallisesti sovitun tätä pidemmän säännöllisen vuorokautisen työajan lisäk- si työvuorokauden aikana tehtyä työtä.
-Mikäli työaika on järjestetty siten, että se on keskimäärin 40 tun- tia viikossa, vuorokautista ylityötä on se työ, joka ylittää työ- tuntijärjestelmässä asianomaisen työvuorokauden säännölliseksi vuorokautiseksi työajaksi vahvistetun työtuntimäärän.
-84
- 
-Korvaaminen
-Vuorokautisesta ylityöstä maksetaan aika- tai suorituspalkan li- säksi ylityölisää, jonka suuruus 2 ensimmäiseltä tunnilta on 50 % ja seuraavilta tunneilta 100 % keskituntiansiosta.
-Arkilauantaina sekä pyhä- ja juhlapäivän aattona tehdystä vuoro- kautisesta ylityöstä maksetaan kaikilta tunneilta ylityölisä, jonka suuruus on 100 % keskituntiansiosta.
-Kuukausipalkkaisen työntekijän ylityölisän maksamisessa tarvit- tava tuntipalkka lasketaan siten, että henkilökohtaisena aikapalk- kana oleva kuukausipalkka jaetaan luvulla 169.
-20.2 Viikoittainen ylityö
-Määritelmä
-Työaikalain mukaisella viikoittaisella ylityöllä tarkoitetaan työtä, joka ylittää työehtosopimuksen mukaan määräytyvän säännölli- sen viikoittaisen eli 40 tunnin työajan.
-Mikäli työaika on järjestetty siten, että se on keskimäärin 40 tun- tia viikossa, viikoittaista ylityötä on se työ, joka ylittää työtunti- järjestelmässä asianomaisen työviikon säännölliseksi viikoittai- seksi työajaksi vahvistetun työtuntimäärän.
-Viikoittaista ylityötä laskettaessa ei oteta huomioon saman työ- viikon aikana tehtyä vuorokautista ylityötä.
-Korvaaminen
-Viikoittaisesta ylityöstä maksetaan aika- tai suorituspalkan lisäk- si ylityölisä, jonka suuruus 8 ensimmäiseltä tunnilta on 50 % ja seuraavilta tunneilta 100 % keskituntiansiosta.
-Työehtosopimus
- 85
 
-Työehtosopimus
-Kun viikoittaisen ylityön lisää on maksettu 8 tunnilta, korvataan sen jälkeen työviikon muut ylityölisään oikeuttavat tunnit ylityö- lisällä, jonka suuruus on 100 % keskituntiansiosta riippumatta siitä, onko kysymyksessä viikoittainen vai vuorokautinen ylityö.
-Kuukausipalkkaisen työntekijän ylityölisän maksamisessa tarvit- tava tuntipalkka lasketaan siten, että henkilökohtaisena aikapalk- kana oleva kuukausipalkka jaetaan luvulla 169.
-20.3 Työajan enimmäismäärä
-Työajan enimmäismäärä noudattaa työaikalaissa säädettyjä rajoi- tuksia. Työajan enimmäismäärän tarkastelujaksona käytetään ka- lenterivuotta. Kalenterivuoden sijasta voidaan tarkastelujaksoksi sopia paikallisesti vuoden pituinen ajanjakso. Tarkastelujakso alkaa siitä palkanmaksukaudesta, jolta palkka maksetaan lähinnä kalenterivuoden vaihtumisen jälkeen.
-20.4 Lisätyö
-Lisätyötä on työ, joka ylittää työtuntijärjestelmässä asianomaisen työvuorokauden tai työviikon säännölliseksi työajaksi vahvis- tetun tuntimäärän, ylittämättä kuitenkaan työaikalain mukaista säännöllistä työaikaa.
-20.4.1 Vuorokautisen lisätyön korvaaminen työaikaa tasattaessa (TES-ylityö)
-Lisätyönä tehtävä työ, joka täysiaikaisella työntekijällä työajan tasaamisen vuoksi ylittää työtuntijärjestelmässä asianomaisen työvuorokauden alle 8 tunniksi vahvistetun vuorokautisen työ- tuntimäärän, korvataan kuten vuorokautinen ylityö.
- 86
+Mikäli työaika on järjestetty siten, että se on keskimäärin 40 tuntia viikossa, vuorokautista ylityötä on se työ, joka ylittää työtuntijärjestelmässä asianomaisen työvuorokauden säännölliseksi vuorokautiseksi työajaksi vahvistetun työtuntimäärän.
 
-Työehtosopimus
-20.4.2 Viikoittaisen lisätyön korvaaminen työaikaa tasattaessa ja arkipyhäviikkoina (TES-ylityö)
-Lisätyönä tehtävä työ
-a) joka täysiaikaisella työntekijällä työajan tasaamisen vuoksi ylittää työtuntijärjestelmässä asianomaisen työviikon alle 40 tunniksi vahvistetun viikoittaisen työtuntimäärän tai
-b) joka arkipyhäviikkoina ylittää kyseisen työviikon työntun- tijärjestelmän tuntimäärän mukaisen työajan,
-korvataan kuten viikoittainen ylityö.
-20.5 Vapaapäivänä tehdyn työn korvaaminen (TES-ylityö)
-Vapaapäivänä tehtävä työ korvataan siten kuin viikoittaisesta ylityöstä on sovittu, silloin kun työntekijällä ei ole seuraavien hyväksyttävien syiden takia ollut työviikon työtuntijärjestelmän mukaisina työpäivinä mahdollisuutta tehdä työtä niin monta tun- tia, että se vastaisi hänen säännöllistä viikoittaista työaikaansa ja hän tekee työtä työtuntijärjestelmän mukaisina vapaapäivinä.
-Hyväksyttävinä syinä pidetään:
+###### Korvaaminen
+Vuorokautisesta ylityöstä maksetaan aika- tai suorituspalkan lisäksi ylityölisää, jonka suuruus 2 ensimmäiseltä tunnilta on 50 % ja seuraavilta tunneilta 100 % keskituntiansiosta.
+
+Arkilauantaina sekä pyhä- ja juhlapäivän aattona tehdystä vuorokautisesta ylityöstä maksetaan kaikilta tunneilta ylityölisä, jonka suuruus on 100 % keskituntiansiosta.
+Kuukausipalkkaisen työntekijän ylityölisän maksamisessa tarvittava tuntipalkka lasketaan siten, että henkilökohtaisena aikapalkkana oleva kuukausipalkka jaetaan luvulla 169.
+
+#### 20.2 Viikoittainen ylityö
+
+###### Määritelmä
+Työaikalain mukaisella viikoittaisella ylityöllä tarkoitetaan työtä, joka ylittää työehtosopimuksen mukaan määräytyvän säännöllisen viikoittaisen eli 40 tunnin työajan.
+
+Mikäli työaika on järjestetty siten, että se on keskimäärin 40 tuntia viikossa, viikoittaista ylityötä on se työ, joka ylittää työtuntijärjestelmässä asianomaisen työviikon säännölliseksi viikoittaiseksi työajaksi vahvistetun työtuntimäärän.
+
+Viikoittaista ylityötä laskettaessa ei oteta huomioon saman työviikon aikana tehtyä vuorokautista ylityötä.
+
+###### Korvaaminen
+Viikoittaisesta ylityöstä maksetaan aika- tai suorituspalkan lisäksi ylityölisä, jonka suuruus 8 ensimmäiseltä tunnilta on 50 % ja seuraavilta tunneilta 100 % keskituntiansiosta.
+
+Kun viikoittaisen ylityön lisää on maksettu 8 tunnilta, korvataan sen jälkeen työviikon muut ylityölisään oikeuttavat tunnit ylityölisällä, jonka suuruus on 100 % keskituntiansiosta riippumatta siitä, onko kysymyksessä viikoittainen vai vuorokautinen ylityö.
+
+Kuukausipalkkaisen työntekijän ylityölisän maksamisessa tarvittava tuntipalkka lasketaan siten, että henkilökohtaisena aikapalkkana oleva kuukausipalkka jaetaan luvulla 169.
+
+#### 20.3 Työajan enimmäismäärä
+Työajan enimmäismäärä noudattaa työaikalaissa säädettyjä rajoituksia. Työajan enimmäismäärän tarkastelujaksona käytetään kalenterivuotta. Kalenterivuoden sijasta voidaan tarkastelujaksoksi sopia paikallisesti vuoden pituinen ajanjakso. Tarkastelujakso alkaa siitä palkanmaksukaudesta, jolta palkka maksetaan lähinnä kalenterivuoden vaihtumisen jälkeen.
+
+#### 20.4 Lisätyö
+Lisätyötä on työ, joka ylittää työtuntijärjestelmässä asianomaisen työvuorokauden tai työviikon säännölliseksi työajaksi vahvistetun tuntimäärän, ylittämättä kuitenkaan työaikalain mukaista säännöllistä työaikaa.
+
+##### 20.4.1 Vuorokautisen lisätyön korvaaminen työaikaa tasattaessa (TES-ylityö)
+Lisätyönä tehtävä työ, joka täysiaikaisella työntekijällä työajan tasaamisen vuoksi ylittää työtuntijärjestelmässä asianomaisen työvuorokauden alle 8 tunniksi vahvistetun vuorokautisen työtuntimäärän, korvataan kuten vuorokautinen ylityö.
+
+##### 20.4.2 Viikoittaisen lisätyön korvaaminen työaikaa tasattaessa ja arkipyhäviikkoina (TES-ylityö)
+Lisätyönä tehtävä työ, joka täysiaikaisella työntekijällä työajan tasaamisen vuoksi ylittää työtuntijärjestelmässä asianomaisen työviikon alle 40 tunniksi vahvistetun viikoittaisen työtuntimäärän tai joka arkipyhäviikkoina ylittää kyseisen työviikon työntuntijärjestelmän tuntimäärän mukaisen työajan, korvataan kuten viikoittainen ylityö.
+
+#### 20.5 Vapaapäivänä tehdyn työn korvaaminen (TES-ylityö)
+Vapaapäivänä tehtävä työ korvataan siten kuin viikoittaisesta ylityöstä on sovittu, silloin kun työntekijällä ei ole seuraavien hyväksyttävien syiden takia ollut työviikon työtuntijärjestelmän mukaisina työpäivinä mahdollisuutta tehdä työtä niin monta tuntia, että se vastaisi hänen säännöllistä viikoittaista työaikaansa ja hän tekee työtä työtuntijärjestelmän mukaisina vapaapäivinä.
+
+Hyväksyttävinä syinä sille, että vapaapäivänä tehtävä työ korvataan siten kuin viikoittaisesta ylityöstä on sovittu, pidetään:
 • työntekijän vuosilomaa,
 • työntekijän sairaudesta johtuvaa työkyvyttömyyttä,
-• työehtosopimuksen kohdassa 31.3 tarkoitetun lapsen sairau-
-desta johtuvaa palkallista poissaoloa,
-• taloudellisiin tai tuotannollisiin syihin perustuvaa lomautus-
-ta (ei koske lyhennettyä työviikkoa),
-• työehtosopimuksen kohtien 47.1 - 47.3 mukaista ammatillis-
-ta tai yhteistä koulutusta tai koulutustyöryhmän hyväksymää
+• työehtosopimuksen kohdassa 31.3 tarkoitetun lapsen sairaudesta johtuvaa palkallista poissaoloa,
+• taloudellisiin tai tuotannollisiin syihin perustuvaa lomautusta (ei koske lyhennettyä työviikkoa),
+• työehtosopimuksen kohtien 47.1 - 47.3 mukaista ammatillista tai yhteistä koulutusta tai koulutustyöryhmän hyväksymää
 ay-koulutusta,
 • työnantajan määräyksestä tehtyä matkaa tai
 • reservin harjoitusta.
- 87
 
-Työehtosopimus
-20.6 Paikallisesti sovittava ylityölisä (yksi ylityökäsite)
-Paikallisesti voidaan sopia kohdista 20.1 ja 20.2 poiketen ylityö- lisän määräytymisestä ja suuruudesta jäljempänä olevista vaihto- ehdoista valiten:
-a) Ylityölisä maksetaan 55 %:n suuruisena kaikilta ylityöli- sään oikeuttavilta tunneilta.
+#### 20.6 Paikallisesti sovittava ylityölisä (yksi ylityökäsite)
+Paikallisesti voidaan sopia kohdista 20.1 ja 20.2 poiketen ylityölisän määräytymisestä ja suuruudesta jäljempänä olevista vaihtoehdoista valiten:
+a) Ylityölisä maksetaan 55 %:n suuruisena kaikilta ylityölisään oikeuttavilta tunneilta.
 b) Ylityölisä maksetaan sadalta ensimmäiseltä ylityölisään oikeuttavalta tunnilta 50 %:n suuruisena ja seuraavilta 100 %:n suuruisena.
-c) Ylityölisä maksetaan viideltäkymmeneltä ensimmäiseltä ylityölisään oikeuttavalta tunnilta 35 %:n suuruisena, seu- raavalta sadalta tunnilta 65 %:n suuruisena ja sitä seuraa- vilta tunneilta 100 %:n suuruisena.
-d) Ylityölisän suuruus ja mahdollinen tunteihin perustuva porrastus sovitaan paikallisesti edellä mainittuja esimerk- kejä mukaillen.
-Ylityölisästä sopiminen
-Paikallista sopimusta laadittaessa selvitetään riittävän pitkältä ajanjaksolta työpaikan nykyisen ylityökorvausjärjestelmän taso ja ratkaisun tavoitteet, jotka voivat liittyä mm. monipuolisten työaikajärjestelyiden edistämiseen, kustannusten hallintaan ja ylityön korvaamista koskevien periaatteiden yksinkertaistami- seen.
+c) Ylityölisä maksetaan viideltäkymmeneltä ensimmäiseltä ylityölisään oikeuttavalta tunnilta 35 %:n suuruisena, seuraavalta sadalta tunnilta 65 %:n suuruisena ja sitä seuraavilta tunneilta 100 %:n suuruisena.
+d) Ylityölisän suuruus ja mahdollinen tunteihin perustuva porrastus sovitaan paikallisesti edellä mainittuja esimerkkejä mukaillen.
+
+###### Ylityölisästä sopiminen
+Paikallista sopimusta laadittaessa selvitetään riittävän pitkältä ajanjaksolta työpaikan nykyisen ylityökorvausjärjestelmän taso ja ratkaisun tavoitteet, jotka voivat liittyä mm. monipuolisten työaikajärjestelyiden edistämiseen, kustannusten hallintaan ja ylityön korvaamista koskevien periaatteiden yksinkertaistamiseen.
+
 Jos ylityölisän suuruus perustuu porrastettuun järjestelmään, voi tuntirajojen seuranta-ajanjakso olla enintään vuoden pituinen.
-Paikallinen sopimus koskee sekä työaikalain mukaista että tes- ylityötä.
-Paikallisella sopimuksella ei ole vaikutusta sunnuntaityökorotuk- seen tai viikkolepokorvaukseen.
- 88
 
-Työehtosopimus
-Paikallisen sopimuksen laatiminen, voimassaolo ja irtisanominen
-Paikallinen sopimus tehdään työnantajan ja pääluottamusmiehen välillä kirjallisesti ja se voidaan solmia olemaan voimassa tois- taiseksi tai määräajan.
-Toistaiseksi voimassa olevan sopimuksen irtisanominen on toi- mitettava kirjallisesti. Irtisanomisaika on kolme kuukautta, ellei siitä ole sovittu toisin. Jos käytössä on tehtyjen ylityölisään oi- keuttavien tuntien mukaan porrastettu korvaamistapa, sopimus päättyy kuitenkin aikaisintaan sen seurantajakson päättyessä, joka lähinnä seuraa sopimuksen irtisanomisajan päättymistä, el- lei sovita toisin.
-Työpaikan keskimääräinen ylityölisä
+Paikallinen sopimus koskee sekä työaikalain mukaista että tes-ylityötä.
+
+Paikallisella sopimuksella ei ole vaikutusta sunnuntaityökorotukseen tai viikkolepokorvaukseen.
+
+###### Paikallisen sopimuksen laatiminen, voimassaolo ja irtisanominen
+Paikallinen sopimus tehdään työnantajan ja pääluottamusmiehen välillä kirjallisesti ja se voidaan solmia olemaan voimassa toistaiseksi tai määräajan.
+
+Toistaiseksi voimassa olevan sopimuksen irtisanominen on toimitettava kirjallisesti. Irtisanomisaika on kolme kuukautta, ellei siitä ole sovittu toisin. Jos käytössä on tehtyjen ylityölisään oikeuttavien tuntien mukaan porrastettu korvaamistapa, sopimus päättyy kuitenkin aikaisintaan sen seurantajakson päättyessä, joka lähinnä seuraa sopimuksen irtisanomisajan päättymistä, ellei sovita toisin.
+
+###### Työpaikan keskimääräinen ylityölisä
 Mikäli ylityön korvaamisesta ei muuta sovita, lisä maksetaan 55 %:n suuruisena, ellei riittävän pitkältä ajalta laskettu työpaikan keskimääräinen ylityölisäprosentti ole tätä suurempi.
-Liittojen muu ohjeistus
+###### Liittojen muu ohjeistus
 Paikallista sopimista tukevaa aineistoa on liittojen kotisivuilla, ks. www.teknologiatyonantajat.fi ja www.teollisuusliitto.fi.
-20.7 Vuorotyölisä ylityöajalta
-Vuorotyöntekijälle maksetaan ylityöajalta sen vuoron mukainen vuorotyölisä, jonka aikana hän tekee ylityötä. Vuorotyölisä mak- setaan ylityöajalta yksinkertaisena.
-Määräystä sovelletaan, jos vuorotyöntekijä tekee vuorokautisena tai viikoittaisena ylityönä työtä, joka muutoin työtuntijärjestel- män mukaan on järjestetty säännölliseksi vuorotyöksi.
- 89
 
-Työehtosopimus
-20.8 Sunnuntaityö
+#### 20.7 Vuorotyölisä ylityöajalta
+Vuorotyöntekijälle maksetaan ylityöajalta sen vuoron mukainen vuorotyölisä, jonka aikana hän tekee ylityötä. Vuorotyölisä maksetaan ylityöajalta yksinkertaisena.
+
+Määräystä sovelletaan, jos vuorotyöntekijä tekee vuorokautisena tai viikoittaisena ylityönä työtä, joka muutoin työtuntijärjestelmän mukaan on järjestetty säännölliseksi vuorotyöksi.
+
+#### 20.8 Sunnuntaityö
 Sunnuntaina tai muuna kirkollisena juhlapäivänä tehdystä työstä maksetaan aika- tai suorituspalkan ja mahdollisten ylityölisien lisäksi sunnuntaityökorotuksena kultakin työtunnilta lisä, jonka suuruus on 100 % keskituntiansiosta.
-Arkipyhiksi keskeytyvissä työaikamuodoissa voi pääluottamus- mies tiistaiksi, keskiviikoksi tai torstaiksi osuvan kirkollisen juh- lapäivän (uudenvuodenpäivä, loppiainen, helatorstai, joulupäivä, tapaninpäivä) osalta kirjallisesti sopia sunnuntaityökorotuksen maksamisesta tai sen suuruudesta. Tämä mahdollistaa säännöl- lisen työajan siirron kustannusneutraalisti työtuntijärjestelmän mukaiselle vapaapäivälle.
-Kuukausipalkkaisen työntekijän sunnuntaityölisän maksamises- sa tarvittava tuntipalkka lasketaan siten, että henkilökohtaisena aikapalkkana oleva kuukausipalkka jaetaan luvulla 169.
-20.9 Pääsiäislauantaina, juhannus- ja jouluaattona tehty työ
-Pääsiäislauantaina, juhannusaattona ja jouluaattona tehdystä työstä maksetaan lisä, jonka suuruus on 100 % keskituntiansios- ta. Tämä ei koske jatkuvaa yksi- ja kaksivuorotyötä eikä keskey- tymätöntä kolmivuorotyötä.
+
+Arkipyhiksi keskeytyvissä työaikamuodoissa voi pääluottamusmies tiistaiksi, keskiviikoksi tai torstaiksi osuvan kirkollisen juhlapäivän (uudenvuodenpäivä, loppiainen, helatorstai, joulupäivä, tapaninpäivä) osalta kirjallisesti sopia sunnuntaityökorotuksen maksamisesta tai sen suuruudesta. Tämä mahdollistaa säännöl- lisen työajan siirron kustannusneutraalisti työtuntijärjestelmän mukaiselle vapaapäivälle.
+Kuukausipalkkaisen työntekijän sunnuntaityölisän maksamisessa tarvittava tuntipalkka lasketaan siten, että henkilökohtaisena aikapalkkana oleva kuukausipalkka jaetaan luvulla 169.
+
+#### 20.9 Pääsiäislauantaina, juhannus- ja jouluaattona tehty työ
+Pääsiäislauantaina, juhannusaattona ja jouluaattona tehdystä työstä maksetaan lisä, jonka suuruus on 100 % keskituntiansiosta. Tämä ei koske jatkuvaa yksi- ja kaksivuorotyötä eikä keskeytymätöntä kolmivuorotyötä.
+
 Jos työ jo muuten tulee korvatuksi 100 %:n viikkoylityölisällä, ei edellä mainittua lisää kuitenkaan makseta.
-Sanottuina päivinä voidaan työtä tehdä työaikalain 17 §:n 7 mo- mentin mukaisin edellytyksin.
- 90
 
-Työehtosopimus
-20.10 Viikoittaisesta vapaa-ajasta poikkeaminen ja sen korvaaminen
-Jos työntekijää tilapäisesti tarvitaan hänen viikoittaisena vapaa- aikanaan työhön, jonka vuoksi työtuntijärjestelmästä ilmenevä viikkolepo ei toteudu, sovitaan työntekijän kanssa henkilökohtai- sesti ennen työnteon aloittamista, miten viikkolepo toteutetaan.
-Jos viikkolepo ei toteudu, korvataan viikkolevon aikana työhön käytetty aika ennen työntekoa työntekijän kanssa henkilökoh- taisesti tehtävän sopimuksen mukaan joko lyhentämällä hänen säännöllistä työaikaansa viikkolevon aikana tehtyyn työhön käy- tetyllä ajalla tai maksamalla siitä rahakorvaus.
-Keskeytymättömässä kolmivuorotyössä taikka jatkuvassa kak- si- tai yksivuorotyössä viikkolepo katsotaan menetetyksi, jos työntekijä on tehnyt työtä työviikon kaikkina päivinä saamatta 35 tai vähintään 24 tunnin yhdenjaksoista vapaa-aikaa. Tällöin viikkolevon aikana työhön käytetty aika korvataan edellisessä kappaleessa kerrotuin tavoin.
-Viikkolevon ei katsota toteutuvan aikana, jolloin työntekijä on poissa työstä oman sairautensa tai sairaan lapsen hoidon, työn- antajan määräämän koulutuksen tai työnantajan määräyksestä tehdyn matkan vuoksi.
-20.10.1 Viikkolepokorvauksen laskentaperuste
-Viikkolepokorvausta laskettaessa otetaan huomioon ne työtunnit, joina työntekijä on ollut työssä sen työvuorokauden tai työvuo- rokausien aikana, jolloin viikkolepo viimeistään olisi ollut annet- tava. Keskeytymättömässä kolmivuorotyössä taikka jatkuvassa kaksi- tai yksivuorotyössä otetaan edellä olevasta poiketen huo- mioon ne työtunnit, joina työntekijä on ollut työssä viimeisenä työtuntijärjestelmän mukaisena vapaapäivänä.
- 91
+Sanottuina päivinä voidaan työtä tehdä työaikalain 17 §:n 7 momentin mukaisin edellytyksin.
 
-Työehtosopimus
-20.10.2. Korvaavan vapaan antaminen
-Menetetyn viikkolevon korvaava säännöllisen työajan lyhennys on toteutettava viimeistään kolmen kuukauden kuluessa työn te- kemisestä, ellei työnantajan ja työntekijän välillä sovita toisin.
-20.10.3 Rahakorvaus
-Menetetty viikkolepo voidaan korvata myös siten, että työnteki- jälle maksetaan aika- tai suorituspalkan sekä mahdollisten yli- työ- ja sunnuntaityölisien lisäksi korvaus, joka on 100 % keski- tuntiansiosta.
-20.11 Hälytysluontoinen työ
-20.11.1 Kutsu hälytysluontoiseen työhön säännöllisen työ- ajan ulkopuolella
-Jos työntekijä kutsutaan hälytysluontoiseen työhön säännöllisen työaikansa ulkopuolella, kun hän on jo poistunut työpaikaltaan, maksetaan hänelle vähintään yhden tunnin työpalkka sekä ylityö- lisä, jos työ on ylityötä.
+#### 20.10 Viikoittaisesta vapaa-ajasta poikkeaminen ja sen korvaaminen
+Jos työntekijää tilapäisesti tarvitaan hänen viikoittaisena vapaa-aikanaan työhön, jonka vuoksi työtuntijärjestelmästä ilmenevä viikkolepo ei toteudu, sovitaan työntekijän kanssa henkilökohtaisesti ennen työnteon aloittamista, miten viikkolepo toteutetaan.
+
+Jos viikkolepo ei toteudu, korvataan viikkolevon aikana työhön käytetty aika ennen työntekoa työntekijän kanssa henkilökohtaisesti tehtävän sopimuksen mukaan joko lyhentämällä hänen säännöllistä työaikaansa viikkolevon aikana tehtyyn työhön käytetyllä ajalla tai maksamalla siitä rahakorvaus.
+
+Keskeytymättömässä kolmivuorotyössä taikka jatkuvassa kaksi- tai yksivuorotyössä viikkolepo katsotaan menetetyksi, jos työntekijä on tehnyt työtä työviikon kaikkina päivinä saamatta 35 tai vähintään 24 tunnin yhdenjaksoista vapaa-aikaa. Tällöin viikkolevon aikana työhön käytetty aika korvataan edellisessä kappaleessa kerrotuin tavoin.
+
+Viikkolevon ei katsota toteutuvan aikana, jolloin työntekijä on poissa työstä oman sairautensa tai sairaan lapsen hoidon, työnantajan määräämän koulutuksen tai työnantajan määräyksestä tehdyn matkan vuoksi.
+
+##### 20.10.1 Viikkolepokorvauksen laskentaperuste
+Viikkolepokorvausta laskettaessa otetaan huomioon ne työtunnit, joina työntekijä on ollut työssä sen työvuorokauden tai työvuo- rokausien aikana, jolloin viikkolepo viimeistään olisi ollut annettava. Keskeytymättömässä kolmivuorotyössä taikka jatkuvassa kaksi- tai yksivuorotyössä otetaan edellä olevasta poiketen huomioon ne työtunnit, joina työntekijä on ollut työssä viimeisenä työtuntijärjestelmän mukaisena vapaapäivänä.
+
+##### 20.10.2. Korvaavan vapaan antaminen
+Menetetyn viikkolevon korvaava säännöllisen työajan lyhennys on toteutettava viimeistään kolmen kuukauden kuluessa työn tekemisestä, ellei työnantajan ja työntekijän välillä sovita toisin.
+
+##### 20.10.3 Rahakorvaus
+Menetetty viikkolepo voidaan korvata myös siten, että työntekijälle maksetaan aika- tai suorituspalkan sekä mahdollisten ylityö- ja sunnuntaityölisien lisäksi korvaus, joka on 100 % keskituntiansiosta.
+
+##### 20.11 Hälytysluontoinen työ
+
+###### 20.11.1 Kutsu hälytysluontoiseen työhön säännöllisen työ- ajan ulkopuolella
+Jos työntekijä kutsutaan hälytysluontoiseen työhön säännöllisen työaikansa ulkopuolella, kun hän on jo poistunut työpaikaltaan, maksetaan hänelle vähintään yhden tunnin työpalkka sekä ylityölisä, jos työ on ylityötä.
+
 Tämän lisäksi maksetaan erityistä hälytysrahaa seuraavasti:
-a) Jos kutsu hälytystyöhön on annettu säännöllisen työajan jäl- keen tai työntekijän vapaapäivänä mutta ennen klo 21:tä, maksetaan kahden tunnin keskituntiansiota vastaava korvaus.
-b) Jos mainittu kutsu on annettu klo 21.00:n ja klo 06.00:n vä- lisenä aikana, maksetaan kolmen tunnin keskituntiansiota vastaava korvaus. Jos työ on samalla ylityötä, maksetaan yli- työlisä tämän kohdan mukaisissa tapauksissa heti 100 %:n suuruisena.
- 92
+a) Jos kutsu hälytystyöhön on annettu säännöllisen työajan jälkeen tai työntekijän vapaapäivänä mutta ennen klo 21:tä, maksetaan kahden tunnin keskituntiansiota vastaava korvaus.
+b) Jos mainittu kutsu on annettu klo 21.00:n ja klo 06.00:n välisenä aikana, maksetaan kolmen tunnin keskituntiansiota vastaava korvaus. Jos työ on samalla ylityötä, maksetaan ylityölisä tämän kohdan mukaisissa tapauksissa heti 100 %:n suuruisena.
 
-20.11.2 Ilmoitus säännöllisellä työajalla
-Jos työntekijälle hänen klo 16.00 mennessä päättyvällä säännöl- lisellä työajallaan ilmoitetaan, että hänen tulisi työpaikaltaan jo poistuttuaan palata samana työvuorokautena ylityöhön, joka al- kaa klo 21.00:n jälkeen, hänelle maksetaan alakohdassa 20.11.1 a) mainittu ylimääräinen kahden tunnin keskituntiansiota vastaa- va korvaus.
-20.12 Varallaolo
-Varallaololla tarkoitetaan sitä, että työntekijä on sopimuksen mukaan velvollinen olemaan työajan ulkopuolella valmiudessa lähtemään kutsuttaessa suorittamaan työtehtäviä. Sopimuksessa on mainittava varallaoloajan pituus. Työn tekeminen voi tapah- tua työpaikalla, komennuspaikalla tai etäyhteyksien välityksellä. Varallaoloaikaa ei lueta työaikaan.
+##### 20.11.2 Ilmoitus säännöllisellä työajalla
+Jos työntekijälle hänen klo 16.00 mennessä päättyvällä säännöllisellä työajallaan ilmoitetaan, että hänen tulisi työpaikaltaan jo poistuttuaan palata samana työvuorokautena ylityöhön, joka alkaa klo 21.00:n jälkeen, hänelle maksetaan alakohdassa 20.11.1 a) mainittu ylimääräinen kahden tunnin keskituntiansiota vastaa- va korvaus.
+
+#### 20.12 Varallaolo
+Varallaololla tarkoitetaan sitä, että työntekijä on sopimuksen mukaan velvollinen olemaan työajan ulkopuolella valmiudessa lähtemään kutsuttaessa suorittamaan työtehtäviä. Sopimuksessa on mainittava varallaoloajan pituus. Työn tekeminen voi tapahtua työpaikalla, komennuspaikalla tai etäyhteyksien välityksellä. Varallaoloaikaa ei lueta työaikaan.
+
 Työnantaja on velvollinen maksamaan työntekijälle korvausta varallaolon vapaa-ajan käytölle aiheuttamista rajoituksista.
+
 Varallaoloajalta maksettava korvaus on:
-a) 50 % keskituntiansiosta, mikäli työntekijä on velvollinen aloittamaan työn viipymättä, kuitenkin viimeistään 1,5 tun- nin kuluessa kutsusta
+a) 50 % keskituntiansiosta, mikäli työntekijä on velvollinen aloittamaan työn viipymättä, kuitenkin viimeistään 1,5 tunnin kuluessa kutsusta
 b) 35 % keskituntiansiosta, mikäli työntekijä on velvollinen aloittamaan työn viimeistään 3 tunnin kuluessa kutsusta
 c) 20 % keskituntiansiosta, mikäli vasteaika on yli 3 tuntia.
-Työntekijä ja työnantaja voivat sopia varallaolokorvauksesta toi- sinkin.
+Työntekijä ja työnantaja voivat sopia varallaolokorvauksesta toisinkin.
 Työntekijän työhön kutsumiseen ei sovelleta hälytysluontoista työtä koskevia määräyksiä.
-Työehtosopimus
- 93
 
-Työehtosopimus
-21 VUOSILOMA
-21.1 Vuosiloman pituus ja antaminen
+### 21 VUOSILOMA
+
+#### 21.1 Vuosiloman pituus ja antaminen
 Työntekijä saa vuosiloman vuosilomalain mukaan.
-21.1.1 Työssäolopäivien veroiset päivät
-Vuosilomalain 2 luvun 7 §:ssä säännellään työssäolon veroisena pidettävästä työstä poissaoloajasta vuosiloman pituutta määrättä- essä. Tämän lisäksi työssäolon veroiseksi ajaksi luetaan se työstä vapautusaika, mikä työntekijälle on annettu Teollisuusliitto ry:n liittokokoukseen tai liittovaltuuston taikka liittohallituksen koko- ukseen osallistumista varten. Samoin pidetään työssäolon veroi- sena aikaa, joksi vapautusta on annettu Suomen Ammattiliittojen Keskusjärjestö, SAK r.y.:n edustajakokoukseen tai valtuuston kokoukseen osallistumista varten. Työntekijän tulee vapautusta pyytäessään esittää asianmukainen selvitys kokoukseen osallis- tumiseen tarvitsemastaan ajasta.
-Myös työajan tasaamispäivät, työaikapankkivapaat, palvelus- vuosilisävapaa ja lomarahavapaa ovat työssäolopäivien veroisia päiviä.
-21.1.2 Vuosiloman järjestäminen kolmivuorotyössä
-Keskeytymättömässä kolmivuorotyössä viisivuorojärjestelmää käytettäessä annetaan työntekijälle, mikäli tuotantotekniset syyt eivät perustellusti muuta vaadi tai paikallisesti sovita toisin, 24 päivän pituinen yhdenjaksoinen vapaa-aika 20.5.–20.9. välisenä aikana vuosilomaa varten.
- 94
 
-Työehtosopimus
-Edellä mainitusta kalenteriajanjaksosta jäljelle jääneet lomapäi- vät 24 päivän loman osasta annetaan pääsääntöisesti yhdessä jaksossa sen kalenterivuoden aikana, jolloin lomanmääräytymis- vuosi päättyy.
-Kolmivuorotyössä annetaan se loman osa, joka ylittää 24 lo- mapäivää, sen kalenterivuoden aikana, jolloin lomanmääräyty- misvuosi päättyy tai sitä seuraavan vuoden huhtikuun loppuun mennessä.
-21.2 Tuntipalkkaisen työntekijän vuosilomapalkka ja lomakorvaus (koskee 14 työpäivän ansaintasään- nön piirissä olevia)
-Työntekijän vuosilomapalkan ja lomakorvauksen laskentaperus- teena on lomanmääräytymisvuoden keskituntiansio, joka saa- daan siten, että lomanmääräytymisvuonna (1.4.- 31.3.) työssä- olon ajalta työntekijälle maksettu tai maksettavaksi erääntynyt palkka, hätätyöstä ja lain tai sopimuksen mukaisesta ylityöstä palkan perusosan lisäksi maksettavaa korotusta lukuun ottamatta, jaetaan vastaavien työtuntien lukumäärällä.
+##### 21.1.1 Työssäolopäivien veroiset päivät
+Vuosilomalain 2 luvun 7 §:ssä säännellään työssäolon veroisena pidettävästä työstä poissaoloajasta vuosiloman pituutta määrättäessä. Tämän lisäksi työssäolon veroiseksi ajaksi luetaan se työstä vapautusaika, mikä työntekijälle on annettu Teollisuusliitto ry:n liittokokoukseen tai liittovaltuuston taikka liittohallituksen kokoukseen osallistumista varten. Samoin pidetään työssäolon veroisena aikaa, joksi vapautusta on annettu Suomen Ammattiliittojen Keskusjärjestö, SAK r.y.:n edustajakokoukseen tai valtuuston kokoukseen osallistumista varten. Työntekijän tulee vapautusta pyytäessään esittää asianmukainen selvitys kokoukseen osallistumiseen tarvitsemastaan ajasta.
+
+Myös työajan tasaamispäivät, työaikapankkivapaat, palvelusvuosilisävapaa ja lomarahavapaa ovat työssäolopäivien veroisia päiviä.
+
+##### 21.1.2 Vuosiloman järjestäminen kolmivuorotyössä
+Keskeytymättömässä kolmivuorotyössä viisivuorojärjestelmää käytettäessä annetaan työntekijälle, mikäli tuotantotekniset syyt eivät perustellusti muuta vaadi tai paikallisesti sovita toisin, 24 päivän pituinen yhdenjaksoinen vapaa-aika 20.5.–20.9. välisenä aikana vuosilomaa varten.
+
+Edellä mainitusta kalenteriajanjaksosta jäljelle jääneet lomapäivät 24 päivän loman osasta annetaan pääsääntöisesti yhdessä jaksossa sen kalenterivuoden aikana, jolloin lomanmääräytymisvuosi päättyy.
+
+Kolmivuorotyössä annetaan se loman osa, joka ylittää 24 lomapäivää, sen kalenterivuoden aikana, jolloin lomanmääräytymisvuosi päättyy tai sitä seuraavan vuoden huhtikuun loppuun mennessä.
+
+#### 21.2 Tuntipalkkaisen työntekijän vuosilomapalkka ja lomakorvaus (koskee 14 työpäivän ansaintasään- nön piirissä olevia)
+Työntekijän vuosilomapalkan ja lomakorvauksen laskentaperusteena on lomanmääräytymisvuoden keskituntiansio, joka saadaan siten, että lomanmääräytymisvuonna (1.4.- 31.3.) työssäolon ajalta työntekijälle maksettu tai maksettavaksi erääntynyt palkka, hätätyöstä ja lain tai sopimuksen mukaisesta ylityöstä palkan perusosan lisäksi maksettavaa korotusta lukuun ottamatta, jaetaan vastaavien työtuntien lukumäärällä.
+
 Lomanmääräytymisvuoden keskituntiansion laskentaperusteena olevaan palkkasummaan sisältyvät:
-• tehdyn työajan ansiot aika-, urakka- sekä osaurakka- ja palk- kiopalkkatyössä
+• tehdyn työajan ansiot aika-, urakka- sekä osaurakka- ja palkkiopalkkatyössä
 • vuorotyölisät
 • ilta- ja yötyölisät
 • työajan tasaamislisät tehdyn työajan osalta
 • sunnuntaityölisät
 • viikkolepokorvaukset
 • erilaiset olosuhdelisät sekä
-• tulospalkkiolisät, jos tulospalkkiolisän laskentaperuste ei jo
-sisällä vuosilomapalkkaa ja -korvausta.
- 95
+• tulospalkkiolisät, jos tulospalkkiolisän laskentaperuste ei jo sisällä vuosilomapalkkaa ja -korvausta.
 
-Työehtosopimus
-A. Kertoimet
-Työntekijän vuosilomapalkka ja lomakorvaus saadaan kertomal- la hänen lomanmääräytymisvuoden keskituntiansionsa lomapäi- vien lukumäärään perustuvalla kertoimella. Kertoimet ovat seu- raavat:
-2 16,0
-3 23,5
-4 31,0
-5 37,8
-6 44,5
-7 51,1
-8 57,6
-9 64,8
-10 72,0
-11 79,2
-12 86,4
-13 94,0
-14 101,6
-15 108,8
-16 116,0
-17 123,6
-18 131,2
-19 138,8
-20 146,4
-21 154,4
-22 162,4
-23 170,0
-24 177,6
-25 185,2
-26 192,8
- Lomapäivien luku- määrä
-  Kerroin
-                                                    96
+###### A. Kertoimet
+Työntekijän vuosilomapalkka ja lomakorvaus saadaan kertomalla hänen lomanmääräytymisvuoden keskituntiansionsa lomapäivien lukumäärään perustuvalla kertoimella. Kertoimet ovat seuraavat:
+Lomapäivien lukumäärä 2, kerroin 16,0
+Lomapäivien lukumäärä 3, kerroin 23,5
+Lomapäivien lukumäärä 4, kerroin 31,0
+Lomapäivien lukumäärä 5, kerroin 37,8
+Lomapäivien lukumäärä 6, kerroin 44,5
+Lomapäivien lukumäärä 7, kerroin 51,1
+Lomapäivien lukumäärä 8, kerroin 57,6
+Lomapäivien lukumäärä 9, kerroin 64,8
+Lomapäivien lukumäärä 10, kerroin 72,0
+Lomapäivien lukumäärä 11, kerroin 79,2
+Lomapäivien lukumäärä 12, kerroin 86,4
+Lomapäivien lukumäärä 13, kerroin 94,0
+Lomapäivien lukumäärä 14, kerroin 101,6
+Lomapäivien lukumäärä 15, kerroin 108,8
+Lomapäivien lukumäärä 16, kerroin 116,0
+Lomapäivien lukumäärä 17, kerroin 123,6
+Lomapäivien lukumäärä 18, kerroin 131,2
+Lomapäivien lukumäärä 19, kerroin 138,8
+Lomapäivien lukumäärä 20, kerroin 146,4
+Lomapäivien lukumäärä 21, kerroin 154,4
+Lomapäivien lukumäärä 22, kerroin 162,4
+Lomapäivien lukumäärä 23, kerroin 170,0
+Lomapäivien lukumäärä 24, kerroin 177,6
+Lomapäivien lukumäärä 25, kerroin 185,2
+Lomapäivien lukumäärä 26, kerroin 192,8
+Lomapäivien lukumäärä 27, kerroin 200,0
+Lomapäivien lukumäärä 28, kerroin 207,2
+Lomapäivien lukumäärä 29, kerroin 214,8
+Lomapäivien lukumäärä 30, kerroin 222,4
 
-Työehtosopimus
- 27 200,0
-28 207,2
-29 214,8
-30 222,4
-Jos lomapäivien lukumäärä on suurempi kuin 30, korotetaan ker- rointa luvulla 7,2 lomapäivää kohden.
-B. Osa-aikatyö
-Jos lomanmääräytymisvuoden aikana säännöllinen vuorokauti- nen työaika on ollut lyhyempi kuin 8 tuntia, lasketaan vuosiloma- palkka ja lomakorvaus kertomalla keskituntiansio luvulla, joka saadaan, kun edellä olevat kertoimet kerrotaan viikon säännöllis- ten työtuntien lukumäärän ja luvun 40 osamäärällä.
-C. Vuosilomapäiviä täydentävät lisävapaapäivät
-Jos lomanmääräytymisvuoden aikana ansaittu vuosiloma alit- taa 24 päivää vuosilomalain 7§:n 2 momentin 2 tai 3 kohdassa tarkoitetun poissaolon takia, on työntekijällä oikeus vuosilomaa täydentäviin lisävapaapäiviin. Tuntipalkkaiselle työntekijälle maksetaan kultakin lisävapaapäivän tunnilta palkkaansa vastaava korvaus keskituntiansion mukaan. Kuukausipalkkaisen työnteki- jän lisävapaapäiviltä maksettavan palkkaa vastaavan korvauksen laskentaperusteena käytetään päiväpalkkaa, joka saadaan jaka- malla kuukausipalkka jakajalla 25.
-21.3 Kuukausipalkkaisen vuosilomapalkka ja loma- korvaus
+Jos lomapäivien lukumäärä on suurempi kuin 30, korotetaan kerrointa luvulla 7,2 lomapäivää kohden.
+
+###### B. Osa-aikatyö
+Jos lomanmääräytymisvuoden aikana säännöllinen vuorokautinen työaika on ollut lyhyempi kuin 8 tuntia, lasketaan vuosilomapalkka ja lomakorvaus kertomalla keskituntiansio luvulla, joka saadaan, kun edellä olevat kertoimet kerrotaan viikon säännöllisten työtuntien lukumäärän ja luvun 40 osamäärällä.
+
+###### C. Vuosilomapäiviä täydentävät lisävapaapäivät
+Jos lomanmääräytymisvuoden aikana ansaittu vuosiloma alittaa 24 päivää vuosilomalain 7§:n 2 momentin 2 tai 3 kohdassa tarkoitetun poissaolon takia, on työntekijällä oikeus vuosilomaa täydentäviin lisävapaapäiviin. Tuntipalkkaiselle työntekijälle maksetaan kultakin lisävapaapäivän tunnilta palkkaansa vastaava korvaus keskituntiansion mukaan. Kuukausipalkkaisen työntekijän lisävapaapäiviltä maksettavan palkkaa vastaavan korvauksen laskentaperusteena käytetään päiväpalkkaa, joka saadaan jakamalla kuukausipalkka jakajalla 25.
+
+#### 21.3 Kuukausipalkkaisen vuosilomapalkka ja loma- korvaus
 Kuukausipalkkainen työntekijä saa ansaitsemaltaan vuosiloma- ajalta palkkansa tai mahdollisen lomakorvauksen vuosilomalain mukaisesti.
-          97
 
-Työehtosopimus
-Säännönmukaisesti vuorotyössä olevalle työntekijälle maksetaan loma-ajalta työtuntijärjestelmän mukaiset vuorotyölisät työpai- kan käytännön mukaisesti. Lisät maksetaan joko ennen loman alkamista tai säännönmukaisina palkanmaksupäivinä.
-21.4 Vuosilomapalkan maksaminen
-Vuosilomapalkka on maksettava ennen loman alkamista. Tunti- palkkaiselle työntekijälle saadaan enintään kuuden päivän pitui- selta lomajaksolta lomapalkka maksaa säännönmukaisena pal- kanmaksupäivänä.
-Vuosilomapalkan maksamisesta voidaan paikallisesti sopia niin, että lomapalkka maksetaan säännönmukaisina palkanmaksupäi- vinä vuosiloman aikana. Paikallisen sopimuksen tulee koskea kaikkia työntekijöitä. Lomapalkka tulee tällöin kuitenkin olla ko- konaisuudessaan maksettuna viimeistään siinä palkanmaksussa, jossa maksetaan vuosiloman jälkeisen ensimmäisen työpäivän palkka.
-21.5 Lomaraha
-Tuntipalkkaiselle työntekijälle maksetaan lomarahana 50 % hä- nen vuosilomapalkastaan.
-Kuukausipalkkaiselle työntekijälle maksettavan lomarahan mää- rä saadaan, kun henkilökohtaisena aikapalkkana olevan kuukau- sipalkan ja loma-ajan vuorotyölisien summa jaetaan luvulla 50 ja osamäärä kerrotaan lomapäivien lukumäärällä.
-Työnantaja ja työntekijä voivat kirjallisesti sopia lomarahan tai sen osan vaihtamisesta vastaavaan palkalliseen vapaaseen, jos vaihtamisen mahdollisuudesta on tehty kirjallisesti paikallinen (kehys)sopimus työnantajan ja pääluottamusmiehen välillä.
- 98
+Säännönmukaisesti vuorotyössä olevalle työntekijälle maksetaan loma-ajalta työtuntijärjestelmän mukaiset vuorotyölisät työpaikan käytännön mukaisesti. Lisät maksetaan joko ennen loman alkamista tai säännönmukaisina palkanmaksupäivinä.
 
-Työehtosopimus
-Kehyssopimuksessa on hyvä mainita työnantajan ja työntekijän sopimuksissa määriteltäviksi asioiksi esimerkiksi:
-• lomarahavapaan ajalta maksettavan palkan maksuajankohta
-• työkyvyttömyyden vaikutus lomarahavapaan käyttöön
-• sovitun lomarahavapaan ajankohdan mahdollinen muutta-
-minen
-21.5.1 Lomarahan maksaminen vuosilomapalkan yhteydessä
+#### 21.4 Vuosilomapalkan maksaminen
+Vuosilomapalkka on maksettava ennen loman alkamista. Tuntipalkkaiselle työntekijälle saadaan enintään kuuden päivän pituiselta lomajaksolta lomapalkka maksaa säännönmukaisena palkanmaksupäivänä.
+
+Vuosilomapalkan maksamisesta voidaan paikallisesti sopia niin, että lomapalkka maksetaan säännönmukaisina palkanmaksupäivinä vuosiloman aikana. Paikallisen sopimuksen tulee koskea kaikkia työntekijöitä. Lomapalkka tulee tällöin kuitenkin olla kokonaisuudessaan maksettuna viimeistään siinä palkanmaksussa, jossa maksetaan vuosiloman jälkeisen ensimmäisen työpäivän palkka.
+
+#### 21.5 Lomaraha
+Tuntipalkkaiselle työntekijälle maksetaan lomarahana 50 % hänen vuosilomapalkastaan.
+Kuukausipalkkaiselle työntekijälle maksettavan lomarahan määrä saadaan, kun henkilökohtaisena aikapalkkana olevan kuukausipalkan ja loma-ajan vuorotyölisien summa jaetaan luvulla 50 ja osamäärä kerrotaan lomapäivien lukumäärällä.
+
+Työnantaja ja työntekijä voivat kirjallisesti sopia lomarahan tai sen osan vaihtamisesta vastaavaan palkalliseen vapaaseen, jos vaihtamisen mahdollisuudesta on tehty kirjallisesti paikallinen (kehys)sopimus työnantajan ja pääluottamusmiehen välillä. Kehyssopimuksessa on hyvä mainita työnantajan ja työntekijän sopimuksissa määriteltäviksi asioiksi esimerkiksi: lomarahavapaan ajalta maksettavan palkan maksuajankohta, työkyvyttömyyden vaikutus lomarahavapaan käyttöön ja sovitun lomarahavapaan ajankohdan mahdollinen muuttaminen.
+
+##### 21.5.1 Lomarahan maksaminen vuosilomapalkan yhteydessä
 Lomaraha maksetaan seuraavasti, ellei paikallisesti kirjallisesti sovita maksamisen ajankohdasta toisin:
-Puolet lomarahasta maksetaan ennen vuosiloman alkamista. Puo- let maksetaan sen palkanmaksun yhteydessä, jolloin työntekijän palkka ensimmäiseltä vuosiloman jälkeiseltä työpäivältä makse- taan, tai olisi maksettu, ellei työntekijä olisi estynyt palaamasta työhön.
-Saadakseen lomarahan jälkimmäisen osan tulee työntekijän työ- suhteen kuitenkin olla voimassa vielä vuosiloman viimeisenä päivänä. Jos työnantaja lomakautena päättää työntekijän työsuh- teen muusta kuin työntekijästä itsestään johtuvasta syystä kesken tämän vuosiloman, maksetaan työntekijälle myös lomarahan jäl- kimmäinen osa.
-Jos lomarahan maksuajankohdasta on paikallisesti sovittu toisin, lomaraha tulee kuitenkin sopia kokonaisuudessaan maksettavak- si viimeistään ennen seuraavan lomanmääräytymisvuoden alka- mista. Paikallisen sopimuksen tulee koskea kaikkia työntekijöitä.
-Mikäli työntekijän työsuhde päättyy ennen lomarahan paikalli- sesti sovittua maksuajankohtaa, maksetaan se työsuhteen päät- tyessä, mikäli työntekijä muutoin on siihen työehtosopimuksen mukaan oikeutettu.
- 99
+Puolet lomarahasta maksetaan ennen vuosiloman alkamista. Puolet maksetaan sen palkanmaksun yhteydessä, jolloin työntekijän palkka ensimmäiseltä vuosiloman jälkeiseltä työpäivältä maksetaan, tai olisi maksettu, ellei työntekijä olisi estynyt palaamasta työhön.
 
-Työehtosopimus
-21.5.2 Lomarahan maksaminen lomakorvauksen yhteydessä
-Lomaraha maksetaan myös mahdollisen lomakorvauksen yhtey- dessä, mikäli työsuhde lomakautena päättyy muusta kuin työnte- kijästä itsestään johtuvasta syystä. Lomaraha maksetaan tällöin edellisen päättyneen lomanmääräytymisvuoden lomakorvauk- sesta, mutta ei kesken jääneen lomanmääräytymisvuoden loma- korvauksesta.
+Saadakseen lomarahan jälkimmäisen osan tulee työntekijän työsuhteen kuitenkin olla voimassa vielä vuosiloman viimeisenä päivänä. Jos työnantaja lomakautena päättää työntekijän työsuhteen muusta kuin työntekijästä itsestään johtuvasta syystä kesken tämän vuosiloman, maksetaan työntekijälle myös lomarahan jälkimmäinen osa.
+
+Jos lomarahan maksuajankohdasta on paikallisesti sovittu toisin, lomaraha tulee kuitenkin sopia kokonaisuudessaan maksettavaksi viimeistään ennen seuraavan lomanmääräytymisvuoden alkamista. Paikallisen sopimuksen tulee koskea kaikkia työntekijöitä.
+
+Mikäli työntekijän työsuhde päättyy ennen lomarahan paikallisesti sovittua maksuajankohtaa, maksetaan se työsuhteen päättyessä, mikäli työntekijä muutoin on siihen työehtosopimuksen mukaan oikeutettu.
+
+##### 21.5.2 Lomarahan maksaminen lomakorvauksen yhteydessä
+Lomaraha maksetaan myös mahdollisen lomakorvauksen yhteydessä, mikäli työsuhde lomakautena päättyy muusta kuin työntekijästä itsestään johtuvasta syystä. Lomaraha maksetaan tällöin edellisen päättyneen lomanmääräytymisvuoden lomakorvauksesta, mutta ei kesken jääneen lomanmääräytymisvuoden lomakorvauksesta.
+
 Määräaikaisen työsopimuksen päättymisen ei katsota olevan työntekijästä itsestään johtuva syy.
-21.5.3 Eläkkeelle siirtyminen
-Vanhuus- tai työkyvyttömyyseläkkeelle siirtyvälle työntekijälle maksetaan lomaraha siitä vuosilomapalkasta ja mahdollisesta vuosilomakorvauksesta, johon työntekijä on oikeutettu. Eläk- keelle siirtyvälle työntekijälle maksetaan lomaraha myös mah- dollisesta kesken jääneen lomanmääräytymisvuoden lomakorva- uksesta.
-21.5.4 Ase- tai siviilipalvelusvelvollisuus
-Työntekijän astuessa vakinaiseen palvelukseen asevelvollisuu- den suorittamiseksi maksetaan lomaraha siitä lomapalkasta ja lomakorvauksesta, johon hän on oikeutettu palvelukseen astu- essaan. Määräystä sovelletaan vastaavasti myös siviilipalvelus- velvolliseen.
- 100
 
-Työehtosopimus IV TYÖKOMENNUKSET JA KORVAUKSET
+##### 21.5.3 Eläkkeelle siirtyminen
+Vanhuus- tai työkyvyttömyyseläkkeelle siirtyvälle työntekijälle maksetaan lomaraha siitä vuosilomapalkasta ja mahdollisesta vuosilomakorvauksesta, johon työntekijä on oikeutettu. Eläkkeelle siirtyvälle työntekijälle maksetaan lomaraha myös mahdollisesta kesken jääneen lomanmääräytymisvuoden lomakorvauksesta.
+
+##### 21.5.4 Ase- tai siviilipalvelusvelvollisuus
+Työntekijän astuessa vakinaiseen palvelukseen asevelvollisuuden suorittamiseksi maksetaan lomaraha siitä lomapalkasta ja lomakorvauksesta, johon hän on oikeutettu palvelukseen astuessaan. Samaa määräystä sovelletaan vastaavasti myös siviilipalvelusvelvolliseen.
+
+## IV TYÖKOMENNUKSET JA KORVAUKSET
 Työkomennuksia koskevat määräykset säätelevät työkomennuk- sista aiheutuvien kustannusten korvaamista.
 Työntekijällä on tietyin jäljempänä määritellyin edellytyksin oi- keus erinäisiin muihin korvauksiin ja etuihin, jotka liittyvät muun muassa arkipyhiin ja luvallisiin poissaoloihin.
 22 TYÖSKENTELY VARSINAISEN TYÖPAIKAN ULKOPUOLELLA
