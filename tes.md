@@ -1177,126 +1177,130 @@ Vanhuus- tai työkyvyttömyyseläkkeelle siirtyvälle työntekijälle maksetaan 
 Työntekijän astuessa vakinaiseen palvelukseen asevelvollisuuden suorittamiseksi maksetaan lomaraha siitä lomapalkasta ja lomakorvauksesta, johon hän on oikeutettu palvelukseen astuessaan. Samaa määräystä sovelletaan vastaavasti myös siviilipalvelusvelvolliseen.
 
 ## IV TYÖKOMENNUKSET JA KORVAUKSET
-Työkomennuksia koskevat määräykset säätelevät työkomennuk- sista aiheutuvien kustannusten korvaamista.
-Työntekijällä on tietyin jäljempänä määritellyin edellytyksin oi- keus erinäisiin muihin korvauksiin ja etuihin, jotka liittyvät muun muassa arkipyhiin ja luvallisiin poissaoloihin.
-22 TYÖSKENTELY VARSINAISEN TYÖPAIKAN ULKOPUOLELLA
-22.1 Varsinaisen työpaikan määritelmä
-Varsinaisella työpaikalla tarkoitetaan paikkaa, jossa työntekijä vakituisesti työskentelee.
-Työnantajan tulee selvittää työntekijälle työhönoton yhteydessä, mikä on työntekijän varsinainen työpaikka. Varsinaisen työpai- kan määritykseen vaikuttavien seikkojen olennaisesti muuttuessa selvitys annetaan uudestaan.
-22.2 Matkustamisvelvollisuus ja työkomennuksesta ilmoittaminen
-Työtehtävien edellyttämät matkat tehdään tarkoituksenmukai- sella tavalla siten, ettei matkaan kulu enempää aikaa eikä siitä aiheudu kustannuksia enemmän, kuin tehtävien hoitaminen vält- tämättä vaatii.
-Työkomennuksesta ilmoitetaan työntekijälle viimeistään kol- mantena matkaa edeltävänä päivänä. Tästä ilmoitusajasta voi- daan kuitenkin poiketa, jos kysymyksessä on kiireellinen työko- mennus. Vastaava poikkeaminen on mahdollista, jos työntekijän työsopimus tai hänen normaalit työtehtävänsä muuten vaativat jatkuvaa matkustamista tai toistuvia lyhyitä työkomennuksia.
- 101
+Työkomennuksia koskevat määräykset säätelevät työkomennuksista aiheutuvien kustannusten korvaamista.
 
-Työehtosopimus
-22.3 Työmatkan ja matkavuorokauden alkaminen ja päättyminen
-Työmatka ja enintään 24 tunnin pituisen ajanjakson muodostama matkavuorokausi alkavat silloin, kun työntekijä lähtee komen- nuspaikalle työpaikaltaan tai asunnostaan ja ne päättyvät silloin, kun hän palaa työpaikalleen. Ellei työntekijä voi palata työpai- kalleen säännöllisen työajan kuluessa matka ja matkavuorokausi päättyvät silloin, kun hän palaa asuntoonsa.
-Matkaan kuuluu myös se välttämätön odotus, joka julkisten lii- kennevälineiden kulkuvuoroista johtuen liikennevälineestä toi- seen vaihdettaessa aiheutuu.
-Työnantajan tulee matkustamiseen ja työntekoon yhdessä käytet- ty aika huomioon ottaen huolehtia siitä, että työntekijä saa työ- vuorokausittain riittävän levon.
-22.4 Työkomennuksesta aiheutuvien kustannusten korvaaminen
-22.4.1 Matkakustannukset
-Työnantaja korvaa tarpeelliset matkakustannukset, jotka synty- vät työntekijän matkustaessa komennuspaikalle tai sieltä takai- sin taikka toiselle komennuspaikalle silloin, kun työ tehdään yli 10 kilometrin etäisyydellä työntekijän varsinaisesta työpaikasta ja asunnosta. Tarpeellisia matkakustannuksia ovat matkalippu- jen (yöllä matkustettaessa makuupaikkalippujen) hinnat toisessa luokassa sekä matkatavarakustannukset.
-A. Oman auton käyttö työmatkoilla
-Työnantaja ja työntekijä voivat sopia työntekijän oman auton käytöstä ja siitä maksettavasta korvauksesta ennen matkaa. Lisä- korvausta suoritetaan työnantajan kanssa sovitusta muiden hen- kilöiden tai tavaran kuljetuksesta. Korvausten määrä on se, jonka verohallitus vuosittain verovapaaksi vahvistaa.
-102
- 
-B. Matkustaminen kesken työpäivän
+Työntekijällä on tietyin jäljempänä määritellyin edellytyksin oikeus erinäisiin muihin korvauksiin ja etuihin, jotka liittyvät muun muassa arkipyhiin ja luvallisiin poissaoloihin.
+
+### 22 TYÖSKENTELY VARSINAISEN TYÖPAIKAN ULKOPUOLELLA
+
+#### 22.1 Varsinaisen työpaikan määritelmä
+Varsinaisella työpaikalla tarkoitetaan paikkaa, jossa työntekijä vakituisesti työskentelee.
+
+Työnantajan tulee selvittää työntekijälle työhönoton yhteydessä, mikä on työntekijän varsinainen työpaikka. Varsinaisen työpaikan määritykseen vaikuttavien seikkojen olennaisesti muuttuessa selvitys annetaan uudestaan.
+
+#### 22.2 Matkustamisvelvollisuus ja työkomennuksesta ilmoittaminen
+Työtehtävien edellyttämät matkat tehdään tarkoituksenmukaisella tavalla siten, ettei matkaan kulu enempää aikaa eikä siitä aiheudu kustannuksia enemmän, kuin tehtävien hoitaminen välttämättä vaatii.
+
+Työkomennuksesta ilmoitetaan työntekijälle viimeistään kolmantena matkaa edeltävänä päivänä. Tästä ilmoitusajasta voidaan kuitenkin poiketa, jos kysymyksessä on kiireellinen työkomennus. Vastaava poikkeaminen on mahdollista, jos työntekijän työsopimus tai hänen normaalit työtehtävänsä muuten vaativat jatkuvaa matkustamista tai toistuvia lyhyitä työkomennuksia.
+
+#### 22.3 Työmatkan ja matkavuorokauden alkaminen ja päättyminen
+Työmatka ja enintään 24 tunnin pituisen ajanjakson muodostama matkavuorokausi alkavat silloin, kun työntekijä lähtee komennuspaikalle työpaikaltaan tai asunnostaan ja ne päättyvät silloin, kun hän palaa työpaikalleen. Ellei työntekijä voi palata työpaikalleen säännöllisen työajan kuluessa matka ja matkavuorokausi päättyvät silloin, kun hän palaa asuntoonsa.
+
+Matkaan kuuluu myös se välttämätön odotus, joka julkisten liikennevälineiden kulkuvuoroista johtuen liikennevälineestä toiseen vaihdettaessa aiheutuu.
+Työnantajan tulee matkustamiseen ja työntekoon yhdessä käytetty aika huomioon ottaen huolehtia siitä, että työntekijä saa työvuorokausittain riittävän levon.
+
+#### 22.4 Työkomennuksesta aiheutuvien kustannusten korvaaminen
+
+##### 22.4.1 Matkakustannukset
+Työnantaja korvaa tarpeelliset matkakustannukset, jotka syntyvät työntekijän matkustaessa komennuspaikalle tai sieltä takaisin taikka toiselle komennuspaikalle silloin, kun työ tehdään yli 10 kilometrin etäisyydellä työntekijän varsinaisesta työpaikasta ja asunnosta. Tarpeellisia matkakustannuksia ovat matkalippujen (yöllä matkustettaessa makuupaikkalippujen) hinnat toisessa luokassa sekä matkatavarakustannukset.
+
+###### A. Oman auton käyttö työmatkoilla
+Työnantaja ja työntekijä voivat sopia työntekijän oman auton käytöstä ja siitä maksettavasta korvauksesta ennen matkaa. Lisäkorvausta suoritetaan työnantajan kanssa sovitusta muiden henkilöiden tai tavaran kuljetuksesta. Korvausten määrä on se, jonka verohallitus vuosittain verovapaaksi vahvistaa.
+
+###### B. Matkustaminen kesken työpäivän
 Jos työntekijä joutuu kulkemaan kesken työpäivän varsinaisen työpaikan ja työn tekemispaikan välillä, työntekijälle maksetaan kaikki tarpeelliset matkakustannukset sekä matka-ajan korvaus.
-22.4.2 Päiväraha
-Kun työ tehdään paikassa, joka yleisesti käytetyn kulkutien mu- kaisesti mitaten on yli 40 kilometrin etäisyydellä työntekijän var- sinaisesta työpaikasta ja asunnosta, päivärahaa maksetaan kulta- kin matkavuorokaudelta seuraavasti:
+
+##### 22.4.2 Päiväraha
+Kun työ tehdään paikassa, joka yleisesti käytetyn kulkutien mukaisesti mitaten on yli 40 kilometrin etäisyydellä työntekijän varsinaisesta työpaikasta ja asunnosta, päivärahaa maksetaan kultakin matkavuorokaudelta seuraavasti:
 • Osapäiväraha maksetaan, kun työmatka on kestänyt yli 6 tuntia.
 • Kokopäiväraha maksetaan, kun työmatka on kestänyt yli 10 tuntia.
-Vähintään kahdella ja enintään kuudella tunnilla täyden matka- vuorokauden ylittävästä vajaavuorokaudesta maksetaan osapäi- väraha.
-Päiväraha on määrältään se, jonka verohallitus vuosittain vero- vapaaksi vahvistaa.
-Jos työntekijä jonakin matkavuorokautena saa ilmaisen tai mat- kalipun hintaan sisältyneen ruoan, päivärahan määrästä vähen- netään puolet. Ilmaisella ruoalla tarkoitetaan kokopäivärahan kysymyksessä ollen kahta ja osapäivärahan kysymyksessä ollen yhtä ilmaista ateriaa.
-22.4.3 Matka-ajan korvaus työmatkoilla
+
+Vähintään kahdella ja enintään kuudella tunnilla täyden matkavuorokauden ylittävästä vajaavuorokaudesta maksetaan osapäiväraha. 
+Päiväraha on määrältään se, jonka verohallitus vuosittain verovapaaksi vahvistaa.
+Jos työntekijä jonakin matkavuorokautena saa ilmaisen tai matkalipun hintaan sisältyneen ruoan, päivärahan määrästä vähennetään puolet. Ilmaisella ruoalla tarkoitetaan kokopäivärahan kysymyksessä ollen kahta ja osapäivärahan kysymyksessä ollen yhtä ilmaista ateriaa.
+
+##### 22.4.3 Matka-ajan korvaus työmatkoilla
 Jos työntekijälle maksetaan työmatkalta päivärahaa, maksetaan matkatunneilta myös matka-ajan korvausta.
-Työehtosopimus
- 103
 
-Työehtosopimus
-Matka-ajan korvausta maksetaan työntekijälle sekä työtuntijär- jestelmän mukaisena työpäivänä että työntekijän vapaapäivänä enintään 16 matkatunnilta työvuorokaudessa. Korvattavaa mat- ka-aikaa vähentävät kyseisenä työvuorokautena säännöllisenä työaikana tehdyt työtunnit.
-Matka-ajan korvauksena maksetaan tuntipalkkaiselle työnteki- jälle henkilökohtaisen aikapalkan suuruinen korvaus. Menetet- tyjä säännöllisiä työtunteja vastaavalta määrältä matkatunteja maksetaan kuitenkin keskituntiansion mukainen korvaus.
+Matka-ajan korvausta maksetaan työntekijälle sekä työtuntijärjestelmän mukaisena työpäivänä että työntekijän vapaapäivänä enintään 16 matkatunnilta työvuorokaudessa. Korvattavaa matka-aikaa vähentävät kyseisenä työvuorokautena säännöllisenä työaikana tehdyt työtunnit.
+Matka-ajan korvauksena maksetaan tuntipalkkaiselle työntekijälle henkilökohtaisen aikapalkan suuruinen korvaus. Menetettyjä säännöllisiä työtunteja vastaavalta määrältä matkatunteja maksetaan kuitenkin keskituntiansion mukainen korvaus.
 Jos työntekijälle on järjestetty makuu- tai hyttipaikka, ei matka- ajan korvausta makseta klo 21.00 - 7.00 väliseltä ajalta.
-22.4.4 Ateriakorvaus
-Työntekijälle maksetaan ateriakorvauksena 1⁄4 kotimaan päivära- hasta seuraavin edellytyksin:
-• työ tehdään yli 10 kilometrin etäisyydellä työntekijän varsi- naisesta työpaikasta ja asunnosta,
-• työntekijällä ei ole mahdollisuutta aterioida varsinaisella työpaikallaan tai kotonaan eikä
-• työpaikalla anneta ilmaista ruokaa.
-Ateriakorvausta ei makseta silloin, kun työntekijä työskentelee saman yrityksen eri työpaikoilla ja ruokailumahdollisuudet ja -olosuhteet ovat vastaavat kuin hänen varsinaisella työpaikallaan.
-Jos työntekijän työ matkoineen on kestänyt vähintään 12 tuntia ja hän sen takia voi palata kotiinsa vasta myöhään illalla, korvataan syntyvät kustannukset toisella ateriakorvauksella. Mainittuihin tunteihin lasketaan mukaan myös välittömästi ennen matkaa sa- man työvuorokauden aikana tehdyt työtunnit.
- 104
 
-22.4.5 Yöpymiskustannukset
-A. Majoittumiskustannukset
-Ellei työntekijälle ole järjestetty majoittumismahdollisuutta, työnantaja korvaa työkomennuksen aikaiset majoittumiskustan- nukset hyväksymänsä selvityksen mukaisesti.
+##### 22.4.4 Ateriakorvaus
+Työntekijälle maksetaan ateriakorvauksena 1⁄4 kotimaan päivärahasta seuraavin edellytyksin:
+Työntekijälle maksetaan ateriakorvauksena 1⁄4 kotimaan päivärahasta, jos työ tehdään yli 10 kilometrin etäisyydellä työntekijän varsinaisesta työpaikasta ja asunnosta.
+Työntekijälle maksetaan ateriakorvauksena 1⁄4 kotimaan päivärahasta, jos työntekijällä ei ole mahdollisuutta aterioida varsinaisella työpaikallaan tai kotonaan eikä työpaikalla anneta ilmaista ruokaa.
+
+Ateriakorvausta ei makseta silloin, kun työntekijä työskentelee saman yrityksen eri työpaikoilla ja ruokailumahdollisuudet ja -olosuhteet ovat vastaavat kuin hänen varsinaisella työpaikallaan.
+
+Jos työntekijän työ matkoineen on kestänyt vähintään 12 tuntia ja hän sen takia voi palata kotiinsa vasta myöhään illalla, korvataan syntyvät kustannukset toisella ateriakorvauksella. Mainittuihin tunteihin lasketaan mukaan myös välittömästi ennen matkaa saman työvuorokauden aikana tehdyt työtunnit.
+
+##### 22.4.5 Yöpymiskustannukset
+
+###### A. Majoittumiskustannukset
+Ellei työntekijälle ole järjestetty majoittumismahdollisuutta, työnantaja korvaa työkomennuksen aikaiset majoittumiskustannukset hyväksymänsä selvityksen mukaisesti.
+
 Majoittumiskustannusten enimmäismäärät matkavuorokautta kohti ovat sopimuksen tekohetkellä seuraavat:
 a) Helsingin, Espoon, Vantaan ja Kauniaisten kaupungeissa 148 euroa,
 b) muissa kunnissa 105 euroa.
-B. Yömatkaraha
-Verohallituksen verovapaaksi vahvistaman suuruinen yömatka- raha maksetaan sellaiselta päivärahaan oikeuttavalta matkavuo- rokaudelta, jona työntekijälle ei ole järjestetty ilmaista majoitusta tai hän ei ole saanut majoittumiskorvausta tai matkan ajaksi ma- kuupaikkaa.
-22.5 Asunnon hankkiminen
-Työnantaja selvittää ennen työntekijän työkomennukselle lähtöä asunnon saannin mahdollisuudet komennuspaikkakunnalla tai sen lähistöllä tai varaa tarvittaessa työntekijälle sieltä asunnon.
-Asunnossa tulee olla normaali kalustus, liinavaatteet sekä olo- suhteisiin nähden riittävät sosiaaliset ja virkistystilat.
-Mikäli työnantaja komennuspaikkakunnalla kiinteässä työkoh- teessa järjestää työntekijälle asunnon, tulee työnantajan tähän tarkoitukseen hankkiman majoituskaluston olla sellaista, että asumistilaa kutakin majoitettavaa työntekijää kohti on vähintään 10 m2 ja huoneeseen majoitetaan komennuspaikkakunnan olo- suhteet huomioon ottaen enintään yksi henkilö.
-Työehtosopimus
- 105
 
-Työehtosopimus
-Jos työntekijän työkomennus samassa työkohteessa kestää enin- tään viikon ajan, voidaan samaan huoneeseen majoittaa kaksi henkilöä. Tällöin asumistilaa on oltava vähintään 13 m2.
-Tässä sopimuskohdassa asumistilalla tarkoitetaan majoituskalus- ton makuutilaa, eikä siihen lasketa mukaan huoneiston muiden tilojen pinta-aloja.
-Jos työkomennus katkeaa työntekijän viikonloppukotimatkojen vuoksi, mutta hän työskentelee samassa työkohteessa keskeytyk- sen jälkeenkin, tulee työnantajan järjestää hänelle asunto pää- säännön mukaisesti.
-Työnantajan hankkimassa majoitukseen käytetyssä asuntovau- nussa tulee olla asumistilaa 7 m3 majoitettua työntekijää kohti.
-22.6 Erikoismääräyksiä
-22.6.1 Matkakustannukset ja matka-ajan korvaus komen- nuspaikkakunnalla
-Jos komennuspaikkakunnalla ei ole työkohteen läheisyydessä saatavissa asuntoa ja työntekijä joutuu tämän vuoksi asumaan yli viiden kilometrin etäisyydellä työmaalta, työntekijälle maksetaan korvaus matkakustannuksista. Korvauksen suuruus määräytyy ensisijaisesti yleisten kulkuvälineiden kyseiseltä matkalta peri- män maksun mukaisesti. Jos sopivien yleisten kulkuyhteyksien puuttuessa joudutaan käyttämään omaa autoa, sovelletaan oman auton käyttöä koskevaa sopimuskohtaa.
-Mikäli työkohde komennuspaikkakunnalla sijaitsee yleisesti käytetyn kulkutien mukaisesti mitaten yli 40 kilometrin etäisyy- dellä työntekijän käyttämästä tilapäisestä asunnosta, maksetaan tältä matkalta hänelle matka-ajan korvausta edellä alakohdassa 22.4.3 sovitun mukaisesti.
- 106
+###### B. Yömatkaraha
+Verohallituksen verovapaaksi vahvistaman suuruinen yömatkaraha maksetaan sellaiselta päivärahaan oikeuttavalta matkavuorokaudelta, jona työntekijälle ei ole järjestetty ilmaista majoitusta tai hän ei ole saanut majoittumiskorvausta tai matkan ajaksi ma- kuupaikkaa.
 
-Työehtosopimus
-22.6.2 Poissaolo komennuspaikalla ilman hyväksyttävää syytä
-Mikäli työntekijä on komennuspaikalla poissa työstä ilman hy- väksyttävää syytä, vähennetään päivärahan määrää poissaolopäi- vältä suhteessa siihen aikaan, jonka työntekijä on ollut tekemättä työtä.
-Jos poissaolo liittyy välittömästi työpäivää seuraavaan taikka sitä edeltävään vapaapäivään, ei päivärahaa seuraavalta tai edeltäväl- tä vapaapäivältä makseta.
-22.6.3 Kotimatkat juhlapyhien yhteydessä
-Työnantaja korvaa työntekijän matkakustannukset kotipaikalle ja sieltä takaisin työpaikalle, maksaa päivärahan sekä matkan ajalta matka-ajan korvauksen ja yömatkarahan tämän luvun mukaisin edellytyksin, jos työntekijä on ennen pääsiäis-, juhannus- tai jou- lupäivää työskennellyt komennuspaikkakunnalla yhtäjaksoisesti vähintään kolme viikkoa.
-Työntekijällä ei ole edellä tarkoitetussa tilanteessa oikeutta kes- keyttää työkomennustaan, jos työn tekninen laatu tai muut pakot- tavat syyt sen estävät.
-22.6.4 Kotimatka työkyvyttömyyden yhteydessä
-Jos työnantaja lähettää työntekijän tämän sairauden tai tapatur- man vuoksi komennuspaikkakunnalta kotiin, maksetaan kotimat- kasta aiheutuvat kustannukset tämän luvun mukaisesti. Matka- ajan korvausta maksetaan siltä kotimatkan ajalta, jolta ei makseta sairausajan palkkaa.
- 107
+#### 22.5 Asunnon hankkiminen
+Työnantaja selvittää ennen työntekijän työkomennukselle lähtöä asunnon saannin mahdollisuudet komennuspaikkakunnalla tai sen lähistöllä tai varaa tarvittaessa työntekijälle sieltä asunnon. Asunnossa tulee olla normaali kalustus, liinavaatteet sekä olosuhteisiin nähden riittävät sosiaaliset ja virkistystilat.
 
-Työehtosopimus
-22.7 Työ ulkomailla
-Työntekijää ei tule määrätä ulkomaan komennukselle ilman hänen suostumustaan. Erillistä suostumusta ei tarvita, jos kysy- myksessä on kiireellinen työkomennus, työntekijän työsopimus edellyttää matkustamista myös ulkomaille tai jos työntekijän nor- maaleihin työtehtäviin kuuluvat ulkomaankomennukset.
-Ulkomailla tehtävän matkatyön palkkaehdoista, palkanmaksuta- vasta ja muista työsuhteeseen liittyvistä taloudellisista eduista on sovittava kirjallisesti ennen matkan alkamista. Sovittavista asi- oista ks. liittojen laatima Työehdot ulkomaantyössä -opas.
-Päivärahan määrä kussakin maassa on se, jonka verohallitus vuo- sittain verovapaaksi vahvistaa.
-Ulkomailla tehtävässä matkatyössä noudatetaan tämän työehto- sopimuksen määräyksiä, elleivät ne ole ristiriidassa työskentely- maan lainsäädännön kanssa.
-22.8 Eräät poikkeusmääräykset
-Matkatyön aiheuttamien kustannusten korvaamisesta ns. rajan- pintatöissä ja Ruotsissa olevien työmaiden suhteen silloin, kun yritys liittyy näiden osalta ruotsalaisen työnantajaliiton jäseneksi taikka solmii erillisen työehtosopimuksen ruotsalaisen ammat- tiliiton kanssa, noudatetaan määräyksiä, jotka olivat voimassa Teknologiateollisuuden työehtosopimuksessa 2011-2013. Nämä määräykset löytyvät liittojen kotisivuilta.
- 108
+Mikäli työnantaja komennuspaikkakunnalla kiinteässä työkohteessa järjestää työntekijälle asunnon, tulee työnantajan tähän tarkoitukseen hankkiman majoituskaluston olla sellaista, että asumistilaa kutakin majoitettavaa työntekijää kohti on vähintään 10 m2 ja huoneeseen majoitetaan komennuspaikkakunnan olosuhteet huomioon ottaen enintään yksi henkilö. Jos työntekijän työkomennus samassa työkohteessa kestää enintään viikon ajan, voidaan samaan huoneeseen majoittaa kaksi henkilöä. Tällöin asumistilaa on oltava vähintään 13 m2. Tässä sopimuskohdassa asumistilalla tarkoitetaan majoituskaluston makuutilaa, eikä siihen lasketa mukaan huoneiston muiden tilojen pinta-aloja.
 
-22.9 Paikallinen sopiminen
-Työkomennuksesta aiheutuvien kohdissa 22.4 -22.8 mainittujen kustannusten korvaamisesta ja määristä voidaan paikallisesti so- pia toisin. Jos työpaikalla tehdään matkatyötä yleisesti, paikalli- nen sopimus tehdään työnantajan ja pääluottamusmiehen välillä kirjallisesti.
-23 ARKIPYHÄKORVAUS SEKÄ MUITA KORVAUKSIA JA ETUJA
-23.1 Korvattavat arkipyhät
-Tuntipalkkaiselle työntekijälle maksetaan arkipyhäkorvauksena 8 tunnin palkka keskituntiansion mukaan
-• pitkäperjantailta
-• toiselta pääsiäispäivältä
-• helatorstailta
-sekä muuksi viikonpäiväksi kuin lauantaiksi tai sunnuntaiksi sat- tuvalta
-• uudenvuodenpäivältä
-• loppiaiselta
-• vapunpäivältä
-• juhannusaatolta
-• jouluaatolta sekä
-• ensimmäiseltä ja toiselta joulupäivältä.
+Jos työkomennus katkeaa työntekijän viikonloppukotimatkojen vuoksi, mutta hän työskentelee samassa työkohteessa keskeytyksen jälkeenkin, tulee työnantajan järjestää hänelle asunto pääsäännön mukaisesti.
+
+Työnantajan hankkimassa majoitukseen käytetyssä asuntovaunussa tulee olla asumistilaa 7 m3 majoitettua työntekijää kohti.
+
+#### 22.6 Erikoismääräyksiä
+
+##### 22.6.1 Matkakustannukset ja matka-ajan korvaus komennuspaikkakunnalla
+Jos komennuspaikkakunnalla ei ole työkohteen läheisyydessä saatavissa asuntoa ja työntekijä joutuu tämän vuoksi asumaan yli viiden kilometrin etäisyydellä työmaalta, työntekijälle maksetaan korvaus matkakustannuksista. Korvauksen suuruus määräytyy ensisijaisesti yleisten kulkuvälineiden kyseiseltä matkalta perimän maksun mukaisesti. Jos sopivien yleisten kulkuyhteyksien puuttuessa joudutaan käyttämään omaa autoa, sovelletaan oman auton käyttöä koskevaa sopimuskohtaa.
+
+Mikäli työkohde komennuspaikkakunnalla sijaitsee yleisesti käytetyn kulkutien mukaisesti mitaten yli 40 kilometrin etäisyydellä työntekijän käyttämästä tilapäisestä asunnosta, maksetaan tältä matkalta hänelle matka-ajan korvausta edellä alakohdassa 22.4.3 sovitun mukaisesti.
+
+##### 22.6.2 Poissaolo komennuspaikalla ilman hyväksyttävää syytä
+Mikäli työntekijä on komennuspaikalla poissa työstä ilman hyväksyttävää syytä, vähennetään päivärahan määrää poissaolopäivältä suhteessa siihen aikaan, jonka työntekijä on ollut tekemättä työtä.
+Jos poissaolo liittyy välittömästi työpäivää seuraavaan taikka sitä edeltävään vapaapäivään, ei päivärahaa seuraavalta tai edeltävältä vapaapäivältä makseta.
+
+##### 22.6.3 Kotimatkat juhlapyhien yhteydessä
+Työnantaja korvaa työntekijän matkakustannukset kotipaikalle ja sieltä takaisin työpaikalle, maksaa päivärahan sekä matkan ajalta matka-ajan korvauksen ja yömatkarahan tämän luvun mukaisin edellytyksin, jos työntekijä on ennen pääsiäis-, juhannus- tai joulupäivää työskennellyt komennuspaikkakunnalla yhtäjaksoisesti vähintään kolme viikkoa. Työntekijällä ei ole edellä tarkoitetussa tilanteessa oikeutta keskeyttää työkomennustaan, jos työn tekninen laatu tai muut pakottavat syyt sen estävät.
+
+##### 22.6.4 Kotimatka työkyvyttömyyden yhteydessä
+Jos työnantaja lähettää työntekijän tämän sairauden tai tapaturman vuoksi komennuspaikkakunnalta kotiin, maksetaan kotimatkasta aiheutuvat kustannukset tämän luvun mukaisesti. Matka-ajan korvausta maksetaan siltä kotimatkan ajalta, jolta ei makseta sairausajan palkkaa.
+
+#### 22.7 Työ ulkomailla
+Työntekijää ei tule määrätä ulkomaan komennukselle ilman hänen suostumustaan. Erillistä suostumusta ei tarvita, jos kysymyksessä on kiireellinen työkomennus, työntekijän työsopimus edellyttää matkustamista myös ulkomaille tai jos työntekijän normaaleihin työtehtäviin kuuluvat ulkomaankomennukset.
+
+Ulkomailla tehtävän matkatyön palkkaehdoista, palkanmaksutavasta ja muista työsuhteeseen liittyvistä taloudellisista eduista on sovittava kirjallisesti ennen matkan alkamista. Sovittavista asioista ks. liittojen laatima "Työehdot ulkomaantyössä" -opas.
+
+Päivärahan määrä kussakin maassa on se, jonka verohallitus vuosittain verovapaaksi vahvistaa.
+
+Ulkomailla tehtävässä matkatyössä noudatetaan tämän työehtosopimuksen määräyksiä, elleivät ne ole ristiriidassa työskentelymaan lainsäädännön kanssa.
+
+#### 22.8 Eräät poikkeusmääräykset
+Matkatyön aiheuttamien kustannusten korvaamisesta ns. rajanpintatöissä ja Ruotsissa olevien työmaiden suhteen silloin, kun yritys liittyy näiden osalta ruotsalaisen työnantajaliiton jäseneksi taikka solmii erillisen työehtosopimuksen ruotsalaisen ammattiliiton kanssa, noudatetaan määräyksiä, jotka olivat voimassa Teknologiateollisuuden työehtosopimuksessa 2011-2013. Nämä määräykset löytyvät liittojen kotisivuilta.
+
+#### 22.9 Paikallinen sopiminen
+Työkomennuksesta aiheutuvien kohdissa 22.4-22.8 mainittujen kustannusten korvaamisesta ja määristä voidaan paikallisesti sopia toisin. Jos työpaikalla tehdään matkatyötä yleisesti, paikallinen sopimus tehdään työnantajan ja pääluottamusmiehen välillä kirjallisesti.
+
+### 23 ARKIPYHÄKORVAUS SEKÄ MUITA KORVAUKSIA JA ETUJA
+
+#### 23.1 Korvattavat arkipyhät
+Tuntipalkkaiselle työntekijälle maksetaan arkipyhäkorvauksena 8 tunnin palkka keskituntiansion mukaan pitkäperjantailta, toiselta pääsiäispäivältä, helatorstailta
+sekä muuksi viikonpäiväksi kuin lauantaiksi tai sunnuntaiksi sattuvalta uudenvuodenpäivältä, loppiaiselta, vapunpäivältä, juhannusaatolta, jouluaatolta sekä ensimmäiseltä ja toiselta joulupäivältä.
+
 Osa-aikatyötä tekevän työntekijän arkipyhäkorvaus lasketaan siten, että kerrotaan viikon säännöllisten tuntien lukumäärän ja luvun 40 osamäärällä edellä oleva arkipyhäkorvaus.
-Työehtosopimus
- 109
 
-Työehtosopimus
-23.2 Arkipyhäkorvauksen maksamisen edellytykset
-Arkipyhäkorvaus maksetaan työntekijälle, jonka työsuhde on yhtäjaksoisesti kestänyt vähintään 1 kuukauden ennen kyseistä arkipyhää. Lisäksi edellytetään, että työntekijä on ollut työtun- tijärjestelmän mukaisesti työssä joko viimeisenä arkipyhää edel- täneenä tai sen jälkeen lähinnä seuraavana työpäivänä. Jos työ- tuntijärjestelmän mukaisen työajan noudattamista koskeva edel- lytyssääntö aiheuttaisi arkipyhäkorvauksen menetyksen useilta peräkkäisiltä arkipyhiltä, menetys koskee vain yhtä mainituista arkipyhistä.
+#### 23.2 Arkipyhäkorvauksen maksamisen edellytykset
+Arkipyhäkorvaus maksetaan työntekijälle, jonka työsuhde on yhtäjaksoisesti kestänyt vähintään 1 kuukauden ennen kyseistä arkipyhää. Lisäksi edellytetään, että työntekijä on ollut työtuntijärjestelmän mukaisesti työssä joko viimeisenä arkipyhää edeltäneenä tai sen jälkeen lähinnä seuraavana työpäivänä. Jos työtuntijärjestelmän mukaisen työajan noudattamista koskeva edellytyssääntö aiheuttaisi arkipyhäkorvauksen menetyksen useilta peräkkäisiltä arkipyhiltä, menetys koskee vain yhtä mainituista arkipyhistä.
+
 Jos työntekijä on ollut luvattomasti poissa työtuntijärjestelmän mukaiseksi työpäiväksi sattuvana arkipyhänä, arkipyhäkorvausta ei makseta.
+
 Arkipyhäkorvaus maksetaan myös sellaisilta arkipyhiltä, jotka sattuvat
 • vuosiloman ajaksi,
 • palvelusvuosilisävapaan ajaksi
@@ -1308,250 +1312,247 @@ paan palkkaa,
 • taloudellisista tai tuotannollisista syistä johtuvan lomautuk-
 sen ensimmäisten 15 kalenteripäivän ajaksi,
 • lakisääteisen isyysvapaan ajaksi.
-Itsenäisyyspäivältä maksetaan arkipyhäkorvausta vastaava kor- vaus työntekijälle, jolla ei sairaudesta tai tapaturmasta johtuvan työkyvyttömyyden vuoksi ole oikeutta lain mukaiseen itsenäi- syyspäivän palkkaan edellyttäen, että itsenäisyyspäivä sattuu työntekijän sairausajan palkkaan oikeuttavalle työkyvyttömyys- ajalle muuksi viikonpäiväksi kuin lauantaiksi tai sunnuntaiksi.
- 110
 
-23.3 Muita korvauksia ja etuja
-23.3.1 Työntekijän oikeus vapaaseen
+Itsenäisyyspäivältä maksetaan arkipyhäkorvausta vastaava korvaus työntekijälle, jolla ei sairaudesta tai tapaturmasta johtuvan työkyvyttömyyden vuoksi ole oikeutta lain mukaiseen itsenäisyyspäivän palkkaan edellyttäen, että itsenäisyyspäivä sattuu työntekijän sairausajan palkkaan oikeuttavalle työkyvyttömyysajalle muuksi viikonpäiväksi kuin lauantaiksi tai sunnuntaiksi.
+
+### 23.3 Muita korvauksia ja etuja
+
+#### 23.3.1 Työntekijän oikeus vapaaseen
 Työntekijällä on oikeus saada vapaata työstä:
 • päivänä, jona hänet vihitään avioliittoon,
 • 50- ja 60-vuotispäivänään,
 • läheisen omaisen hautauspäivänä.
-Vapaan antamiseen käytetään ensisijaisesti työajan tasaamisva- paata.
-23.3.2 Kutsunta ja reservin harjoitukset
-Työnantaja maksaa varusmiespalveluksen edellyttämään kutsun- taan ensimmäisen kerran osallistuvalle työntekijälle kutsunta- päivän korvauksena enintään yhden työpäivän ansiota vastaavan määrän.
+
+Vapaan antamiseen käytetään ensisijaisesti työajan tasaamisvapaata.
+
+#### 23.3.2 Kutsunta ja reservin harjoitukset
+Työnantaja maksaa varusmiespalveluksen edellyttämään kutsuntaan ensimmäisen kerran osallistuvalle työntekijälle kutsuntapäivän korvauksena enintään yhden työpäivän ansiota vastaavan määrän.
+
 Mikäli työntekijä kutsuntapäivänä on myös työssä, maksetaan hänelle lisäksi palkka työssäoloajalta.
-Kutsuntaan liittyvään erilliseen lääkärintarkastukseen osallis- tuvalle korvataan ansionmenetys siltä ajalta, jonka hän hyväk- syttävän selvityksen mukaan joutuu tarkastuksen takia olemaan poissa työstä säännöllisenä työaikanaan.
-Työnantaja maksaa reservin harjoitusten ajalta palkkaa siten, että työntekijä saa valtion maksaman reserviläispalkan kanssa täydet palkkaedut. Työnantaja saa vähentää maksettavan reserviläispal- kan työtuntijärjestelmän mukaisten työpäivien osalta.
-Työehtosopimus
- 111
 
-Työehtosopimus
-Määräystä sovelletaan myös työntekijöihin, jotka siviilipalvelus- lain nojalla määrätään kertausharjoituksia korvaavaan palveluun tai jotka pelastuslain nojalla koulutetaan väestönsuojelun erikois- tehtäviin.
-Korvausperusteena on keskituntiansio.
-23.3.3 Teollisuusliitto ry:n hallintoelimien kokoukset
-Teollisuusliitto ry:n liittohallitukseen, liittovaltuustoon tai liit- tokokoukseen valitulla työntekijällä on oikeus saada vapautusta työstä osallistuakseen näiden hallintoelimien virallisiin kokouk- siin.
-Työntekijän on ilmoitettava vapautuksen tarpeestaan niin pian kuin mahdollista ja esitettävä asianmukainen selvitys kokouk- seen osallistumiseen tarvitsemastaan ajasta.
-23.3.4 Ryhmähenkivakuutus
+Kutsuntaan liittyvään erilliseen lääkärintarkastukseen osallistuvalle korvataan ansionmenetys siltä ajalta, jonka hän hyväksyttävän selvityksen mukaan joutuu tarkastuksen takia olemaan poissa työstä säännöllisenä työaikanaan.
+
+Työnantaja maksaa reservin harjoitusten ajalta palkkaa siten, että työntekijä saa valtion maksaman reserviläispalkan kanssa täydet palkkaedut. Työnantaja saa vähentää maksettavan reserviläispalkan työtuntijärjestelmän mukaisten työpäivien osalta.
+
+Määräystä sovelletaan myös työntekijöihin, jotka siviilipalveluslain nojalla määrätään kertausharjoituksia korvaavaan palveluun tai jotka pelastuslain nojalla koulutetaan väestönsuojelun erikoistehtäviin. Korvausperusteena on keskituntiansio.
+
+##### 23.3.3 Teollisuusliitto ry:n hallintoelimien kokoukset
+Teollisuusliitto ry:n liittohallitukseen, liittovaltuustoon tai liittokokoukseen valitulla työntekijällä on oikeus saada vapautusta työstä osallistuakseen näiden hallintoelimien virallisiin kokouksiin. Työntekijän on ilmoitettava vapautuksen tarpeestaan niin pian kuin mahdollista ja esitettävä asianmukainen selvitys kokoukseen osallistumiseen tarvitsemastaan ajasta.
+
+##### 23.3.4 Ryhmähenkivakuutus
 Työnantaja toteuttaa kustannuksellaan työntekijöitä koskevan ryhmähenkivakuutuksen keskusjärjestöjen sopimuksen mukaan.
- 112
 
-Työehtosopimus V TYÖTURVALLISUUS JA TYÖSUOJELU
+## V TYÖTURVALLISUUS JA TYÖSUOJELU
 Työturvallisuustoiminnan tarkoitus on huolehtia työntekijöiden turvallisuudesta ja terveydestä työssä.
-Työsuojelua koskevat määräykset käsittelevät työpaikan työsuo- jeluyhteistoiminnan järjestämistä.
-24 YLEISET TYÖTURVALLISUUSMÄÄRÄYKSET
-Työnantaja on tarpeellisilla toimenpiteillä velvollinen huoleh- timaan työntekijöiden turvallisuudesta ja terveydestä työssä. Riittävän kattava vaarojen selvittäminen ja arviointi ovat perusta toimenpiteille, joilla luodaan terveelliset ja turvalliset työolosuh- teet.
-Työntekijän on noudatettava työnantajan toimivaltansa mukai- sesti antamia määräyksiä ja ohjeita. Työntekijän on viipymättä ilmoitettava havaitsemistaan turvallisuuspuutteista työnantajalle ja työsuojeluvaltuutetulle. Työntekijän on käytettävissään olevin keinoin ja mahdollisuuksiensa mukaan korjattava vika tai puute, mikäli pystyy sen omaa ja muiden turvallisuutta ja terveyttä vaa- rantamatta tekemään.
-Työntekijällä on oikeus pidättäytyä tekemästä työtä, joka aiheut- taa vakavaa vaaraa työntekijän omalle tai muiden työntekijöiden hengelle tai terveydelle. Työstä pidättäytymisestä on ilmoitettava työnantajalle. Oikeus pidättäytyä työnteosta jatkuu, kunnes työn- antaja on poistanut vaaratekijät tai muutoin huolehtinut siitä, että työ voidaan suorittaa turvallisesti. Tämä ei saa rajoittaa työntekoa laajemmalti kuin työn turvallisuuden ja terveellisyyden kannalta on välttämätöntä.
- 113
 
-Työehtosopimus
-25 HENKILÖNSUOJAIMET JA SUOJAVAATETUS
-Mikäli asiantuntijalausuntojen, työtapaturma- ja ammattitautiti- lastojen tai muun vastaavan perusteen nojalla yhteisesti voidaan työstä todeta, että henkilönsuojainten käyttö olennaisesti paran- taa työturvallisuus- tai terveysolosuhteita, työnantaja hankkii tällaisen suojaimen työpaikalle työntekijän käyttöön, vaikka sen antaminen työturvallisuuslain 15 tai 20 §:n mukaan ei olisi vält- tämätöntä. Työntekijän on huolehdittava hänelle annetuista hen- kilönsuojaimista ja muista varusteista.
-Samoin menetellään, jos työntekijä voidaan tehokkaasti suojata haitoilta, jotka aiheutuisivat työn erityisestä kosteudesta, mär- kyydestä, vedosta, kuumuudesta tai kylmyydestä, voimakkaasta valosta tai muusta vaarallisesta säteilystä.
-Asiaa käsittelevä yhteistyöelin on yrityksen työsuojelutoimikun- ta tai vastaava. Myös yrityksen terveydenhuoltohenkilöstölle tu- lee antaa mahdollisuus lausua mielipiteensä hankittavaksi ehdo- tetuista suojaimista.
-Työnantaja hankkii ja huoltaa kustannuksellaan kohtuulliseksi katsottavan määrän suojapukuja ja -käsineitä töissä, joissa omien tavanomaisten työvaatteiden kuluminen ja likaantuminen on ta- vanomaista suurempi. Huollolla tarkoitetaan suojapukujen pesua sekä rikkoutuneiden korjaamista tai uusimista.
-26 TYÖTERVEYSHUOLTO
-Työnantajan on kustannuksellaan järjestettävä työterveyshuolto. Työterveyshuollon tarkoituksena on työstä ja työolosuhteista joh- tuvien terveyshaittojen ja -vaarojen ehkäiseminen sekä työnte- kijöiden työturvallisuuden, työkyvyn ja terveyden edistäminen. Työterveyshuollon järjestämisestä säädetään työterveyshuolto- laissa.
-114
- 
-26.1 Tyky-toiminta
-Työpaikalla toteutettava työkykyä ylläpitävä toiminta on työn- antajan, työntekijöiden ja työterveyshuollon yhteistyötä. Työky- kyä ylläpitävän toiminnan periaatteet sisällytetään työsuojelun toimintaohjelmaan tai työterveyshuollon toimintasuunnitelmaan.
-Sovittaessa voidaan edellä mainitut periaatteet sisällyttää myös työpaikalla laadittavaan kehittämistoiminta- tai muuhun vastaa- vaan suunnitelmaan. Työsuojelupäällikön ja -valtuutetun tehtä- vänä on osallistua suunnitelman laatimiseen, toteuttamiseen ja seurantaan.
-27 TYÖSUOJELUA KOSKEVAT MÄÄRÄYKSET
-Tämän kohdan määräyksiä sovelletaan silloin, kun työpaikassa työskentelee säännöllisesti vähintään 20 työntekijää. Työsuojelu- valtuutettu on kuitenkin valittava, kun työntekijöitä on vähintään kymmenen. Muussakin työpaikassa työntekijät voivat valita kes- kuudestaan työsuojeluvaltuutetun.
-27.1 Työsuojeluyhteistoiminnan järjestäminen
-Työnantaja nimeää työsuojeluyhteistoimintaa varten työsuoje- lupäällikön, jollei hän itse hoida tätä tehtävää. Työntekijöiden oikeus valita työsuojeluvaltuutettu ja varavaltuutetut määräytyy työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnas- ta annetun lain mukaisesti.
-Työpaikalla voidaan sopia lisäksi siitä, että työntekijät voivat va- lita keskuudestaan työsuojeluasiamiehen tai -miehiä. Valittavien työsuojeluasiamiesten lukumäärästä, tehtävistä ja toimialueista sovittaessa on kiinnitettävä huomiota toimialueiden tarkoituk- senmukaisuuteen. Tarkoituksenmukaisuusarvioinnissa on otetta- va huomioon työpaikan vaaratekijät ja työntekijöiden mahdol- lisuus myös vuorotyö huomioiden tavata työsuojeluasiamiehiä.
-Työehtosopimus
- 115
+Työsuojelua koskevat määräykset käsittelevät työpaikan työsuojeluyhteistoiminnan järjestämistä.
 
-Työehtosopimus
-27.2 Toimikunta ja muut yhteistoimintaelimet
-Työsuojeluyhteistoimintaa varten perustetaan työsuojelutoimi- kunta, ellei muusta yhteistoimintamuodosta sovita.
-Työsuojelutoimikunnassa käsiteltävistä yhteisen työpaikan työ- suojeluasioista on säädetty työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain 43 g §:ssä.
-27.3 Työsuojeluhenkilöstön tehtävät
-A. Työsuojelupäällikkö
-Työsuojelupäällikön tehtävänä on muiden työsuojeluyhteistoi- minnan piiriin kuuluvien tehtävien ohella järjestää, ylläpitää ja kehittää työsuojeluyhteistoimintaa.
-B. Työsuojeluvaltuutettu
+### 24 YLEISET TYÖTURVALLISUUSMÄÄRÄYKSET
+Työnantaja on tarpeellisilla toimenpiteillä velvollinen huolehtimaan työntekijöiden turvallisuudesta ja terveydestä työssä. Riittävän kattava vaarojen selvittäminen ja arviointi ovat perusta toimenpiteille, joilla luodaan terveelliset ja turvalliset työolosuhteet.
+
+Työntekijän on noudatettava työnantajan toimivaltansa mukaisesti antamia määräyksiä ja ohjeita. Työntekijän on viipymättä ilmoitettava havaitsemistaan turvallisuuspuutteista työnantajalle ja työsuojeluvaltuutetulle. Työntekijän on käytettävissään olevin keinoin ja mahdollisuuksiensa mukaan korjattava vika tai puute, mikäli pystyy sen omaa ja muiden turvallisuutta ja terveyttä vaarantamatta tekemään.
+
+Työntekijällä on oikeus pidättäytyä tekemästä työtä, joka aiheuttaa vakavaa vaaraa työntekijän omalle tai muiden työntekijöiden hengelle tai terveydelle. Työstä pidättäytymisestä on ilmoitettava työnantajalle. Oikeus pidättäytyä työnteosta jatkuu, kunnes työnantaja on poistanut vaaratekijät tai muutoin huolehtinut siitä, että työ voidaan suorittaa turvallisesti. Tämä ei saa rajoittaa työntekoa laajemmalti kuin työn turvallisuuden ja terveellisyyden kannalta on välttämätöntä.
+
+### 25 HENKILÖNSUOJAIMET JA SUOJAVAATETUS
+Mikäli asiantuntijalausuntojen, työtapaturma- ja ammattitautitilastojen tai muun vastaavan perusteen nojalla yhteisesti voidaan työstä todeta, että henkilönsuojainten käyttö olennaisesti parantaa työturvallisuus- tai terveysolosuhteita, työnantaja hankkii tällaisen suojaimen työpaikalle työntekijän käyttöön, vaikka sen antaminen työturvallisuuslain 15 tai 20 §:n mukaan ei olisi välttämätöntä. Työntekijän on huolehdittava hänelle annetuista henkilönsuojaimista ja muista varusteista.
+
+Samoin menetellään, jos työntekijä voidaan tehokkaasti suojata haitoilta, jotka aiheutuisivat työn erityisestä kosteudesta, märkyydestä, vedosta, kuumuudesta tai kylmyydestä, voimakkaasta valosta tai muusta vaarallisesta säteilystä.
+
+Asiaa käsittelevä yhteistyöelin on yrityksen työsuojelutoimikunta tai vastaava. Myös yrityksen terveydenhuoltohenkilöstölle tulee antaa mahdollisuus lausua mielipiteensä hankittavaksi ehdotetuista suojaimista.
+
+Työnantaja hankkii ja huoltaa kustannuksellaan kohtuulliseksi katsottavan määrän suojapukuja ja -käsineitä töissä, joissa omien tavanomaisten työvaatteiden kuluminen ja likaantuminen on tavanomaista suurempi. Huollolla tarkoitetaan suojapukujen pesua sekä rikkoutuneiden korjaamista tai uusimista.
+
+### 26 TYÖTERVEYSHUOLTO
+Työnantajan on kustannuksellaan järjestettävä työterveyshuolto. Työterveyshuollon tarkoituksena on työstä ja työolosuhteista johtuvien terveyshaittojen ja -vaarojen ehkäiseminen sekä työntekijöiden työturvallisuuden, työkyvyn ja terveyden edistäminen. Työterveyshuollon järjestämisestä säädetään työterveyshuoltolaissa.
+
+#### 26.1 Tyky-toiminta
+Työpaikalla toteutettava työkykyä ylläpitävä toiminta on työnantajan, työntekijöiden ja työterveyshuollon yhteistyötä. Työkykyä ylläpitävän toiminnan periaatteet sisällytetään työsuojelun toimintaohjelmaan tai työterveyshuollon toimintasuunnitelmaan.
+
+Sovittaessa voidaan edellä mainitut periaatteet sisällyttää myös työpaikalla laadittavaan kehittämistoiminta- tai muuhun vastaavaan suunnitelmaan. Työsuojelupäällikön ja -valtuutetun tehtävänä on osallistua suunnitelman laatimiseen, toteuttamiseen ja seurantaan.
+
+### 27 TYÖSUOJELUA KOSKEVAT MÄÄRÄYKSET
+Tämän kohdan määräyksiä sovelletaan silloin, kun työpaikassa työskentelee säännöllisesti vähintään 20 työntekijää. Työsuojeluvaltuutettu on kuitenkin valittava, kun työntekijöitä on vähintään kymmenen. Muussakin työpaikassa työntekijät voivat valita keskuudestaan työsuojeluvaltuutetun.
+
+#### 27.1 Työsuojeluyhteistoiminnan järjestäminen
+Työnantaja nimeää työsuojeluyhteistoimintaa varten työsuojelupäällikön, jollei hän itse hoida tätä tehtävää. Työntekijöiden oikeus valita työsuojeluvaltuutettu ja varavaltuutetut määräytyy työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain mukaisesti.
+
+Työpaikalla voidaan sopia lisäksi siitä, että työntekijät voivat valita keskuudestaan työsuojeluasiamiehen tai -miehiä. Valittavien työsuojeluasiamiesten lukumäärästä, tehtävistä ja toimialueista sovittaessa on kiinnitettävä huomiota toimialueiden tarkoituksenmukaisuuteen. Tarkoituksenmukaisuusarvioinnissa on otettava huomioon työpaikan vaaratekijät ja työntekijöiden mahdollisuus myös vuorotyö huomioiden tavata työsuojeluasiamiehiä.
+
+#### 27.2 Toimikunta ja muut yhteistoimintaelimet
+Työsuojeluyhteistoimintaa varten perustetaan työsuojelutoimikunta, ellei muusta yhteistoimintamuodosta sovita. Työsuojelutoimikunnassa käsiteltävistä yhteisen työpaikan työsuojeluasioista on säädetty työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain 43 g §:ssä.
+
+#### 27.3 Työsuojeluhenkilöstön tehtävät
+
+###### A. Työsuojelupäällikkö
+Työsuojelupäällikön tehtävänä on muiden työsuojeluyhteistoiminnan piiriin kuuluvien tehtävien ohella järjestää, ylläpitää ja kehittää työsuojeluyhteistoimintaa.
+
+###### B. Työsuojeluvaltuutettu
 Työsuojeluvaltuutetun tehtävät ovat työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain mukaiset. Lisäksi työsuojeluvaltuutettu hoitaa hänelle muun lainsäädännön ja sopimusten perusteella kuuluvat tehtävät.
 Varavaltuutetun toimimisesta työsuojeluvaltuutetun sijaisena on työsuojeluvaltuutetun ilmoitettava työnantajalle kirjallisesti.
-C. Varavaltuutettu
-Työsuojeluvaltuutetun ollessa tilapäisesti estynyt hoitamasta tehtäviään varavaltuutettu huolehtii sellaisista välttämättömistä työsuojeluvaltuutetun tehtävistä, joita ei voida siirtää työsuojelu- valtuutetun esteen päättymisen jälkeen hoidettavaksi.
-D. Työsuojeluasiamies
-Työsuojeluasiamiehen tehtävänä on osallistua toimialuettaan koskevien työsuojelun yhteistoiminta-asioiden käsittelyyn ja to- teutukseen, jollei muista tehtävistä ole paikallisesti sovittu.
- 116
 
-Työehtosopimus
-27.4 Koulutustarve ja säädösten hankkiminen
-Työsuojeluvaltuutetun ja varavaltuutetun työsuojeluyhteistoi- mintatehtävien edellyttämä koulutustarve on käsiteltävä kahden kuukauden kuluessa valinnasta. Samalla on neuvoteltava käytän- nön järjestelyistä tarvittavan osaamisen hankkimiseksi.
-Työnantaja hankkii työsuojeluvaltuutetun, työsuojeluasiamiehen ja muiden työsuojelutoimintaelinten käyttöön työsuojelutehtävi- en hoitamista varten tarpeelliset lait, asetukset ja muut työsuoje- lumääräykset.
-28 TYÖSUOJELUVALTUUTETUN JA TYÖSUOJELUASIAMIEHEN TOIMINTAEDELLYTYKSET
-28.1 Vapautus työstä
-Työsuojeluvaltuutetulle järjestetään tehtäviensä hoitamista var- ten tarvittaessa tilapäisesti, säännöllisesti toistuen tai kokonaan vapautus työstään. Työsuojeluasiamiehelle sekä muille yrityksen ja henkilöstön väliseen tämän sopimuksen edellyttämään yhteis- toimintaan osallistuville henkilöstön edustajille järjestetään tar- vittaessa tilapäisesti vapautus työstä.
-Työsuojeluvaltuutetun työstä vapauttamisen järjestämisessä nou- datetaan seuraavia periaatteita:
-A Työsuojeluvaltuutetun ajankäyttö on tarkoituksenmukaista sopia työnantajan ja työsuojeluvaltuutetun välillä.
-B Jos työsuojeluvaltuutetun ajankäytöstä ei ole edellä maini- tusti sovittu, lasketaan vapautus työstä kohdan C mukaisel- la kaavalla, jossa käytetään työsuojeluvaltuutetun edusta- mien työntekijöiden lukumäärää ja jäljempänä mainittujen toimialojen yhteydessä esitettyjä vaihteluväleistä käytettä-
- 117
+###### C. Varavaltuutettu
+Työsuojeluvaltuutetun ollessa tilapäisesti estynyt hoitamasta tehtäviään varavaltuutettu huolehtii sellaisista välttämättömistä työsuojeluvaltuutetun tehtävistä, joita ei voida siirtää työsuojeluvaltuutetun esteen päättymisen jälkeen hoidettavaksi.
 
-Työehtosopimus
-väksi sovittuja kertoimia. Laskennassa käytetyn kertoimen valintaan vaikuttavat työturvallisuus- ja työterveysriskit, työtapaturmien ja ammattitautien vakavuus ja kehitys, työssä tapahtuvat muutokset, työn luonne, alueellinen laa- juus, ja sekä psyykkiset että fyysiset työolosuhteet. Yhteisellä työpaikalla (työturvallisuuslaki 49 §) työympä- ristön olosuhteet tulee huomioida pääasiallista määräysval- taa käyttävän työnantajan työsuojeluvaltuutetun ajankäyt- töä määriteltäessä.
-C Laskentakaava: Työsuojeluvaltuutetun edustamien työnte- kijöiden lukumäärä x kerroin = aika tunteina / 4 viikkoa.
-D Mikäli työsuojeluvaltuutetun ajankäytöstä ei kertoimen suhteen päästä sopimukseen, laskentakaavassa käytetään toimialojen yhteydessä esitettyjä rajalukujen keskiarvoja.
-E Vapautuksen määrä on aina vähintään 4 tuntia 4 viikon ai- kana.
-F Työsuojeluvaltuutetun edustamien työntekijöiden luku- määrä todetaan välittömästi ennen työsuojeluvaltuutetun vaaleja sekä vastaavana ajankohtana vuoden kuluttua vaa- lien jälkeen.
-Työsuojeluvaltuutetun edustamien työntekijöiden luku- määrää laskettaessa otetaan huomioon myös toteamisvuo- den aikana työpaikalla työskennelleiden vuokratyönteki- jöiden keskimääräinen lukumäärä, jos vuokratyöntekijöitä on tarkastelujakson aikana keskimäärin ollut vähintään 20 henkilöä.
- 118
+###### D. Työsuojeluasiamies
+Työsuojeluasiamiehen tehtävänä on osallistua toimialuettaan koskevien työsuojelun yhteistoiminta-asioiden käsittelyyn ja toteutukseen, jollei muista tehtävistä ole paikallisesti sovittu.
 
-Työehtosopimus
-Työsuojeluvaltuutetun työstä vapautuksen laskemiseksi sovitut toimialakohtaisten kertoimien vaihteluvälit ja vaihteluvälien kes- kiarvot ovat seuraavat:
- Toimialat (TOL 2002):
-I Kaivostoiminta (15) Metallien jalostus (27)
-Kertoimien vaihteluvälit ja keskiarvot:
-vaihteluväli 0,28 - 0,37 keskiarvo 0,33
-Metallituotteiden
-valmistus (28)
-Laivojen, veneiden ja raideliikenteen kulkuneuvojen valmistus (35)
-II Koneiden ja laitteiden vaihteluväli 0,23 - 0,31 valmistus (29) keskiarvo 0,27 Sähkökoneiden ja -laitteiden
-valmistus (31)
-Kulkuneuvojen valmistus (34)
-III Elektroniikkatuotteiden valmistus (30)
-Tietoliikennetuotteiden valmistus (32) Hienomekaanisten tuotteiden valmistus (33)
-vaihteluväli 0,20 - 0,27 keskiarvo 0,23
-Jos työsuojeluvaltuutettu on vapautettu säännöllisesti toistuviksi määräajoiksi työstään, tulee hänen hoitaa tehtäväänsä pääsään- töisesti sinä aikana. Välttämättömien asioiden hoitamista varten tulee työnjohdon kuitenkin antaa vapautusta työstä muunakin työn kannalta sopivana aikana.
-119
+#### 27.4 Koulutustarve ja säädösten hankkiminen
+Työsuojeluvaltuutetun ja varavaltuutetun työsuojeluyhteistoimintatehtävien edellyttämä koulutustarve on käsiteltävä kahden kuukauden kuluessa valinnasta. Samalla on neuvoteltava käytännön järjestelyistä tarvittavan osaamisen hankkimiseksi.
+Työnantaja hankkii työsuojeluvaltuutetun, työsuojeluasiamiehen ja muiden työsuojelutoimintaelinten käyttöön työsuojelutehtävien hoitamista varten tarpeelliset lait, asetukset ja muut työsuojelumääräykset.
 
-Työehtosopimus
-28.2 Ansionmenetyksen korvaaminen ja kuukausi- korvaus
-Työnantaja korvaa sen ansion, jonka työsuojeluyhteistoimintaan osallistuva henkilöstön edustaja menettää työaikana joko paikal- lisessa neuvottelussa työnantajien edustajien kanssa tai toimies- saan muuten työnantajan kanssa sovituissa tehtävissä.
-Työsuojeluvaltuutetulle korvataan hänen työaikanaan suorittami- ensa edellä tarkoitettujen työsuojelua koskevien tehtävien hoita- misesta aiheutuva ansionmenetys sekä lisäksi, ellei työnantajan ja työsuojeluvaltuutetun välillä ole sovittu toisin, kuukausittain korvausta seuraavasti:
-   Työstä vapautuksen määrä tunteina/4 viikkoa
- Korvaus TES:n voimaan tullessa euroa/kk
- Korvaus 1.3.2022 alkaen euroa/kk
- 4 - 15 tuntia
- 79
- 81
- 16 - 33 ”
- 87
- 89
- 34 - 55 ”
- 94
- 96
- 56 - 79 ”
- 112
- 114
- 80 - 95 ”
- 135
- 138
- 96 -139 ”
- 158
- 161
- 140 -159 ”
-  185
-  189
-  160 tuntia/ kokonaan vapautettu
-  221
-   225
- 120
+### 28 TYÖSUOJELUVALTUUTETUN JA TYÖSUOJELUASIAMIEHEN TOIMINTAEDELLYTYKSET
 
-Työehtosopimus
-Jos työsuojeluvaltuutettu, työsuojeluasiamies tai työsuojelutoi- mikunnan tai muun työsuojelutoimikuntaa vastaavan yhteistoi- mintaelimen jäsen suorittaa työnantajan kanssa sovittuja tehtäviä säännöllisen työaikansa ulkopuolella, maksetaan näin menete- tystä ajasta ylityölisä tai sovitaan hänen kanssaan muunlaisesta lisäkorvauksesta.
-Ansionmenetyksen korvauksen laskennassa käytetään keskitun- tiansiota.
-Työstä kokonaan vapautetun työsuojeluvaltuutetun ansion mene- tyksen korvaamisessa noudatetaan samaa menettelyä, jolla työs- tä kokonaan vapautetun pääluottamusmiehen palkka määräytyy alakohdan 43.4.4 mukaisesti.
-Osittain työstä vapautetun työsuojeluvaltuutetun ansiokehityk- sen tulee vastata hänen toimialueensa muiden, vaativuudeltaan vastaavissa töissä työskentelevien työntekijöiden ansionkehitys- tä. Ansiokehitys tarkistetaan vuosittain.
-28.3. Toimitilat
-Työnantaja järjestää työsuojeluvaltuutetulle tarkoituksenmukai- sen paikan tehtäviensä edellyttämien tarvikkeiden säilyttämiseen. Työpaikan koon edellyttäessä erityistä toimitilaa, työnantaja jär- jestää tarkoituksenmukaisen tilan, jossa voidaan käydä tehtävien hoitamista varten välttämättömät keskustelut.
-Työsuojeluvaltuutettu voi tarvittaessa käyttää yrityksen puhelinta ja muita tavanomaisia toimistovälineitä. Toimistovälineiden, tie- toteknisten laitteiden ja ohjelmistojen käyttö ja käytännön järjes- telyt toteutetaan yhteisesti sovittavalla tavalla.
- 121
+#### 28.1 Vapautus työstä
+Työsuojeluvaltuutetulle järjestetään tehtäviensä hoitamista varten tarvittaessa tilapäisesti, säännöllisesti toistuen tai kokonaan vapautus työstään. Työsuojeluasiamiehelle sekä muille yrityksen ja henkilöstön väliseen tämän sopimuksen edellyttämään yhteistoimintaan osallistuville henkilöstön edustajille järjestetään tarvittaessa tilapäisesti vapautus työstä.
 
-Työehtosopimus
-29 HENKILÖSTÖN EDUSTUSTEHTÄVÄN HOITAMISEN VAIKUTUKSET TYÖSUHTEESEEN, TYÖTEHTÄVIIN JA PALKKAAN
-A. Työsuhde
-Työsuojeluvaltuutettu, työsuojeluasiamies ja muut henkilöstön edustajat ovat työsuhteessaan työnantajaan samassa asemassa riippumatta siitä, hoitaako hän luottamustehtäviään oman työnsä ohella vai onko hänelle annettu osittain tai kokonaan vapautusta työnteosta. Hän on velvollinen noudattamaan yleisiä työehtoja, työaikoja ja työnjohdon määräyksiä sekä muita järjestysmäärä- yksiä.
-B. Liikkeen luovutus
-Työsuojeluvaltuutetun asema jatkuu liikkeen luovutuksesta huolimatta sellaisenaan, jos luovutettu liike tai sen osa säilyttää itsenäisyytensä. Jos luovutettava liike tai sen osa menettää it- senäisyytensä, työsuojeluvaltuutetulla on oikeus kohdassa 30.4 sovittuun jälkisuojaan liikkeen luovutuksesta johtuneesta toimi- kauden päättymisestä lukien.
-C. Ammatillinen kehittyminen
-Työsuojeluvaltuutetun mahdollisuuksia kehittyä ja edetä amma- tissaan ei saa heikentää kyseisen tehtävän takia.
-D. Ansio- ja siirtosuoja
-Jos työsuojeluvaltuutetuksi valitun henkilön varsinainen työ vai- keuttaa luottamustehtävien hoitamista, on hänelle järjestettävä muuta työtä. Tällainen järjestely ei saa aiheuttaa hänen ansionsa alentumista. Muun työn järjestämisessä otetaan huomioon työ- paikan olosuhteet ja hänen ammattitaitonsa.
- 122
+Työsuojeluvaltuutetun työstä vapauttamisen järjestämisessä noudatetaan seuraavia periaatteita:
+###### A 
+Työsuojeluvaltuutetun ajankäyttö on tarkoituksenmukaista sopia työnantajan ja työsuojeluvaltuutetun välillä.
+###### B 
+Jos työsuojeluvaltuutetun ajankäytöstä ei ole edellä mainitusti sovittu, lasketaan vapautus työstä kohdan C mukaisella kaavalla, jossa käytetään työsuojeluvaltuutetun edusta- mien työntekijöiden lukumäärää ja jäljempänä mainittujen toimialojen yhteydessä esitettyjä vaihteluväleistä käytettäväksi sovittuja kertoimia. Laskennassa käytetyn kertoimen valintaan vaikuttavat työturvallisuus- ja työterveysriskit, työtapaturmien ja ammattitautien vakavuus ja kehitys, työssä tapahtuvat muutokset, työn luonne, alueellinen laajuus, ja sekä psyykkiset että fyysiset työolosuhteet. Yhteisellä työpaikalla (työturvallisuuslaki 49 §) työympäristön olosuhteet tulee huomioida pääasiallista määräysvaltaa käyttävän työnantajan työsuojeluvaltuutetun ajankäyttöä määriteltäessä.
 
-Työehtosopimus
-Työsuojeluvaltuutettuna toimivaa työntekijää ei saa siirtää alem- pipalkkaiseen työhön kuin missä hän oli tehtävään valituksi tul- lessaan. Häntä ei saa myöskään siirtää vähempiarvoiseen työhön, jos työnantaja voi tarjota hänelle muuta hänen ammattitaitoaan vastaavaa työtä.
-Mikäli työsuojeluasiamies joudutaan tilapäisesti siirtämään työ- hön varsinaisen toimialueensa ulkopuolelle, on pyrittävä siihen, ettei siirtäminen kohtuuttomasti haittaa työsuojeluasiamiehen tehtävien hoitamista.
-E. Ammattitaidon ylläpitäminen
-Työsuojeluvaltuutetun tehtävän päättymisen jälkeen tulee hä- nen ja työnantajan yhteisesti selvittää, edellyttääkö työntekijän ammattitaidon ylläpitäminen entiseen tai sitä vastaavaan työhön ammatillista koulutusta. Koulutuksen sisältöä ratkaistaessa kiin- nitetään huomiota työstä vapautukseen, toimikauden kestoon ja sinä aikana tapahtuneisiin työmenetelmien muutoksiin. Työnan- taja järjestää koulutuksen.
-30 TYÖSUOJELUVALTUUTETUN TYÖSUHDETURVA
-30.1 Työsopimuksen irtisanominen ja työsuojelu- valtuutetun lomauttaminen taloudellisista ja tuotannollisista syistä
-Jos yrityksen työvoimaa irtisanotaan tai lomautetaan taloudel- lisista tai tuotannollisista syistä, ei työsuojeluvaltuutetun työso- pimusta saa irtisanoa tai häntä lomauttaa ellei tuotantolaitoksen toimintaa keskeytetä kokonaan. Mikäli työsuojeluvaltuutetun kanssa yhteisesti todetaan, ettei hänelle voida tarjota hänen am- mattiaan vastaavaa tai hänelle muutoin sopivaa työtä, voidaan tästä säännöstä kuitenkin poiketa.
- 123
+###### C
+Laskentakaava: Työsuojeluvaltuutetun edustamien työntekijöiden lukumäärä x kerroin = aika tunteina / 4 viikkoa.
 
-Työehtosopimus
-Työsuojeluvaravaltuutetun työsopimuksen irtisanominen tai hä- nen lomauttamisensa silloin, kun hän ei toimi työsuojeluvaltuu- tetun sijaisena taikka hänellä ei ole luottamusmiehen asemaa, ei saa perustua työntekijän tehtävään työsuojeluyhteistoiminnassa. Työnantajan tulee ilman erityistä vaatimusta osoittaa toimenpi- teen johtuneen muusta seikasta.
-Työpaikoilla, joilla työskentelee vähintään 30 työntekijää, en- simmäisenä työsuojeluvaravaltuutettuna toimivan työntekijän työsopimus on mahdollista irtisanoa tai hänet lomauttaa vain, jos hänen tekemänsä työn teettäminen työpaikalla kokonaan päättyy tai tilapäisesti keskeytyy. Työnantajan velvollisuus järjestää hä- nelle muuta työtä tai kouluttaa häntä muuhun työhön määräytyy työsopimuslain 7 luvun 4 §:ssä tarkoitetulla tavalla tai tilapäi- sen lomauttamisen osalta 5 luvun 2 §:n 1 momentin 2 kohdassa säännellyllä tavalla. Muun työn ja koulutuksen järjestämisessä otetaan huomioon myös kohdan 35.2 mukaisen työvoiman vä- hentämisjärjestyksen periaatteet. Jos kyseinen työntekijä toimii työsuojeluvaltuutetun sijaisena, taikka hänellä on luottamusmie- hen asema, määräytyy hänen erityinen työsuhdeturvansa sen mu- kaan kuin näiden toimien osalta on työehtosopimuksessa sovittu.
-30.2 Työsopimuksen irtisanominen työsuojeluvaltuu- tetun henkilöstä johtuvasta syystä
-Työsuojeluvaltuutetusta johtuvasta syystä ei hänen työsopimus- taan saa irtisanoa ilman työsopimuslain 7 luvun 10 §:n 1 momen- tin edellyttämää niiden työntekijöiden enemmistön suostumusta, joita hän edustaa.
- 124
+###### D 
+Mikäli työsuojeluvaltuutetun ajankäytöstä ei kertoimen suhteen päästä sopimukseen, laskentakaavassa käytetään toimialojen yhteydessä esitettyjä rajalukujen keskiarvoja.
 
-Työehtosopimus
-30.3 Työsopimuksen purkaminen ja purkautuneena käsitteleminen
-Työsuojeluvaltuutetun työsopimusta ei saa purkaa vastoin työso- pimuslain 8 luvun 1-3 §:n säännöksiä. Työsopimuksen purkami- nen sillä perusteella, että hän on rikkonut järjestysmääräyksiä, ei ole mahdollista, ellei hän ole samalla toistuvasti ja olennaisesti sekä varoituksesta huolimatta jättänyt työvelvoitteensa täyttä- mättä.
-Työsuojeluvaltuutetun työsopimuksen purkuperusteita arvioita- essa häntä ei saa asettaa huonompaan asemaan muihin työnteki- jöihin nähden.
-30.4 Työsuojeluvaltuutetun ehdokas- ja jälkisuoja
-Edellä olevia työsuhdeturvaa koskevia määräyksiä on sovelletta- va myös työsuojeluvaltuutettuehdokkaaseen, jonka asettamisesta on kirjallisesti ilmoitettu työsuojelutoimikunnalle tai muulle sitä vastaavalle yhteistoimintaelimelle.
-Ehdokassuoja alkaa kuitenkin aikaisintaan kolme kuukautta en- nen valittavana olevan työsuojeluvaltuutetun toimikauden alkua ja päättyy muun kuin vaalissa valituksi tulleen osalta vaalitulok- sen tultua todetuksi.
-Työsuhdeturvaa koskevia määräyksiä on sovellettava myös työ- suojeluvaltuutettuna toimineeseen työntekijään kuusi kuukautta hänen ko. tehtävänsä päättymisen jälkeen.
- 125
+###### E 
+Vapautuksen määrä on aina vähintään 4 tuntia 4 viikon aikana.
 
-Työehtosopimus
-30.5 Korvaukset
-Jos työsuojeluvaltuutetun työsopimus on lakkautettu tämän sopi- muksen vastaisesti, työnantajan on suoritettava korvauksena hä- nelle vähintään 10 ja enintään 30 kuukauden palkka. Korvaus on määrättävä työsopimuslain 12 luvun 2 §:n 2 momentin perustei- den mukaan. Korvausta lisäävänä tekijänä on otettava huomioon se, että tämän sopimuksen oikeuksia on loukattu. Milloin tuo- tantoyksikössä tai vastaavassa toimintayksikössä säännöllisesti työskentelevien työntekijöiden ja toimihenkilöiden määrä on 20 tai vähemmän, edellä mainittu korvaus on vähintään 4 kuukau- den palkka ja enintään työsopimuslain 12 luvun 2 §:n 1 momen- tin mukaan määräytyvä korvaus.
-Korvaus perusteettomasta lomautuksesta määräytyy työsopimus- lain 12 luvun 1 §:n 1 momentin mukaisesti.
-30.6 Varamiehet
-Tämän kohdan määräyksiä sovelletaan työsuojeluvaltuutetun va- ramieheen sinä aikana, kun hän asianmukaisesti tehdyn ilmoituk- sen mukaisesti toimii sijaisena.
- 126
+###### F 
+Työsuojeluvaltuutetun edustamien työntekijöiden lukumäärä todetaan välittömästi ennen työsuojeluvaltuutetun vaaleja sekä vastaavana ajankohtana vuoden kuluttua vaa- lien jälkeen. Työsuojeluvaltuutetun edustamien työntekijöiden lukumäärää laskettaessa otetaan huomioon myös toteamisvuoden aikana työpaikalla työskennelleiden vuokratyöntekijöiden keskimääräinen lukumäärä, jos vuokratyöntekijöitä on tarkastelujakson aikana keskimäärin ollut vähintään 20 henkilöä.
 
-VI SOSIAALISET MÄÄRÄYKSET
-Työkyvyttömyyttä koskevat määräykset käsittelevät työnantajan ja työntekijän oikeuksia ja velvollisuuksia työntekijän sairaudes- ta tai tapaturmasta aiheutuvan poissaolon yhteydessä.
-Työnantajalla on tietyin edellytyksin velvollisuus maksaa äiti- ys- ja isyysvapaan sekä tilapäisen hoitovapaan ajalta palkkaa ja korvata ansionmenetys lääkärintarkastusten ajalta.
-31 TYÖKYVYTTÖMYYS, ÄITIYS- JA ISYYSVAPAA SEKÄ TILAPÄINEN HOITOVAPAA
-31.1 Työkyvyttömyys
-31.1.1 Työkyvyttömyydestä ilmoittaminen
-Työntekijä on velvollinen viipymättä, ja mikäli mahdollista, en- nen työvuoron alkua ilmoittamaan työnantajalle sairastumises- taan.
-Sairastumisesta ilmoitetaan lähimmälle esimiehelle tai työnan- tajan nimeämälle muulle henkilölle. Työnantajan tulee saattaa ilmoittamista koskevat menettelytavat työntekijöiden tietoon.
-31.1.2 Ilmoitusvelvollisuuden laiminlyönti
-Jos työntekijä tahallisesti laiminlyö velvollisuutensa ilmoittaa viipymättä sairastumisestaan työnantajalle, maksetaan sairaus- ajan palkkaa aikaisintaan siitä päivästä lukien, jona ilmoitus on tehty.
-Työehtosopimus
- 127
+Työsuojeluvaltuutetun työstä vapautuksen laskemiseksi sovitut toimialakohtaisten kertoimien vaihteluvälit ja vaihteluvälien keskiarvot ovat toimialoittain (TOL 2002) seuraavat:
 
-Työehtosopimus
-31.1.3 Sairausajan palkan maksamisen edellytykset
+I Kaivostoiminta (15), Metallien jalostus (27), Metallituotteiden
+valmistus (28), Laivojen, veneiden ja raideliikenteen kulkuneuvojen valmistus (35): Kertoimien vaihteluvälit ja keskiarvot: vaihteluväli 0,28 - 0,37 ja keskiarvo 0,33.
+
+II Koneiden ja laitteiden valmistus (29), Sähkökoneiden ja -laitteiden
+valmistus (31), Kulkuneuvojen valmistus (34): vaihteluväli 0,23 - 0,31 ja keskiarvo 0,27.
+
+III Elektroniikkatuotteiden valmistus (30), Tietoliikennetuotteiden valmistus (32) Hienomekaanisten tuotteiden valmistus (33): vaihteluväli 0,20 - 0,27 ja keskiarvo 0,23.
+
+Jos työsuojeluvaltuutettu on vapautettu säännöllisesti toistuviksi määräajoiksi työstään, tulee hänen hoitaa tehtäväänsä pääsääntöisesti sinä aikana. Välttämättömien asioiden hoitamista varten tulee työnjohdon kuitenkin antaa vapautusta työstä muunakin työn kannalta sopivana aikana.
+
+#### 28.2 Ansionmenetyksen korvaaminen ja kuukausikorvaus
+Työnantaja korvaa sen ansion, jonka työsuojeluyhteistoimintaan osallistuva henkilöstön edustaja menettää työaikana joko paikallisessa neuvottelussa työnantajien edustajien kanssa tai toimiessaan muuten työnantajan kanssa sovituissa tehtävissä.
+
+Työsuojeluvaltuutetulle korvataan hänen työaikanaan suorittamiensa edellä tarkoitettujen työsuojelua koskevien tehtävien hoitamisesta aiheutuva ansionmenetys sekä lisäksi, ellei työnantajan ja työsuojeluvaltuutetun välillä ole sovittu toisin, kuukausittain korvausta seuraavasti:
+
+Työstä vapautuksen määrä tunteina/4 viikkoa 4-15 tuntia, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 79 euroa/kk, Korvaus 1.3.2022 alkaen 81 euroa/kk.
+Työstä vapautuksen määrä tunteina/4 viikkoa 16-33 tuntia, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 87 euroa/kk, Korvaus 1.3.2022 alkaen 89 euroa/kk.
+Työstä vapautuksen määrä tunteina/4 viikkoa 34-55 tuntia, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 94 euroa/kk, Korvaus 1.3.2022 alkaen 96 euroa/kk.
+Työstä vapautuksen määrä tunteina/4 viikkoa 56-79 tuntia, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 112 euroa/kk, Korvaus 1.3.2022 alkaen 114 euroa/kk.
+Työstä vapautuksen määrä tunteina/4 viikkoa 80-95 tuntia, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 135 euroa/kk, Korvaus 1.3.2022 alkaen 138 euroa/kk.
+Työstä vapautuksen määrä tunteina/4 viikkoa 96-139 tuntia, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 158 euroa/kk, Korvaus 1.3.2022 alkaen 161 euroa/kk.
+Työstä vapautuksen määrä tunteina/4 viikkoa 140-159 tuntia, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 185 euroa/kk, Korvaus 1.3.2022 alkaen 189 euroa/kk.
+Työstä vapautuksen määrä tunteina/4 viikkoa 160 tuntia tai kokonaan vapautettu, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 221 euroa/kk, Korvaus 1.3.2022 alkaen 225 euroa/kk.
+
+Jos työsuojeluvaltuutettu, työsuojeluasiamies tai työsuojelutoimikunnan tai muun työsuojelutoimikuntaa vastaavan yhteistoimintaelimen jäsen suorittaa työnantajan kanssa sovittuja tehtäviä säännöllisen työaikansa ulkopuolella, maksetaan näin menetetystä ajasta ylityölisä tai sovitaan hänen kanssaan muunlaisesta lisäkorvauksesta.
+Ansionmenetyksen korvauksen laskennassa käytetään keskituntiansiota.
+Työstä kokonaan vapautetun työsuojeluvaltuutetun ansion menetyksen korvaamisessa noudatetaan samaa menettelyä, jolla työstä kokonaan vapautetun pääluottamusmiehen palkka määräytyy alakohdan 43.4.4 mukaisesti.
+
+Osittain työstä vapautetun työsuojeluvaltuutetun ansiokehityksen tulee vastata hänen toimialueensa muiden, vaativuudeltaan vastaavissa töissä työskentelevien työntekijöiden ansionkehitystä. Ansiokehitys tarkistetaan vuosittain.
+
+#### 28.3. Toimitilat
+Työnantaja järjestää työsuojeluvaltuutetulle tarkoituksenmukaisen paikan tehtäviensä edellyttämien tarvikkeiden säilyttämiseen. Työpaikan koon edellyttäessä erityistä toimitilaa, työnantaja järjestää tarkoituksenmukaisen tilan, jossa voidaan käydä tehtävien hoitamista varten välttämättömät keskustelut.
+Työsuojeluvaltuutettu voi tarvittaessa käyttää yrityksen puhelinta ja muita tavanomaisia toimistovälineitä. Toimistovälineiden, tietoteknisten laitteiden ja ohjelmistojen käyttö ja käytännön järjestelyt toteutetaan yhteisesti sovittavalla tavalla.
+
+### 29 HENKILÖSTÖN EDUSTUSTEHTÄVÄN HOITAMISEN VAIKUTUKSET TYÖSUHTEESEEN, TYÖTEHTÄVIIN JA PALKKAAN
+
+###### A. Työsuhde
+Työsuojeluvaltuutettu, työsuojeluasiamies ja muut henkilöstön edustajat ovat työsuhteessaan työnantajaan samassa asemassa riippumatta siitä, hoitaako hän luottamustehtäviään oman työnsä ohella vai onko hänelle annettu osittain tai kokonaan vapautusta työnteosta. Hän on velvollinen noudattamaan yleisiä työehtoja, työaikoja ja työnjohdon määräyksiä sekä muita järjestysmääräyksiä.
+
+###### B. Liikkeen luovutus
+Työsuojeluvaltuutetun asema jatkuu liikkeen luovutuksesta huolimatta sellaisenaan, jos luovutettu liike tai sen osa säilyttää itsenäisyytensä. Jos luovutettava liike tai sen osa menettää itsenäisyytensä, työsuojeluvaltuutetulla on oikeus kohdassa 30.4 sovittuun jälkisuojaan liikkeen luovutuksesta johtuneesta toimikauden päättymisestä lukien.
+
+###### C. Ammatillinen kehittyminen
+Työsuojeluvaltuutetun mahdollisuuksia kehittyä ja edetä ammatissaan ei saa heikentää kyseisen tehtävän takia.
+
+###### D. Ansio- ja siirtosuoja
+Jos työsuojeluvaltuutetuksi valitun henkilön varsinainen työ vaikeuttaa luottamustehtävien hoitamista, on hänelle järjestettävä muuta työtä. Tällainen järjestely ei saa aiheuttaa hänen ansionsa alentumista. Muun työn järjestämisessä otetaan huomioon työpaikan olosuhteet ja hänen ammattitaitonsa.
+
+Työsuojeluvaltuutettuna toimivaa työntekijää ei saa siirtää alempipalkkaiseen työhön kuin missä hän oli tehtävään valituksi tullessaan. Häntä ei saa myöskään siirtää vähempiarvoiseen työhön, jos työnantaja voi tarjota hänelle muuta hänen ammattitaitoaan vastaavaa työtä.
+
+Mikäli työsuojeluasiamies joudutaan tilapäisesti siirtämään työhön varsinaisen toimialueensa ulkopuolelle, on pyrittävä siihen, ettei siirtäminen kohtuuttomasti haittaa työsuojeluasiamiehen tehtävien hoitamista.
+
+###### E. Ammattitaidon ylläpitäminen
+Työsuojeluvaltuutetun tehtävän päättymisen jälkeen tulee hänen ja työnantajan yhteisesti selvittää, edellyttääkö työntekijän ammattitaidon ylläpitäminen entiseen tai sitä vastaavaan työhön ammatillista koulutusta. Koulutuksen sisältöä ratkaistaessa kiinnitetään huomiota työstä vapautukseen, toimikauden kestoon ja sinä aikana tapahtuneisiin työmenetelmien muutoksiin. Työnantaja järjestää koulutuksen.
+
+### 30 TYÖSUOJELUVALTUUTETUN TYÖSUHDETURVA
+
+#### 30.1 Työsopimuksen irtisanominen ja työsuojelu- valtuutetun lomauttaminen taloudellisista ja tuotannollisista syistä
+Jos yrityksen työvoimaa irtisanotaan tai lomautetaan taloudellisista tai tuotannollisista syistä, ei työsuojeluvaltuutetun työsopimusta saa irtisanoa tai häntä lomauttaa ellei tuotantolaitoksen toimintaa keskeytetä kokonaan. Mikäli työsuojeluvaltuutetun kanssa yhteisesti todetaan, ettei hänelle voida tarjota hänen ammattiaan vastaavaa tai hänelle muutoin sopivaa työtä, voidaan tästä säännöstä kuitenkin poiketa.
+
+Työsuojeluvaravaltuutetun työsopimuksen irtisanominen tai hänen lomauttamisensa silloin, kun hän ei toimi työsuojeluvaltuutetun sijaisena taikka hänellä ei ole luottamusmiehen asemaa, ei saa perustua työntekijän tehtävään työsuojeluyhteistoiminnassa. Työnantajan tulee ilman erityistä vaatimusta osoittaa toimenpiteen johtuneen muusta seikasta.
+
+Työpaikoilla, joilla työskentelee vähintään 30 työntekijää, ensimmäisenä työsuojeluvaravaltuutettuna toimivan työntekijän työsopimus on mahdollista irtisanoa tai hänet lomauttaa vain, jos hänen tekemänsä työn teettäminen työpaikalla kokonaan päättyy tai tilapäisesti keskeytyy. Työnantajan velvollisuus järjestää hänelle muuta työtä tai kouluttaa häntä muuhun työhön määräytyy työsopimuslain 7 luvun 4 §:ssä tarkoitetulla tavalla tai tilapäisen lomauttamisen osalta 5 luvun 2 §:n 1 momentin 2 kohdassa säännellyllä tavalla. Muun työn ja koulutuksen järjestämisessä otetaan huomioon myös kohdan 35.2 mukaisen työvoiman vähentämisjärjestyksen periaatteet. Jos kyseinen työntekijä toimii työsuojeluvaltuutetun sijaisena, taikka hänellä on luottamusmiehen asema, määräytyy hänen erityinen työsuhdeturvansa sen mukaan kuin näiden toimien osalta on työehtosopimuksessa sovittu.
+
+#### 30.2 Työsopimuksen irtisanominen työsuojeluvaltuutetun henkilöstä johtuvasta syystä
+Työsuojeluvaltuutetusta johtuvasta syystä ei hänen työsopimustaan saa irtisanoa ilman työsopimuslain 7 luvun 10 §:n 1 momentin edellyttämää niiden työntekijöiden enemmistön suostumusta, joita hän edustaa.
+
+#### 30.3 Työsopimuksen purkaminen ja purkautuneena käsitteleminen
+Työsuojeluvaltuutetun työsopimusta ei saa purkaa vastoin työsopimuslain 8 luvun 1-3 §:n säännöksiä. Työsopimuksen purkaminen sillä perusteella, että hän on rikkonut järjestysmääräyksiä, ei ole mahdollista, ellei hän ole samalla toistuvasti ja olennaisesti sekä varoituksesta huolimatta jättänyt työvelvoitteensa täyttämättä.
+Työsuojeluvaltuutetun työsopimuksen purkuperusteita arvioitaessa häntä ei saa asettaa huonompaan asemaan muihin työntekijöihin nähden.
+
+#### 30.4 Työsuojeluvaltuutetun ehdokas- ja jälkisuoja
+Edellä olevia työsuhdeturvaa koskevia määräyksiä on sovellettava myös työsuojeluvaltuutettuehdokkaaseen, jonka asettamisesta on kirjallisesti ilmoitettu työsuojelutoimikunnalle tai muulle sitä vastaavalle yhteistoimintaelimelle.
+Ehdokassuoja alkaa kuitenkin aikaisintaan kolme kuukautta ennen valittavana olevan työsuojeluvaltuutetun toimikauden alkua ja päättyy muun kuin vaalissa valituksi tulleen osalta vaalituloksen tultua todetuksi.
+
+Työsuhdeturvaa koskevia määräyksiä on sovellettava myös työsuojeluvaltuutettuna toimineeseen työntekijään kuusi kuukautta hänen ko. tehtävänsä päättymisen jälkeen.
+
+#### 30.5 Korvaukset
+Jos työsuojeluvaltuutetun työsopimus on lakkautettu tämän sopimuksen vastaisesti, työnantajan on suoritettava korvauksena hänelle vähintään 10 ja enintään 30 kuukauden palkka. Korvaus on määrättävä työsopimuslain 12 luvun 2 §:n 2 momentin perusteiden mukaan. Korvausta lisäävänä tekijänä on otettava huomioon se, että tämän sopimuksen oikeuksia on loukattu. Milloin tuotantoyksikössä tai vastaavassa toimintayksikössä säännöllisesti työskentelevien työntekijöiden ja toimihenkilöiden määrä on 20 tai vähemmän, edellä mainittu korvaus on vähintään 4 kuukauden palkka ja enintään työsopimuslain 12 luvun 2 §:n 1 momentin mukaan määräytyvä korvaus.
+Korvaus perusteettomasta lomautuksesta määräytyy työsopimuslain 12 luvun 1 §:n 1 momentin mukaisesti.
+
+#### 30.6 Varamiehet
+Tämän kohdan määräyksiä sovelletaan työsuojeluvaltuutetun varamieheen sinä aikana, kun hän asianmukaisesti tehdyn ilmoituksen mukaisesti toimii sijaisena.
+
+## VI SOSIAALISET MÄÄRÄYKSET
+Työkyvyttömyyttä koskevat määräykset käsittelevät työnantajan ja työntekijän oikeuksia ja velvollisuuksia työntekijän sairaudesta tai tapaturmasta aiheutuvan poissaolon yhteydessä.
+
+Työnantajalla on tietyin edellytyksin velvollisuus maksaa äitiys- ja isyysvapaan sekä tilapäisen hoitovapaan ajalta palkkaa ja korvata ansionmenetys lääkärintarkastusten ajalta.
+
+### 31 TYÖKYVYTTÖMYYS, ÄITIYS- JA ISYYSVAPAA SEKÄ TILAPÄINEN HOITOVAPAA
+
+#### 31.1 Työkyvyttömyys
+
+##### 31.1.1 Työkyvyttömyydestä ilmoittaminen
+Työntekijä on velvollinen viipymättä, ja mikäli mahdollista, ennen työvuoron alkua ilmoittamaan työnantajalle sairastumisestaan.
+Sairastumisesta ilmoitetaan lähimmälle esimiehelle tai työnantajan nimeämälle muulle henkilölle. Työnantajan tulee saattaa ilmoittamista koskevat menettelytavat työntekijöiden tietoon.
+
+##### 31.1.2 Ilmoitusvelvollisuuden laiminlyönti
+Jos työntekijä tahallisesti laiminlyö velvollisuutensa ilmoittaa viipymättä sairastumisestaan työnantajalle, maksetaan sairausajan palkkaa aikaisintaan siitä päivästä lukien, jona ilmoitus on tehty.
+
+#### 31.1.3 Sairausajan palkan maksamisen edellytykset
 Sairausajan palkka maksetaan seuraavin edellytyksin:
-• työntekijä on sairaudesta tai tapaturmasta johtuvan työky- vyttömyyden vuoksi estynyt tekemästä työtä ja
+• työntekijä on sairaudesta tai tapaturmasta johtuvan työkyvyttömyyden vuoksi estynyt tekemästä työtä ja
 • työkyvyttömyydestä esitetään työnantajan hyväksymä selvitys.
-A. Työkyvyttömyyden toteaminen
-Työkyvyttömyys todetaan yrityksen työterveyslääkärin antamal- la tai muulla työnantajan hyväksymällä lääkärintodistuksella.
-Taannehtiva lääkärintodistus hyväksytään, mikäli lääkäri on kir- joittanut todistukseen hyväksyttävät perusteet taannehtivuudelle.
-Epidemioiden aikana voi lääkäri antaa työterveyshoitajalle oi- keuden kirjoittaa tutkimuksensa perusteella todistuksia enintään kolmeksi vuorokaudeksi kerrallaan. Kertautuvan todistuksen an- tajan tulee olla aina sama terveydenhoitaja. Uusiutumistapauk- sessa on kiinnitettävä erityistä huomiota mahdolliseen lääkärin- hoidon tarpeeseen. Ennen kuin hoitajan antamaa todistusta voi- daan pitää selvityksenä työkyvyttömyydestä, hänen tulee todeta yhdessä lääkärin kanssa tilanteen olevan em. tavalla sellainen, että hoitaja voi antaa todistuksia työkyvyttömyydestä.
-B. Yrityksen terveyspalvelujen käytön ensisijaisuus
-Työntekijän tulee käydä ensisijaisesti yrityksen työterveyslääkä- rin vastaanotolla. Muun lääkärin kuin työterveyslääkärin antama todistus työkyvyttömyydestä kelpaa perusteeksi sairausajan pal- kan maksamiselle, mikäli työntekijä esittää työnantajalle hyväk- syttävän syyn muun lääkärin käyttöön.
- 128
 
-C. Lääkärintodistuksiin liittyvät epäselvyydet
-Jos työnantaja ei hyväksy työntekijän esittämää lääkärintodistus- ta, hän voi osoittaa työntekijän nimeämänsä lääkärin tarkastetta- vaksi. Työnantaja maksaa uuden lääkärintodistuksen hankkimi- sesta johtuvat kustannukset.
-D. Sairauspoissaolojen hallinta ja työntekijän oma ilmoitus Sairauspoissaolojen hallinta
-Työpaikan sairauspoissaolojen hallinta toteutuu parhaiten yri- tysjohdon, esimiesten, henkilöstön ja sen edustajien sekä työter- veyshuollon yhteistyönä. Tehokas vaikuttaminen edellyttää toi- mintamallia, joka koostuu ongelmien kartoituksesta, tavoitteiden asettamisesta ja käytännön toimenpiteistä. Yhtenä toimenpiteenä voi olla jäljempänä tarkemmin määritelty oma ilmoitus –menet- tely.
-Työntekijän oma ilmoitus lyhytaikaisista sairauspoissaoloista
-Sairauspoissaolojen vähentämiseksi voidaan paikallisesti sopia oma ilmoitus –menettelyn käyttöönotosta työpaikalla. Sopimus on tehtävä kirjallisesti työnantajan ja pääluottamusmiehen vä- lillä. Sopimus voi koskea enintään kolme vuorokautta kestäviä poissaoloja. Oma ilmoitus –menettelyä sovelletaan työntekijän omiin sairauspoissaoloihin sekä alakohdassa 31.3. tarkoitetun äkillisesti sairastuneen lapsen hoidon järjestämiseksi tai tämän hoitamiseksi välttämättömään tilapäiseen vapaaseen.
+###### A. Työkyvyttömyyden toteaminen
+Työkyvyttömyys todetaan yrityksen työterveyslääkärin antamalla tai muulla työnantajan hyväksymällä lääkärintodistuksella.
+Taannehtiva lääkärintodistus hyväksytään, mikäli lääkäri on kirjoittanut todistukseen hyväksyttävät perusteet taannehtivuudelle.
+Epidemioiden aikana voi lääkäri antaa työterveyshoitajalle oikeuden kirjoittaa tutkimuksensa perusteella todistuksia enintään kolmeksi vuorokaudeksi kerrallaan. Kertautuvan todistuksen antajan tulee olla aina sama terveydenhoitaja. Uusiutumistapauksessa on kiinnitettävä erityistä huomiota mahdolliseen lääkärinhoidon tarpeeseen. Ennen kuin hoitajan antamaa todistusta voidaan pitää selvityksenä työkyvyttömyydestä, hänen tulee todeta yhdessä lääkärin kanssa tilanteen olevan em. tavalla sellainen, että hoitaja voi antaa todistuksia työkyvyttömyydestä.
+
+###### B. Yrityksen terveyspalvelujen käytön ensisijaisuus
+Työntekijän tulee käydä ensisijaisesti yrityksen työterveyslääkärin vastaanotolla. Muun lääkärin kuin työterveyslääkärin antama todistus työkyvyttömyydestä kelpaa perusteeksi sairausajan palkan maksamiselle, mikäli työntekijä esittää työnantajalle hyväksyttävän syyn muun lääkärin käyttöön.
+
+###### C. Lääkärintodistuksiin liittyvät epäselvyydet
+Jos työnantaja ei hyväksy työntekijän esittämää lääkärintodistusta, hän voi osoittaa työntekijän nimeämänsä lääkärin tarkastettavaksi. Työnantaja maksaa uuden lääkärintodistuksen hankkimisesta johtuvat kustannukset.
+
+###### D. Sairauspoissaolojen hallinta ja työntekijän oma ilmoitus 
+Työpaikan sairauspoissaolojen hallinta toteutuu parhaiten yritysjohdon, esimiesten, henkilöstön ja sen edustajien sekä työterveyshuollon yhteistyönä. Tehokas vaikuttaminen edellyttää toimintamallia, joka koostuu ongelmien kartoituksesta, tavoitteiden asettamisesta ja käytännön toimenpiteistä. Yhtenä toimenpiteenä voi olla jäljempänä tarkemmin määritelty oma ilmoitusmenettely.
+
+###### Työntekijän oma ilmoitus lyhytaikaisista sairauspoissaoloista
+Sairauspoissaolojen vähentämiseksi voidaan paikallisesti sopia oma ilmoitus –menettelyn käyttöönotosta työpaikalla. Sopimus on tehtävä kirjallisesti työnantajan ja pääluottamusmiehen välillä. Sopimus voi koskea enintään kolme vuorokautta kestäviä poissaoloja. Oma ilmoitusmenettelyä sovelletaan työntekijän omiin sairauspoissaoloihin sekä alakohdassa 31.3. tarkoitetun äkillisesti sairastuneen lapsen hoidon järjestämiseksi tai tämän hoitamiseksi välttämättömään tilapäiseen vapaaseen.
+
 Paikallisesti sovittavia asioita voivat olla muun muassa:
 • sopimuksen tavoitteet
 • keitä sopimus koskee
 • kenelle ilmoitus tehdään
 • millä tavalla ilmoitetaan
-Työehtosopimus
- 129
-
-Työehtosopimus
 • miten ilmoitus kirjataan
 • kuinka toimitaan sairauden jatkuessa
 • mahdolliset rajoitukset hyväksyttävien poissaolojen mää-
@@ -1563,190 +1564,201 @@ ajan palkan maksuperusteista ilmenneissä väärinkäytöstilan-
 teissa
 • sopimuksen toteutumisen seuranta
 • sopimuksen kesto, irtisanomismahdollisuus.
-31.1.4 Sairausajan palkan maksuperuste ja korvattavan ajanjakson pituus
-Sairausajan palkka maksetaan tuntipalkkaiselle työntekijälle keskituntiansion mukaisesti. Kuukausipalkkainen työntekijä saa työnantajan korvattavalta sairausajalta henkilökohtaisena aika- palkkana maksettavan kuukausipalkkansa.
-Sairausajan palkka maksetaan jäljempänä mainitun kalenteri- ajanjakson sisään sattuvilta työtuntijärjestelmän mukaisilta työ- päiviltä seuraavasti:
-   Työsuhde, joka ennen työkyvyttömyyden alkua on jatkunut yhtäjaksoisesti
- Kalenteri- ajanjakso
-  vähintään 1 kuukauden mutta alle 3 vuotta
- 28 päivää
-  3 vuotta mutta alle 5 vuotta
- 35 päivää
-  5 vuotta mutta alle 10 vuotta
- 42 päivää
-  10 vuotta tai kauemmin
-  56 päivää
- Sairausajan palkka maksetaan kunkin korvattavan työpäivän työ- tuntijärjestelmän mukaisilta säännöllisiltä työtunneilta.
-130
 
-Työehtosopimus
-A. Vähintään kuusi kuukautta jatkuneet työsuhteet
-Työntekijälle, jonka työsuhde on ennen sairauden alkua jatkunut yhdenjaksoisesti vähintään 6 kuukautta, sairausajan palkka mak- setaan ensimmäisen sellaisen sairauspäivän alusta lukien, joka työntekijän työssä ollessa olisi ollut hänen työpäivänsä.
-B. Karenssipäivä alle kuusi kuukautta jatkuneissa työsuhteissa
-Sairausajan palkka maksetaan toisen sellaisen sairauspäivän alusta, joka työntekijän työssä ollessa olisi ollut hänen työpäi- vänsä. Ensimmäinen poissaolopäivä on karenssipäivä.
-Sairauden aiheuttaman työkyvyttömyyden jatkuessa sairastu- mispäivän jälkeen vähintään kuusi arkipäivää maksaa työnantaja palkan myös karenssipäivältä.
-Jos työkyvyttömyys johtuu työtapaturmasta, maksetaan sairaus- ajan palkka myös karenssipäivältä.
-C. Alle kuukauden työsuhde
-Jos sairaudesta tai tapaturmasta johtuva työkyvyttömyys alkaa ennen kuin työsuhde on jatkunut yhden kuukauden, maksaa työn- antaja sairausajan palkkana 50 % työntekijän henkilökohtaises- ta aikapalkasta. Sairausajan palkkaa maksetaan enintään niiltä työtuntijärjestelmän mukaisilta työpäiviltä, jotka ovat työkyvyt- tömyyden alkamispäivän ja sen jälkeisen yhdeksän arkipäivän pituisen ajanjakson sisällä. Sairausajan palkan maksamisen edel- lytykset samoin kuin karenssipäivä määräytyvät tämän luvun mukaisesti.
+##### 31.1.4 Sairausajan palkan maksuperuste ja korvattavan ajanjakson pituus
+Sairausajan palkka maksetaan tuntipalkkaiselle työntekijälle keskituntiansion mukaisesti. Kuukausipalkkainen työntekijä saa työnantajan korvattavalta sairausajalta henkilökohtaisena aikapalkkana maksettavan kuukausipalkkansa.
+Sairausajan palkka maksetaan jäljempänä mainitun kalenteriajanjakson sisään sattuvilta työtuntijärjestelmän mukaisilta työpäiviltä seuraavasti:
+
+Työsuhde, joka ennen työkyvyttömyyden alkua on jatkunut yhtäjaksoisesti
+vähintään 1 kuukauden mutta alle 3 vuotta: Kalenterijakso 28 päivää.
+Työsuhde, joka ennen työkyvyttömyyden alkua on jatkunut yhtäjaksoisesti
+vähintään 3 vuotta mutta alle 5 vuotta: Kalenterijakso 35 päivää.
+Työsuhde, joka ennen työkyvyttömyyden alkua on jatkunut yhtäjaksoisesti
+vähintään 5 vuotta mutta alle 10 vuotta: Kalenterijakso 42 päivää.
+Työsuhde, joka ennen työkyvyttömyyden alkua on jatkunut yhtäjaksoisesti
+vähintään 10 vuotta tai kauemmin: Kalenterijakso 56 päivää
+
+Sairausajan palkka maksetaan kunkin korvattavan työpäivän työtuntijärjestelmän mukaisilta säännöllisiltä työtunneilta.
+
+###### A. Vähintään kuusi kuukautta jatkuneet työsuhteet
+Työntekijälle, jonka työsuhde on ennen sairauden alkua jatkunut yhdenjaksoisesti vähintään 6 kuukautta, sairausajan palkka maksetaan ensimmäisen sellaisen sairauspäivän alusta lukien, joka työntekijän työssä ollessa olisi ollut hänen työpäivänsä.
+
+###### B. Karenssipäivä alle kuusi kuukautta jatkuneissa työsuhteissa
+Sairausajan palkka maksetaan toisen sellaisen sairauspäivän alusta, joka työntekijän työssä ollessa olisi ollut hänen työpäivänsä. Ensimmäinen poissaolopäivä on karenssipäivä.
+
+Sairauden aiheuttaman työkyvyttömyyden jatkuessa sairastumispäivän jälkeen vähintään kuusi arkipäivää maksaa työnantaja palkan myös karenssipäivältä.
+Jos työkyvyttömyys johtuu työtapaturmasta, maksetaan sairausajan palkka myös karenssipäivältä.
+###### C. Alle kuukauden työsuhde
+Jos sairaudesta tai tapaturmasta johtuva työkyvyttömyys alkaa ennen kuin työsuhde on jatkunut yhden kuukauden, maksaa työnantaja sairausajan palkkana 50 % työntekijän henkilökohtaisesta aikapalkasta. Sairausajan palkkaa maksetaan enintään niiltä työtuntijärjestelmän mukaisilta työpäiviltä, jotka ovat työkyvyttömyyden alkamispäivän ja sen jälkeisen yhdeksän arkipäivän pituisen ajanjakson sisällä. Sairausajan palkan maksamisen edellytykset samoin kuin karenssipäivä määräytyvät tämän luvun mukaisesti.
+
 Jos työntekijälle sairausvakuutuslain mukaan kuuluva oikeus päivärahaan alkaa aikaisemmin, lyhenee vastaavasti aika, jolta palkkaa on maksettava.
- 131
 
-Työehtosopimus
-D. Sairastuminen kesken työpäivän
-Jos työntekijä tulee sairauden tai tapaturman vuoksi työkyvyttö- mäksi kesken työpäivänsä, maksetaan hänelle hänen sinä päivänä menettämältään säännölliseltä työajalta keskituntiansion mukai- nen korvaus.
+###### D. Sairastuminen kesken työpäivän
+Jos työntekijä tulee sairauden tai tapaturman vuoksi työkyvyttömäksi kesken työpäivänsä, maksetaan hänelle hänen sinä päivänä menettämältään säännölliseltä työajalta keskituntiansion mukainen korvaus.
+
 Alle kuusi kuukautta kestäneissä työsuhteissa työkyvyttömyyden jatkuessa seuraava työpäivä on karenssipäivä. Työhöntulopäivä on alle kuusi kuukautta kestäneissä työsuhteissa karenssipäivä, jos työntekijä on jo työhön tullessaan työkyvytön.
-E. Saman sairauden uusiutuminen
-Jos työntekijä sairastuu uudelleen samaan sairauteen enintään 30 päivän kuluessa siitä päivästä, jolloin viimeksi maksettiin sai- rausajan palkkaa tai sairauspäivärahaa, aloitetaan sairausajan palkan maksaminen ilman karenssipäivää, jos korvausajanjakso ei tämän sairauden osalta ole tullut täyteen. Sairausajan palkan maksamista jatketaan, kunnes sairaus- tai korvausajanjakso on päättynyt.
-Korvausajanjakson ei saman sairauden uusiutuessa tarvitse olla yhdenjaksoinen, vaan se voi koostua useasta työkyvyttömyys- ajanjaksosta.
-Saman sairauden käsite ratkaistaan epäselvissä tapauksissa saira- usvakuutuslain tulkintoja noudattaen.
-Jos sairaudesta tai tapaturmasta aiheutunut työkyvyttömyys on alkanut jostakin toisesta sairaudesta tai tapaturmasta aiheutu- neen työkyvyttömyyden aikana tai välittömästi sen jälkeen eikä työntekijä ole ollut välillä työkykyisenä työssä, katsotaan sai- rausajanjaksot sairausajan palkan maksamisen kannalta samaksi työkyvyttömyydeksi.
- 132
 
-31.1.5 Sairausajan palkan epääminen
+###### E. Saman sairauden uusiutuminen
+Jos työntekijä sairastuu uudelleen samaan sairauteen enintään 30 päivän kuluessa siitä päivästä, jolloin viimeksi maksettiin sairausajan palkkaa tai sairauspäivärahaa, aloitetaan sairausajan palkan maksaminen ilman karenssipäivää, jos korvausajanjakso ei tämän sairauden osalta ole tullut täyteen. Sairausajan palkan maksamista jatketaan, kunnes sairaus- tai korvausajanjakso on päättynyt.
+
+Korvausajanjakson ei saman sairauden uusiutuessa tarvitse olla yhdenjaksoinen, vaan se voi koostua useasta työkyvyttömyysajanjaksosta.
+
+Saman sairauden käsite ratkaistaan epäselvissä tapauksissa sairausvakuutuslain tulkintoja noudattaen.
+
+Jos sairaudesta tai tapaturmasta aiheutunut työkyvyttömyys on alkanut jostakin toisesta sairaudesta tai tapaturmasta aiheutuneen työkyvyttömyyden aikana tai välittömästi sen jälkeen eikä työntekijä ole ollut välillä työkykyisenä työssä, katsotaan sairausajanjaksot sairausajan palkan maksamisen kannalta samaksi työkyvyttömyydeksi.
+
+##### 31.1.5 Sairausajan palkan epääminen
 Sairausajan palkkaa ei makseta, jos työntekijä on aiheuttanut sairauden tai tapaturman tahallisesti, rikollisella toiminnallaan, kevytmielisellä elämällään tai muulla törkeällä tuottamuksella.
-31.1.6 Sairausajan palkan maksuajankohta
+
+##### 31.1.6 Sairausajan palkan maksuajankohta
 Jos työntekijä on viipymättä ilmoittanut työkyvyttömyydestään eikä sairausajan palkan perusteissa tai määrässä ole epäselvyyttä, työnantaja maksaa työntekijälle sairausajan palkan säännöllisen palkanmaksun yhteydessä odottamatta päivä- tai äitiysrahan tai niihin verrattavan muun korvauksen saamista.
-31.1.7 Sairausajan palkka ja lomautus
-Jos työntekijä on sairauden tai tapaturman vuoksi työkyvytön lomautusilmoitusta annettaessa ja sairaus jatkuu lomautuksen jo alettua, maksetaan sairausajan palkka tämän kohdan mukaisesti myös lomautusajalta, kunnes työkyvyttömyys tai korvausajan- jakso on päättynyt.
-Jos työntekijä sairastuu lomautusilmoituksen antamisen jälkeen, sairausajan palkka maksetaan lomautuksen alkamiseen asti, jol- loin myös korvausajanjakson laskeminen keskeytyy. Jos työn- tekijä on sairaana lomautuksen päättyessä, sairausajan palkkaa maksetaan tämän kohdan mukaisesti, kunnes työkyvyttömyys tai korvausajanjakso päättyy.
-Lomautusajalta sairausajan palkkaa ei yllä mainituin poikkeuksin makseta. Jos sairauden aiheuttama työkyvyttömyys alkaa lomau- tuksen aikana ja jatkuu lomautuksen jo päätyttyä, työnantajan sairausajan palkan maksuvelvollisuus alkaa lomautuksen päätyt- tyä.
-Työehtosopimus
- 133
 
-Työehtosopimus
-Alle kuusi kuukautta jatkuneissa työsuhteissa lomautuksen päät- tymisen jälkeinen ensimmäinen työpäivä on karenssipäivä, mitä pidetään myös sairastumispäivänä ja sairausajan palkan maksa- misajanjakson ensimmäisenä päivänä. Sairauden aiheuttaman työkyvyttömyyden jatkuessa sairastumispäivän jälkeen vähin- tään kuusi arkipäivää maksaa työnantaja palkan myös karens- sipäivältä.
-31.1.8 Korvaava työ
-Työntekijä ei aina ole sairauden tai tapaturman vuoksi täysin työ- kyvytön. Työntekijälle saattaa olla mahdollista osoittaa jotakin muuta kuin hänen vakituista työtään, ns. korvaavaa työtä. Tämän alakohdan määräyksiä ja ohjeistusta on sovellettava myös silloin kun alakohdan tarkoittamaa korvaavaa työtä kutsutaan toisella nimellä. Korvaavan työn pitää olla tarkoituksenmukaista ja mah- dollisuuksien mukaan työntekijän normaaleja työtehtäviä vastaa- vaa työtä tai joskus myös työntekijälle soveltuvaa koulutusta.
-Työntekijän työkyvyttömyyttä koskevassa lääkärintodistukses- sa olisi suotavaa kuvata ne mahdolliset rajoitukset, jotka sairaus tai vamma työn tekemiselle aiheuttavat. Työnantajan päätöksen osoittaa työntekijälle korvaavaa työtä on perustuttava lääketie- teellisesti perusteltuun kannanottoon.
-Korvaavan työn teettämisen tulee perustua työpaikalla yhdessä käsiteltyihin menettelytapasääntöihin ja konsultaatioon työter- veyslääkärin kanssa. Ennen korvaavan työn aloittamista vara- taan työntekijälle mahdollisuus keskusteluun työterveyslääkärin kanssa.
-Tarkempaa ohjeistusta korvaavasta työstä on liittojen kotisivuil- la.
- 134
+##### 31.1.7 Sairausajan palkka ja lomautus
+Jos työntekijä on sairauden tai tapaturman vuoksi työkyvytön lomautusilmoitusta annettaessa ja sairaus jatkuu lomautuksen jo alettua, maksetaan sairausajan palkka tämän kohdan mukaisesti myös lomautusajalta, kunnes työkyvyttömyys tai korvausajanjakso on päättynyt.
 
-31.1.9 Työkyvyn johtaminen
-Esimiehen tehtävänä on tuntea työntekijän työkyvyn rajoitteet ja niiden vaikutukset työssä selviämiseen. Poissaolojen syiden sel- vittäminen ja muut poissaoloihin liittyvät kysymykset palvelevat tätä tarkoitusta. Esimiehen tehtävä on tarvittaessa puuttua tois- tuviin tai pitkittyneisiin poissaoloihin. Poissaoloja ehkäiseviin toimenpiteisiin on syytä ryhtyä ennakoivasti.
-Mahdollisten ongelmatapausten hoitamisessa korostuu esimies- ten yhteistyön tarve työterveyshuollon, henkilöstöhallinnon, työ- suojelun asiantuntijoiden ja henkilöstön edustajien kanssa.
-31.1.10 Työuran pidentäminen
-Työnantaja ja 58 vuotta täyttänyt työntekijä käyvät keskustelun niistä mahdollisista toimenpiteistä, jotka tukevat ikääntyneen työntekijän työssä jatkamista. Liittojen yhteisessä Teknologiate- ollisuuden työkaarimalli –julkaisussa on esimerkkejä toimenpi- teistä.
-31.2 Äitiys- ja isyysvapaa
-Työntekijälle, jonka työsuhde on jatkunut vähintään kuusi kuu- kautta ennen synnytystä, maksetaan hänen äitiysvapaansa ajalta keskituntiansion mukaista palkkaa 56 päivän pituisen kalente- riajanjakson työtuntijärjestelmän mukaisilta työpäiviltä työsopi- muslain 4 luvun 1 §:n mukaisen äitiysvapaan alkamispäivästä lukien.
-Jos uusi äitiysvapaa alkaa edellisen perhevapaan aikana siten, että työntekijä ei palaa välillä työhön, työnantajalla on palkanmaksu- velvollisuus edellä mainitun perusteella uuden äitiysvapaan osal- ta, ellei liittojen kotisivuilta olevasta ohjeistuksesta muuta johdu.
-Työehtosopimus
- 135
+Jos työntekijä sairastuu lomautusilmoituksen antamisen jälkeen, sairausajan palkka maksetaan lomautuksen alkamiseen asti, jolloin myös korvausajanjakson laskeminen keskeytyy. Jos työntekijä on sairaana lomautuksen päättyessä, sairausajan palkkaa maksetaan tämän kohdan mukaisesti, kunnes työkyvyttömyys tai korvausajanjakso päättyy.
 
-Työehtosopimus
-Työntekijälle annetaan isyysvapaaksi aika, johon hänelle sairaus- vakuutuslain mukaan tulevan isyysrahan katsotaan kohdistuvan.
-Työntekijälle, jonka työsuhde on jatkunut vähintään kuusi kuu- kautta ennen isyysvapaan alkamista, maksetaan hänen isyysva- paansa ajalta keskituntiansion mukaista palkkaa enintään kuuden arkipäivän pituisen kalenteriajanjakson työtuntijärjestelmän mu- kaisilta työpäiviltä.
-Jos työntekijä on adoptoinut alle kouluikäisen lapsen, sovelle- taan adoptioon välittömästi liittyvänä edellä mainittuja määrä- yksiä äitiys- ja isyysvapaan palkan maksamisen osalta, mikäli työntekijä on oikeutettu saamaan sairausvakuutuslain 9 luvun 11§:n mukaista adoptiovanhemmalle maksettavaa vanhempain- tai isyysrahaa.
-31.3 Lapsen sairastuminen
-Työntekijällä on oikeus saada palkallista tilapäistä vapaata alle 10-vuotiaan oman lapsensa tai muun hänen taloudessaan vakitui- sesti asuvan alle 10-vuotiaan lapsen äkillisesti sairastuessa lapsen hoidon järjestämiseksi tai tämän hoitamiseksi. Korvaus lyhyen tilapäisen poissaolon ajalta maksetaan kuten sairausajan palkka. Jos työsuhde on ennen poissaolon alkua kestänyt alle kuusi kuu- kautta, ensimmäinen poissaolopäivä on karenssipäivä.
+Lomautusajalta sairausajan palkkaa ei yllä mainituin poikkeuksin makseta. Jos sairauden aiheuttama työkyvyttömyys alkaa lomautuksen aikana ja jatkuu lomautuksen jo päätyttyä, työnantajan sairausajan palkan maksuvelvollisuus alkaa lomautuksen päätyttyä.
+
+Alle kuusi kuukautta jatkuneissa työsuhteissa lomautuksen päättymisen jälkeinen ensimmäinen työpäivä on karenssipäivä, mitä pidetään myös sairastumispäivänä ja sairausajan palkan maksamisajanjakson ensimmäisenä päivänä. Sairauden aiheuttaman työkyvyttömyyden jatkuessa sairastumispäivän jälkeen vähintään kuusi arkipäivää maksaa työnantaja palkan myös karenssipäivältä.
+
+##### 31.1.8 Korvaava työ
+Työntekijä ei aina ole sairauden tai tapaturman vuoksi täysin työkyvytön. Työntekijälle saattaa olla mahdollista osoittaa jotakin muuta kuin hänen vakituista työtään, ns. korvaavaa työtä. Tämän alakohdan määräyksiä ja ohjeistusta on sovellettava myös silloin kun alakohdan tarkoittamaa korvaavaa työtä kutsutaan toisella nimellä. Korvaavan työn pitää olla tarkoituksenmukaista ja mah- dollisuuksien mukaan työntekijän normaaleja työtehtäviä vastaavaa työtä tai joskus myös työntekijälle soveltuvaa koulutusta.
+
+Työntekijän työkyvyttömyyttä koskevassa lääkärintodistuksessa olisi suotavaa kuvata ne mahdolliset rajoitukset, jotka sairaus tai vamma työn tekemiselle aiheuttavat. Työnantajan päätöksen osoittaa työntekijälle korvaavaa työtä on perustuttava lääketieteellisesti perusteltuun kannanottoon.
+
+Korvaavan työn teettämisen tulee perustua työpaikalla yhdessä käsiteltyihin menettelytapasääntöihin ja konsultaatioon työterveyslääkärin kanssa. Ennen korvaavan työn aloittamista varataan työntekijälle mahdollisuus keskusteluun työterveyslääkärin kanssa.
+
+Tarkempaa ohjeistusta korvaavasta työstä on liittojen kotisivuilla.
+
+##### 31.1.9 Työkyvyn johtaminen
+Esimiehen tehtävänä on tuntea työntekijän työkyvyn rajoitteet ja niiden vaikutukset työssä selviämiseen. Poissaolojen syiden selvittäminen ja muut poissaoloihin liittyvät kysymykset palvelevat tätä tarkoitusta. Esimiehen tehtävä on tarvittaessa puuttua toistuviin tai pitkittyneisiin poissaoloihin. Poissaoloja ehkäiseviin toimenpiteisiin on syytä ryhtyä ennakoivasti.
+
+Mahdollisten ongelmatapausten hoitamisessa korostuu esimiesten yhteistyön tarve työterveyshuollon, henkilöstöhallinnon, työsuojelun asiantuntijoiden ja henkilöstön edustajien kanssa.
+
+##### 31.1.10 Työuran pidentäminen
+Työnantaja ja 58 vuotta täyttänyt työntekijä käyvät keskustelun niistä mahdollisista toimenpiteistä, jotka tukevat ikääntyneen työntekijän työssä jatkamista. Liittojen yhteisessä Teknologiateollisuuden työkaarimalli –julkaisussa on esimerkkejä toimenpiteistä.
+
+#### 31.2 Äitiys- ja isyysvapaa
+Työntekijälle, jonka työsuhde on jatkunut vähintään kuusi kuukautta ennen synnytystä, maksetaan hänen äitiysvapaansa ajalta keskituntiansion mukaista palkkaa 56 päivän pituisen kalenteriajanjakson työtuntijärjestelmän mukaisilta työpäiviltä työsopimuslain 4 luvun 1 §:n mukaisen äitiysvapaan alkamispäivästä lukien.
+Jos uusi äitiysvapaa alkaa edellisen perhevapaan aikana siten, että työntekijä ei palaa välillä työhön, työnantajalla on palkanmaksuvelvollisuus edellä mainitun perusteella uuden äitiysvapaan osalta, ellei liittojen kotisivuilta olevasta ohjeistuksesta muuta johdu.
+
+Työntekijälle annetaan isyysvapaaksi aika, johon hänelle sairausvakuutuslain mukaan tulevan isyysrahan katsotaan kohdistuvan.
+Työntekijälle, jonka työsuhde on jatkunut vähintään kuusi kuukautta ennen isyysvapaan alkamista, maksetaan hänen isyysvapaansa ajalta keskituntiansion mukaista palkkaa enintään kuuden arkipäivän pituisen kalenteriajanjakson työtuntijärjestelmän mukaisilta työpäiviltä.
+
+Jos työntekijä on adoptoinut alle kouluikäisen lapsen, sovelletaan adoptioon välittömästi liittyvänä edellä mainittuja määräyksiä äitiys- ja isyysvapaan palkan maksamisen osalta, mikäli työntekijä on oikeutettu saamaan sairausvakuutuslain 9 luvun 11§:n mukaista adoptiovanhemmalle maksettavaa vanhempain- tai isyysrahaa.
+
+#### 31.3 Lapsen sairastuminen
+Työntekijällä on oikeus saada palkallista tilapäistä vapaata alle 10-vuotiaan oman lapsensa tai muun hänen taloudessaan vakituisesti asuvan alle 10-vuotiaan lapsen äkillisesti sairastuessa lapsen hoidon järjestämiseksi tai tämän hoitamiseksi. Korvaus lyhyen tilapäisen poissaolon ajalta maksetaan kuten sairausajan palkka. Jos työsuhde on ennen poissaolon alkua kestänyt alle kuusi kuukautta, ensimmäinen poissaolopäivä on karenssipäivä.
+
 Korvaus maksetaan seuraavin edellytyksin:
-A. Selvitys lapsen sairastumisesta
-Lapsen sairaudesta ja siitä johtuvasta työntekijän työstä poissa- olon tarpeesta on annettava sama selvitys kuin työehtosopimuk- sessa ja yrityksessä mahdollisesti omaksutun käytännön mukaan vaaditaan henkilön omasta sairaudesta.
- 136
 
-B. Poissaoloon oikeutetut henkilöt
+###### A. Selvitys lapsen sairastumisesta
+Lapsen sairaudesta ja siitä johtuvasta työntekijän työstä poissa- olon tarpeesta on annettava sama selvitys kuin työehtosopimuk- sessa ja yrityksessä mahdollisesti omaksutun käytännön mukaan vaaditaan henkilön omasta sairaudesta.
+
+###### B. Poissaoloon oikeutetut henkilöt
 Poissaoloon oikeutettuja ovat vakituisesti lapsen kanssa samassa taloudessa asuvat
 • lapsen biologiset vanhemmat
 • lapsen ottovanhemmat tai
 • muut lapsen huoltajat.
+
 Sama oikeus on myös lapsen vanhemmalla, joka ei asu tämän kanssa samassa taloudessa (etävanhempi).
-C. Poissaolo-oikeutta käyttävä henkilö
+
+###### C. Poissaolo-oikeutta käyttävä henkilö
 Lapsen huoltajat päättävät, kumpi vanhemmista käyttää oikeutta poissaoloon tai käyttääkö oikeutta muu lapsen kanssa samassa taloudessa vakituisesti asuva henkilö.
 Työnantajalla on oikeus saada selvitys siitä, että lapsen huoltajat eivät yhtäaikaisesti käytä edellä mainittua poissaolo-oikeuttaan.
-D. Poissaolon tarkoitus ja kesto
-Työntekijän poissaolon on oltava välttämätöntä äkillisesti sairas- tuneen lapsen hoidon järjestämiseksi tai hoitamiseksi. Työnanta- jalla on oikeus saada selvitys lapsen hoitopaikan sekä samassa taloudessa asuvien perheenjäsenten hoitomahdollisuudesta ja sopivuudesta tehtävään.
-Poissaolon kesto voi olla 1, 2, 3 tai 4 työpäivää kerrallaan. Pois- saolo on välttämätöntä ainoastaan niin kauan, kun lapsen hoito on saatu järjestettyä. Tarpeellisiin ja mahdollisiin toimiin lapsen hoidon järjestämiseksi on ryhdyttävä myös työntekijän vapaa- päivinä.
-Työehtosopimus
- 137
 
-Työehtosopimus
-E. Huoltajan ansiotyöedellytys
-Työntekijän oikeus korvaukseen poissaolon ajalta edellyttää, että samassa taloudessa vakituisesti asuvat lapsen molemmat huol- tajat ovat ansiotyössä tai toinen huoltajista on estynyt osallistu- masta lapsen hoitoon kodin ulkopuolella tapahtuvan tutkintoon johtavan ammatillisen koulutuksen tai ase- tai siviilipalvelusvel- voitteiden vuoksi.
-F. Molemmat huoltajat vuorotyössä
-Jos lapsen huoltajat ovat saman työnantajan palveluksessa vuoro- työssä siten, että huoltajien työvuorot osuvat peräkkäin, varataan kotona olevalle huoltajalle mahdollisuus ilman palkan menetys- tä hoitaa äkillisesti sairastunutta lasta siihen saakka, kun toinen huoltajista palaa työvuoroltaan kotiin. Tällaisen palkallisen pois- saolon pituus on se aika, mikä kuluu edestakaiseen työmatkaan.
-G. Saman sairauden uusiutuminen
-Jos lapsi sairastuu uudelleen samaan sairauteen enintään 30 päi- vän kuluessa siitä päivästä, jolloin viimeksi maksettiin korvausta tämän kohdan mukaisesti, jatketaan korvauksen maksamista il- man karenssipäivää siihen asti, kun edellä mainittu neljän työ- päivän korvausajanjakso on tämän sairauden osalta täyttynyt.
-H. Lapsen sairastuminen kesken huoltajan työpäivän
-Jos lapsi sairastuu äkillisesti kesken huoltajan työpäivän ja toi- nen huoltajista joutuu järjestämään hoidon tai hoitamaan lasta tässä kohdassa tarkoitetulla tavalla, maksetaan hänelle hänen sinä päivänä menettämältään säännölliseltä työajalta keskituntiansion mukainen korvaus.
-I. Vaikeasti sairaan tai vammaisen lapsen hoito
-Työntekijällä, jonka lapsella on valtioneuvoston asetuksen (val- tioneuvoston asetus sairausvakuutuslain täytäntöönpanosta) mukainen vaikea sairaus tai vamma, on oikeus olla pois työstä
- 138
+###### D. Poissaolon tarkoitus ja kesto
+Työntekijän poissaolon on oltava välttämätöntä äkillisesti sairastuneen lapsen hoidon järjestämiseksi tai hoitamiseksi. Työnantajalla on oikeus saada selvitys lapsen hoitopaikan sekä samassa taloudessa asuvien perheenjäsenten hoitomahdollisuudesta ja sopivuudesta tehtävään.
 
-Työehtosopimus
-osallistuakseen sairausvakuutuslain 10 luvun 2 §:n 2 momentissa tarkoitettuun lapsen hoitoon, kuntoutukseen taikka sopeutusval- mennus- tai kuntoutuskurssille sovittuaan poissaolosta etukäteen työnantajan kanssa.
-31.3.1. Poissaolon vaikutus vuosilomaan
-Kohdassa 31.3 tarkoitetut (A-H) palkalliset poissaolopäivät rin- nastetaan vuosilomalain tarkoittamiin työssäolopäivien veroisiin päiviin.
-31.4 Sairausajan tai adoptio-, äitiys- ja isyysvapaan palkasta tehtävät vähennykset
-Sairausajan tai adoptio-, äitiys- ja isyysvapaan palkasta vähen- netään, mitä työntekijä saa saman työkyvyttömyyden tai synny- tyksen takia samalta ajanjaksolta päivä- tai vanhempain-, äitiys- ja isyysrahaa taikka siihen verrattavaa muuta korvausta lain tai sopimuksen perusteella. Työnantajalla ei kuitenkaan ole oikeutta vähentää korvausta sairausajan tai adoptio-, äitiys- ja isyysva- paan palkasta siltä osin kuin korvausta maksetaan työntekijälle hänen kokonaan tai osaksi itse kustantamansa vapaaehtoisen va- kuutuksen perusteella.
-Siltä ajalta, jolta työnantaja on maksanut työntekijälle sairaus- ajan tai adoptio-, äitiys- ja isyysvapaan palkan, hän on oikeutettu saamaan työntekijälle tulevan päivä- tai vanhempain-, äitiys- ja isyysrahan tai siihen verrattavan korvauksen taikka saamaan sen määrän takaisin työntekijältä, ei kuitenkaan enempää kuin mak- samansa määrän.
+Poissaolon kesto voi olla 1, 2, 3 tai 4 työpäivää kerrallaan. Poissaolo on välttämätöntä ainoastaan niin kauan, kun lapsen hoito on saatu järjestettyä. Tarpeellisiin ja mahdollisiin toimiin lapsen hoidon järjestämiseksi on ryhdyttävä myös työntekijän vapaapäivinä.
+
+###### E. Huoltajan ansiotyöedellytys
+Työntekijän oikeus korvaukseen poissaolon ajalta edellyttää, että samassa taloudessa vakituisesti asuvat lapsen molemmat huoltajat ovat ansiotyössä tai toinen huoltajista on estynyt osallistumasta lapsen hoitoon kodin ulkopuolella tapahtuvan tutkintoon johtavan ammatillisen koulutuksen tai ase- tai siviilipalvelusvel- voitteiden vuoksi.
+
+###### F. Molemmat huoltajat vuorotyössä
+Jos lapsen huoltajat ovat saman työnantajan palveluksessa vuorotyössä siten, että huoltajien työvuorot osuvat peräkkäin, varataan kotona olevalle huoltajalle mahdollisuus ilman palkan menetystä hoitaa äkillisesti sairastunutta lasta siihen saakka, kun toinen huoltajista palaa työvuoroltaan kotiin. Tällaisen palkallisen poissaolon pituus on se aika, mikä kuluu edestakaiseen työmatkaan.
+
+###### G. Saman sairauden uusiutuminen
+Jos lapsi sairastuu uudelleen samaan sairauteen enintään 30 päivän kuluessa siitä päivästä, jolloin viimeksi maksettiin korvausta tämän kohdan mukaisesti, jatketaan korvauksen maksamista ilman karenssipäivää siihen asti, kun edellä mainittu neljän työpäivän korvausajanjakso on tämän sairauden osalta täyttynyt.
+
+###### H. Lapsen sairastuminen kesken huoltajan työpäivän
+Jos lapsi sairastuu äkillisesti kesken huoltajan työpäivän ja toinen huoltajista joutuu järjestämään hoidon tai hoitamaan lasta tässä kohdassa tarkoitetulla tavalla, maksetaan hänelle hänen sinä päivänä menettämältään säännölliseltä työajalta keskituntiansion mukainen korvaus.
+
+###### I. Vaikeasti sairaan tai vammaisen lapsen hoito
+Työntekijällä, jonka lapsella on valtioneuvoston asetuksen (valtioneuvoston asetus sairausvakuutuslain täytäntöönpanosta) mukainen vaikea sairaus tai vamma, on oikeus olla pois työstä osallistuakseen sairausvakuutuslain 10 luvun 2 §:n 2 momentissa tarkoitettuun lapsen hoitoon, kuntoutukseen taikka sopeutusvalmennus- tai kuntoutuskurssille sovittuaan poissaolosta etukäteen työnantajan kanssa.
+
+##### 31.3.1. Poissaolon vaikutus vuosilomaan
+Kohdassa 31.3 tarkoitetut (A-H) palkalliset poissaolopäivät rinnastetaan vuosilomalain tarkoittamiin työssäolopäivien veroisiin päiviin.
+
+#### 31.4 Sairausajan tai adoptio-, äitiys- ja isyysvapaan palkasta tehtävät vähennykset
+Sairausajan tai adoptio-, äitiys- ja isyysvapaan palkasta vähennetään, mitä työntekijä saa saman työkyvyttömyyden tai synnytyksen takia samalta ajanjaksolta päivä- tai vanhempain-, äitiys- ja isyysrahaa taikka siihen verrattavaa muuta korvausta lain tai sopimuksen perusteella. Työnantajalla ei kuitenkaan ole oikeutta vähentää korvausta sairausajan tai adoptio-, äitiys- ja isyysvapaan palkasta siltä osin kuin korvausta maksetaan työntekijälle hänen kokonaan tai osaksi itse kustantamansa vapaaehtoisen vakuutuksen perusteella.
+
+Siltä ajalta, jolta työnantaja on maksanut työntekijälle sairausajan tai adoptio-, äitiys- ja isyysvapaan palkan, hän on oikeutettu saamaan työntekijälle tulevan päivä- tai vanhempain-, äitiys- ja isyysrahan tai siihen verrattavan korvauksen taikka saamaan sen määrän takaisin työntekijältä, ei kuitenkaan enempää kuin mak- samansa määrän.
+
 Jos työntekijä on sairaana päivän, jolloin lyhennetyn työviikon takia ei työskennellä, työnantajalla ei kuitenkaan ole oikeutta päivä-, vanhempain-, äitiys- tai isyysrahaan kyseiseltä päivältä.
- 139
 
-Työehtosopimus
-Jos päivärahaa tai siihen verrattavaa korvausta ei työntekijästä itsestään johtuvista syistä makseta tai jos se maksetaan vähäi- sempänä kuin mihin hänellä lain mukaan olisi ollut oikeus, työn- antajalla on oikeus vähentää sairausajan tai adoptio-, äitiys- ja isyysvapaan palkasta se päiväraha tai sen osa, mikä työntekijän laiminlyönnin johdosta on jäänyt maksamatta.
-32 LÄÄKÄRINTARKASTUKSET
-32.1 Ansionmenetyksen korvaaminen lakisääteisen lääkärintarkastuksen ajalta
-Työnantaja korvaa työntekijälle ansionmenetyksen, välttämät- tömät matkakustannukset ja maksaa alakohdan 22.4.2 mukai- sen päivärahan, jos työntekijä työsuhteen kestäessä lähetetään tai määrätään terveystarkastukseen tai tutkimuksiin silloin, kun nämä perustuvat:
-• valtioneuvoston asetukseen hyvän työterveyshuoltokäytän- nön periaatteista, työterveyshuollon sisällöstä sekä ammatti- henkilöiden ja asiantuntijoiden koulutuksesta (708/2013) ja hyväksyttyyn työterveyshuollon toimintasuunnitelmaan
+Jos päivärahaa tai siihen verrattavaa korvausta ei työntekijästä itsestään johtuvista syistä makseta tai jos se maksetaan vähäisempänä kuin mihin hänellä lain mukaan olisi ollut oikeus, työnantajalla on oikeus vähentää sairausajan tai adoptio-, äitiys- ja isyysvapaan palkasta se päiväraha tai sen osa, mikä työntekijän laiminlyönnin johdosta on jäänyt maksamatta.
+
+### 32 LÄÄKÄRINTARKASTUKSET
+
+#### 32.1 Ansionmenetyksen korvaaminen lakisääteisen lääkärintarkastuksen ajalta
+Työnantaja korvaa työntekijälle ansionmenetyksen, välttämättömät matkakustannukset ja maksaa alakohdan 22.4.2 mukaisen päivärahan, jos työntekijä työsuhteen kestäessä lähetetään tai määrätään terveystarkastukseen tai tutkimuksiin silloin, kun nämä perustuvat:
+• valtioneuvoston asetukseen hyvän työterveyshuoltokäytännön periaatteista, työterveyshuollon sisällöstä sekä ammatti- henkilöiden ja asiantuntijoiden koulutuksesta (708/2013) ja hyväksyttyyn työterveyshuollon toimintasuunnitelmaan
 • lakiin nuorista työntekijöistä (998/93)
 • säteilylakiin (859/2018) tai
 • tartuntatautilakiin (1227/2016).
+
 Ansionmenetys korvataan tarkastuksessa ja tutkimuksessa sekä niihin liittyvissä matkoissa työntekijän menettämiä säännöllisiä työtunteja vastaavalta ajalta.
 Jos tarkastus toimitetaan työntekijän vapaa-aikana, maksetaan hänelle korvauksena ylimääräisistä kuluista sairausvakuutuslain 11 luvun 10 §:n mukaista sairauspäivärahan vähimmäismäärää vastaava summa.
- 140
 
-Työehtosopimus
-32.2 Ansionmenetyksen korvaaminen muiden lääkärintarkastusten ajalta
-Muita kuin lakisääteisiä lääkärintarkastuksia koskevat ansionme- netyksen korvattavuuden edellytykset ovat:
-A. Perusedellytykset
+#### 32.2 Ansionmenetyksen korvaaminen muiden lääkärintarkastusten ajalta
+Muita kuin lakisääteisiä lääkärintarkastuksia koskevat ansionmenetyksen korvattavuuden edellytykset ovat:
+
+###### A. Perusedellytykset
 (koskevat kaikkia B-kohdan tapauksia 1 - 3)
-1. Kysymyksessä on oltava sairastumis- tai tapaturmatapaus, jossa on välttämätöntä päästä nopeasti lääkärintarkastukseen. Työntekijän on esitettävä lääkärintarkastuksesta työnantajan hyväksymä selvitys sekä työnantajan pyytäessä selvitys sii- tä, kuinka kauan lääkärintarkastus odotus- ja kohtuullisine matka-aikoineen kesti.
-2. Muissa kuin kohdassa 1. tarkoitetuissa sairastumis- tai ta- paturmatapauksissa edellytetään, että työntekijä varaa vas- taanottoajan työaikana vain, jos se ei ole kohtuullisen ajan kuluessa saatavissa työajan ulkopuolella. Työntekijän on esitettävä luotettava selvitys siitä, ettei hän ole voinut saada vastaanottoa työajan ulkopuolella.
-3. Työntekijän on ilmoitettava lääkäriin menostaan etukäteen työnantajalle. Jos ilmoitusta ei ylivoimaisen esteen takia voi- da etukäteen tehdä, on ilmoitus tehtävä välittömästi, kun se on mahdollista.
-4. Lääkärintarkastus on järjestettävä työajan tarpeetonta mene- tystä välttäen.
-5. Mikäli työntekijä saa lääkärintarkastuksen ajalta sairausajan palkkaa, ei korvausta ansion menetyksestä lääkärintarkas- tusta koskevien sopimusmääräysten nojalla suoriteta. Kor- vausta ei suoriteta myöskään sairausajan palkkamääräysten edellyttämänä karenssipäivänä suoritetun lääkärintarkastuk- sen ajalta.
- 141
+1. Kysymyksessä on oltava sairastumis- tai tapaturmatapaus, jossa on välttämätöntä päästä nopeasti lääkärintarkastukseen. Työntekijän on esitettävä lääkärintarkastuksesta työnantajan hyväksymä selvitys sekä työnantajan pyytäessä selvitys siitä, kuinka kauan lääkärintarkastus odotus- ja kohtuullisine matka-aikoineen kesti.
+2. Muissa kuin kohdassa 1. tarkoitetuissa sairastumis- tai tapaturmatapauksissa edellytetään, että työntekijä varaa vas- taanottoajan työaikana vain, jos se ei ole kohtuullisen ajan kuluessa saatavissa työajan ulkopuolella. Työntekijän on esitettävä luotettava selvitys siitä, ettei hän ole voinut saada vastaanottoa työajan ulkopuolella.
+3. Työntekijän on ilmoitettava lääkäriin menostaan etukäteen työnantajalle. Jos ilmoitusta ei ylivoimaisen esteen takia voida etukäteen tehdä, on ilmoitus tehtävä välittömästi, kun se on mahdollista.
+4. Lääkärintarkastus on järjestettävä työajan tarpeetonta menetystä välttäen.
+5. Mikäli työntekijä saa lääkärintarkastuksen ajalta sairausajan palkkaa, ei korvausta ansion menetyksestä lääkärintarkastusta koskevien sopimusmääräysten nojalla suoriteta. Korvausta ei suoriteta myöskään sairausajan palkkamääräysten edellyttämänä karenssipäivänä suoritetun lääkärintarkastuksen ajalta.
 
-Työehtosopimus
 6. Jos sairaus on johtunut omasta törkeästä tuottamuksesta tai tahallisuudesta, ei ansion menetystä korvata.
-B. Erityisedellytykset
+
+###### B. Erityisedellytykset
 Ansion menetys korvataan:
 1. Uusi tai uusiutuva sairaus
-• sellaisen lääkärintarkastuksen ajalta, jossa todetaan työnte- kijän sairaus
-• lääkärin tutkimustoimenpiteestä johtuneen, enintään vuoro- kauden kestäneen työkyvyttömyyden ajalta
-• sairausajan palkkamääräyksiä noudatetaan kuitenkin, jos työntekijä otetaan sairausoireiden vuoksi sairaalaan tarkkail- tavaksi tai tutkittavaksi.
+• sellaisen lääkärintarkastuksen ajalta, jossa todetaan työntekijän sairaus
+• lääkärin tutkimustoimenpiteestä johtuneen, enintään vuorokauden kestäneen työkyvyttömyyden ajalta
+• sairausajan palkkamääräyksiä noudatetaan kuitenkin, jos työntekijä otetaan sairausoireiden vuoksi sairaalaan tarkkailtavaksi tai tutkittavaksi.
 2. Aikaisemmin todettu sairaus
-• kroonisen sairauden edellyttämän lääkärintarkastuksen ajal- ta edellyttäen, että kysymyksessä on hoidon määrittelemi- seksi ao. erikoislääkärin suorittama tai erikoisalan poliklini- kalla suoritettu tarkastus,
-• sairauden olennaisesti pahentuessa, minkä vuoksi työnteki- jän on ollut tarpeen hakeutua lääkärintarkastukseen,
-• hoidon määrittelemiseksi tarpeellisen ao. erikoisalan lääkä- rin tarkastuksen ajalta, jossa annetaan määräys apuvälineen esim. silmälasien hankkimiseksi,
-• muun aikaisemmin todetun sairauden hoidon määrittelemi- seksi tarpeellisen lääkärintarkastuksen ajalta vain, jos lääkä- rinpalveluja ei ole saatavissa työajan ulkopuolella.
-• syöpäsairauden edellyttämän hoitotoimenpiteen aiheutta- man työkyvyttömyyden ajalta; tällöin noudatetaan sairaus- ajan palkkamääräyksiä.
- 142
-
+• kroonisen sairauden edellyttämän lääkärintarkastuksen ajal- ta edellyttäen, että kysymyksessä on hoidon määrittelemiseksi ao. erikoislääkärin suorittama tai erikoisalan poliklinikalla suoritettu tarkastus,
+• sairauden olennaisesti pahentuessa, minkä vuoksi työntekijän on ollut tarpeen hakeutua lääkärintarkastukseen,
+• hoidon määrittelemiseksi tarpeellisen ao. erikoisalan lääkärin tarkastuksen ajalta, jossa annetaan määräys apuvälineen esim. silmälasien hankkimiseksi,
+• muun aikaisemmin todetun sairauden hoidon määrittelemiseksi tarpeellisen lääkärintarkastuksen ajalta vain, jos lääkärinpalveluja ei ole saatavissa työajan ulkopuolella.
+• syöpäsairauden edellyttämän hoitotoimenpiteen aiheuttaman työkyvyttömyyden ajalta; tällöin noudatetaan sairausajan palkkamääräyksiä.
 3. Laboratorio- ja röntgentutkimukset
-Korvattavaan lääkärintarkastukseen välittömästi liittyvän labora- torio-, röntgen- tai siihen rinnastettavan tutkimuksen ajalta. Tut- kimuksen tulee olla lääkärin määräämä ja siten osa tarkastusta.
-Erillisen laboratorio, röntgen- tai siihen rinnastettavan tutkimuk- sen ajalta aiheutuva ansionmenetys korvataan vain, jos työnte- kijällä ei ole mahdollisuutta päästä em. tutkimukseen työajan ulkopuolella tai jos sairaus edellyttää tutkimuksen suorittamista ainoastaan tiettynä vuorokauden ajankohtana. Tällainen ajankoh- tavaatimus tulee selvittää lääkärintodistuksella.
-4. Raskauteen liittyvä lääkärintarkastus tai muu lääke- tieteellinen tutkimus
-Sairausvakuutuslain mukaisen äitiysrahan saamisen edellytyk- senä olevan lääkärin tai terveyskeskuksen todistuksen hankki- miseksi välttämättömän tarkastuksen sekä synnytystä edeltävien lääketieteellisten tutkimusten (työsopimuslaki 4 luku 8 § 2 mom.) ajalta, ellei työntekijä ole saanut vastaanottoa työajan ulkopuo- lella. Edellytyksenä on, että tarkastus tai tutkimus on järjestetty työajan tarpeetonta menetystä välttäen.
-Työntekijän on pyynnöstä esitettävä työnantajalle selvitys tutki- muksen liittymisestä raskauteen sekä sen suorittamisen välttä- mättömyydestä työaikana.
+Korvattavaan lääkärintarkastukseen välittömästi liittyvän laboratorio-, röntgen- tai siihen rinnastettavan tutkimuksen ajalta. Tutkimuksen tulee olla lääkärin määräämä ja siten osa tarkastusta.
+Erillisen laboratorio, röntgen- tai siihen rinnastettavan tutkimuksen ajalta aiheutuva ansionmenetys korvataan vain, jos työntekijällä ei ole mahdollisuutta päästä em. tutkimukseen työajan ulkopuolella tai jos sairaus edellyttää tutkimuksen suorittamista ainoastaan tiettynä vuorokauden ajankohtana. Tällainen ajankohtavaatimus tulee selvittää lääkärintodistuksella.
+4. Raskauteen liittyvä lääkärintarkastus tai muu lääketieteellinen tutkimus
+Sairausvakuutuslain mukaisen äitiysrahan saamisen edellytyksenä olevan lääkärin tai terveyskeskuksen todistuksen hankkimiseksi välttämättömän tarkastuksen sekä synnytystä edeltävien lääketieteellisten tutkimusten (työsopimuslaki 4 luku 8 § 2 mom.) ajalta, ellei työntekijä ole saanut vastaanottoa työajan ulkopuolella. Edellytyksenä on, että tarkastus tai tutkimus on järjestetty työajan tarpeetonta menetystä välttäen.
+Työntekijän on pyynnöstä esitettävä työnantajalle selvitys tutkimuksen liittymisestä raskauteen sekä sen suorittamisen välttämättömyydestä työaikana.
 5. Äkillinen hammassairaus
-Jos äkillinen hammassairaus ennen hoitotoimenpiteitä aiheuttaa työntekijän työkyvyttömyyden, joka vaatii samana päivänä tai saman työvuoron aikana annettavaa hoitoa, hoitotoimenpiteen ajalta, mikäli hoitoa ei saada työajan ulkopuolella. Työkyvyttö- myys ja hoidon kiireellisyys osoitetaan hammaslääkärin antamal- la todistuksella.
-Työehtosopimus
- 143
+Jos äkillinen hammassairaus ennen hoitotoimenpiteitä aiheuttaa työntekijän työkyvyttömyyden, joka vaatii samana päivänä tai saman työvuoron aikana annettavaa hoitoa, hoitotoimenpiteen ajalta, mikäli hoitoa ei saada työajan ulkopuolella. Työkyvyttömyys ja hoidon kiireellisyys osoitetaan hammaslääkärin antamalla todistuksella.
 
-Työehtosopimus
-32.3 Työhöntulotarkastus
-Mikäli työntekijä joutuu käymään lääkärintarkastuksessa työsuh- teen alkaessa sen vuoksi, että työnantaja pitää lääkärintarkastusta työsuhteen syntymisen tai jatkumisen ehtona, työntekijälle kor- vataan lääkärintarkastuksesta ja siihen mahdollisesti liittyvästä laboratorio- tai röntgentutkimuksesta aiheutuvat kustannukset sekä menetetyltä säännölliseltä työajalta ansion menetys, ellei vastaanottoa ole voitu järjestää työajan ulkopuolella.
-Ennen työsuhteen alkua suoritetusta lääkärintarkastuksesta joh- tuvaa ansion menetystä ei korvata. Tarkastuksen kustannukset korvataan tällaisessa tapauksessa, mikäli tarkastusta edellyttänyt työnantaja ottaa kyseisen henkilön työsuhteeseen.
-32.4 Korvausperuste ja vähennykset
-Edellä mainitut korvaukset ansion menetyksestä maksetaan tä- män työehtosopimuksen 15. luvun tai kohdan 17.1 sekä matka- kustannukset ja päiväraha alakohtien 22.4.1 ja 22.4.2 mukaisesti.
-Ansion menetyksen korvauksesta toimitettava vähennys tehdään samalla tavoin kuin asiasta on sairausajan palkan osalta työehto- sopimuksen kohdassa 31.4 sovittu.
- 144
+#### 32.3 Työhöntulotarkastus
+Mikäli työntekijä joutuu käymään lääkärintarkastuksessa työsuhteen alkaessa sen vuoksi, että työnantaja pitää lääkärintarkastusta työsuhteen syntymisen tai jatkumisen ehtona, työntekijälle korvataan lääkärintarkastuksesta ja siihen mahdollisesti liittyvästä laboratorio- tai röntgentutkimuksesta aiheutuvat kustannukset sekä menetetyltä säännölliseltä työajalta ansion menetys, ellei vastaanottoa ole voitu järjestää työajan ulkopuolella.
+Ennen työsuhteen alkua suoritetusta lääkärintarkastuksesta johtuvaa ansion menetystä ei korvata. Tarkastuksen kustannukset korvataan tällaisessa tapauksessa, mikäli tarkastusta edellyttänyt työnantaja ottaa kyseisen henkilön työsuhteeseen.
 
-Työehtosopimus
-VII TYÖSOPIMUKSEN PÄÄTTÄMINEN JA TYÖNTEKIJÄN LOMAUTTAMINEN
-Työsuhdeturvaa koskevat määräykset käsittelevät työnantajan oikeutta päättää työntekijän työsopimus tai lomauttaa hänet sekä näissä tapauksissa noudatettavia menettelytapoja. Työntekijällä on oikeus korvaukseen työsopimuksen perusteettomasta päättä- misestä ja perusteettomasta lomauttamisesta johtuen.
-33 SOVELTAMISALA
+#### 32.4 Korvausperuste ja vähennykset
+Edellä mainitut korvaukset ansion menetyksestä maksetaan tämän työehtosopimuksen 15. luvun tai kohdan 17.1 sekä matkakustannukset ja päiväraha alakohtien 22.4.1 ja 22.4.2 mukaisesti.
+
+Ansion menetyksen korvauksesta toimitettava vähennys tehdään samalla tavoin kuin asiasta on sairausajan palkan osalta työehtosopimuksen kohdassa 31.4 sovittu.
+
+## VII TYÖSOPIMUKSEN PÄÄTTÄMINEN JA TYÖNTEKIJÄN LOMAUTTAMINEN
+Työsuhdeturvaa koskevat määräykset käsittelevät työnantajan oikeutta päättää työntekijän työsopimus tai lomauttaa hänet sekä näissä tapauksissa noudatettavia menettelytapoja. Työntekijällä on oikeus korvaukseen työsopimuksen perusteettomasta päättämisestä ja perusteettomasta lomauttamisesta johtuen.
+
+### 33 SOVELTAMISALA
 Tämän osion määräykset koskevat:
 • toistaiseksi voimassaolevan työsopimuksen irtisanomista,
 • työntekijän lomauttamista,
@@ -1754,137 +1766,153 @@ Tämän osion määräykset koskevat:
 • työntekijän irtisanoutumista,
 • työsopimuksen päättämismenettelyä ja
 • lomautusmenettelyä.
+
 Tämän osion määräykset eivät koske:
 • työsopimuksen purkamista koeajan perusteella (TSL 1 luvun 4 §),
-• työsopimuksen irtisanomista, kun yritys on asetettu yrityssa- neeraukseen (TSL 7 luku 7 §),
+• työsopimuksen irtisanomista, kun yritys on asetettu yrityssaneeraukseen (TSL 7 luku 7 §),
 • työsopimuksen irtisanomista työnantajan konkurssin tai kuoleman johdosta (TSL 7 luku 8 §) eikä
 • ammatillisesta koulutuksesta annetussa laissa tarkoitettuja oppisopimussuhteita.
-Työsopimusta koeajan perusteella purettaessa taikka sitä irtisa- nottaessa saneerausmenettelyn yhteydessä ja työnantajan kon- kurssin tai kuoleman johdosta noudatetaan kuitenkin kohtien 39.3 ja 39.4 mukaisia menettelytapamääräyksiä. Koeaikapurkamisen osalta noudatetaan myös kohdan 39.2 mukaista menettelyä.
- 145
 
-Työehtosopimus
- 34
-34.1
-TYÖSOPIMUKSEN PÄÄTTÄMINEN JA TYÖNTEKIJÄN LOMAUTTAMINEN TYÖN- TEKIJÄSTÄ JOHTUVASTA TAI HÄNEN HENKILÖÖNSÄ LIITTYVÄSTÄ SYYSTÄ
-Lomauttaminen työntekijästä johtuvasta tai hänen henkilöönsä liittyvästä syystä
-Työnantaja voi lomauttaa työntekijän määräajaksi lomautusil- moitusaikaa noudattamatta samoilla perusteilla, joilla työsopi- mus voitaisiin irtisanoa tai purkaa.
-34.2 Työntekijän henkilöön liittyvät irtisanomisperusteet
+Työsopimusta koeajan perusteella purettaessa taikka sitä irtisanottaessa saneerausmenettelyn yhteydessä ja työnantajan konkurssin tai kuoleman johdosta noudatetaan kuitenkin kohtien 39.3 ja 39.4 mukaisia menettelytapamääräyksiä. Koeaikapurkamisen osalta noudatetaan myös kohdan 39.2 mukaista menettelyä.
+
+### 34 TYÖSOPIMUKSEN PÄÄTTÄMINEN JA TYÖNTEKIJÄN LOMAUTTAMINEN TYÖNTEKIJÄSTÄ JOHTUVASTA TAI HÄNEN HENKILÖÖNSÄ LIITTYVÄSTÄ SYYSTÄ
+
+#### 34.1 Lomauttaminen työntekijästä johtuvasta tai hänen henkilöönsä liittyvästä syystä
+Työnantaja voi lomauttaa työntekijän määräajaksi lomautusilmoitusaikaa noudattamatta samoilla perusteilla, joilla työsopimus voitaisiin irtisanoa tai purkaa.
+
+#### 34.2 Työntekijän henkilöön liittyvät irtisanomisperusteet
 Työnantaja ei saa irtisanoa työsopimusta työntekijästä johtuvasta tai hänen henkilöönsä liittyvästä syystä ilman työsopimuslain 7 luvun 1-2 §:n mukaista asiallista ja painavaa perustetta.
-Asiallisena ja painavana syynä pidetään työntekijästä johtuvia syitä, kuten töiden laiminlyömistä, työnantajan työnjohtooikeu- tensa rajoissa antamien määräysten rikkomista, perusteetonta poissaoloa ja ilmeistä huolimattomuutta työssä.
-34.3 Purkamisen ja purkautuneena käsittelemisen perusteet
-Työnantaja voi purkaa työsopimuksen työsopimuslain 8 luvun 1 §:ssä tarkoitetulla perusteella ja hänellä on oikeus käsitellä työso- pimusta purkautuneena työsopimuslain 8 luvun 3 §:n mukaisesti.
-146
 
- 35
-35.1
-Työehtosopimus
-TYÖSOPIMUKSEN IRTISANOMINEN TALOUDELLISISTA, TUOTANNOLLISISTA TAI TYÖNANTAJAN TOIMINNAN UUDELLEENJÄRJESTELYISTÄ JOHTUVISTA SYISTÄ
-Irtisanomisen perusteet
+Asiallisena ja painavana syynä pidetään työntekijästä johtuvia syitä, kuten töiden laiminlyömistä, työnantajan työnjohtooikeutensa rajoissa antamien määräysten rikkomista, perusteetonta poissaoloa ja ilmeistä huolimattomuutta työssä.
+
+#### 34.3 Purkamisen ja purkautuneena käsittelemisen perusteet
+Työnantaja voi purkaa työsopimuksen työsopimuslain 8 luvun 1 §:ssä tarkoitetulla perusteella ja hänellä on oikeus käsitellä työsopimusta purkautuneena työsopimuslain 8 luvun 3 §:n mukaisesti.
+
+### 35 TYÖSOPIMUKSEN IRTISANOMINEN TALOUDELLISISTA, TUOTANNOLLISISTA TAI TYÖNANTAJAN TOIMINNAN UUDELLEENJÄRJESTELYISTÄ JOHTUVISTA SYISTÄ
+
+#### 35.1 Irtisanomisen perusteet
 Työsopimuksen irtisanomisen perusteet ovat työsopimuslain 7 luvun 1 ja 3 §:ien (taloudelliset, tuotannolliset tai työnantajan toiminnan uudelleenjärjestelyistä johtuvat syyt) mukaiset.
-Työnantajan työn tarjoamis- ja koulutusvelvollisuus koskee en- sisijaisesti samalla työssäkäyntialueella tarjolla olevaa sellaista työtä, johon työntekijä voidaan tarkoituksenmukaisesti ja koh- tuudella sijoittaa.
-35.2 Työvoiman vähentämisjärjestys
-Työnantajan on viimeksi irtisanottava tai lomautettava niitä työn- tekijöitä, jotka ovat yrityksen toiminnalle ammattitaitonsa sekä muiden kykyjensä kannalta tärkeitä ja saman työnantajan työssä osan työkyvystään menettäneitä. Lisäksi työnantajan tulee kiin- nittää huomiota työsuhteen kestoaikaan ja työntekijän huoltovel- vollisuuden määrään.
-35.3 Irtisanomisajan kuluminen ja määräaikainen työsopimus
-Jos työntekijän työsopimus on irtisanottu taloudellisista ja tuo- tannollisista syistä, mutta työtä on tarjolla vielä irtisanomisajan jälkeen, voidaan työntekijän kanssa solmia jäljellä olevan työn teettämistä koskeva määräaikainen työsopimus.
-147
 
-Työehtosopimus
-35.4 Työntekijän takaisin ottaminen
-Työsopimuslain 6 luvun 6 §:n mukaisesta työntekijän takaisin ottamisesta voidaan poiketa työnantajan ja työntekijän välisellä sopimuksella. Sopimus tehdään työsopimuksen irtisanomis- tai päättymistilanteessa kirjallisesti. Siinä otetaan huomioon työn- antajan toimenpiteet työntekijän uudelleen työllistymisen edis- tämiseksi.
-Sopimuksen tekemisellä ja sen perusteella mahdollisesti mak- settavalla vastikkeella saattaa olla vaikutuksia työntekijän työt- tömyysturvaetuuksiin. Työntekijälle on varattava riittävä aika ennen sopimuksen tekemistä selvittää sopimisen vaikutukset tilanteeseensa.
-36 TYÖLLISTYMISVAPAA 36.1 Työllistymisvapaan tarkoitus
-Taloudellisista, tuotannollisista tai työnantajan toiminnan uudel- leenjärjestelyistä johtuvista syistä irtisanotulla työntekijällä on irtisanomisaikanaan oikeus työllistymisvapaaseen täydellä pal- kalla osallistuakseen
+Työnantajan työn tarjoamis- ja koulutusvelvollisuus koskee ensisijaisesti samalla työssäkäyntialueella tarjolla olevaa sellaista työtä, johon työntekijä voidaan tarkoituksenmukaisesti ja kohtuudella sijoittaa.
+
+#### 35.2 Työvoiman vähentämisjärjestys
+Työnantajan on viimeksi irtisanottava tai lomautettava niitä työntekijöitä, jotka ovat yrityksen toiminnalle ammattitaitonsa sekä muiden kykyjensä kannalta tärkeitä ja saman työnantajan työssä osan työkyvystään menettäneitä. Lisäksi työnantajan tulee kiinnittää huomiota työsuhteen kestoaikaan ja työntekijän huoltovelvollisuuden määrään.
+
+#### 35.3 Irtisanomisajan kuluminen ja määräaikainen työsopimus
+Jos työntekijän työsopimus on irtisanottu taloudellisista ja tuotannollisista syistä, mutta työtä on tarjolla vielä irtisanomisajan jälkeen, voidaan työntekijän kanssa solmia jäljellä olevan työn teettämistä koskeva määräaikainen työsopimus.
+
+#### 35.4 Työntekijän takaisin ottaminen
+Työsopimuslain 6 luvun 6 §:n mukaisesta työntekijän takaisin ottamisesta voidaan poiketa työnantajan ja työntekijän välisellä sopimuksella. Sopimus tehdään työsopimuksen irtisanomis- tai päättymistilanteessa kirjallisesti. Siinä otetaan huomioon työnantajan toimenpiteet työntekijän uudelleen työllistymisen edistämiseksi.
+
+Sopimuksen tekemisellä ja sen perusteella mahdollisesti maksettavalla vastikkeella saattaa olla vaikutuksia työntekijän työttömyysturvaetuuksiin. Työntekijälle on varattava riittävä aika ennen sopimuksen tekemistä selvittää sopimisen vaikutukset tilanteeseensa.
+
+### 36 TYÖLLISTYMISVAPAA 
+
+#### 36.1 Työllistymisvapaan tarkoitus
+Taloudellisista, tuotannollisista tai työnantajan toiminnan uudel- leenjärjestelyistä johtuvista syistä irtisanotulla työntekijällä on irtisanomisaikanaan oikeus työllistymisvapaaseen täydellä palkalla osallistuakseen
 • julkisesta työvoima- ja yrityspalvelusta annetussa laissa (916/2012) tarkoitetun työllistymisohjelman laatimiseen,
-• työllistymisohjelman mukaiseen työvoimapoliittiseen ai- kuiskoulutukseen, harjoitteluun ja työssäoppimiseen tai
-• oma-aloitteiseen tai viranomaisaloitteiseen työpaikan ha-
-kuun, työhaastatteluun tai uudelleensijoitusvalmennukseen.
-Työnantaja ja työntekijä voivat sopia työntekijän oikeudesta työl- listymisvapaaseen toisin.
- 148
+• työllistymisohjelman mukaiseen työvoimapoliittiseen aikuiskoulutukseen, harjoitteluun ja työssäoppimiseen tai
+• oma-aloitteiseen tai viranomaisaloitteiseen työpaikan hakuun, työhaastatteluun tai uudelleensijoitusvalmennukseen.
 
-Työehtosopimus
-Täydellä palkalla tarkoitetaan tuntipalkkaisen työntekijän kes- kituntiansiota. Kuukausipalkkaisen työntekijän täydellä palkalla tarkoitetaan henkilökohtaisena aikapalkkana olevaa kuukausi- palkkaa.
-36.2 Työllistymisvapaan pituus
+Työnantaja ja työntekijä voivat sopia työntekijän oikeudesta työllistymisvapaaseen toisin.
+
+Täydellä palkalla tarkoitetaan tuntipalkkaisen työntekijän keskituntiansiota. Kuukausipalkkaisen työntekijän täydellä palkalla tarkoitetaan henkilökohtaisena aikapalkkana olevaa kuukausipalkkaa.
+
+#### 36.2 Työllistymisvapaan pituus
 Työllistymisvapaan pituus määräytyy irtisanomisajan pituuden mukaan seuraavasti:
-• Enintään yhteensä viisi työpäivää, jos irtisanomisaika on enintään yksi kuukausi;
-• Enintään yhteensä 10 työpäivää, jos irtisanomisaika on yhtä kuukautta pidempi mutta enintään neljä kuukautta;
-• Enintään yhteensä 20 työpäivää, jos irtisanomisaika on yli neljä kuukautta.
-Edellä sovitun lisäksi työntekijällä on oikeus saada työllistymis- vapaata enintään viisi työpäivää työllistymisohjelman mukaiseen työvoimapoliittiseen aikuiskoulutukseen, harjoitteluun ja työssä- oppimiseen.
-36.3. Työllistymisvapaan käyttäminen
-Työntekijän on ennen työllistymisvapaan tai sen osan käyttämistä ilmoitettava siitä ja vapaan perusteesta työnantajalle niin hyvis- sä ajoin kuin mahdollista sekä pyydettäessä esitettävä luotettava selvitys kunkin vapaan perusteesta.
+
+• Työllistymisvapaan pituus on enintään yhteensä viisi työpäivää, jos irtisanomisaika on enintään yksi kuukausi.
+• Työllistymisvapaan pituus on enintään yhteensä 10 työpäivää, jos irtisanomisaika on yhtä kuukautta pidempi mutta enintään neljä kuukautta.
+• Työllistymisvapaan pituus on enintään yhteensä 20 työpäivää, jos irtisanomisaika on yli neljä kuukautta.
+
+Edellä sovitun lisäksi työntekijällä on oikeus saada työllistymisvapaata enintään viisi työpäivää työllistymisohjelman mukaiseen työvoimapoliittiseen aikuiskoulutukseen, harjoitteluun ja työssäoppimiseen.
+
+#### 36.3. Työllistymisvapaan käyttäminen
+Työntekijän on ennen työllistymisvapaan tai sen osan käyttämistä ilmoitettava siitä ja vapaan perusteesta työnantajalle niin hyvissä ajoin kuin mahdollista sekä pyydettäessä esitettävä luotettava selvitys kunkin vapaan perusteesta.
 Työllistymisvapaan käyttämisestä ei saa aiheutua työnantajalle merkittävää haittaa.
-Työpäivillä tarkoitetaan työtuntijärjestelmän mukaisia työpäiviä. Työllistymisvapaan määrää voidaan käyttää myös työpäivän osi- na.
- 149
+Työpäivillä tarkoitetaan työtuntijärjestelmän mukaisia työpäiviä. Työllistymisvapaan määrää voidaan käyttää myös työpäivän osina.
 
-Työehtosopimus
- 37
-37.1
-TYÖNTEKIJÄN LOMAUTTAMINEN TALOUDELLISISTA, TUOTANNOLLISISTA TAI TYÖNANTAJAN TOIMINNAN UUDELLEENJÄRJESTELYISTÄ JOHTUVISTA SYISTÄ
-Lomauttamisen perusteet
+### 37 TYÖNTEKIJÄN LOMAUTTAMINEN TALOUDELLISISTA, TUOTANNOLLISISTA TAI TYÖNANTAJAN TOIMINNAN UUDELLEENJÄRJESTELYISTÄ JOHTUVISTA SYISTÄ
+
+#### 37.1 Lomauttamisen perusteet
 Lomauttamisen perusteet ovat työsopimuslain 5 luvun 2 §:n 1 - 3 momenttien mukaiset.
-Työnantajan työn tarjoamis- ja koulutusvelvollisuus koskee en- sisijaisesti samalla työssäkäyntialueella tarjolla olevaa sellaista työtä, johon työntekijä voidaan tarkoituksenmukaisesti ja koh- tuudella sijoittaa.
-A. Työn vähentyminen tilapäisesti
-Jos työ tai työnantajan edellytykset tarjota työtä ovat vähentyneet tilapäisesti, voidaan työntekijä lomauttaa tilapäistä työn vähyyt- tä vastaavaksi ajaksi tai toistaiseksi. Työn vähentymistä voidaan pitää tilapäisenä silloin, kun sen arvioidaan kestävän enintään 90 kalenteripäivää.
-B. Työn vähentyminen muutoin kuin tilapäisesti
+Työnantajan työn tarjoamis- ja koulutusvelvollisuus koskee ensisijaisesti samalla työssäkäyntialueella tarjolla olevaa sellaista työtä, johon työntekijä voidaan tarkoituksenmukaisesti ja kohtuudella sijoittaa.
+
+###### A. Työn vähentyminen tilapäisesti
+Jos työ tai työnantajan edellytykset tarjota työtä ovat vähentyneet tilapäisesti, voidaan työntekijä lomauttaa tilapäistä työn vähyyttä vastaavaksi ajaksi tai toistaiseksi. Työn vähentymistä voidaan pitää tilapäisenä silloin, kun sen arvioidaan kestävän enintään 90 kalenteripäivää.
+
+###### B. Työn vähentyminen muutoin kuin tilapäisesti
 Jos työn arvioidaan vähentyvän yli 90 kalenteripäivän ajaksi, voidaan työntekijä lomauttaa määräajaksi tai toistaiseksi.
-37.2 Työvoiman vähentämisjärjestys
+
+#### 37.2 Työvoiman vähentämisjärjestys
 Työnantajan on noudatettava kohdassa 35.2 sovittua työvoiman vähentämisjärjestystä lomauttamisen yhteydessä.
-150
 
-37.3 Lomautusilmoitusaika
-Lomauttamisessa noudatetaan vähintään 14 päivän ilmoitusai- kaa. Työnantajalla ei ole velvollisuutta antaa ennakkoselvitystä lomautuksesta.
-37.4 Lyhennetty työaika
+#### 37.3 Lomautusilmoitusaika
+Lomauttamisessa noudatetaan vähintään 14 päivän ilmoitusaikaa. Työnantajalla ei ole velvollisuutta antaa ennakkoselvitystä lomautuksesta.
+
+#### 37.4 Lyhennetty työaika
 Lomauttamista koskevia menettelymääräyksiä noudatetaan myös siirryttäessä lyhennettyyn työaikaan.
-37.5 Paikallinen sopiminen
-Lomauttamisesta, sen perusteista ja lomautusilmoitusajasta voi- daan sopia toisin 44. luvun mukaisella paikallisella sopimuksella.
-37.6 Lomautuksen siirtäminen
+
+#### 37.5 Paikallinen sopiminen
+Lomauttamisesta, sen perusteista ja lomautusilmoitusajasta voidaan sopia toisin 44. luvun mukaisella paikallisella sopimuksella.
+
+#### 37.6 Lomautuksen siirtäminen
 Jos työnantaja saa lomautusilmoitusaikana tilapäisen työn, hän voi siirtää lomautuksen alkamista.
+
 Lomautuksen alkamista voidaan uutta lomautusilmoitusaikaa noudattamatta siirtää vain kerran ja enintään siksi ajaksi, minkä tilapäinen työ kestää.
-37.7 Lomautuksen keskeyttäminen
-Jos työnantaja saa tilapäisen työn lomautuksen jo alettua, työn- antaja ja työntekijä voivat ennen työn alkamista sopia lomau- tuksen keskeyttämisestä, mikäli lomautuksen on tarkoitus jatkua välittömästi työn tekemisen jälkeen uutta ilmoitusta antamatta. Keskeytyksestä sovittaessa työnantajan tulee ilmoittaa tilapäisen työn arvioitu kestoaika.
-Työehtosopimus
- 151
 
-Työehtosopimus
-37.8 Muu työ lomautusaikana
+#### 37.7 Lomautuksen keskeyttäminen
+Jos työnantaja saa tilapäisen työn lomautuksen jo alettua, työnantaja ja työntekijä voivat ennen työn alkamista sopia lomautuksen keskeyttämisestä, mikäli lomautuksen on tarkoitus jatkua välittömästi työn tekemisen jälkeen uutta ilmoitusta antamatta. Keskeytyksestä sovittaessa työnantajan tulee ilmoittaa tilapäisen työn arvioitu kestoaika.
+
+#### 37.8 Muu työ lomautusaikana
 Työntekijä voi ottaa lomautusajaksi muuta työtä.
-37.9 Työsuhteen päättyminen lomautuksen aikana
-A. Lomautetun työntekijän oikeus työsopimuksen purkamiseen
-Lomautetulla työntekijällä on oikeus purkaa työsopimuksensa ir- tisanomisajasta riippumatta. Purkamisoikeutta ei kuitenkaan ole, jos lomautuksen päättymisaika on jo työntekijän tiedossa lomau- tuksen päättymistä edeltävän seitsemän päivän aikana.
-B. Lomautetun työntekijän oikeus irtisanomisajan palkkaan työn- antajan irtisanoessa työsopimuksen
+
+#### 37.9 Työsuhteen päättyminen lomautuksen aikana
+
+###### A. Lomautetun työntekijän oikeus työsopimuksen purkamiseen
+Lomautetulla työntekijällä on oikeus purkaa työsopimuksensa irtisanomisajasta riippumatta. Purkamisoikeutta ei kuitenkaan ole, jos lomautuksen päättymisaika on jo työntekijän tiedossa lomautuksen päättymistä edeltävän seitsemän päivän aikana.
+
+###### B. Lomautetun työntekijän oikeus irtisanomisajan palkkaan työnantajan irtisanoessa työsopimuksen
 Jos työnantaja irtisanoo työsopimuksen päättymään lomautuksen aikana, työntekijällä on työsopimuslain 5 luvun 7 §:n 2 momentin nojalla oikeus saada irtisanomisajan palkkansa. Irtisanomisajan palkasta ei vähennetä lomautusilmoitusajan palkkaa. Työnteki- jällä on lisäksi oikeus saada irtisanomisajalta vuosilomalain mu- kainen lomakorvaus.
+
 Irtisanomisajan palkka maksetaan palkanmaksukausittain.
-C. Työntekijän irtisanoutuminen 200 päivää kestäneen lomau- tuksen jälkeen
-Lomautetulla työntekijällä, joka irtisanoutuu työsopimuslain 5 luvun 7 §:n 3 momentin nojalla lomautuksen kestettyä yhdenjak- soisesti vähintään 200 päivää, on oikeus saada korvauksena palk- kansa työnantajan noudatettavaksi määrätyltä irtisanomisajalta. Työntekijällä on lisäksi oikeus saada irtisanomisaikaa vastaavalta ajalta vuosilomalain mukainen lomakorvaus.
-Korvaus maksetaan työsopimuksen päättymistä seuraavana en- simmäisenä työnantajan normaalina palkanmaksupäivänä, ellei työnantajan ja työntekijän välillä sovita toisin.
- 152
 
-Työehtosopimus
-Työsuhteen päättymisestä huolimatta työsuhteen osapuolet voi- vat sopia määräaikaisesta työsopimuksesta irtisanomisajaksi tai sen osaksi. Tällöin irtisanomisajan palkkaa vastaavasta korvauk- sesta vähennetään työntekijän työstä saama palkka.
-D. Korvauksen laskeminen
+###### C. Työntekijän irtisanoutuminen 200 päivää kestäneen lomautuksen jälkeen
+Lomautetulla työntekijällä, joka irtisanoutuu työsopimuslain 5 luvun 7 §:n 3 momentin nojalla lomautuksen kestettyä yhdenjaksoisesti vähintään 200 päivää, on oikeus saada korvauksena palkkansa työnantajan noudatettavaksi määrätyltä irtisanomisajalta. Työntekijällä on lisäksi oikeus saada irtisanomisaikaa vastaavalta ajalta vuosilomalain mukainen lomakorvaus.
+
+Korvaus maksetaan työsopimuksen päättymistä seuraavana ensimmäisenä työnantajan normaalina palkanmaksupäivänä, ellei työnantajan ja työntekijän välillä sovita toisin.
+
+Työsuhteen päättymisestä huolimatta työsuhteen osapuolet voi- vat sopia määräaikaisesta työsopimuksesta irtisanomisajaksi tai sen osaksi. Tällöin irtisanomisajan palkkaa vastaavasta korvauksesta vähennetään työntekijän työstä saama palkka.
+
+###### D. Korvauksen laskeminen
 Yhtä irtisanomisajan kuukautta vastaava korvaus saadaan ker- tomalla työntekijän keskituntiansio luvulla 160 (tuntipalkkainen työntekijä). Laskettaessa irtisanomisajan palkan korvausta va- jaalta kuukaudelta katsotaan työviikkoon sisältyvän viisi työpäi- vää.
-38 TYÖSOPIMUKSEN IRTISANOMISAJAT JA TYÖSUHTEEN KESTOAJAN MÄÄRÄY- TYMINEN
-38.1 Irtisanomisajat
-Työnantajan on irtisanoessaan työsopimuksen noudatettava seu- raavia irtisanomisaikoja:
- Työsuhde jatkunut keskeytyksettä
-enintään vuoden
-yli vuoden mutta enintään 4 vuotta yli 4 vuotta mutta enintään 8 vuotta yli 8 vuotta mutta enintään 12 vuotta yli 12 vuotta
-Irtisanomisaika
-2 viikkoa
-1 kuukausi 2 kuukautta 4 kuukautta 6 kuukautta
-Työntekijän on irtisanoessaan työsopimuksen noudatettava seu- raavia irtisanomisaikoja:
-Työsuhde jatkunut keskeytyksettä
-enintään 5 vuotta yli 5 vuotta
-Irtisanomisaika
-2 viikkoa 1 kuukausi
-153
 
-Työehtosopimus
-38.2 Irtisanomisajan noudattamatta jättäminen
-Työnantajan, joka on irtisanonut työsopimuksen noudattamatta irtisanomisaikaa, on maksettava työntekijälle korvauksena keski- tuntiansion mukainen palkka irtisanomisaikaa vastaavalta ajalta. Lisäksi työnantajan on maksettava irtisanomisajalta menetetty vuosilomakorvaus.
-Työntekijä, joka eroaa työstä irtisanomisaikaa noudattamatta, on velvollinen maksamaan työnantajalle kertakaikkisena kor- vauksena irtisanomisajan palkkaa vastaavan määrän, jonka las- kentaperusteena on työntekijän keskituntiansio. Työnantaja saa pidättää tämän määrän työntekijälle maksettavasta lopputilistä. Työnantajan on kuitenkin noudatettava, mitä työsopimuslain 2 luvun 17 §:ssä on säädetty kuittausoikeuden rajoittamisesta.
-Jos irtisanomisajan noudattaminen on laiminlyöty vain osittain, korvausvelvollisuus rajoittuu noudattamatta jääneen irtisanomis- ajan osan palkkaa vastaavaksi.
-38.3 Työsuhteen kestoajan määräytyminen
-Laskettaessa työsuhteen kestoaikaa, jonka perusteella irtisano- misaika määräytyy, otetaan huomioon vain se aika, jonka työn- tekijä on ollut keskeytyksettä työnantajan palveluksessa samassa työsuhteessa.
+### 38 TYÖSOPIMUKSEN IRTISANOMISAJAT JA TYÖSUHTEEN KESTOAJAN MÄÄRÄYTYMINEN
+
+#### 38.1 Irtisanomisajat
+Työnantajan on irtisanoessaan työsopimuksen noudatettava seuraavia irtisanomisaikoja:
+
+Työsuhde on jatkunut keskeytyksettä enintään vuoden, jolloin irtisanomisaika on 2 viikkoa.
+Työsuhde on jatkunut keskeytyksettä yli vuoden mutta enintään 4 vuotta, jolloin irtisanomisaika on 1 kuukausi.
+Työsuhde on jatkunut keskeytyksettä yli 4 vuotta mutta enintään 8 vuotta, jolloin irtisanomisaika on 2 kuukautta. 
+Työsuhde on jatkunut keskeytyksettä yli 8 vuotta mutta enintään 12 vuotta, jolloin irtisanomisaika on 4 kuukautta.
+Työsuhde on jatkunut keskeytyksettä yli 12 vuotta, jolloin irtisanomisaika on 6 kuukautta.
+
+Työntekijän on irtisanoessaan työsopimuksen noudatettava seuraavia irtisanomisaikoja:
+
+Työsuhde on jatkunut keskeytyksettä enintään 5 vuotta, jolloin irtisanomisaika on 2 viikkoa.
+Työsuhde on jatkunut keskeytyksettä yli 5 vuotta, jolloin irtisanomisaika on 1 kuukausi.
+
+#### 38.2 Irtisanomisajan noudattamatta jättäminen
+Työnantajan, joka on irtisanonut työsopimuksen noudattamatta irtisanomisaikaa, on maksettava työntekijälle korvauksena keskituntiansion mukainen palkka irtisanomisaikaa vastaavalta ajalta. Lisäksi työnantajan on maksettava irtisanomisajalta menetetty vuosilomakorvaus.
+
+Työntekijä, joka eroaa työstä irtisanomisaikaa noudattamatta, on velvollinen maksamaan työnantajalle kertakaikkisena korvauksena irtisanomisajan palkkaa vastaavan määrän, jonka laskentaperusteena on työntekijän keskituntiansio. Työnantaja saa pidättää tämän määrän työntekijälle maksettavasta lopputilistä. Työnantajan on kuitenkin noudatettava, mitä työsopimuslain 2 luvun 17 §:ssä on säädetty kuittausoikeuden rajoittamisesta.
+
+Jos irtisanomisajan noudattaminen on laiminlyöty vain osittain, korvausvelvollisuus rajoittuu noudattamatta jääneen irtisanomisajan osan palkkaa vastaavaksi.
+
+#### 38.3 Työsuhteen kestoajan määräytyminen
+Laskettaessa työsuhteen kestoaikaa, jonka perusteella irtisanomisaika määräytyy, otetaan huomioon vain se aika, jonka työntekijä on ollut keskeytyksettä työnantajan palveluksessa samassa työsuhteessa.
+
 Työsuhdetta eivät katkaise esimerkiksi:
 • äitiys-, isyys- ja vanhempainvapaa,
 • hoitovapaa,
@@ -1893,234 +1921,256 @@ Työsuhdetta eivät katkaise esimerkiksi:
 liittyvään koulutukseen tai harjoituksiin,
 • opintovapaa tai
 • liikkeen luovutus.
- 154
 
-Työehtosopimus
-Työsuhteen kestoaikaan ei lueta asevelvollisuus- tai siviilipalve- lusaikaa eikä osallistumista sotilaalliseen kriisinhallintaan taikka siihen liittyvään koulutukseen tai harjoituksiin.
-38.4 Määräajan laskeminen
-Määräaikoja laskettaessa noudatetaan säädettyjen määräaikain laskemisesta annetussa laissa (150/1930) olevia laskemissääntö- jä.
-Jos ajanmääräyksenä on jokin määrä päiviä nimetyn päivän jäl- keen, ei määräaikaan lueta sitä päivää, jona toimenpide on suo- ritettu.
-Aika, joka on määrätty viikkoina, kuukausina tai vuosina ni- metyn päivän jälkeen, päättyy sinä määräviikon tai kuukauden päivänä, joka nimeltään tai järjestysnumeroltaan vastaa sanottua päivää. Jos vastaavaa päivää ei ole siinä kuussa, jona määräaika päättyisi, pidetään sen kuukauden viimeistä päivää määräajan päättymispäivänä.
-Vaikka määräpäivä tai määräajan viimeinen päivä sattuu irtisano- misessa pyhäpäiväksi, itsenäisyyspäiväksi, vapunpäiväksi, joulu- tai juhannusaatoksi tai arkilauantaiksi, on mainittu päivä tästä huolimatta työsuhteen päättymispäivä.
-Esimerkkejä:
-Työnantaja lomauttaa työntekijän 14 päivän lomautusilmoi- tusaikaa noudattaen 1.3. Ensimmäinen lomautuspäivä on 16.3.
+Työsuhteen kestoaikaan ei lueta asevelvollisuus- tai siviilipalvelusaikaa eikä osallistumista sotilaalliseen kriisinhallintaan taikka siihen liittyvään koulutukseen tai harjoituksiin.
+
+#### 38.4 Määräajan laskeminen
+Määräaikoja laskettaessa noudatetaan säädettyjen määräaikain laskemisesta annetussa laissa (150/1930) olevia laskemissääntöjä.
+Jos ajanmääräyksenä on jokin määrä päiviä nimetyn päivän jälkeen, ei määräaikaan lueta sitä päivää, jona toimenpide on suoritettu.
+Aika, joka on määrätty viikkoina, kuukausina tai vuosina nimetyn päivän jälkeen, päättyy sinä määräviikon tai kuukauden päivänä, joka nimeltään tai järjestysnumeroltaan vastaa sanottua päivää. Jos vastaavaa päivää ei ole siinä kuussa, jona määräaika päättyisi, pidetään sen kuukauden viimeistä päivää määräajan päättymispäivänä.
+Vaikka määräpäivä tai määräajan viimeinen päivä sattuu irtisanomisessa pyhäpäiväksi, itsenäisyyspäiväksi, vapunpäiväksi, joulu- tai juhannusaatoksi tai arkilauantaiksi, on mainittu päivä tästä huolimatta työsuhteen päättymispäivä.
+
+Esimerkkejä määräajan laskemisesta:
+
+Työnantaja lomauttaa työntekijän 14 päivän lomautusilmoitusaikaa noudattaen 1.3. Ensimmäinen lomautuspäivä on 16.3.
+
 Työnantaja irtisanoo 30.7. työntekijän, jonka työsuhde on jatkunut keskeytyksettä 6 vuotta ja jonka irtisanomisaika on siis 2 kuukautta. Työsuhteen viimeinen päivä on 30.9. Jos työntekijä irtisanotaan 31.7, työsuhteen viimeinen päivä on 30.9, koska syyskuussa ei ole järjestysnumeroltaan vastaavaa päivää, jona määräaika päättyisi.
- 155
 
-Työehtosopimus
-39 TYÖSOPIMUKSEN PÄÄTTÄMISMENETTELY 39.1 Irtisanomisperusteeseen vetoaminen
-Työnantajan on toimitettava työsopimuksen irtisanominen työso- pimuslain 7 luvun 1 - 2 §:ssä tarkoitetulla perusteella kohtuulli- sen ajan kuluessa siitä, kun irtisanomisen peruste on tullut työn- antajan tietoon.
-39.2 Työntekijän kuuleminen
-Ennen kuin työnantaja irtisanoo työsopimuksen työsopimuslain 7 luvun 1 - 2 §:ssä tarkoitetulla perusteella tai purkaa sen maini- tun lain 1 luvun 4 §:ssä tai 8 luvun 1 §:ssä tarkoitetusta syystä, on työntekijälle varattava mahdollisuus tulla kuulluksi työsopi- muksen päättämisen perusteista. Työntekijällä on oikeus häntä kuultaessa käyttää avustajana esimerkiksi luottamusmiestä tai työtoveria.
-39.3 Ilmoitus työsopimuksen päättämisestä
-Ilmoitus työsopimuksen päättämisestä on toimitettava työnanta- jalle tai tämän edustajalle taikka työntekijälle henkilökohtaisesti. Jollei tämä ole mahdollista, ilmoitus voidaan toimittaa kirjeitse tai sähköisesti. Tällaisen ilmoituksen katsotaan tulleen vastaanot- tajan tietoon viimeistään seitsemäntenä päivänä sen jälkeen, kun ilmoitus on lähetetty.
-Työntekijän ollessa lain tai sopimuksen mukaisella vuosilomal- la tai työajan tasoittumiseksi annetulla vähintään kahden viikon pituisella vapaalla katsotaan kirjeitse tai sähköisesti lähetettyyn ilmoitukseen perustuva päättäminen kuitenkin toimitetuksi aikai- sintaan loman tai vapaan päättymistä seuraavana päivänä.
- 156
+### 39 TYÖSOPIMUKSEN PÄÄTTÄMISMENETTELY 
 
-Työehtosopimus
-Toimitettaessa työsopimuksen päättämisilmoitus kirjeitse tai säh- köisesti katsotaan työsopimuslain 1 luvun 4 ja 8 luvun 1 §:issä tarkoitettuihin päättämisperusteisiin vedotun sovitussa tai sää- detyssä ajassa, jos ilmoitus tuon ajan kuluessa on jätetty postin kuljetettavaksi tai lähetetty sähköisesti.
-39.4 Työsopimuksen päättämisen perusteiden ilmoit- taminen
-Työnantajan on työntekijän pyynnöstä viivytyksettä ilmoitettava kirjallisesti työsopimuksen päättymispäivämäärä sekä ne työn- antajan tiedossa olevat irtisanomisen tai purkamisen syyt, joiden perusteella työsopimus on päätetty.
-40 NEUVOTTELUMENETTELY TYÖVOIMAN KÄYTTÖÄ VÄHENNETTÄESSÄ
-Jos työpaikalla syntyy tarve irtisanoa, lomauttaa tai osa-aikaistaa työntekijöitä taloudellisista, tuotannollisista tai työnantajan toi- minnan uudelleenjärjestelyistä johtuvista syistä, työnantajan on noudatettava yhteistoiminnasta yrityksissä annetun lain (334/07) säännöksiä kuitenkin tässä kohdassa sovituin poikkeuksin. Neu- votteluvelvollisuus koskee yrityksiä, jotka kuuluvat yhteistoi- minnasta yrityksissä annetun lain (334/07) soveltamispiiriin.
-Yhteistoimintalaki ei ole työehtosopimuksen osa. Tämän luvun määräykset ovat lakia täydentäviä ja niillä korvataan lain vastaa- vat kohdat.
-Yhteistoimintalain (1333/2021) 19 ja 23 §:istä poiketen yhteis- toimintavelvoitteet katsotaan täytetyksi, kun asiaa on käsitelty yhteistoimintamenettelyssä kirjallisen neuvotteluesityksen teke- misen jälkeen työehtosopimuksessa määriteltyjen neuvotteluai- kojen mukaisesti.
- 157
+#### 39.1 Irtisanomisperusteeseen vetoaminen
+Työnantajan on toimitettava työsopimuksen irtisanominen työsopimuslain 7 luvun 1-2 §:ssä tarkoitetulla perusteella kohtuullisen ajan kuluessa siitä, kun irtisanomisen peruste on tullut työnantajan tietoon.
 
-Työehtosopimus
-Työnantajan on huolehdittava, että ennen neuvotteluja annettavat yhteistoimintalain (1333/2021) 19 §:n mukaiset tiedot ovat riit- täviä neuvottelujen aloittamiseksi. Neuvottelut voidaan aloittaa heti tarpeellisen valmistautumisajan jälkeen.
-Neuvotteluajat
-   Neuvottelujen kohteena on toi- menpide, joka ilmeisesti johtaa:
-  Neuvotteluaika:
-  Alle kymmenen työntekijän osa- aikaistamiseen, lomauttamiseen tai irtisanomiseen.
-   14 päivää neuvotteluesityk- sen tekemisestä, ellei paikal- lisesti ole sovittu toisin.
-  Enintään 90 päivää kestävään vähintään kymmeneen työnte- kijään kohdistuvaan lomautta- miseen.
-  14 päivää neuvotteluesityk- sen tekemisestä, ellei paikal- lisesti ole sovittu toisin.
-  Vähintään kymmenen työnteki- jän osa-aikaistamiseen, lomaut- tamiseen yli 90 päivän ajaksi tai irtisanomiseen.
-    Kuusi viikkoa neuvottelu- esityksen tekemisestä,ellei paikallisesti ole sovittu toisin.
- Neuvotteluaika (koskee kaikkia toimenpiteitä) pienissä yrityksis- sä ja yrityssaneeraustilanteissa
-  Yritys, jonka työsuhteessa olevien työntekijöiden määrä on säännöllisesti vähintään 20 mutta alle 30.
-   14 päivää neuvotteluesi- tyksen tekemisestä, ellei paikallisesti ole sovittu toisin.
-  Yritys, joka on yrityksen sa- neerauksesta annetussa laissa tarkoitetun saneerausmenettelyn kohteena.
-    14 päivää neuvotteluesi- tyksen tekemisestä, ellei paikallisesti ole sovittu toisin.
- 158
+#### 39.2 Työntekijän kuuleminen
+Ennen kuin työnantaja irtisanoo työsopimuksen työsopimuslain 7 luvun 1-2 §:ssä tarkoitetulla perusteella tai purkaa sen mainitun lain 1 luvun 4 §:ssä tai 8 luvun 1 §:ssä tarkoitetusta syystä, on työntekijälle varattava mahdollisuus tulla kuulluksi työsopimuksen päättämisen perusteista. Työntekijällä on oikeus häntä kuultaessa käyttää avustajana esimerkiksi luottamusmiestä tai työtoveria.
 
-Työehtosopimus
-Työntekijöiden mahdollista irtisanomista edeltävien yhteistoi- mintaneuvottelujen alussa annettavasta tai esitettävästä työllisty- mistä edistävästä toimintasuunnitelmasta ja toimintaperiaatteista ks. liittojen muutosturva-aineisto.
-41 KORVAUKSET TYÖSOPIMUKSEN PERUSTEETTOMASTA PÄÄTTÄMISESTÄ JA TYÖNTEKIJÄN PERUSTEETTOMASTA LOMAUTTAMISESTA
-41.1 Korvausten määräytyminen
-Työnantajan korvausvelvollisuus työehtosopimuksen mukaisten perusteiden vastaisesta työsopimuksen irtisanomisesta määräy- tyy työsopimuslain 12 luvun 2 §:n mukaisesti.
-Jos työsopimus on purettu tai sitä on käsitelty purkautuneena työehtosopimuksen mukaisten perusteiden vastaisesti, irtisano- misajan menetyksestä syntynyt vahinko on korvattava tämän so- pimuksen kohdan 38.2 1. kappaleen mukaisesti.
-Jos työsopimuksen päättämiseen edes irtisanomalla ei olisi ollut oikeutta, edellisen lisäksi maksettava korvaus määräytyy työso- pimuslain 12 luvun 2 §:n mukaisesti.
-Vahingonkorvaus työntekijän työehtosopimuksen mukaisten pe- rusteiden vastaisesta lomauttamisesta määräytyy työsopimuslain 12 luvun 1 §:n mukaisesti.
- 159
+#### 39.3 Ilmoitus työsopimuksen päättämisestä
+Ilmoitus työsopimuksen päättämisestä on toimitettava työnantajalle tai tämän edustajalle taikka työntekijälle henkilökohtaisesti. Jollei tämä ole mahdollista, ilmoitus voidaan toimittaa kirjeitse tai sähköisesti. Tällaisen ilmoituksen katsotaan tulleen vastaanottajan tietoon viimeistään seitsemäntenä päivänä sen jälkeen, kun ilmoitus on lähetetty.
 
-Työehtosopimus
-41.2 Yhden korvauksen periaate ja korvauksen suhde hyvityssakkoon
-Työnantajaa ei voida tuomita tässä kohdassa tarkoitettuun kor- vaukseen työsopimuslain nojalla määrättyjen korvausten lisäksi eikä sijasta.
+Työntekijän ollessa lain tai sopimuksen mukaisella vuosilomalla tai työajan tasoittumiseksi annetulla vähintään kahden viikon pituisella vapaalla katsotaan kirjeitse tai sähköisesti lähetettyyn ilmoitukseen perustuva päättäminen kuitenkin toimitetuksi aikaisintaan loman tai vapaan päättymistä seuraavana päivänä.
+
+Toimitettaessa työsopimuksen päättämisilmoitus kirjeitse tai sähköisesti katsotaan työsopimuslain 1 luvun 4 ja 8 luvun 1 §:issä tarkoitettuihin päättämisperusteisiin vedotun sovitussa tai säädetyssä ajassa, jos ilmoitus tuon ajan kuluessa on jätetty postin kuljetettavaksi tai lähetetty sähköisesti.
+
+#### 39.4 Työsopimuksen päättämisen perusteiden ilmoittaminen
+Työnantajan on työntekijän pyynnöstä viivytyksettä ilmoitettava kirjallisesti työsopimuksen päättymispäivämäärä sekä ne työnantajan tiedossa olevat irtisanomisen tai purkamisen syyt, joiden perusteella työsopimus on päätetty.
+
+### 40 NEUVOTTELUMENETTELY TYÖVOIMAN KÄYTTÖÄ VÄHENNETTÄESSÄ
+Jos työpaikalla syntyy tarve irtisanoa, lomauttaa tai osa-aikaistaa työntekijöitä taloudellisista, tuotannollisista tai työnantajan toiminnan uudelleenjärjestelyistä johtuvista syistä, työnantajan on noudatettava yhteistoiminnasta yrityksissä annetun lain (334/07) säännöksiä kuitenkin tässä kohdassa sovituin poikkeuksin. Neuvotteluvelvollisuus koskee yrityksiä, jotka kuuluvat yhteistoiminnasta yrityksissä annetun lain (334/07) soveltamispiiriin.
+
+Yhteistoimintalaki ei ole työehtosopimuksen osa. Tämän luvun määräykset ovat lakia täydentäviä ja niillä korvataan lain vastaavat kohdat.
+
+Yhteistoimintalain (1333/2021) 19 ja 23 §:istä poiketen yhteistoimintavelvoitteet katsotaan täytetyksi, kun asiaa on käsitelty yhteistoimintamenettelyssä kirjallisen neuvotteluesityksen tekemisen jälkeen työehtosopimuksessa määriteltyjen neuvotteluaikojen mukaisesti.
+
+Työnantajan on huolehdittava, että ennen neuvotteluja annettavat yhteistoimintalain (1333/2021) 19 §:n mukaiset tiedot ovat riittäviä neuvottelujen aloittamiseksi. Neuvottelut voidaan aloittaa heti tarpeellisen valmistautumisajan jälkeen.
+
+###### Neuvotteluajat:
+Neuvottelujen kohteena on toimenpide, joka ilmeisesti johtaa alle kymmenen työntekijän osa- aikaistamiseen, lomauttamiseen tai irtisanomiseen. Neuvotteluaika on 14 päivää neuvotteluesityksen tekemisestä, ellei paikallisesti ole sovittu toisin.
+
+Neuvottelujen kohteena on toimenpide, joka ilmeisesti johtaa enintään 90 päivää kestävään vähintään kymmeneen työntekijään kohdistuvaan lomauttamiseen. Neuvotteluaika on 14 päivää neuvotteluesityksen tekemisestä, ellei paikallisesti ole sovittu toisin.
+
+Neuvottelujen kohteena on toimenpide, joka ilmeisesti johtaa vähintään kymmenen työntekijän osa-aikaistamiseen, lomauttamiseen yli 90 päivän ajaksi tai irtisanomiseen. Neuvotteluaika on kuusi viikkoa neuvotteluesityksen tekemisestä,ellei paikallisesti ole sovittu toisin.
+
+###### Neuvotteluaika (koskee kaikkia toimenpiteitä) pienissä yrityksissä ja yrityssaneeraustilanteissa:
+Yritys, jonka työsuhteessa olevien työntekijöiden määrä on säännöllisesti vähintään 20 mutta alle 30. Neuvotteluaika on 14 päivää neuvotteluesityksen tekemisestä, ellei paikallisesti ole sovittu toisin.
+
+Yritys, joka on yrityksen saneerauksesta annetussa laissa tarkoitetun saneerausmenettelyn kohteena. Neuvotteluaika on 14 päivää neuvotteluesityksen tekemisestä, ellei paikallisesti ole sovittu toisin.
+
+Työntekijöiden mahdollista irtisanomista edeltävien yhteistoimintaneuvottelujen alussa annettavasta tai esitettävästä työllistymistä edistävästä toimintasuunnitelmasta ja toimintaperiaatteista ks. liittojen muutosturva-aineisto.
+
+### 41 KORVAUKSET TYÖSOPIMUKSEN PERUSTEETTOMASTA PÄÄTTÄMISESTÄ JA TYÖNTEKIJÄN PERUSTEETTOMASTA LOMAUTTAMISESTA
+
+#### 41.1 Korvausten määräytyminen
+Työnantajan korvausvelvollisuus työehtosopimuksen mukaisten perusteiden vastaisesta työsopimuksen irtisanomisesta määräytyy työsopimuslain 12 luvun 2 §:n mukaisesti.
+
+Jos työsopimus on purettu tai sitä on käsitelty purkautuneena työehtosopimuksen mukaisten perusteiden vastaisesti, irtisanomisajan menetyksestä syntynyt vahinko on korvattava tämän sopimuksen kohdan 38.2 1. kappaleen mukaisesti.
+
+Jos työsopimuksen päättämiseen edes irtisanomalla ei olisi ollut oikeutta, edellisen lisäksi maksettava korvaus määräytyy työsopimuslain 12 luvun 2 §:n mukaisesti.
+
+Vahingonkorvaus työntekijän työehtosopimuksen mukaisten perusteiden vastaisesta lomauttamisesta määräytyy työsopimuslain 12 luvun 1 §:n mukaisesti.
+
+#### 41.2 Yhden korvauksen periaate ja korvauksen suhde hyvityssakkoon
+Työnantajaa ei voida tuomita tässä kohdassa tarkoitettuun korvaukseen työsopimuslain nojalla määrättyjen korvausten lisäksi eikä sijasta.
 Jos työnantaja tuomitaan maksamaan työntekijälle korvausta työsopimuksen perusteettomasta päättämisestä tai työntekijän perusteettomasta lomauttamisesta, häntä ei voida tuomita lisäksi maksamaan työehtosopimuslain 7 §:n mukaista hyvityssakkoa saman perusteen johdosta.
-41.3 Menettelytapamääräysten rikkominen
-Työnantajaa ei voida tuomita maksamaan työehtosopimuslain 7 §:n mukaista hyvityssakkoa tämän luvun menettelytapamääräys- ten noudattamatta jättämisen perusteella.
-Menettelyä koskevien määräysten noudattamatta jättäminen ote- taan huomioon korottavana tekijänä työsopimuksen perusteetto- masta päättämisestä ja lomauttamisesta tuomittavan korvauksen suuruutta määrättäessä.
-42 TOIMIVALTAINEN TUOMIOISTUIN JA KANNEAIKA
-Jos työsopimuksen päättämistä tai työntekijän lomauttamista koskevissa työehtosopimuksen 45. luvun mukaisissa erimieli- syysneuvotteluissa ei päästä sovintoon, asia voidaan saattaa työ- tuomioistuimen ratkaistavaksi.
+
+#### 41.3 Menettelytapamääräysten rikkominen
+Työnantajaa ei voida tuomita maksamaan työehtosopimuslain 7 §:n mukaista hyvityssakkoa tämän luvun menettelytapamääräysten noudattamatta jättämisen perusteella.
+
+Menettelyä koskevien määräysten noudattamatta jättäminen otetaan huomioon korottavana tekijänä työsopimuksen perusteettomasta päättämisestä ja lomauttamisesta tuomittavan korvauksen suuruutta määrättäessä.
+
+### 42 TOIMIVALTAINEN TUOMIOISTUIN JA KANNEAIKA
+Jos työsopimuksen päättämistä tai työntekijän lomauttamista koskevissa työehtosopimuksen 45. luvun mukaisissa erimielisyysneuvotteluissa ei päästä sovintoon, asia voidaan saattaa työtuomioistuimen ratkaistavaksi.
+
 Työsuhteen päättyessä oikeus työehtosopimuksen kohdan 41.1 mukaiseen korvaukseen raukeaa, jos kannetta ei nosteta kahden vuoden kuluessa siitä, kun työsuhde on päättynyt.
- 160
 
-Työehtosopimus
-VIII LUOTTAMUSMIEHET, PAIKALLINEN SOPIMINEN JA ERIMIELISYYKSIEN RATKAISEMINEN
-Luottamusmiesjärjestelmä on osa yrityksen ja henkilöstön välistä yhteistoimintaa. Luottamusmies on työntekijöiden edunvalvoja työehtosopimuksen soveltamista ja erimielisyyksiä koskevissa kysymyksissä. Luottamusmies on ammattiosaston edustajana velvollinen ylläpitämään ja edistämään työrauhaa. Luottamus- miestehtävässä onnistuminen edellyttää työnantajan ja luotta- musmiehen yhteistä myötävaikutusta.
-Yhteistoiminnalla ja paikallisella sopimisella sen osana vaikute- taan yrityksen tuottavuuden, kilpailukyvyn ja työllisyyden yllä- pitoon ja kehittämiseen. Samalla syntyy edellytykset työhyvin- voinnin parantamiselle. Paikallinen sopiminen on ennen kaikkea toiminnan kehittämisen väline. Tarpeellisista keinoista sovitaan, kun tavoitteet on selvitetty.
-Liitot avustavat tarvittaessa työpaikalla syntyneiden työehtosopi- muksen oikeaan soveltamiseen tai tulkintaan liittyvien erimieli- syyksien ratkaisemisessa.
-43 LUOTTAMUSMIEHET
-43.1 Luottamusmiesjärjestelmän tarkoitus
-Luottamusmiesjärjestelmän tarkoituksena on luoda edellytykset yrityksen ja henkilöstön välisen yhteistoiminnan kehittämiselle sekä työehtosopimuksen oikean soveltamisen ja paikallisen so- pimisen edistämiselle. Luottamusmiehen keskeisenä tehtävänä on toimia osana paikallista työehtosopimuksen toteuttamiseen liittyvää neuvottelujärjestelmää ja huolehtia osaltaan siitä, että:
- 161
+## VIII LUOTTAMUSMIEHET, PAIKALLINEN SOPIMINEN JA ERIMIELISYYKSIEN RATKAISEMINEN
+Luottamusmiesjärjestelmä on osa yrityksen ja henkilöstön välistä yhteistoimintaa. Luottamusmies on työntekijöiden edunvalvoja työehtosopimuksen soveltamista ja erimielisyyksiä koskevissa kysymyksissä. Luottamusmies on ammattiosaston edustajana velvollinen ylläpitämään ja edistämään työrauhaa. Luottamusmiestehtävässä onnistuminen edellyttää työnantajan ja luottamusmiehen yhteistä myötävaikutusta.
+Yhteistoiminnalla ja paikallisella sopimisella sen osana vaikutetaan yrityksen tuottavuuden, kilpailukyvyn ja työllisyyden ylläpitoon ja kehittämiseen. Samalla syntyy edellytykset työhyvinvoinnin parantamiselle. Paikallinen sopiminen on ennen kaikkea toiminnan kehittämisen väline. Tarpeellisista keinoista sovitaan, kun tavoitteet on selvitetty.
 
-Työehtosopimus
-• työehtosopimusta sovelletaan oikein ja sitä noudatetaan,
-• erimielisyydet selvitetään nopeasti ja tarkoituksenmukaisesti,
-• yhteistoimintaa ja paikallista sopimista edistetään ja
-• työrauhaa ylläpidetään ja edistetään.
-Luottamusmiesjärjestelmän tehtävänä on tarjota väylä yrityksen toimintojen, henkilöstön vaikutusmahdollisuuksien ja tuottavuu- den parantamiselle.
-43.2 Luottamusmiehen asema
-Luottamusmiehellä on tehtävää hoitaessaan erityisiä oikeuksia sekä vastaavasti velvollisuuksia. Työehtosopimuksesta ja työ- lainsäädännöstä johtuvien tehtävien lisäksi voidaan sopia muista- kin työpaikan tarpeen mukaisista luottamusmiehelle soveltuvista tehtävistä, jotka saattavat liittyä henkilöstön edustamiseen mm. erilaisissa kehittämishankkeissa.
-43.3 Luottamusmieskelpoisuus ja luottamusmiehen valitseminen
-43.3.1 Luottamusmies ammattiosaston edustajana
-Luottamusmiehellä tarkoitetaan ammattiosaston valitsemaa pää- luottamusmiestä ja luottamusmiestä. Ammattiosastolla tarkoite- taan Teollisuusliitto ry:n rekisteröityä ammattiosastoa.
-43.3.2 Luottamusmiehen kelpoisuus
+Liitot avustavat tarvittaessa työpaikalla syntyneiden työehtosopimuksen oikeaan soveltamiseen tai tulkintaan liittyvien erimielisyyksien ratkaisemisessa.
+
+### 43 LUOTTAMUSMIEHET
+
+#### 43.1 Luottamusmiesjärjestelmän tarkoitus
+Luottamusmiesjärjestelmän tarkoituksena on luoda edellytykset yrityksen ja henkilöstön välisen yhteistoiminnan kehittämiselle sekä työehtosopimuksen oikean soveltamisen ja paikallisen sopimisen edistämiselle. 
+
+Luottamusmiehen keskeisenä tehtävänä on toimia osana paikallista työehtosopimuksen toteuttamiseen liittyvää neuvottelujärjestelmää ja huolehtia osaltaan siitä, että työehtosopimusta sovelletaan oikein ja sitä noudatetaan, erimielisyydet selvitetään nopeasti ja tarkoituksenmukaisesti, yhteistoimintaa ja paikallista sopimista edistetään ja työrauhaa ylläpidetään ja edistetään.
+
+Luottamusmiesjärjestelmän tehtävänä on tarjota väylä yrityksen toimintojen, henkilöstön vaikutusmahdollisuuksien ja tuottavuuden parantamiselle.
+
+#### 43.2 Luottamusmiehen asema
+Luottamusmiehellä on tehtävää hoitaessaan erityisiä oikeuksia sekä vastaavasti velvollisuuksia. Työehtosopimuksesta ja työlainsäädännöstä johtuvien tehtävien lisäksi voidaan sopia muistakin työpaikan tarpeen mukaisista luottamusmiehelle soveltuvista tehtävistä, jotka saattavat liittyä henkilöstön edustamiseen mm. erilaisissa kehittämishankkeissa.
+
+#### 43.3 Luottamusmieskelpoisuus ja luottamusmiehen valitseminen
+
+##### 43.3.1 Luottamusmies ammattiosaston edustajana
+Luottamusmiehellä tarkoitetaan ammattiosaston valitsemaa pääluottamusmiestä ja luottamusmiestä. Ammattiosastolla tarkoitetaan Teollisuusliitto ry:n rekisteröityä ammattiosastoa.
+
+##### 43.3.2 Luottamusmiehen kelpoisuus
 Luottamusmiehen tulee olla asianomaisen työpaikan työntekijä ja perehtynyt työpaikan olosuhteisiin sen työntekijänä.
-Luottamusmiestä valittaessa tulisi kiinnittää huomiota mm. seu- raaviin luottamusmiestehtävän menestyksellisen hoitamisen kan- nalta merkityksellisiin seikkoihin:
- 162
 
-Työehtosopimus
+Luottamusmiestä valittaessa tulisi kiinnittää huomiota mm. seuraaviin luottamusmiestehtävän menestyksellisen hoitamisen kannalta merkityksellisiin seikkoihin:
 • henkilön valmiudet luottamusmiestehtävän edellyttämään koulutukseen ja kehittymiseen,
 • henkilön valmius luottamusmiestehtävän vastuulliseen ja pitkäjänteiseen hoitamiseen sekä
-• henkilön riittävät vuorovaikutustaidot ja kyky tehdä päätök- siä myös vaikeista asioista.
-43.3.3 Luottamusmiehen valitseminen
-Ammattiosasto valitsee pääluottamusmiehen, hänen varamiehen- sä ja luottamusmiehen.
-Mikäli luottamusmiehen toimialueella on vähintään 75 työnteki- jää, ammattiosasto valitsee hänelle myös varamiehen.
-A. Toimialueista ja lukumääristä sopiminen
-Luottamusmiesten toimialueista ja lukumääristä sovitaan paikal- lisesti työnantajan ja pääluottamusmiehen välillä liittojen sopimi- en seuraavien ohjeiden mukaisesti:
-• Luottamusmiehellä tarkoitetaan henkilöä, joka valitaan tuo- tannon organisoinnin mukaisesti muodostuvan toiminnalli- sen yksikön luottamusmieheksi. Alue, jolle luottamusmies valitaan, määräytyy yrityksen tuotannollisiin tai toiminnal- lisiin näkökohtiin perustuvien luonnollisten rajojen mukai- sesti.
-• Luottamusmiesten toimialueiden tulee olla sellaisia, että neuvottelujärjestelmän mukainen asioiden käsittely on mah- dollista järjestää tehokkaasti ja toimivasti.
-• Ellei valittavien luottamusmiesten toimialueista tai luku- määrästä päästä sopimukseen, asia voidaan alistaa liittojen ratkaistavaksi.
- 163
+• henkilön riittävät vuorovaikutustaidot ja kyky tehdä päätöksiä myös vaikeista asioista.
 
-Työehtosopimus
-B. Sopiminen luottamusmiehen asettamisesta tiettyä tehtävää varten
-Asioiden laadun ja/tai laajuuden sitä vaatiessa voidaan valita myös luottamusmies, joka asetetaan tiettyä, pääluottamusmiehen ja työnantajan välillä paikallisesti sovittua tehtävää varten. Täl- laisen luottamusmiehen toimenkuvasta tulee sopia kirjallisesti mahdollisimman täsmällisesti. Toimenkuvauksen tulee olla yh- teensopiva muiden luottamusmiesten toimivaltuuksien kanssa.
-C. Luottamusmies- ja työsuojelutehtävien yhdistäminen
-Paikallisesti voidaan sopia työnantajan ja pääluottamusmiehen välillä siitä, että työsuojeluvaltuutetun tehtäviä hoitaa pääluotta- musmies tai päinvastoin.
-Paikallisesti voidaan sopia työnantajan ja pääluottamusmiehen välillä myös siitä, että työsuojeluasiamiehen tehtäviä hoitaa luot- tamusmies tai päinvastoin.
-D. Luottamusmiehen valitseminen ja asema yritysjärjestelyjen yhteydessä
-Jos yritys on yhtiöitetty eli yritys on jaettu useampiin, henkilös- töasiatkin itsenäisesti hoitaviin yrityksiin, valitaan kuhunkin näin muodostettuun yritykseen oma pääluottamusmies.
+##### 43.3.3 Luottamusmiehen valitseminen
+Ammattiosasto valitsee pääluottamusmiehen, hänen varamiehensä ja luottamusmiehen.
+Mikäli luottamusmiehen toimialueella on vähintään 75 työntekijää, ammattiosasto valitsee hänelle myös varamiehen.
+
+###### A. Toimialueista ja lukumääristä sopiminen
+Luottamusmiesten toimialueista ja lukumääristä sovitaan paikallisesti työnantajan ja pääluottamusmiehen välillä liittojen sopimien seuraavien ohjeiden mukaisesti:
+• Luottamusmiehellä tarkoitetaan henkilöä, joka valitaan tuotannon organisoinnin mukaisesti muodostuvan toiminnallisen yksikön luottamusmieheksi. Alue, jolle luottamusmies valitaan, määräytyy yrityksen tuotannollisiin tai toiminnallisiin näkökohtiin perustuvien luonnollisten rajojen mukaisesti.
+• Luottamusmiesten toimialueiden tulee olla sellaisia, että neuvottelujärjestelmän mukainen asioiden käsittely on mahdollista järjestää tehokkaasti ja toimivasti.
+• Ellei valittavien luottamusmiesten toimialueista tai lukumäärästä päästä sopimukseen, asia voidaan alistaa liittojen ratkaistavaksi.
+
+###### B. Sopiminen luottamusmiehen asettamisesta tiettyä tehtävää varten
+Asioiden laadun ja/tai laajuuden sitä vaatiessa voidaan valita myös luottamusmies, joka asetetaan tiettyä, pääluottamusmiehen ja työnantajan välillä paikallisesti sovittua tehtävää varten. Tällaisen luottamusmiehen toimenkuvasta tulee sopia kirjallisesti mahdollisimman täsmällisesti. Toimenkuvauksen tulee olla yhteensopiva muiden luottamusmiesten toimivaltuuksien kanssa.
+
+###### C. Luottamusmies- ja työsuojelutehtävien yhdistäminen
+Paikallisesti voidaan sopia työnantajan ja pääluottamusmiehen välillä siitä, että työsuojeluvaltuutetun tehtäviä hoitaa pääluottamusmies tai päinvastoin.
+Paikallisesti voidaan sopia työnantajan ja pääluottamusmiehen välillä myös siitä, että työsuojeluasiamiehen tehtäviä hoitaa luottamusmies tai päinvastoin.
+
+###### D. Luottamusmiehen valitseminen ja asema yritysjärjestelyjen yhteydessä
+Jos yritys on yhtiöitetty eli yritys on jaettu useampiin, henkilöstöasiatkin itsenäisesti hoitaviin yrityksiin, valitaan kuhunkin näin muodostettuun yritykseen oma pääluottamusmies.
+
 Jos päinvastoin itsenäisenä yrityksenä toimineiden yksikköjen toiminnot on yhdistetty yhdeksi yritykseksi, valitaan vastaavasti näin muodostettuun yksikköön yksi pääluottamusmies.
-Pääluottamusmiehen asema jatkuu liikkeen luovutuksesta huo- limatta sellaisenaan, jos luovutettu liike tai sen osa säilyttää it- senäisyytensä. Jos luovutettava liike tai sen osa menettää itse- näisyytensä, pääluottamusmiehellä on oikeus tämän luvun ala- kohdassa 43.6.5 sovittuun jälkisuojaan liikkeen luovutuksesta johtuneesta toimikauden päättymisestä lukien.
- 164
 
-E. Luottamusmiehen vaali työpaikalla
-Ammattiosastolla on oikeus suorittaa luottamusmiehen vaali työpaikalla. Jos vaali suoritetaan työpaikalla, on ammattiosaston kaikille jäsenille varattava tilaisuus osallistua vaaliin. Vaalin jär- jestäminen ja toimittaminen ei saa häiritä työntekoa.
-Vaaliajoista ja vaalipaikoista on sovittava työnantajan kanssa vii- meistään kaksi viikkoa ennen vaalin toimittamista. Työnantaja varaa ammattiosaston nimeämille henkilöille tilaisuuden vaalin toimittamiseen.
-F. Valituista luottamusmiehistä ilmoittaminen ja luottamusmies- aseman syntyminen
-Valituista luottamusmiehistä on ammattiosaston kirjallisesti il- moitettava työnantajalle. Pääluottamusmiehelle valitusta vara- miehestä on lisäksi ilmoitettava, milloin hän toimii pääluotta- musmiehen sijaisena. Sama koskee luottamusmiehen varamiestä.
-Luottamusmiesaseman syntyminen edellyttää, että luottamus- miesten määrästä, toimialueista ja tiettyä tehtävää varten aset- tamisesta on tämän alakohdan mukaisesti sovittu työnantajan kanssa ja että ammattiosasto on ilmoittanut valituista luottamus- miehistä työnantajalle kirjallisesti.
-G. Työnantajan neuvottelijat ja paikallinen neuvottelujärjestys
+Pääluottamusmiehen asema jatkuu liikkeen luovutuksesta huolimatta sellaisenaan, jos luovutettu liike tai sen osa säilyttää itsenäisyytensä. Jos luovutettava liike tai sen osa menettää itsenäisyytensä, pääluottamusmiehellä on oikeus tämän luvun alakohdassa 43.6.5 sovittuun jälkisuojaan liikkeen luovutuksesta johtuneesta toimikauden päättymisestä lukien.
+
+###### E. Luottamusmiehen vaali työpaikalla
+Ammattiosastolla on oikeus suorittaa luottamusmiehen vaali työpaikalla. Jos vaali suoritetaan työpaikalla, on ammattiosaston kaikille jäsenille varattava tilaisuus osallistua vaaliin. Vaalin järjestäminen ja toimittaminen ei saa häiritä työntekoa.
+Vaaliajoista ja vaalipaikoista on sovittava työnantajan kanssa viimeistään kaksi viikkoa ennen vaalin toimittamista. Työnantaja varaa ammattiosaston nimeämille henkilöille tilaisuuden vaalin toimittamiseen.
+
+###### F. Valituista luottamusmiehistä ilmoittaminen ja luottamusmiesaseman syntyminen
+Valituista luottamusmiehistä on ammattiosaston kirjallisesti ilmoitettava työnantajalle. Pääluottamusmiehelle valitusta varamiehestä on lisäksi ilmoitettava, milloin hän toimii pääluottamusmiehen sijaisena. Sama koskee luottamusmiehen varamiestä.
+
+Luottamusmiesaseman syntyminen edellyttää, että luottamusmiesten määrästä, toimialueista ja tiettyä tehtävää varten asettamisesta on tämän alakohdan mukaisesti sovittu työnantajan kanssa ja että ammattiosasto on ilmoittanut valituista luottamusmiehistä työnantajalle kirjallisesti.
+
+###### G. Työnantajan neuvottelijat ja paikallinen neuvottelujärjestys
 Työnantaja ilmoittaa luottamusmiehelle, ketkä käyvät yrityksen puolesta neuvotteluja luottamusmiehen kanssa.
-43.3.4 Luottamusmiehen tehtävät
-A. Perustehtävät
-Luottamusmies edustaa ammattiosastoa työehtosopimuksen ja työlainsäädännön soveltamista koskevissa asioissa sekä työnan- tajan ja työntekijän välisiin suhteisiin liittyvissä kysymyksissä
-Työehtosopimus
- 165
 
-Työehtosopimus
+##### 43.3.4 Luottamusmiehen tehtävät
+
+###### A. Perustehtävät
+Luottamusmies edustaa ammattiosastoa työehtosopimuksen ja työlainsäädännön soveltamista koskevissa asioissa sekä työnantajan ja työntekijän välisiin suhteisiin liittyvissä kysymyksissä:
 • osallistumalla tarvittaessa työnantajan ja työntekijän välillä syntyvien erimielisyyskysymysten selvittämiseen
 • valvomalla, että työntekijät noudattavat työehtosopimusta ja paikallisia sopimuksia
 • vastaamalla ammattiosaston edustajana työrauhan ylläpitä- misestä ja edistämisestä työehtosopimusjärjestelmän edel- lyttämällä tavalla
 • toimimalla yrityksen ja henkilöstön välisen yhteistoiminnan ylläpitämiseksi ja kehittämiseksi.
-Työtaistelutilanteessa tai sen uhatessa tulee työnantajan ja luot- tamusmiehen todeta, mihin työtaistelutoimi kohdistuu ja mitkä ovat muut työrauhan rikkoutumiseen johtaneet syyt. Samalla tu- lee selvittää toimenpiteet, joilla voidaan rajoittaa yritykselle työ- taistelutoimesta johtuvia vahinkoja.
-B. Työpaikalla sovittavat tehtävät
-Työpaikoilla on erilaisia tarpeita pyrkiä hyödyntämään luotta- musmiesten osaamista ja vaikutusmahdollisuuksia. Luottamus- miehen osallistumisesta, tehtävistä, tavoitteista, toimintaedelly- tyksistä ja vastuista esimerkiksi projektityyppisissä toimeksian- noissa sovitaan työnantajan ja luottamusmiehen välillä erikseen.
-43.4 Luottamusmiehen toimintaedellytykset 43.4.1 Luottamusmiehelle annettavat tiedot
-A. Epäselvyydet ja erimielisyydet
+
+Työtaistelutilanteessa tai sen uhatessa tulee työnantajan ja luottamusmiehen todeta, mihin työtaistelutoimi kohdistuu ja mitkä ovat muut työrauhan rikkoutumiseen johtaneet syyt. Samalla tulee selvittää toimenpiteet, joilla voidaan rajoittaa yritykselle työtaistelutoimesta johtuvia vahinkoja.
+
+###### B. Työpaikalla sovittavat tehtävät
+Työpaikoilla on erilaisia tarpeita pyrkiä hyödyntämään luottamusmiesten osaamista ja vaikutusmahdollisuuksia. Luottamusmiehen osallistumisesta, tehtävistä, tavoitteista, toimintaedellytyksistä ja vastuista esimerkiksi projektityyppisissä toimeksiannoissa sovitaan työnantajan ja luottamusmiehen välillä erikseen.
+
+#### 43.4 Luottamusmiehen toimintaedellytykset 
+
+##### 43.4.1 Luottamusmiehelle annettavat tiedot
+
+###### A. Epäselvyydet ja erimielisyydet
 Jos syntyy epäselvyyttä tai erimielisyyttä työntekijän palkasta tai työsuhteeseen liittyvien lakien tai sopimusten soveltamisesta, on asiaa selvittävälle luottamusmiehelle annettava kaikki tarvittavat tiedot.
- 166
 
-B. Varoitus
-Jos työntekijälle on annettu varoitus, siitä tulee ilmoittaa luotta- musmiehelle, jos tämä ei ollut läsnä varoitusta annettaessa.
-C. Kehittämis- ja muut tehtävät
-Luottamusmiehelle, joka osallistuu kehittämis- ja muihin vas- taaviin tehtäviin, annetaan asianmukaiset tiedot hankkeen tavoit- teista, toteuttamistoimenpiteiden läpiviennistä ja yritystoiminnan ehdoista.
-Avoin tiedonkulku mahdollistaa osapuolille edellytykset neuvo- tella asioista. Tiedot on annettava niin aikaisessa vaiheessa kuin mahdollista. Mikäli annettavat tiedot sisältävät työnantajan erik- seen osoittamia liike- tai ammattisalaisuuksia, tulee nämä tiedot pitää salassa.
-D. Keskustelu neuvottelujärjestelmän tavoitteista ja toimivuudes- ta
-Työpaikoilla tulee käydä säännöllisesti – kahden kuukauden kuluessa luottamusmieskauden alkamisesta ja tämän jälkeen vuosittain – keskustelu, jossa käsitellään työpaikan neuvottelu- järjestelmälle asetettavia/asetettuja tavoitteita ja sen toimivuutta. Keskustelun osapuolina ovat kukin luottamusmies oman vasta- neuvottelijansa kanssa sekä tarpeen vaatiessa he kaikki yhdessä ja siinä annetaan molemminpuolista palautetta, jonka pohjalta yhteistyötä pyritään edelleen parantamaan. Samalla suunnitel- laan luottamusmiehen tehtävään liittyvän koulutuksen tarve, ai- kataulut ja tavoitteet.
-43.4.2 Pääluottamusmiehelle annettavat tiedot
-Pääluottamusmiehellä on oikeus saada kirjallisesti seuraavat yri- tyksen työntekijöitä koskevat tiedot.
-Työehtosopimus
- 167
+###### B. Varoitus
+Jos työntekijälle on annettu varoitus, siitä tulee ilmoittaa luottamusmiehelle, jos tämä ei ollut läsnä varoitusta annettaessa.
 
-Työehtosopimus
-A. Henkilötiedot
+###### C. Kehittämis- ja muut tehtävät
+Luottamusmiehelle, joka osallistuu kehittämis- ja muihin vastaaviin tehtäviin, annetaan asianmukaiset tiedot hankkeen tavoitteista, toteuttamistoimenpiteiden läpiviennistä ja yritystoiminnan ehdoista.
+
+Avoin tiedonkulku mahdollistaa osapuolille edellytykset neuvotella asioista. Tiedot on annettava niin aikaisessa vaiheessa kuin mahdollista. Mikäli annettavat tiedot sisältävät työnantajan erikseen osoittamia liike- tai ammattisalaisuuksia, tulee nämä tiedot pitää salassa.
+
+###### D. Keskustelu neuvottelujärjestelmän tavoitteista ja toimivuudes- ta
+Työpaikoilla tulee käydä säännöllisesti – kahden kuukauden kuluessa luottamusmieskauden alkamisesta ja tämän jälkeen vuosittain – keskustelu, jossa käsitellään työpaikan neuvottelujärjestelmälle asetettavia/asetettuja tavoitteita ja sen toimivuutta. Keskustelun osapuolina ovat kukin luottamusmies oman vastaneuvottelijansa kanssa sekä tarpeen vaatiessa he kaikki yhdessä ja siinä annetaan molemminpuolista palautetta, jonka pohjalta yhteistyötä pyritään edelleen parantamaan. Samalla suunnitellaan luottamusmiehen tehtävään liittyvän koulutuksen tarve, aikataulut ja tavoitteet.
+
+##### 43.4.2 Pääluottamusmiehelle annettavat tiedot
+Pääluottamusmiehellä on oikeus saada kirjallisesti seuraavat yrityksen työntekijöitä koskevat tiedot.
+
+###### A. Henkilötiedot
 1. Työntekijän suku- ja etunimet
-2. Palvelukseen tuloaika uusista työntekijöistä ja irtisanomis-
-ja lomautustapauksissa kaikista työntekijöistä
+2. Palvelukseen tuloaika uusista työntekijöistä ja irtisanomis- ja lomautustapauksissa kaikista työntekijöistä
 3. Organisatorinen osasto
 4. Palkkaryhmä tai työnvaativuusryhmä
-Edellä kohdissa 1, 3 ja 4 mainitut tiedot annetaan kerran vuodes- sa. Uusista työntekijöistä annetaan edellä 1-4 mainitut tiedot joko kustakin erikseen välittömästi työsuhteen alettua tai ajanjaksoit- tain, kuitenkin ainakin neljännesvuosittain. Kaikista työntekijöis- tä annetaan palvelukseen tuloaikatieto irtisanomis- ja lomautta- mistapauksissa.
-B. Tilastotiedot palkoista ja työtunneista sekä tiedot palkkara- kenteesta
-I Työpaikat, joissa henkilöstön määrä on säännöllisesti vä- hintään 30 henkilöä:
-1. Keskimääräisen tuntiansion ilman erillisiä vuorotyö- ja olo- suhdelisiä sekä sunnuntaityö- ja ylityökorotuksia
+
+Edellä kohdissa 1, 3 ja 4 mainitut tiedot annetaan kerran vuodessa. Uusista työntekijöistä annetaan edellä 1-4 mainitut tiedot joko kustakin erikseen välittömästi työsuhteen alettua tai ajanjaksoittain, kuitenkin ainakin neljännesvuosittain. Kaikista työntekijöistä annetaan palvelukseen tuloaikatieto irtisanomis- ja lomauttamistapauksissa.
+
+###### B. Tilastotiedot palkoista ja työtunneista sekä tiedot palkkarakenteesta
+I Työpaikat, joissa henkilöstön määrä on säännöllisesti vähintään 30 henkilöä:
+1. Keskimääräisen tuntiansion ilman erillisiä vuorotyö- ja olosuhdelisiä sekä sunnuntaityö- ja ylityökorotuksia:
 a) aikapalkkatyössä,
 b) urakkatyössä,
-c) osaurakka- ja palkkiotyössä sekä d) palkkaustavasta riippumatta.
-2. Keskimääräisen tuntiansion erillisine vuorotyö- ja olosuhde- lisineen ilman sunnuntaityö- ja ylityökorotuksia.
-3. Keskimääräisen tuntiansion erillisine vuorotyö- ja olosuhde- lisineen ja sunnuntaityökorotuksineen, mutta ilman ylityö- korotuksia.
- 168
-
-Työehtosopimus
+c) osaurakka- ja palkkiotyössä sekä 
+d) palkkaustavasta riippumatta.
+2. Keskimääräisen tuntiansion erillisine vuorotyö- ja olosuhdelisineen ilman sunnuntaityö- ja ylityökorotuksia.
+3. Keskimääräisen tuntiansion erillisine vuorotyö- ja olosuhdelisineen ja sunnuntaityökorotuksineen, mutta ilman ylityökorotuksia.
 4. Keskimääräisen kokonaistuntiansion, joka sisältää kaikki tehdyltä työajalta maksetut palkat, myös ylityökorotukset.
-5. Tiedot tehdyistä työtunneista, työajan prosentuaalisesta ja- kautumisesta palkkaustavoittain (aika-, urakka- sekä osau- rakka- ja palkkiotyö) ja ylityön prosentuaalisesta osuudesta kaikista työtunneista.
-Keskimääräistä tuntiansiota sekä työtunteja koskevat tiedot an- netaan palkkaryhmittäin (A, B ja C) erikseen miehistä ja naisista sekä kaikista palkkaryhmistä yhteensä. Tiedot annetaan IV vuo- sineljännekseltä sen jälkeen, kun työpaikkoja koskevat palkkati- lastot ovat valmistuneet.
-Edellä olevat tiedot koskevat yksinomaan täysin työkykyisiä, 18 vuotta täyttäneitä työntekijöitä. Palkkaryhmistä, joissa työnteki- jöitä on alle kuusi, ei tietoja kuitenkaan anneta.
-Lisäksi pääluottamusmies saa tiedot käytetyistä palkkaustavois- ta, työntekijöiden prosentuaalisesta jakautumisesta eri työnvaa- tivuusryhmiin ja palkan henkilökohtaisten osuuksien porrastuk- sesta porrastusryhmittäin.
+5. Tiedot tehdyistä työtunneista, työajan prosentuaalisesta jakautumisesta palkkaustavoittain (aika-, urakka- sekä osaurakka- ja palkkiotyö) ja ylityön prosentuaalisesta osuudesta kaikista työtunneista.
+Keskimääräistä tuntiansiota sekä työtunteja koskevat tiedot annetaan palkkaryhmittäin (A, B ja C) erikseen miehistä ja naisista sekä kaikista palkkaryhmistä yhteensä. Tiedot annetaan IV vuosineljännekseltä sen jälkeen, kun työpaikkoja koskevat palkkatilastot ovat valmistuneet.
+Edellä olevat tiedot koskevat yksinomaan täysin työkykyisiä, 18 vuotta täyttäneitä työntekijöitä. Palkkaryhmistä, joissa työntekijöitä on alle kuusi, ei tietoja kuitenkaan anneta.
+Lisäksi pääluottamusmies saa tiedot käytetyistä palkkaustavoista, työntekijöiden prosentuaalisesta jakautumisesta eri työnvaativuusryhmiin ja palkan henkilökohtaisten osuuksien porrastuksesta porrastusryhmittäin.
+
 II Työpaikat, joissa henkilöstön määrä on säännöllisesti alle 30 henkilöä:
-1. Keskimääräisen tuntiansion erillisine vuorotyö- ja olosuhde- lisineen ilman sunnuntaityö- ja ylityökorotuksia ja perustel- lusta syystä myös keskimääräisen tuntiansion ilman erillisiä lisiä palkkaustavoittain.
+1. Keskimääräisen tuntiansion erillisine vuorotyö- ja olosuhdelisineen ilman sunnuntaityö- ja ylityökorotuksia ja perustellusta syystä myös keskimääräisen tuntiansion ilman erillisiä lisiä palkkaustavoittain.
 2. Tiedot tehdyistä työtunneista ja ylityön prosentuaalisesta osuudesta kaikista työtunneista.
-Keskimääräistä tuntiansiota sekä työtunteja koskevat tiedot an- netaan kaikista työntekijöistä yhteensä IV vuosineljännekseltä.
- 169
+Keskimääräistä tuntiansiota sekä työtunteja koskevat tiedot annetaan kaikista työntekijöistä yhteensä IV vuosineljännekseltä.
 
-Työehtosopimus
 Edellä olevat tiedot koskevat yksinomaan täysin työkykyisiä, 18 vuotta täyttäneitä työntekijöitä.
-Lisäksi pääluottamusmies saa tiedot käytetyistä palkkaustavois- ta, työntekijöiden jakautumisesta eri työnvaativuusryhmiin ja palkan henkilökohtaisten osuuksien porrastuksesta porrastusryh- mittäin.
-C. Työvoimatiedot
-Pääluottamusmiehellä on oikeus saada vuosineljänneksittäin tie- dot yrityksen tai työpaikan täysin työkykyisten työntekijöiden, oppilaiden ja harjoittelijoiden ja mahdollisten osa-aikatyönteki- jöiden (erikseen miesten ja naisten) lukumääristä sekä työvoiman jakaantumisesta vuorotyölajeittain. Työvoimaa koskevat tiedot annetaan kunkin vuosineljänneksen sellaiselta ajankohdalta tai ajanjaksolta, jonka voidaan katsoa kuvaavan vuosineljänneksen normaalia työvoimatilannetta.
-D. Hinnoitteluperusteet
-Pääluottamusmiehellä on oikeus perehtyä yrityksessä kulloinkin voimassa oleviin työn hinnoittelujärjestelmiin.
-E. Hätä- ja ylityöluettelo
-Pääluottamusmiehellä on sama oikeus kuin lain mukaan on työ- suojeluvaltuutetulla perehtyä hätä- ja ylityöstä sekä niistä makse- tusta korotetusta palkasta laadittuun luetteloon.
-F. Aliurakoitsijoista ilmoittaminen
-Pääluottamusmiehellä on oikeus saada tiedot toimialueellaan toimivista aliurakoitsijoista ja niiden palveluksessa työpaikalla olevasta työvoimasta.
-Pääluottamusmiehelle annetaan pyydettäessä myös edellä tarkoi- tettujen aliurakoitsijoiden pääluottamusmiestä ja työsuojeluval- tuutettua koskevat yhteystiedot, jos ne ovat yrityksen käytettä- vissä.
-170
- 
-G. Tietojen luottamuksellisuus
-Pääluottamusmiehen on pidettävä tehtävien hoitamista varten saamansa tiedot luottamuksellisina.
-43.4.3 Vapautus työstä
-Luottamusmiehelle järjestetään säännöllistä tai tehtävien hoidon vaatima määrä tilapäisesti annettavaa vapautusta työstä.
-Luottamusmiestehtävien hoitamista varten annettavan säännölli- sesti toistuvan vapaan määrästä ja jakautumisesta pääluottamus- miehen ja luottamusmiesten kesken voidaan sopia paikallisesti työnantajan ja pääluottamusmiehen välillä. Jos luottamusmies on vapautettu säännöllisesti toistuviksi määräajoiksi työstään, tulee hänen hoitaa luottamusmiestehtävät ensisijaisesti sinä aikana.
-Ellei paikallisesti työnantajan ja pääluottamusmiehen välillä so- vita toisin, määräytyy vapautus työstä seuraavasti:
-A. Pääluottamusmiehen säännöllinen vapautus työstä
-Työehtosopimus
- Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä
- Säännöllisen vapautuksen määrä tunteina/4 viikkoa
-  10 - 20 - 50 -
-100 - 150 - 200 - 250 - 400 -
-19     5 49     17 99     36
-149     60 199     84 249     100 399         148
-kokonaan vapautettu
-  Yllä oleva pääluottamusmiehen työstä vapauttamisen määrää osoittava taulukko perustuu normaalipituiseen viikkotyöaikaan.
-171
 
-Työehtosopimus
+Lisäksi pääluottamusmies saa tiedot käytetyistä palkkaustavoista, työntekijöiden jakautumisesta eri työnvaativuusryhmiin ja palkan henkilökohtaisten osuuksien porrastuksesta porrastusryhmittäin.
+
+###### C. Työvoimatiedot
+Pääluottamusmiehellä on oikeus saada vuosineljänneksittäin tiedot yrityksen tai työpaikan täysin työkykyisten työntekijöiden, oppilaiden ja harjoittelijoiden ja mahdollisten osa-aikatyöntekijöiden (erikseen miesten ja naisten) lukumääristä sekä työvoiman jakaantumisesta vuorotyölajeittain. Työvoimaa koskevat tiedot annetaan kunkin vuosineljänneksen sellaiselta ajankohdalta tai ajanjaksolta, jonka voidaan katsoa kuvaavan vuosineljänneksen normaalia työvoimatilannetta.
+
+###### D. Hinnoitteluperusteet
+Pääluottamusmiehellä on oikeus perehtyä yrityksessä kulloinkin voimassa oleviin työn hinnoittelujärjestelmiin.
+
+###### E. Hätä- ja ylityöluettelo
+Pääluottamusmiehellä on sama oikeus kuin lain mukaan on työsuojeluvaltuutetulla perehtyä hätä- ja ylityöstä sekä niistä maksetusta korotetusta palkasta laadittuun luetteloon.
+
+###### F. Aliurakoitsijoista ilmoittaminen
+Pääluottamusmiehellä on oikeus saada tiedot toimialueellaan toimivista aliurakoitsijoista ja niiden palveluksessa työpaikalla olevasta työvoimasta.
+Pääluottamusmiehelle annetaan pyydettäessä myös edellä tarkoitettujen aliurakoitsijoiden pääluottamusmiestä ja työsuojeluvaltuutettua koskevat yhteystiedot, jos ne ovat yrityksen käytettävissä.
+
+###### G. Tietojen luottamuksellisuus
+Pääluottamusmiehen on pidettävä tehtävien hoitamista varten saamansa tiedot luottamuksellisina.
+
+##### 43.4.3 Vapautus työstä
+Luottamusmiehelle järjestetään säännöllistä tai tehtävien hoidon vaatima määrä tilapäisesti annettavaa vapautusta työstä.
+
+Luottamusmiestehtävien hoitamista varten annettavan säännöllisesti toistuvan vapaan määrästä ja jakautumisesta pääluottamusmiehen ja luottamusmiesten kesken voidaan sopia paikallisesti työnantajan ja pääluottamusmiehen välillä. Jos luottamusmies on vapautettu säännöllisesti toistuviksi määräajoiksi työstään, tulee hänen hoitaa luottamusmiestehtävät ensisijaisesti sinä aikana.
+
+Ellei paikallisesti työnantajan ja pääluottamusmiehen välillä sovita toisin, määräytyy vapautus työstä seuraavasti:
+
+###### A. Pääluottamusmiehen säännöllinen vapautus työstä
+Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 10-19: säännöllisen vapautuksen määrä tunteina/4 viikkoa: 5.
+Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 20-49: säännöllisen vapautuksen määrä tunteina/4 viikkoa: 17.
+Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 50-99: säännöllisen vapautuksen määrä tunteina/4 viikkoa: 36.
+Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 100-149: säännöllisen vapautuksen määrä tunteina/4 viikkoa: 60.
+Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 150-199: säännöllisen vapautuksen määrä tunteina/4 viikkoa: 84.
+Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 200-249: säännöllisen vapautuksen määrä tunteina/4 viikkoa: 100.
+Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 250-399: säännöllisen vapautuksen määrä tunteina/4 viikkoa: 148.
+Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 400 tai enemmän: säännöllisen vapautuksen määrä tunteina/4 viikkoa: kokonaan vapautettu.
+
+Yllä oleva pääluottamusmiehen työstä vapauttamisen määrää osoittava taulukko perustuu normaalipituiseen viikkotyöaikaan.
+
 B. Luottamusmiehen säännöllinen vapautus työstä
 Mikäli luottamusmiehen toimialueella työskentelee säännönmu- kaisesti vähintään 75 työntekijää, järjestetään hänelle vapautusta työstä. Vapautuksen määrä on sataa työntekijää kohti kahdeksan tuntia neljän viikon jaksossa.
 työntekijämäärä x 8 t = vapautus tunteina/4 viikon jakso 100
