@@ -2196,13 +2196,13 @@ Jos pääluottamusmies suorittaa työnantajan kanssa sovittuja tehtäviä sään
 
 ###### D. Kuukausikorvaus
 Pääluottamusmiehelle maksetaan ansionmenetyksen korvauksen lisäksi korvausta kuukausittain seuraavasti:
-Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. 43.4.3 kohta C) lukumäärä 10-19, korvaus työehtosopimuksen voimaan tullessa 79 euroa/kk ja 1.3.2022 alkaen 81 euroa/kk.
-Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. 43.4.3 kohta C) lukumäärä 20-49, korvaus työehtosopimuksen voimaan tullessa 87 euroa/kk ja 1.3.2022 alkaen 89 euroa/kk.
-Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. 43.4.3 kohta C) lukumäärä 50-99, korvaus työehtosopimuksen voimaan tullessa 112 euroa/kk ja 1.3.2022 alkaen 114 euroa/kk.
-Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. 43.4.3 kohta C) lukumäärä 150-199, korvaus työehtosopimuksen voimaan tullessa 135 euroa/kk ja 1.3.2022 alkaen 138 euroa/kk.
-Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. 43.4.3 kohta C) lukumäärä 200-249, korvaus työehtosopimuksen voimaan tullessa 158 euroa/kk ja 1.3.2022 alkaen 161 euroa/kk.
-Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. 43.4.3 kohta C) lukumäärä 250-399, korvaus työehtosopimuksen voimaan tullessa 185 euroa/kk ja 1.3.2022 alkaen 189 euroa/kk.
-Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. 43.4.3 kohta C) lukumäärä yli 400, korvaus työehtosopimuksen voimaan tullessa 221 euroa/kk ja 1.3.2022 alkaen 225 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 10-19, korvaus työehtosopimuksen voimaan tullessa on 79 euroa/kk ja 1.3.2022 alkaen 81 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 20-49, korvaus työehtosopimuksen voimaan tullessa on 87 euroa/kk ja 1.3.2022 alkaen 89 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 50-99, korvaus työehtosopimuksen voimaan tullessa on 112 euroa/kk ja 1.3.2022 alkaen 114 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 150-199, korvaus työehtosopimuksen voimaan tullessa on 135 euroa/kk ja 1.3.2022 alkaen 138 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 200-249, korvaus työehtosopimuksen voimaan tullessa on 158 euroa/kk ja 1.3.2022 alkaen 161 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 250-399, korvaus työehtosopimuksen voimaan tullessa on 185 euroa/kk ja 1.3.2022 alkaen 189 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on yli 400, korvaus työehtosopimuksen voimaan tullessa on 221 euroa/kk ja 1.3.2022 alkaen 225 euroa/kk.
 
 Työnantaja ja pääluottamusmies voivat sopia toisin pääluottamusmiehelle maksettavasta kuukausikorvauksesta.
 
