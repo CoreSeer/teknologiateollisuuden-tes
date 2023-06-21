@@ -377,27 +377,16 @@ Ohjetöiden vaativuudet määrittelee työpaikan olosuhteet ja työt tunteva ty�
 Muiden töiden vaativuuden määrittelee työnantaja vertailemalla niitä ohjetöihin.
 
 ###### Työkohtaiset tunti- ja kuukausipalkat
-Käytettäessä yhdeksää työnvaativuusryhmää työkohtaiset palkat ovat työehtosopimuksen voimaan tullessa eli 10.1.2022 alkaen seuraavat:
-Työnvaativuusryhmä 1: työkohtainen tuntipalkka 930 senttiä/tunti, työkohtainen kuukausipalkka 1621 euroa/kuukausi, palkkaryhmä C.
-Työnvaativuusryhmä 2: työkohtainen tuntipalkka 977 senttiä/tunti, työkohtainen kuukausipalkka 1702 euroa/kuukausi, palkkaryhmä C.
-Työnvaativuusryhmä 3: työkohtainen tuntipalkka 1025 senttiä/tunti, työkohtainen kuukausipalkka 1787 euroa/kuukausi, palkkaryhmä C.
-Työnvaativuusryhmä 4: työkohtainen tuntipalkka 1077 senttiä/tunti, työkohtainen kuukausipalkka 1877 euroa/kuukausi, palkkaryhmä B.
-Työnvaativuusryhmä 5: työkohtainen tuntipalkka 1130 senttiä/tunti, työkohtainen kuukausipalkka 1970 euroa/kuukausi, palkkaryhmä B.
-Työnvaativuusryhmä 6: työkohtainen tuntipalkka 1187 senttiä/tunti, työkohtainen kuukausipalkka 2069 euroa/kuukausi, palkkaryhmä B.
-Työnvaativuusryhmä 7: työkohtainen tuntipalkka 1246 senttiä/tunti, työkohtainen kuukausipalkka 2172 euroa/kuukausi, palkkaryhmä A.
-Työnvaativuusryhmä 8: työkohtainen tuntipalkka 1309 senttiä/tunti, työkohtainen kuukausipalkka 2281 euroa/kuukausi, palkkaryhmä A.
-Työnvaativuusryhmä 9: työkohtainen tuntipalkka 1309 senttiä/tunti, työkohtainen kuukausipalkka 2395 euroa/kuukausi, palkkaryhmä A.
-
 Käytettäessä yhdeksää työnvaativuusryhmää työkohtaiset palkat ovat 1.3.2022 alkaen seuraavat:
-Työnvaativuusryhmä 1: työkohtainen tuntipalkka 949 senttiä/tunti, työkohtainen kuukausipalkka 1654 euroa/kuukausi, palkkaryhmä C.
-Työnvaativuusryhmä 2: työkohtainen tuntipalkka 996 senttiä/tunti, työkohtainen kuukausipalkka 1737 euroa/kuukausi, palkkaryhmä C.
-Työnvaativuusryhmä 3: työkohtainen tuntipalkka 1046 senttiä/tunti, työkohtainen kuukausipalkka 1824 euroa/kuukausi, palkkaryhmä C.
-Työnvaativuusryhmä 4: työkohtainen tuntipalkka 1099 senttiä/tunti, työkohtainen kuukausipalkka 1915 euroa/kuukausi, palkkaryhmä B.
-Työnvaativuusryhmä 5: työkohtainen tuntipalkka 1154 senttiä/tunti, työkohtainen kuukausipalkka 2010 euroa/kuukausi, palkkaryhmä B.
-Työnvaativuusryhmä 6: työkohtainen tuntipalkka 1211 senttiä/tunti, työkohtainen kuukausipalkka 2111 euroa/kuukausi, palkkaryhmä B.
-Työnvaativuusryhmä 7: työkohtainen tuntipalkka 1272 senttiä/tunti, työkohtainen kuukausipalkka 2217 euroa/kuukausi, palkkaryhmä A.
-Työnvaativuusryhmä 8: työkohtainen tuntipalkka 1335 senttiä/tunti, työkohtainen kuukausipalkka 2327 euroa/kuukausi, palkkaryhmä A.
-Työnvaativuusryhmä 9: työkohtainen tuntipalkka 1402 senttiä/tunti, työkohtainen kuukausipalkka 2444 euroa/kuukausi, palkkaryhmä A.
+- Työnvaativuusryhmä 1: työkohtainen tuntipalkka 949 senttiä/tunti, työkohtainen kuukausipalkka 1654 euroa/kuukausi, palkkaryhmä C.
+- Työnvaativuusryhmä 2: työkohtainen tuntipalkka 996 senttiä/tunti, työkohtainen kuukausipalkka 1737 euroa/kuukausi, palkkaryhmä C.
+- Työnvaativuusryhmä 3: työkohtainen tuntipalkka 1046 senttiä/tunti, työkohtainen kuukausipalkka 1824 euroa/kuukausi, palkkaryhmä C.
+- Työnvaativuusryhmä 4: työkohtainen tuntipalkka 1099 senttiä/tunti, työkohtainen kuukausipalkka 1915 euroa/kuukausi, palkkaryhmä B.
+- Työnvaativuusryhmä 5: työkohtainen tuntipalkka 1154 senttiä/tunti, työkohtainen kuukausipalkka 2010 euroa/kuukausi, palkkaryhmä B.
+- Työnvaativuusryhmä 6: työkohtainen tuntipalkka 1211 senttiä/tunti, työkohtainen kuukausipalkka 2111 euroa/kuukausi, palkkaryhmä B.
+- Työnvaativuusryhmä 7: työkohtainen tuntipalkka 1272 senttiä/tunti, työkohtainen kuukausipalkka 2217 euroa/kuukausi, palkkaryhmä A.
+- Työnvaativuusryhmä 8: työkohtainen tuntipalkka 1335 senttiä/tunti, työkohtainen kuukausipalkka 2327 euroa/kuukausi, palkkaryhmä A.
+- Työnvaativuusryhmä 9: työkohtainen tuntipalkka 1402 senttiä/tunti, työkohtainen kuukausipalkka 2444 euroa/kuukausi, palkkaryhmä A.
 
 Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti palkankorotuksen ajankohdasta lukien.
 
@@ -413,11 +402,6 @@ II Työt, jotka edellyttävät normaalia ammattitaitoa ja melkoista vastuuta ty�
 III Työt, jotka edellyttävät monipuolista ja hyvää ammattitaitoa ja suurta vastuuta työn sujumisesta. Hyvää ammattitaitoa ja melkoista vastuuta edellyttävät työt vaikeahkoissa työolosuhteissa. Tähän ryhmään kuuluvat myös vaikeissa olosuhteissa tehtävät normaalia ammattitaitoa ja melkoista vastuuta edellyttävät työt.
 
 ###### Työkohtaiset tunti- ja kuukausipalkat
-Työkohtaiset palkat ovat työnvaativuusryhmittäin työehtosopimuksen voimaan tullessa eli 10.1.2022 alkaen seuraavat:
-Työnvaativuusryhmä I: työkohtainen tuntipalkka 930 senttiä/tunti, työkohtainen kuukausipalkka 1621 euroa/kuukausi, palkkaryhmä C. 
-Työnvaativuusryhmä II: työkohtainen tuntipalkka 1077 senttiä/tunti, työkohtainen kuukausipalkka 1877 euroa/kuukausi, palkkaryhmä B.
-Työnvaativuusryhmä III: työkohtainen tuntipalkka 1246 senttiä/tunti, työkohtainen kuukausipalkka 2172 euroa/kuukausi, palkkaryhmä A.  
-
 Työkohtaiset palkat ovat työnvaativuusryhmittäin 1.3.2022 alkaen seuraavat:
 Työnvaativuusryhmä I: työkohtainen tuntipalkka 949 senttiä/tunti, työkohtainen kuukausipalkka 1654 euroa/kuukausi, palkkaryhmä C. 
 Työnvaativuusryhmä II: työkohtainen tuntipalkka 1099 senttiä/tunti, työkohtainen kuukausipalkka 1915 euroa/kuukausi, palkkaryhmä B.
@@ -434,10 +418,6 @@ Paikallisesti voidaan sopia korkeammista työkohtaisista palkoista kuitenkin nii
 Työpaikan työt sijoitetaan paikallisesti sovitun työnvaativuuden määrittämistavan mukaisesti vaativuusryhmiin, joita on vähintään viisi.
 
 ###### Työkohtaiset tunti- ja kuukausipalkat
-Työkohtaiset palkat ovat työnvaativuusryhmissä työehtosopimuksen voimaan tullessa eli 10.1.2022 alkaen seuraavat:
-Työkohtaisen palkan alaraja on 930 senttiä/tunti ja kuukausipalkka 1621 euroa/kuukausi.
-Työkohtaisen palkan yläraja on 1374 senttiä/tunti ja kuukausipalkka 2395 euroa/kuukausi.
-
 Työkohtaiset palkat ovat työnvaativuusryhmissä 1.3.2022 alkaen seuraavat:
 Työkohtaisen palkan alaraja on 949 senttiä/tunti ja kuukausipalkka 1654 euroa/kuukausi.
 Työkohtaisen palkan yläraja on 1402 senttiä/tunti ja kuukausipalkka 2444 euroa/kuukausi.
@@ -478,17 +458,11 @@ Porrastusryhminä käytetään palkkaryhmiä. Palkkaryhmät määräytyvät työ
 #### 10.1 Alle 18-vuotiaat työntekijät, opiskelijat ja harjoittelijat
 Alle 18-vuotiaiden työntekijöiden palkat porrastetaan syntymävuoden perusteella. Työntekovuoden aikana 15 vuotta täyttävälle työntekijälle maksetaan portaan 1 mukaista palkkaa.
 
-Opiskelijoiden ja alle 18-vuotiaiden työntekijöiden tunti- ja kuukausipalkat ovat työehtosopimuksen voimaan tullessa eli 10.1.2022 alkaen seuraavat:
-Porras 1: 803 senttiä/tunti, 1400 euroa/kuukausi
-Porras 2: 844 senttiä/tunti, 1470 euroa/kuukausi
-Porras 3: 886 senttiä/tunti, 1544 euroa/kuukausi
-Porras 4: 930 senttiä/tunti, 1621 euroa/kuukausi
-
 Opiskelijoiden ja alle 18-vuotiaiden työntekijöiden tunti- ja kuukausipalkat ovat 1.3.2022 alkaen seuraavat:
-Porras 1: 820 senttiä/tunti, 1429 euroa/kuukausi
-Porras 2: 861 senttiä/tunti, 1500 euroa/kuukausi
-Porras 3: 904 senttiä/tunti, 1575 euroa/kuukausi
-Porras 4: 949 senttiä/tunti, 1654 euroa/kuukausi
+- Porras 1: 820 senttiä/tunti, 1429 euroa/kuukausi
+- Porras 2: 861 senttiä/tunti, 1500 euroa/kuukausi
+- Porras 3: 904 senttiä/tunti, 1575 euroa/kuukausi
+- Porras 4: 949 senttiä/tunti, 1654 euroa/kuukausi
 
 Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti palkankorotuksen ajankohdasta lukien.
 
@@ -609,17 +583,13 @@ Lisä on sopimuskauden alusta alkaen vähintään 56 senttiä tunnissa, ellei pa
 Lisä maksetaan vain niiltä tunneilta, jolloin tilapäistä poikkea- maa työolosuhteissa taikka poikkeuksellista haittaa tai hanka- luutta esiintyy.
 
 #### 14.2 Vuorotyölisät
-Varsinaisessa vuorotyössä maksetaan ilta- ja yövuoron tunneilta vuorotyölisää työehtosopimuksen voimaan tullessa eli 10.1.2022 alkaen seuraavasti:
-Vuorotyössä maksetaan vuorotyölisää iltavuorosta (esim. klo 14 - 22 väliltä) 123 senttiä/tunti.
-Vuorotyössä maksetaan vuorotyölisää yövuorosta (esim. klo 22 - 06 väliltä) 226 senttiä/tunti.
-
 Varsinaisessa vuorotyössä maksetaan ilta- ja yövuoron tunneilta vuorotyölisää 1.3.2022 alkaen seuraavasti:
 Vuorotyössä maksetaan vuorotyölisää iltavuorosta (esim. klo 14 - 22 väliltä) 125 senttiä/tunti.
 Vuorotyössä maksetaan vuorotyölisää yövuorosta (esim. klo 22 - 06 väliltä) 231 senttiä/tunti.
 
 Vuorotyölisä voidaan vuoroja kohti jakaa toisinkin, mutta vuorokautta kohti maksettavan lisän on yhteensä vastattava yllä mainittuja määriä.¨
 
-Keskeytymättömässä kolmivuorotyössä sekä jatkuvassa kaksi- tai yksivuorotyössä työskentelevälle työntekijälle maksetaan hänen kultakin lauantaityövuorokauden aikana tekemältään säännöllisen työajan tunnilta erillinen lauantailisä, jonka suuruus työehtosopimuksen voimaan tullessa eli 10.1.2022 alkaen on 226 senttiä/tunti. Lauantailisän suuruus 1.3.2022 alkaen on 231 senttiä/tunti.
+Keskeytymättömässä kolmivuorotyössä sekä jatkuvassa kaksi- tai yksivuorotyössä työskentelevälle työntekijälle maksetaan hänen kultakin lauantaityövuorokauden aikana tekemältään säännöllisen työajan tunnilta erillinen lauantailisä, jonka suuruus 1.3.2022 alkaen on 231 senttiä/tunti.
 
 #### 14.3 Ilta- ja yötyölisät
 Työstä, joka ei ole vuoro-, yli- eikä hätätyötä, maksetaan klo 18-23 välisenä aikana iltavuoron lisää vastaava korvaus.
@@ -1102,35 +1072,35 @@ Lomanmääräytymisvuoden keskituntiansion laskentaperusteena olevaan palkkasumm
 
 ###### A. Kertoimet
 Työntekijän vuosilomapalkka ja lomakorvaus saadaan kertomalla hänen lomanmääräytymisvuoden keskituntiansionsa lomapäivien lukumäärään perustuvalla kertoimella. Kertoimet ovat seuraavat:
-Lomapäivien lukumäärä 2, kerroin 16,0
-Lomapäivien lukumäärä 3, kerroin 23,5
-Lomapäivien lukumäärä 4, kerroin 31,0
-Lomapäivien lukumäärä 5, kerroin 37,8
-Lomapäivien lukumäärä 6, kerroin 44,5
-Lomapäivien lukumäärä 7, kerroin 51,1
-Lomapäivien lukumäärä 8, kerroin 57,6
-Lomapäivien lukumäärä 9, kerroin 64,8
-Lomapäivien lukumäärä 10, kerroin 72,0
-Lomapäivien lukumäärä 11, kerroin 79,2
-Lomapäivien lukumäärä 12, kerroin 86,4
-Lomapäivien lukumäärä 13, kerroin 94,0
-Lomapäivien lukumäärä 14, kerroin 101,6
-Lomapäivien lukumäärä 15, kerroin 108,8
-Lomapäivien lukumäärä 16, kerroin 116,0
-Lomapäivien lukumäärä 17, kerroin 123,6
-Lomapäivien lukumäärä 18, kerroin 131,2
-Lomapäivien lukumäärä 19, kerroin 138,8
-Lomapäivien lukumäärä 20, kerroin 146,4
-Lomapäivien lukumäärä 21, kerroin 154,4
-Lomapäivien lukumäärä 22, kerroin 162,4
-Lomapäivien lukumäärä 23, kerroin 170,0
-Lomapäivien lukumäärä 24, kerroin 177,6
-Lomapäivien lukumäärä 25, kerroin 185,2
-Lomapäivien lukumäärä 26, kerroin 192,8
-Lomapäivien lukumäärä 27, kerroin 200,0
-Lomapäivien lukumäärä 28, kerroin 207,2
-Lomapäivien lukumäärä 29, kerroin 214,8
-Lomapäivien lukumäärä 30, kerroin 222,4
+Jos lomapäivien lukumäärä on 2, kerroin on 16,0
+Jos lomapäivien lukumäärä on 3, kerroin on 23,5
+Jos lomapäivien lukumäärä on 4, kerroin on 31,0
+Jos lomapäivien lukumäärä on 5, kerroin on 37,8
+Jos lomapäivien lukumäärä on 6, kerroin on 44,5
+Jos lomapäivien lukumäärä on 7, kerroin on 51,1
+Jos lomapäivien lukumäärä on 8, kerroin on 57,6
+Jos lomapäivien lukumäärä on 9, kerroin on 64,8
+Jos lomapäivien lukumäärä on 10, kerroin on 72,0
+Jos lomapäivien lukumäärä on 11, kerroin on 79,2
+Jos lomapäivien lukumäärä on 12, kerroin on 86,4
+Jos lomapäivien lukumäärä on 13, kerroin on 94,0
+Jos lomapäivien lukumäärä on 14, kerroin on 101,6
+Jos lomapäivien lukumäärä on 15, kerroin on 108,8
+Jos lomapäivien lukumäärä on 16, kerroin on 116,0
+Jos lomapäivien lukumäärä on 17, kerroin on 123,6
+Jos lomapäivien lukumäärä on 18, kerroin on 131,2
+Jos lomapäivien lukumäärä on 19, kerroin on 138,8
+Jos lomapäivien lukumäärä on 20, kerroin on 146,4
+Jos lomapäivien lukumäärä on 21, kerroin on 154,4
+Jos lomapäivien lukumäärä on 22, kerroin on 162,4
+Jos lomapäivien lukumäärä on 23, kerroin on 170,0
+Jos lomapäivien lukumäärä on 24, kerroin on 177,6
+Jos lomapäivien lukumäärä on 25, kerroin on 185,2
+Jos lomapäivien lukumäärä on 26, kerroin on 192,8
+Jos lomapäivien lukumäärä on 27, kerroin on 200,0
+Jos lomapäivien lukumäärä on 28, kerroin on 207,2
+Jos lomapäivien lukumäärä on 29, kerroin on 214,8
+Jos lomapäivien lukumäärä on 30, kerroin on 222,4
 
 Jos lomapäivien lukumäärä on suurempi kuin 30, korotetaan kerrointa luvulla 7,2 lomapäivää kohden.
 
@@ -1442,14 +1412,14 @@ Työnantaja korvaa sen ansion, jonka työsuojeluyhteistoimintaan osallistuva hen
 
 Työsuojeluvaltuutetulle korvataan hänen työaikanaan suorittamiensa edellä tarkoitettujen työsuojelua koskevien tehtävien hoitamisesta aiheutuva ansionmenetys sekä lisäksi, ellei työnantajan ja työsuojeluvaltuutetun välillä ole sovittu toisin, kuukausittain korvausta seuraavasti:
 
-Työstä vapautuksen määrä tunteina/4 viikkoa 4-15 tuntia, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 79 euroa/kk, Korvaus 1.3.2022 alkaen 81 euroa/kk.
-Työstä vapautuksen määrä tunteina/4 viikkoa 16-33 tuntia, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 87 euroa/kk, Korvaus 1.3.2022 alkaen 89 euroa/kk.
-Työstä vapautuksen määrä tunteina/4 viikkoa 34-55 tuntia, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 94 euroa/kk, Korvaus 1.3.2022 alkaen 96 euroa/kk.
-Työstä vapautuksen määrä tunteina/4 viikkoa 56-79 tuntia, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 112 euroa/kk, Korvaus 1.3.2022 alkaen 114 euroa/kk.
-Työstä vapautuksen määrä tunteina/4 viikkoa 80-95 tuntia, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 135 euroa/kk, Korvaus 1.3.2022 alkaen 138 euroa/kk.
-Työstä vapautuksen määrä tunteina/4 viikkoa 96-139 tuntia, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 158 euroa/kk, Korvaus 1.3.2022 alkaen 161 euroa/kk.
-Työstä vapautuksen määrä tunteina/4 viikkoa 140-159 tuntia, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 185 euroa/kk, Korvaus 1.3.2022 alkaen 189 euroa/kk.
-Työstä vapautuksen määrä tunteina/4 viikkoa 160 tuntia tai kokonaan vapautettu, Korvaus TES:n voimaan tullessa eli 10.1.2022 alkaen 221 euroa/kk, Korvaus 1.3.2022 alkaen 225 euroa/kk.
+Jos työstä vapautuksen määrä on 4-15 tuntia neljässä viikossa, on korvaus 81 euroa kuukaudessa.
+Jos työstä vapautuksen määrä on 16-33 tuntia neljässä viikossa, on korvaus 89 euroa kuukaudessa.
+Jos työstä vapautuksen määrä on 34-55 tuntia neljässä viikossa on korvaus 96 euroa kuukaudessa.
+Jos työstä vapautuksen määrä on 56-79 tuntia neljässä viikossa, on korvaus 114 euroa kuukaudessa.
+Jos työstä vapautuksen määrä on 80-95 tuntia neljässä viikossa, on korvaus 138 euroa kuukaudessa.
+Jos työstä vapautuksen määrä on 96-139 tuntia neljässä viikossa, on korvaus 161 euroa kuukaudessa.
+Jos työstä vapautuksen määrä on 140-159 tuntia neljässä viikossa, on korvaus 189 euroa kuukaudessa.
+Jos työstä vapautuksen määrä on 160 tuntia neljässä viikossa tai kokonaan vapautettu, on korvaus 225 euroa kuukaudessa.
 
 Jos työsuojeluvaltuutettu, työsuojeluasiamies tai työsuojelutoimikunnan tai muun työsuojelutoimikuntaa vastaavan yhteistoimintaelimen jäsen suorittaa työnantajan kanssa sovittuja tehtäviä säännöllisen työaikansa ulkopuolella, maksetaan näin menetetystä ajasta ylityölisä tai sovitaan hänen kanssaan muunlaisesta lisäkorvauksesta.
 Ansionmenetyksen korvauksen laskennassa käytetään keskituntiansiota.
@@ -1719,7 +1689,7 @@ Muita kuin lakisääteisiä lääkärintarkastuksia koskevat ansionmenetyksen ko
 ###### A. Perusedellytykset
 (koskevat kaikkia B-kohdan tapauksia 1 - 3)
 1. Kysymyksessä on oltava sairastumis- tai tapaturmatapaus, jossa on välttämätöntä päästä nopeasti lääkärintarkastukseen. Työntekijän on esitettävä lääkärintarkastuksesta työnantajan hyväksymä selvitys sekä työnantajan pyytäessä selvitys siitä, kuinka kauan lääkärintarkastus odotus- ja kohtuullisine matka-aikoineen kesti.
-2. Muissa kuin kohdassa 1. tarkoitetuissa sairastumis- tai tapaturmatapauksissa edellytetään, että työntekijä varaa vas- taanottoajan työaikana vain, jos se ei ole kohtuullisen ajan kuluessa saatavissa työajan ulkopuolella. Työntekijän on esitettävä luotettava selvitys siitä, ettei hän ole voinut saada vastaanottoa työajan ulkopuolella.
+2. Muissa kuin kohdassa 1. tarkoitetuissa sairastumis- tai tapaturmatapauksissa edellytetään, että työntekijä varaa vastaanottoajan työaikana vain, jos se ei ole kohtuullisen ajan kuluessa saatavissa työajan ulkopuolella. Työntekijän on esitettävä luotettava selvitys siitä, ettei hän ole voinut saada vastaanottoa työajan ulkopuolella.
 3. Työntekijän on ilmoitettava lääkäriin menostaan etukäteen työnantajalle. Jos ilmoitusta ei ylivoimaisen esteen takia voida etukäteen tehdä, on ilmoitus tehtävä välittömästi, kun se on mahdollista.
 4. Lääkärintarkastus on järjestettävä työajan tarpeetonta menetystä välttäen.
 5. Mikäli työntekijä saa lääkärintarkastuksen ajalta sairausajan palkkaa, ei korvausta ansion menetyksestä lääkärintarkastusta koskevien sopimusmääräysten nojalla suoriteta. Korvausta ei suoriteta myöskään sairausajan palkkamääräysten edellyttämänä karenssipäivänä suoritetun lääkärintarkastuksen ajalta.
@@ -2161,14 +2131,14 @@ Luottamusmiestehtävien hoitamista varten annettavan säännöllisesti toistuvan
 Ellei paikallisesti työnantajan ja pääluottamusmiehen välillä sovita toisin, määräytyy vapautus työstä seuraavasti:
 
 ###### A. Pääluottamusmiehen säännöllinen vapautus työstä
-Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 10-19: säännöllisen vapautuksen määrä tunteina/4 viikkoa: 5.
-Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 20-49: säännöllisen vapautuksen määrä tunteina/4 viikkoa: 17.
-Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 50-99: säännöllisen vapautuksen määrä tunteina/4 viikkoa: 36.
-Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 100-149: säännöllisen vapautuksen määrä tunteina/4 viikkoa: 60.
-Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 150-199: säännöllisen vapautuksen määrä tunteina/4 viikkoa: 84.
-Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 200-249: säännöllisen vapautuksen määrä tunteina/4 viikkoa: 100.
-Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 250-399: säännöllisen vapautuksen määrä tunteina/4 viikkoa: 148.
-Työpaikan työntekijöiden sekä vuokratyöntekijöiden (ks. kohta C) lukumäärä 400 tai enemmän: säännöllisen vapautuksen määrä tunteina/4 viikkoa: kokonaan vapautettu.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 10-19, on säännöllisen vapautuksen määrä 5 tuntia neljältä viikolta.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 20-49, on säännöllisen vapautuksen määrä 17 tuntia neljältä viikolta.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 50-99, on säännöllisen vapautuksen määrä 36 tuntia neljältä viikolta.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 100-149, on säännöllisen vapautuksen määrä 60 tuntia neljältä viikolta.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 150-199, on säännöllisen vapautuksen määrä 84 tuntia neljältä viikolta.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 200-249, on säännöllisen vapautuksen määrä 100 tuntia neljältä viikolta.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 250-399, on säännöllisen vapautuksen määrä 148 tuntia neljältä viikolta.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 400 tai enemmän, on pääluottamusmies kokonaan vapautettu muusta työstä.
 
 Yllä oleva pääluottamusmiehen työstä vapauttamisen määrää osoittava taulukko perustuu normaalipituiseen viikkotyöaikaan.
 
@@ -2196,13 +2166,13 @@ Jos pääluottamusmies suorittaa työnantajan kanssa sovittuja tehtäviä sään
 
 ###### D. Kuukausikorvaus
 Pääluottamusmiehelle maksetaan ansionmenetyksen korvauksen lisäksi korvausta kuukausittain seuraavasti:
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 10-19, korvaus työehtosopimuksen voimaan tullessa on 79 euroa/kk ja 1.3.2022 alkaen 81 euroa/kk.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 20-49, korvaus työehtosopimuksen voimaan tullessa on 87 euroa/kk ja 1.3.2022 alkaen 89 euroa/kk.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 50-99, korvaus työehtosopimuksen voimaan tullessa on 112 euroa/kk ja 1.3.2022 alkaen 114 euroa/kk.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 150-199, korvaus työehtosopimuksen voimaan tullessa on 135 euroa/kk ja 1.3.2022 alkaen 138 euroa/kk.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 200-249, korvaus työehtosopimuksen voimaan tullessa on 158 euroa/kk ja 1.3.2022 alkaen 161 euroa/kk.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 250-399, korvaus työehtosopimuksen voimaan tullessa on 185 euroa/kk ja 1.3.2022 alkaen 189 euroa/kk.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on yli 400, korvaus työehtosopimuksen voimaan tullessa on 221 euroa/kk ja 1.3.2022 alkaen 225 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 10-19, korvaus on 81 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 20-49, korvaus on 89 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 50-99, korvaus on 114 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 150-199, korvaus on 138 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 200-249, korvaus on 161 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 250-399, korvaus on 189 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on yli 400, korvaus on 225 euroa/kk.
 
 Työnantaja ja pääluottamusmies voivat sopia toisin pääluottamusmiehelle maksettavasta kuukausikorvauksesta.
 
