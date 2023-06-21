@@ -459,11 +459,12 @@ Porrastusryhminä käytetään palkkaryhmiä. Palkkaryhmät määräytyvät työ
 Alle 18-vuotiaiden työntekijöiden palkat porrastetaan syntymävuoden perusteella. Työntekovuoden aikana 15 vuotta täyttävälle työntekijälle maksetaan portaan 1 mukaista palkkaa.
 
 Opiskelijoiden ja alle 18-vuotiaiden työntekijöiden tunti- ja kuukausipalkat ovat 1.3.2022 alkaen seuraavat neliportaisen asteikon mukaan:
+```
 1. Porras 1: 820 senttiä/tunti, 1429 euroa/kuukausi
 2. Porras 2: 861 senttiä/tunti, 1500 euroa/kuukausi
 3. Porras 3: 904 senttiä/tunti, 1575 euroa/kuukausi
-4. Porras 4: 949 senttiä/tunti, 1654 euroa/kuukausi
-
+4. Porras 4: 949 senttiä/tunti, 1654 euroa/kuukausi.
+```
 Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti palkankorotuksen ajankohdasta lukien.
 
 Opiskelijoille maksetaan osaamisen, kokemuksen ja pätevyyden perusteella vähintään portaan 2 mukaista tunti- tai kuukausipalkkaa. Opiskelijoilla tarkoitetaan ammatillisesta koulutuksesta annetussa laissa tarkoitettuja oppisopimusopiskelijoita ja työsuhteessa olevia alan ammatillisten oppilaitosten opiskelijoita.
