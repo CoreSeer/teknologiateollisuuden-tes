@@ -378,15 +378,15 @@ Muiden töiden vaativuuden määrittelee työnantaja vertailemalla niitä ohjet�
 
 ###### Työkohtaiset tunti- ja kuukausipalkat
 Käytettäessä yhdeksää työnvaativuusryhmää työkohtaiset palkat ovat 1.3.2022 alkaen seuraavat:
-- Työnvaativuusryhmä 1: työkohtainen tuntipalkka 949 senttiä/tunti, työkohtainen kuukausipalkka 1654 euroa/kuukausi, palkkaryhmä C.
-- Työnvaativuusryhmä 2: työkohtainen tuntipalkka 996 senttiä/tunti, työkohtainen kuukausipalkka 1737 euroa/kuukausi, palkkaryhmä C.
-- Työnvaativuusryhmä 3: työkohtainen tuntipalkka 1046 senttiä/tunti, työkohtainen kuukausipalkka 1824 euroa/kuukausi, palkkaryhmä C.
-- Työnvaativuusryhmä 4: työkohtainen tuntipalkka 1099 senttiä/tunti, työkohtainen kuukausipalkka 1915 euroa/kuukausi, palkkaryhmä B.
-- Työnvaativuusryhmä 5: työkohtainen tuntipalkka 1154 senttiä/tunti, työkohtainen kuukausipalkka 2010 euroa/kuukausi, palkkaryhmä B.
-- Työnvaativuusryhmä 6: työkohtainen tuntipalkka 1211 senttiä/tunti, työkohtainen kuukausipalkka 2111 euroa/kuukausi, palkkaryhmä B.
-- Työnvaativuusryhmä 7: työkohtainen tuntipalkka 1272 senttiä/tunti, työkohtainen kuukausipalkka 2217 euroa/kuukausi, palkkaryhmä A.
-- Työnvaativuusryhmä 8: työkohtainen tuntipalkka 1335 senttiä/tunti, työkohtainen kuukausipalkka 2327 euroa/kuukausi, palkkaryhmä A.
-- Työnvaativuusryhmä 9: työkohtainen tuntipalkka 1402 senttiä/tunti, työkohtainen kuukausipalkka 2444 euroa/kuukausi, palkkaryhmä A.
+1. Työnvaativuusryhmä 1: työkohtainen tuntipalkka 949 senttiä/tunti, työkohtainen kuukausipalkka 1654 euroa/kuukausi, palkkaryhmä C.
+2. Työnvaativuusryhmä 2: työkohtainen tuntipalkka 996 senttiä/tunti, työkohtainen kuukausipalkka 1737 euroa/kuukausi, palkkaryhmä C.
+3. Työnvaativuusryhmä 3: työkohtainen tuntipalkka 1046 senttiä/tunti, työkohtainen kuukausipalkka 1824 euroa/kuukausi, palkkaryhmä C.
+4. Työnvaativuusryhmä 4: työkohtainen tuntipalkka 1099 senttiä/tunti, työkohtainen kuukausipalkka 1915 euroa/kuukausi, palkkaryhmä B.
+5. Työnvaativuusryhmä 5: työkohtainen tuntipalkka 1154 senttiä/tunti, työkohtainen kuukausipalkka 2010 euroa/kuukausi, palkkaryhmä B.
+6. Työnvaativuusryhmä 6: työkohtainen tuntipalkka 1211 senttiä/tunti, työkohtainen kuukausipalkka 2111 euroa/kuukausi, palkkaryhmä B.
+7. Työnvaativuusryhmä 7: työkohtainen tuntipalkka 1272 senttiä/tunti, työkohtainen kuukausipalkka 2217 euroa/kuukausi, palkkaryhmä A.
+8. Työnvaativuusryhmä 8: työkohtainen tuntipalkka 1335 senttiä/tunti, työkohtainen kuukausipalkka 2327 euroa/kuukausi, palkkaryhmä A.
+9. Työnvaativuusryhmä 9: työkohtainen tuntipalkka 1402 senttiä/tunti, työkohtainen kuukausipalkka 2444 euroa/kuukausi, palkkaryhmä A.
 
 Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti palkankorotuksen ajankohdasta lukien.
 
@@ -397,15 +397,15 @@ Karkearyhmittelyn käyttämisestä sovitaan paikallisesti.
 
 ###### Vaativuusryhmät
 Töille määritetään vaativuusryhmät seuraavien määritelmien perusteella:
-- I Työt, jotka edellyttävät lyhyehköä käytännön kokemusta, normaalia vastuuta ja jotka tehdään tavanmukaisissa työtiloissa.
-- II Työt, jotka edellyttävät normaalia ammattitaitoa ja melkoista vastuuta työn sujumisesta, sekä vaikeissa olosuhteissa tehtävät lyhyehköä kokemusta edellyttävät työt.
-- III Työt, jotka edellyttävät monipuolista ja hyvää ammattitaitoa ja suurta vastuuta työn sujumisesta. Hyvää ammattitaitoa ja melkoista vastuuta edellyttävät työt vaikeahkoissa työolosuhteissa. Tähän ryhmään kuuluvat myös vaikeissa olosuhteissa tehtävät normaalia ammattitaitoa ja melkoista vastuuta edellyttävät työt.
+1. I Työt, jotka edellyttävät lyhyehköä käytännön kokemusta, normaalia vastuuta ja jotka tehdään tavanmukaisissa työtiloissa.
+2. II Työt, jotka edellyttävät normaalia ammattitaitoa ja melkoista vastuuta työn sujumisesta, sekä vaikeissa olosuhteissa tehtävät lyhyehköä kokemusta edellyttävät työt.
+3. III Työt, jotka edellyttävät monipuolista ja hyvää ammattitaitoa ja suurta vastuuta työn sujumisesta. Hyvää ammattitaitoa ja melkoista vastuuta edellyttävät työt vaikeahkoissa työolosuhteissa. Tähän ryhmään kuuluvat myös vaikeissa olosuhteissa tehtävät normaalia ammattitaitoa ja melkoista vastuuta edellyttävät työt.
 
 ###### Työkohtaiset tunti- ja kuukausipalkat
 Työkohtaiset palkat ovat työnvaativuusryhmittäin 1.3.2022 alkaen seuraavat:
-Työnvaativuusryhmä I: työkohtainen tuntipalkka 949 senttiä/tunti, työkohtainen kuukausipalkka 1654 euroa/kuukausi, palkkaryhmä C. 
-Työnvaativuusryhmä II: työkohtainen tuntipalkka 1099 senttiä/tunti, työkohtainen kuukausipalkka 1915 euroa/kuukausi, palkkaryhmä B.
-Työnvaativuusryhmä III: työkohtainen tuntipalkka 1272 senttiä/tunti, työkohtainen kuukausipalkka 2217 euroa/kuukausi, palkkaryhmä A.
+1. Työnvaativuusryhmä I: työkohtainen tuntipalkka 949 senttiä/tunti, työkohtainen kuukausipalkka 1654 euroa/kuukausi, palkkaryhmä C. 
+2. Työnvaativuusryhmä II: työkohtainen tuntipalkka 1099 senttiä/tunti, työkohtainen kuukausipalkka 1915 euroa/kuukausi, palkkaryhmä B.
+3. Työnvaativuusryhmä III: työkohtainen tuntipalkka 1272 senttiä/tunti, työkohtainen kuukausipalkka 2217 euroa/kuukausi, palkkaryhmä A.
 
 Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti pal- kankorotuksen ajankohdasta lukien.
 
@@ -459,10 +459,10 @@ Porrastusryhminä käytetään palkkaryhmiä. Palkkaryhmät määräytyvät työ
 Alle 18-vuotiaiden työntekijöiden palkat porrastetaan syntymävuoden perusteella. Työntekovuoden aikana 15 vuotta täyttävälle työntekijälle maksetaan portaan 1 mukaista palkkaa.
 
 Opiskelijoiden ja alle 18-vuotiaiden työntekijöiden tunti- ja kuukausipalkat ovat 1.3.2022 alkaen seuraavat neliportaisen asteikon mukaan:
-- Porras 1: 820 senttiä/tunti, 1429 euroa/kuukausi
-- Porras 2: 861 senttiä/tunti, 1500 euroa/kuukausi
-- Porras 3: 904 senttiä/tunti, 1575 euroa/kuukausi
-- Porras 4: 949 senttiä/tunti, 1654 euroa/kuukausi
+1. Porras 1: 820 senttiä/tunti, 1429 euroa/kuukausi
+2. Porras 2: 861 senttiä/tunti, 1500 euroa/kuukausi
+3. Porras 3: 904 senttiä/tunti, 1575 euroa/kuukausi
+4. Porras 4: 949 senttiä/tunti, 1654 euroa/kuukausi
 
 Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti palkankorotuksen ajankohdasta lukien.
 
@@ -2131,14 +2131,14 @@ Luottamusmiestehtävien hoitamista varten annettavan säännöllisesti toistuvan
 Ellei paikallisesti työnantajan ja pääluottamusmiehen välillä sovita toisin, määräytyy vapautus työstä seuraavasti:
 
 ###### A. Pääluottamusmiehen säännöllinen vapautus työstä
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 10-19, on säännöllisen vapautuksen määrä 5 tuntia neljältä viikolta.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 20-49, on säännöllisen vapautuksen määrä 17 tuntia neljältä viikolta.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 50-99, on säännöllisen vapautuksen määrä 36 tuntia neljältä viikolta.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 100-149, on säännöllisen vapautuksen määrä 60 tuntia neljältä viikolta.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 150-199, on säännöllisen vapautuksen määrä 84 tuntia neljältä viikolta.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 200-249, on säännöllisen vapautuksen määrä 100 tuntia neljältä viikolta.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 250-399, on säännöllisen vapautuksen määrä 148 tuntia neljältä viikolta.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 400 tai enemmän, on pääluottamusmies kokonaan vapautettu muusta työstä.
+1. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 10-19, on säännöllisen vapautuksen määrä 5 tuntia neljältä viikolta.
+2. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 20-49, on säännöllisen vapautuksen määrä 17 tuntia neljältä viikolta.
+3. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 50-99, on säännöllisen vapautuksen määrä 36 tuntia neljältä viikolta.
+4. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 100-149, on säännöllisen vapautuksen määrä 60 tuntia neljältä viikolta.
+5. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 150-199, on säännöllisen vapautuksen määrä 84 tuntia neljältä viikolta.
+6. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 200-249, on säännöllisen vapautuksen määrä 100 tuntia neljältä viikolta.
+7. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 250-399, on säännöllisen vapautuksen määrä 148 tuntia neljältä viikolta.
+8. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 400 tai enemmän, on pääluottamusmies kokonaan vapautettu muusta työstä.
 
 Yllä oleva pääluottamusmiehen työstä vapauttamisen määrää osoittava taulukko perustuu normaalipituiseen viikkotyöaikaan.
 
@@ -2166,13 +2166,13 @@ Jos pääluottamusmies suorittaa työnantajan kanssa sovittuja tehtäviä sään
 
 ###### D. Kuukausikorvaus
 Pääluottamusmiehelle maksetaan ansionmenetyksen korvauksen lisäksi korvausta kuukausittain seuraavasti:
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 10-19, korvaus on 81 euroa/kk.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 20-49, korvaus on 89 euroa/kk.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 50-99, korvaus on 114 euroa/kk.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 150-199, korvaus on 138 euroa/kk.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 200-249, korvaus on 161 euroa/kk.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 250-399, korvaus on 189 euroa/kk.
-Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on yli 400, korvaus on 225 euroa/kk.
+1. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 10-19, korvaus on 81 euroa/kk.
+2. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 20-49, korvaus on 89 euroa/kk.
+3. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 50-99, korvaus on 114 euroa/kk.
+4. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 150-199, korvaus on 138 euroa/kk.
+5. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 200-249, korvaus on 161 euroa/kk.
+6. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 250-399, korvaus on 189 euroa/kk.
+7. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on yli 400, korvaus on 225 euroa/kk.
 
 Työnantaja ja pääluottamusmies voivat sopia toisin pääluottamusmiehelle maksettavasta kuukausikorvauksesta.
 
