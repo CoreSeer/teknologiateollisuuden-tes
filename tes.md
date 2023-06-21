@@ -456,14 +456,9 @@ Porrastusryhminä käytetään palkkaryhmiä. Palkkaryhmät määräytyvät työ
 ### 10 ALLE 18-VUOTIAAT TYÖNTEKIJÄT, OPISKELIJAT, HARJOITTELIJAT JA TYÖRAJOITTEISET
 
 #### 10.1 Alle 18-vuotiaat työntekijät, opiskelijat ja harjoittelijat
-Alle 18-vuotiaiden työntekijöiden palkat porrastetaan syntymävuoden perusteella. 
+14-17-vuotiaiden työntekijöiden palkat porrastetaan syntymävuoden perusteella. Työntekovuoden aikana 15 vuotta täyttävälle työntekijälle maksetaan portaan 1 mukaista palkkaa.
 
-Työntekovuoden aikana 15 vuotta täyttävälle työntekijälle maksetaan portaan 1 mukaista palkkaa.
-Työntekovuoden aikana 16 vuotta täyttävälle työntekijälle maksetaan portaan 2 mukaista palkkaa.
-Työntekovuoden aikana 17 vuotta täyttävälle työntekijälle maksetaan portaan 3 mukaista palkkaa.
-Työntekovuoden aikana 18 vuotta täyttävälle työntekijälle maksetaan portaan 4 mukaista palkkaa
-
-Opiskelijoiden ja alle 18-vuotiaiden työntekijöiden tunti- ja kuukausipalkat ovat 1.3.2022 alkaen seuraavat neliportaisen asteikon mukaan:
+Opiskelijoiden ja 14-17-vuotiaiden työntekijöiden tunti- ja kuukausipalkat ovat 1.3.2022 alkaen seuraavat neliportaisen asteikon mukaan:
 
 ```
 1. Porras 1: 820 senttiä/tunti, 1429 euroa/kuukausi
