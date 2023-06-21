@@ -397,9 +397,9 @@ Karkearyhmittelyn käyttämisestä sovitaan paikallisesti.
 
 ###### Vaativuusryhmät
 Töille määritetään vaativuusryhmät seuraavien määritelmien perusteella:
-I Työt, jotka edellyttävät lyhyehköä käytännön kokemusta, normaalia vastuuta ja jotka tehdään tavanmukaisissa työtiloissa.
-II Työt, jotka edellyttävät normaalia ammattitaitoa ja melkoista vastuuta työn sujumisesta, sekä vaikeissa olosuhteissa tehtävät lyhyehköä kokemusta edellyttävät työt.
-III Työt, jotka edellyttävät monipuolista ja hyvää ammattitaitoa ja suurta vastuuta työn sujumisesta. Hyvää ammattitaitoa ja melkoista vastuuta edellyttävät työt vaikeahkoissa työolosuhteissa. Tähän ryhmään kuuluvat myös vaikeissa olosuhteissa tehtävät normaalia ammattitaitoa ja melkoista vastuuta edellyttävät työt.
+- I Työt, jotka edellyttävät lyhyehköä käytännön kokemusta, normaalia vastuuta ja jotka tehdään tavanmukaisissa työtiloissa.
+- II Työt, jotka edellyttävät normaalia ammattitaitoa ja melkoista vastuuta työn sujumisesta, sekä vaikeissa olosuhteissa tehtävät lyhyehköä kokemusta edellyttävät työt.
+- III Työt, jotka edellyttävät monipuolista ja hyvää ammattitaitoa ja suurta vastuuta työn sujumisesta. Hyvää ammattitaitoa ja melkoista vastuuta edellyttävät työt vaikeahkoissa työolosuhteissa. Tähän ryhmään kuuluvat myös vaikeissa olosuhteissa tehtävät normaalia ammattitaitoa ja melkoista vastuuta edellyttävät työt.
 
 ###### Työkohtaiset tunti- ja kuukausipalkat
 Työkohtaiset palkat ovat työnvaativuusryhmittäin 1.3.2022 alkaen seuraavat:
