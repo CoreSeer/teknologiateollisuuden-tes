@@ -1102,7 +1102,6 @@ Jos lomapäivien lukumäärä on 27, kerroin on 200,0
 Jos lomapäivien lukumäärä on 28, kerroin on 207,2
 Jos lomapäivien lukumäärä on 29, kerroin on 214,8
 Jos lomapäivien lukumäärä on 30, kerroin on 222,4
-
 Jos lomapäivien lukumäärä on suurempi kuin 30, korotetaan kerrointa luvulla 7,2 lomapäivää kohden.
 
 ###### B. Osa-aikatyö
