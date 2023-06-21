@@ -2169,11 +2169,12 @@ Jos pääluottamusmies suorittaa työnantajan kanssa sovittuja tehtäviä sään
 Pääluottamusmiehelle maksetaan ansionmenetyksen korvauksen lisäksi korvausta kuukausittain seuraavasti:
 1. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 10-19, korvaus on 81 euroa/kk.
 2. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 20-49, korvaus on 89 euroa/kk.
-3. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 50-99, korvaus on 114 euroa/kk.
-4. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 150-199, korvaus on 138 euroa/kk.
-5. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 200-249, korvaus on 161 euroa/kk.
-6. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 250-399, korvaus on 189 euroa/kk.
-7. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on yli 400, korvaus on 225 euroa/kk.
+3. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 50-99, korvaus on 96 euroa/kk.
+4. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 100-149, korvaus on 114 euroa/kk.
+5. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 150-199, korvaus on 138 euroa/kk.
+6. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 200-249, korvaus on 161 euroa/kk.
+7. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 250-399, korvaus on 189 euroa/kk.
+8. Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on yli 400, korvaus on 225 euroa/kk.
 
 Työnantaja ja pääluottamusmies voivat sopia toisin pääluottamusmiehelle maksettavasta kuukausikorvauksesta.
 
