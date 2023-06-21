@@ -8,7 +8,7 @@ TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÄT
 # SISÄLLYSLUETTELO
 # TYÖEHTOSOPIMUKSEN ALLEKIRJOITUSPÖYTÄKIRJA 
 # TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÖIDEN TYÖEHTOSOPIMUS
-## I YLEISIÄ SOPIMUSMÄÄRÄYKSIÄ
+## LUKU 1: YLEISIÄ SOPIMUSMÄÄRÄYKSIÄ
 ### 1 SOPIMUKSEN SOVELTAMISALA
 ### 2 SOPIMUKSEN SITOVUUS JA NOUDATTAMISVELVOLLISUUS 
 ### 3 TYÖRAUHAVELVOITE 
@@ -17,7 +17,7 @@ TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÄT
 ### 5 PERUSOIKEUDET 
 ### 6 TYÖNJOHTO-OIKEUS
 ### 7 SOPIMUKSEN VOIMASSAOLO
-## II PALKKAUS 
+## LUKU 2: PALKKAUS 
 ### 8 TYÖNVAATIVUUS JA TYÖKOHTAINEN PALKANOSUUS 
 #### 8.1 Työnvaativuus
 #### 8.2 Työkohtainen palkanosuus
@@ -53,7 +53,7 @@ TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÄT
 #### 17.3 Osa-ajan palkka
 #### 17.4 Osa-aikatyö
 ### 18 PALKAN MAKSAMINEN
-## III TYÖAIKA JA VUOSILOMA
+## LUKU 3: TYÖAIKA JA VUOSILOMA
 ### 19 SÄÄNNÖLLINEN TYÖAIKA
 #### 19.1 Säännöllisen työajan pituus
 #### 19.2 Työajan tasaaminen päivä- ja kaksivuorotyössä
@@ -82,7 +82,7 @@ TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÄT
 #### 21.3 Kuukausipalkkaisen vuosilomapalkka ja lomakorvaus
 #### 21.4 Vuosilomapalkan maksaminen
 #### 21.5 Lomaraha
-## IV TYÖKOMENNUKSET JA KORVAUKSET
+## LUKU 4: TYÖKOMENNUKSET JA KORVAUKSET
 ### 22 TYÖSKENTELY VARSINAISEN TYÖPAIKAN ULKOPUOLELLA
 #### 22.1 Varsinaisen työpaikan määritelmä
 #### 22.2 Matkustamisvelvollisuus ja työkomennuksesta ilmoittaminen
@@ -97,7 +97,7 @@ TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÄT
 #### 23.1 Korvattavat arkipyhät
 #### 23.2 Arkipyhäkorvauksen maksamisen edellytykset
 #### 23.3 Muita korvauksia ja etuja
-## V TYÖTURVALLISUUS JA TYÖSUOJELU
+## LUKU 5: TYÖTURVALLISUUS JA TYÖSUOJELU
 ### 24 YLEISET TYÖTURVALLISUUSMÄÄRÄYKSET
 ### 25 HENKILÖNSUOJAIMET JA SUOJAVAATETUS
 ### 26 TYÖTERVEYSHUOLTO
@@ -119,7 +119,7 @@ TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÄT
 #### 30.4 Työsuojeluvaltuutetun ehdokas- ja jälkisuoja
 #### 30.5 Korvaukset
 #### 30.6 Varamiehet
-## VI SOSIAALISET MÄÄRÄYKSET
+## LUKU 6: SOSIAALISET MÄÄRÄYKSET
 ### 31 TYÖKYVYTTÖMYYS, ÄITIYS- JA ISYYSVAPAA SEKÄ TILAPÄINEN HOITOVAPAA
 #### 31.1 Työkyvyttömyys
 #### 31.2 Äitiys- ja isyysvapaa
@@ -130,7 +130,7 @@ TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÄT
 #### 32.2 Ansionmenetyksen korvaaminen muiden lääkärintarkastusten ajalta
 #### 32.3 Työhöntulotarkastus
 #### 32.4 Korvausperuste ja vähennykset
-## VII TYÖSOPIMUKSEN PÄÄTTÄMINEN JA TYÖNTEKIJÄN LOMAUTTAMINEN
+## LUKU 7: TYÖSOPIMUKSEN PÄÄTTÄMINEN JA TYÖNTEKIJÄN LOMAUTTAMINEN
 ### 33 SOVELTAMISALA
 ### 34 TYÖSOPIMUKSEN PÄÄTTÄMINEN JA TYÖNTEKIJÄN LOMAUTTAMINEN TYÖNTEKIJÄSTÄ JOHTUVASTA TAI HÄNEN HENKILÖÖNSÄ LIITTYVÄSTÄ SYYSTÄ
 #### 34.1 Lomauttaminen työntekijästä johtuvasta tai hänen henkilöönsä liittyvästä syystä
@@ -171,7 +171,7 @@ TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÄT
 #### 41.2 Yhden korvauksen periaate ja korvauksen suhde hyvityssakkoon
 #### 41.3 Menettelytapamääräysten rikkominen...............160
 ### 42 TOIMIVALTAINEN TUOMIOISTUIN JA KANNEAIKA
-## VIII LUOTTAMUSMIEHET, PAIKALLINEN SOPIMINEN JA ERIMIELISYYKSIEN RATKAISEMINEN
+## LUKU 8 LUOTTAMUSMIEHET, PAIKALLINEN SOPIMINEN JA ERIMIELISYYKSIEN RATKAISEMINEN
 ### 43 LUOTTAMUSMIEHET
 #### 43.1 Luottamusmiesjärjestelmän tarkoitus
 #### 43.2 Luottamusmiehen asema
@@ -192,7 +192,7 @@ TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÄT
 #### 45.2 Paikallinen neuvottelujärjestys
 #### 45.3 Liittojen myötävaikutus
 #### 45.4 Erimielisyysmuistio ja työtuomioistuin
-## IX ULKOPUOLISEN TYÖVOIMAN KÄYTTÖ JA MUITA ERINÄISIÄ MÄÄRÄYKSIÄ
+## LUKU 9: ULKOPUOLISEN TYÖVOIMAN KÄYTTÖ JA MUITA ERINÄISIÄ MÄÄRÄYKSIÄ
 ### 46 ULKOPUOLISEN TYÖVOIMAN KÄYTTÖ
 #### 46.1 Alihankinta
 #### 46.2 Vuokratyövoima
@@ -276,7 +276,7 @@ TEOLLISUUSLIITTO RY
 
 # TYÖEHTOSOPIMUS: TEKNOLOGIATEOLLISUUDEN TYÖNTEKIJÄT
 
-## I YLEISIÄ SOPIMUSMÄÄRÄYKSIÄ
+## LUKU 1: YLEISIÄ SOPIMUSMÄÄRÄYKSIÄ
 
 ### 1 SOPIMUKSEN SOVELTAMISALA
 Tämän työehtosopimuksen määräyksiä sovelletaan jäljempänä mainituin poikkeuksin Teknologiateollisuuden työnantajat ry:n jäsenyritysten ja niiden kaikkien työntekijöiden välisiin työsuhteisiin.
@@ -339,7 +339,7 @@ Työnantajalla on oikeus ottaa toimeen ja erottaa työntekijä sekä määrätä
 Tämä sopimus on voimassa 10.1.2022 alkaen 30.11.2023 saakka ja jatkuu senkin jälkeen vuoden kerrallaan, ellei sitä viimeistään kahta kuukautta ennen sen päättymistä ole kummaltakaan puolelta kirjallisesti irtisanottu.
 Työehtosopimus on irtisanottavissa päättymään 30.11.2022, jos osapuolet eivät pääse sopimukseen vuoden 2023 palkkaratkaisun perälaudan kustannusvaikutuksesta ja toteutustavasta.
 
-## II PALKKAUS
+## LUKU 2: PALKKAUS
 Tarkista voimassa olevat palkkataulukot liittojen kotisivuilta www.teknologiatyonantajat.fi ja www.teollisuusliitto.fi. Palkankorotusajankohdista ja -määräyksistä katso Allekirjoituspöytäkirja.
 Palkkausta koskevat määräykset perustuvat samapalkkaisuusperiaatteen toteuttamiseen. Tässä periaatteessa on kaksi osaa: Ensimmäinen samanpalkkaisuusperiaatteen osa on työnvaativuuden periaate eli vaativammasta työstä maksetaan enemmän palkkaa kuin vähemmän vaativasta työstä. Toinen samanpalkkaisuusperiaatteen osa on pätevyyden periaate eli paremmasta pätevyydestä maksetaan enemmän palkkaa kuin vähäisemmästä pätevyydestä.
 Samapalkkaisuusperiaatteen toteuttamiseksi työntekijän peruspalkassa (pp) on kaksi osuutta, joista työkohtaisen palkanosuuden (tko) määrää hänen tekemiensä töiden vaativuus ja henkilökohtaisen palkanosuuden (hko) hänen pätevyytensä.
@@ -702,7 +702,7 @@ Osa-aikaisella työntekijällä käytetään vakiotuntijakajan 169 asemesta jaka
 ### 18 PALKAN MAKSAMINEN
 Palkanmääritysjakson ollessa viikkoa lyhyempi, palkka on maksettava vähintään kaksi kertaa kuukaudessa, ellei ole paikallisesti sovittu palkan tai sen osan maksamisesta kerran kuukaudessa. Jos palkka on määritetty viikkoa tai sitä pidempää ajanjaksoa kohti, palkka on maksettava vähintään kerran kuukaudessa.
 
-## III TYÖAIKA JA VUOSILOMA
+## LUKU 3: TYÖAIKA JA VUOSILOMA
 Työaikaa koskevat määräykset sääntelevät säännöllisen työajan pituutta ja sen järjestämistä joko työnantajan työnjohto-oikeuteen perustuen tai paikallisesti sopien. Työajan tarkoituksenmukaisella sijoittamisella voidaan parantaa yritysten toimituskykyä, ottaa huomioon työntekijöiden työaikaan liittyvät tarpeet sekä saattaa työn kysyntä ja tarjonta kohtaamaan tehokkaasti.
 Työehtosopimuksen määrittämän säännöllisen työajan ylittyessä kyse voi olla joko lain mukaisesta ylityöstä tai TES-ylityöstä. Tällaisesta työstä maksetaan korotettua palkkaa.
 Vuosilomamääräykset käsittelevät vuosilomapalkkaa ja lomarahaa.
@@ -1147,7 +1147,7 @@ Vanhuus- tai työkyvyttömyyseläkkeelle siirtyvälle työntekijälle maksetaan 
 ##### 21.5.4 Ase- tai siviilipalvelusvelvollisuus
 Työntekijän astuessa vakinaiseen palvelukseen asevelvollisuuden suorittamiseksi maksetaan lomaraha siitä lomapalkasta ja lomakorvauksesta, johon hän on oikeutettu palvelukseen astuessaan. Samaa määräystä sovelletaan vastaavasti myös siviilipalvelusvelvolliseen.
 
-## IV TYÖKOMENNUKSET JA KORVAUKSET
+## LUKU 4: TYÖKOMENNUKSET JA KORVAUKSET
 Työkomennuksia koskevat määräykset säätelevät työkomennuksista aiheutuvien kustannusten korvaamista.
 
 Työntekijällä on tietyin jäljempänä määritellyin edellytyksin oikeus erinäisiin muihin korvauksiin ja etuihin, jotka liittyvät muun muassa arkipyhiin ja luvallisiin poissaoloihin.
@@ -1313,7 +1313,7 @@ Teollisuusliitto ry:n liittohallitukseen, liittovaltuustoon tai liittokokoukseen
 ##### 23.3.4 Ryhmähenkivakuutus
 Työnantaja toteuttaa kustannuksellaan työntekijöitä koskevan ryhmähenkivakuutuksen keskusjärjestöjen sopimuksen mukaan.
 
-## V TYÖTURVALLISUUS JA TYÖSUOJELU
+## LUKU 5: TYÖTURVALLISUUS JA TYÖSUOJELU
 Työturvallisuustoiminnan tarkoitus on huolehtia työntekijöiden turvallisuudesta ja terveydestä työssä.
 
 Työsuojelua koskevat määräykset käsittelevät työpaikan työsuojeluyhteistoiminnan järjestämistä.
@@ -1481,7 +1481,7 @@ Korvaus perusteettomasta lomautuksesta määräytyy työsopimuslain 12 luvun 1 �
 #### 30.6 Varamiehet
 Tämän kohdan määräyksiä sovelletaan työsuojeluvaltuutetun varamieheen sinä aikana, kun hän asianmukaisesti tehdyn ilmoituksen mukaisesti toimii sijaisena.
 
-## VI SOSIAALISET MÄÄRÄYKSET
+## LUKU 6: SOSIAALISET MÄÄRÄYKSET
 Työkyvyttömyyttä koskevat määräykset käsittelevät työnantajan ja työntekijän oikeuksia ja velvollisuuksia työntekijän sairaudesta tai tapaturmasta aiheutuvan poissaolon yhteydessä.
 
 Työnantajalla on tietyin edellytyksin velvollisuus maksaa äitiys- ja isyysvapaan sekä tilapäisen hoitovapaan ajalta palkkaa ja korvata ansionmenetys lääkärintarkastusten ajalta.
@@ -1726,7 +1726,7 @@ Edellä mainitut korvaukset ansion menetyksestä maksetaan tämän työehtosopim
 
 Ansion menetyksen korvauksesta toimitettava vähennys tehdään samalla tavoin kuin asiasta on sairausajan palkan osalta työehtosopimuksen kohdassa 31.4 sovittu.
 
-## VII TYÖSOPIMUKSEN PÄÄTTÄMINEN JA TYÖNTEKIJÄN LOMAUTTAMINEN
+## LUKU 7: TYÖSOPIMUKSEN PÄÄTTÄMINEN JA TYÖNTEKIJÄN LOMAUTTAMINEN
 Työsuhdeturvaa koskevat määräykset käsittelevät työnantajan oikeutta päättää työntekijän työsopimus tai lomauttaa hänet sekä näissä tapauksissa noudatettavia menettelytapoja. Työntekijällä on oikeus korvaukseen työsopimuksen perusteettomasta päättämisestä ja perusteettomasta lomauttamisesta johtuen.
 
 ### 33 SOVELTAMISALA
@@ -1973,7 +1973,7 @@ Jos työsopimuksen päättämistä tai työntekijän lomauttamista koskevissa ty
 
 Työsuhteen päättyessä oikeus työehtosopimuksen kohdan 41.1 mukaiseen korvaukseen raukeaa, jos kannetta ei nosteta kahden vuoden kuluessa siitä, kun työsuhde on päättynyt.
 
-## VIII LUOTTAMUSMIEHET, PAIKALLINEN SOPIMINEN JA ERIMIELISYYKSIEN RATKAISEMINEN
+## LUKU 8: LUOTTAMUSMIEHET, PAIKALLINEN SOPIMINEN JA ERIMIELISYYKSIEN RATKAISEMINEN
 Luottamusmiesjärjestelmä on osa yrityksen ja henkilöstön välistä yhteistoimintaa. Luottamusmies on työntekijöiden edunvalvoja työehtosopimuksen soveltamista ja erimielisyyksiä koskevissa kysymyksissä. Luottamusmies on ammattiosaston edustajana velvollinen ylläpitämään ja edistämään työrauhaa. Luottamusmiestehtävässä onnistuminen edellyttää työnantajan ja luottamusmiehen yhteistä myötävaikutusta.
 Yhteistoiminnalla ja paikallisella sopimisella sen osana vaikutetaan yrityksen tuottavuuden, kilpailukyvyn ja työllisyyden ylläpitoon ja kehittämiseen. Samalla syntyy edellytykset työhyvinvoinnin parantamiselle. Paikallinen sopiminen on ennen kaikkea toiminnan kehittämisen väline. Tarpeellisista keinoista sovitaan, kun tavoitteet on selvitetty.
 
@@ -2324,7 +2324,7 @@ Liittojen erimielisyysasiassa saavuttama yksimielinen kanta sitoo paikallisia os
 
 Tästä sopimuksesta aiheutuvat erimielisyydet, joista on neuvottelujärjestyksen mukaisesti neuvoteltu liittojen kesken pääsemättä yksimielisyyteen, voidaan alistaa työtuomioistuimen ratkaistavaksi.
 
-## IX ULKOPUOLISEN TYÖVOIMAN KÄYTTÖ JA MUITA ERINÄISIÄ MÄÄRÄYKSIÄ
+## LUKU 9: ULKOPUOLISEN TYÖVOIMAN KÄYTTÖ JA MUITA ERINÄISIÄ MÄÄRÄYKSIÄ
 Ulkopuolisella työvoimalla tarkoitetaan joko alihankintaa tai työvoiman vuokrausta.
 Työntekijöiden kokoontuminen työpaikalla on sallittua noudattaen sovittuja menettelytapoja.
 Koulutusta koskevat määräykset käsittelevät yhteistyötä ammatillista koulutusta, yhteistä koulutusta ja ay-koulutusta koskevissa järjestelyissä.
