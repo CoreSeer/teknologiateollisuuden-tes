@@ -464,6 +464,7 @@ Opiskelijoiden ja alle 18-vuotiaiden työntekijöiden tunti- ja kuukausipalkat o
 2. Porras 2: 861 senttiä/tunti, 1500 euroa/kuukausi
 3. Porras 3: 904 senttiä/tunti, 1575 euroa/kuukausi
 4. Porras 4: 949 senttiä/tunti, 1654 euroa/kuukausi.
+
 ```
 Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti palkankorotuksen ajankohdasta lukien.
 
